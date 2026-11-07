@@ -239,6 +239,10 @@ Taddi gradient. It reads on light, coloured and dark chat bubbles alike. Taddi u
 A message stores an emoji as a short code, `:face-tears-of-joy:`. Where the sticker cannot be shown, use the `unicode`
 field from `emoji.json` (😂), or the title.
 
+Taddi swaps emoji typed on a keyboard for their Taddicons match, so a thread looks the same throughout. `fromUnicode`
+in `emoji.json` maps each standard emoji (without U+FE0F) to the one Taddicons emoji that replaces it; `swap` describes
+the lookup (skin tones and gendered people fall back to the neutral form). Emoji with no match stay as typed.
+
 ## Style guide
 
 | | |
