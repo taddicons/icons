@@ -1,6 +1,15 @@
 <p align="center">
   <a href="https://taddicons.com">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/taddicons-logo-light.png">
+      <img src="assets/taddicons-logo.png" alt="Taddicons" width="560">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://taddicons.com">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
       <img src="assets/banner-light.svg" alt="Taddicons, the official Taddi icon set" width="100%">
     </picture>
@@ -1029,4 +1038,16 @@ Taddicons is released under the [MIT License](LICENSE). Use the icons in persona
 them and share them; keep the copyright notice with copies of the set. The Taddi name and logo are trademarks of Taddi
 and are not covered by this license.
 
-<p align="center"><sub>Made by <a href="https://taddi.app">Taddi</a>, one app to communicate online.</sub></p>
+---
+
+<p align="center">
+  <a href="https://taddi.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/taddi-logo-light.png">
+      <img src="assets/taddi-logo.png" alt="Taddi" height="32">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><sub>Made by <a href="https://taddi.app">Taddi</a>, one app to communicate online.<br>
+Copyright © 2026 Taddi. Taddicons is released under the <a href="LICENSE">MIT License</a>. Taddi is a product by <a href="https://avonao.com">Avonao</a>.</sub></p>
