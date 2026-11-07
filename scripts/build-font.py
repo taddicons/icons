@@ -115,8 +115,8 @@ def main():
         "designer": "Taddi",
         "description": "Taddicons, the official Taddi icon set: one outline icon for every kind of document.",
         "vendorURL": "https://taddi.app",
-        "designerURL": "https://icons.taddi.app",
-        "licenseDescription": "MIT License. https://github.com/official-taddi/icons/blob/main/LICENSE",
+        "designerURL": "https://taddicons.com",
+        "licenseDescription": "MIT License. https://github.com/taddicons/icons/blob/main/LICENSE",
         "licenseInfoURL": "https://opensource.org/license/mit",
     })
     fb.setupOS2(
@@ -150,7 +150,7 @@ def main():
 
 CSS_HEAD = """/*!
  * Taddicons {version} - The Official Taddi Icon Set
- * https://icons.taddi.app - https://github.com/official-taddi/icons
+ * https://taddicons.com - https://github.com/taddicons/icons
  * License: MIT
  */
 @font-face {{

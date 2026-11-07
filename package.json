@@ -4,12 +4,12 @@
   "description": "Taddicons, the official Taddi icon set: 400 outline icons for every kind of document, as SVG, sprite, webfont, PNG, WebP, AVIF and ICO.",
   "license": "MIT",
   "author": "Taddi (https://taddi.app)",
-  "homepage": "https://icons.taddi.app",
+  "homepage": "https://taddicons.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/official-taddi/icons.git"
+    "url": "git+https://github.com/taddicons/icons.git"
   },
-  "bugs": "https://github.com/official-taddi/icons/issues",
+  "bugs": "https://github.com/taddicons/icons/issues",
   "keywords": ["icons", "icon-set", "svg-icons", "icon-font", "webfont", "outline-icons", "documents", "letters", "cards", "taddi", "taddicons"],
   "private": true,
   "style": "font/taddicons.css",

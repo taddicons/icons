@@ -95,7 +95,7 @@ async function main() {
   for (const i of meta.icons) byCat.get(i.category).push(i);
   const sprite = [
     `<svg xmlns="http://www.w3.org/2000/svg" style="display:none">`,
-    `<!-- Taddicons ${meta.version} - The Official Taddi Icon Set - MIT - https://icons.taddi.app`,
+    `<!-- Taddicons ${meta.version} - The Official Taddi Icon Set - MIT - https://taddicons.com`,
     `     Use: <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"><use href="taddicons.svg#birthday-card"/></svg> -->`,
     ...meta.categories.flatMap((c) => [`<!-- ${c.title} (${byCat.get(c.id).length}) -->`, ...byCat.get(c.id).map((i) => `<symbol id="${i.name}" viewBox="0 0 24 24">${bodies.get(i.name)}</symbol>`)]),
     `</svg>`,

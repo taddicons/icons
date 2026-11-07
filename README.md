@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://icons.taddi.app">
+  <a href="https://taddicons.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
       <img src="assets/banner-light.svg" alt="Taddicons, the official Taddi icon set" width="100%">
@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-  <a href="https://icons.taddi.app"><img src="https://img.shields.io/badge/icons-400-f25e3a?style=flat-square" alt="400 icons"></a>
+  <a href="https://taddicons.com"><img src="https://img.shields.io/badge/icons-400-f25e3a?style=flat-square" alt="400 icons"></a>
   <a href="#formats"><img src="https://img.shields.io/badge/formats-SVG%20%C2%B7%20font%20%C2%B7%20PNG%20%C2%B7%20WebP%20%C2%B7%20AVIF%20%C2%B7%20ICO-444?style=flat-square" alt="Formats"></a>
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-444?style=flat-square" alt="Version 1.0.0"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-444?style=flat-square" alt="MIT License"></a>
 </p>
 
 <p align="center">
-  <a href="https://icons.taddi.app"><b>Website</b></a> ·
+  <a href="https://taddicons.com"><b>Website</b></a> ·
   <a href="#gallery">Gallery</a> ·
   <a href="#quick-start">Quick start</a> ·
   <a href="#formats">Formats</a> ·
@@ -86,7 +86,7 @@ One request for all 400 icons. Each icon is a `<symbol>` with the icon's name as
 ### Webfont
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/official-taddi/icons@1.0.0/font/taddicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/taddicons/icons@1.0.0/font/taddicons.min.css">
 
 <i class="ti ti-wedding-invitation"></i>
 <i class="ti ti-2x ti-gradient ti-thank-you-note"></i>
@@ -99,12 +99,12 @@ Ready-made files in two colourings, `gradient` (the lines in the Taddi gradient 
 (the official mark: the gradient icon on a light circle):
 
 ```html
-<img src="https://cdn.jsdelivr.net/gh/official-taddi/icons@1.0.0/webp/mark/128/moving-announcement.webp" width="64" height="64" alt="Moving announcement">
-<link rel="icon" href="https://cdn.jsdelivr.net/gh/official-taddi/icons@1.0.0/ico/travel-post.ico" sizes="any">
+<img src="https://cdn.jsdelivr.net/gh/taddicons/icons@1.0.0/webp/mark/128/moving-announcement.webp" width="64" height="64" alt="Moving announcement">
+<link rel="icon" href="https://cdn.jsdelivr.net/gh/taddicons/icons@1.0.0/ico/travel-post.ico" sizes="any">
 ```
 
 Every file in this repository is on the jsDelivr CDN at
-`https://cdn.jsdelivr.net/gh/official-taddi/icons@1.0.0/<path>`, for example `.../svg/outline/lease-agreement.svg`.
+`https://cdn.jsdelivr.net/gh/taddicons/icons@1.0.0/<path>`, for example `.../svg/outline/lease-agreement.svg`.
 
 ## Formats
 
@@ -203,7 +203,7 @@ export function Taddicon({ name, size = 24, label }) {
 **Install from GitHub**
 
 ```sh
-npm install github:official-taddi/icons
+npm install github:taddicons/icons
 ```
 
 ## Style guide
@@ -250,7 +250,7 @@ a name: `role="img"` and `aria-label="…"` on the `<svg>`, or `alt` on the `<im
 ## Gallery
 
 All 400 icons, as the official mark. Open [`gallery/index.html`](gallery/index.html) in a browser for the complete
-gallery at full size, or search and filter them all on [icons.taddi.app](https://icons.taddi.app).
+gallery at full size, or search and filter them all on [taddicons.com](https://taddicons.com).
 
 <!-- gallery:start -->
 ### Everyday messages
@@ -1020,7 +1020,7 @@ npm run build                                # font, images, then the README gal
 ## Contributing
 
 Found an icon that could read more clearly, or a kind of document that is missing? Open an
-[issue](https://github.com/official-taddi/icons/issues). New drawings follow the [style guide](#style-guide): the 24
+[issue](https://github.com/taddicons/icons/issues). New drawings follow the [style guide](#style-guide): the 24
 grid, the 1.35 line, round caps and joins, outline only, at most about six shapes, and readable at 16 px.
 
 ## License
