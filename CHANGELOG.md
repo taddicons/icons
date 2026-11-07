@@ -3,7 +3,7 @@
 All notable changes to Taddicons. The project follows [Semantic Versioning](https://semver.org): icon names and
 webfont code points never change within a major version.
 
-## Unreleased
+## 2.1.0 (2026-11-07)
 
 - Message emoji for every icon (founder, 7 November 2026: white sticker, Taddi gradient lines): `svg/emoji/<name>.svg`,
   `sprite/taddicons-emoji.svg`, PNG and WebP at 32, 64, 96 and 144 px in the release downloads, and `emoji.json` with

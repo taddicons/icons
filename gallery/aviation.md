@@ -1,6 +1,6 @@
 # Aviation & airports
 
-<sub>Taddicons 2.0.1 · World & nature · 29 icons</sub>
+<sub>Taddicons 2.1.0 · World & nature · 29 icons</sub>
 
 Flight decks, airports and air travel.
 

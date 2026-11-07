@@ -1,6 +1,6 @@
 # Charts & data
 
-<sub>Taddicons 2.0.1 · Interface · 99 icons</sub>
+<sub>Taddicons 2.1.0 · Interface · 99 icons</sub>
 
 Charts, dashboards, diagrams and analytics.
 

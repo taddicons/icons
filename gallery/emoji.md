@@ -1,6 +1,6 @@
 # Emoji & feelings
 
-<sub>Taddicons 2.0.1 · People & society · 89 icons</sub>
+<sub>Taddicons 2.1.0 · People & society · 89 icons</sub>
 
 Faces, moods and reactions.
 

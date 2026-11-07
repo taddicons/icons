@@ -1,6 +1,6 @@
 # Property & legal
 
-<sub>Taddicons 2.0.1 · Business & money · 25 icons</sub>
+<sub>Taddicons 2.1.0 · Business & money · 25 icons</sub>
 
 Homes for sale or rent, plans, contracts and courts.
 

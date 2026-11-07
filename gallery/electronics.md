@@ -1,6 +1,6 @@
 # Electronic components
 
-<sub>Taddicons 2.0.1 · Tools & trades · 62 icons</sub>
+<sub>Taddicons 2.1.0 · Tools & trades · 62 icons</sub>
 
 Parts, circuits, sensors, motors and logic.
 

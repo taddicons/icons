@@ -1,6 +1,6 @@
 # Food & drink
 
-<sub>Taddicons 2.0.1 · Everyday life & health · 200 icons</sub>
+<sub>Taddicons 2.1.0 · Everyday life & health · 200 icons</sub>
 
 Meals, drinks, fruit, vegetables and ingredients.
 

@@ -1,6 +1,6 @@
 # Baby & kids care
 
-<sub>Taddicons 2.0.1 · Everyday life & health · 25 icons</sub>
+<sub>Taddicons 2.1.0 · Everyday life & health · 25 icons</sub>
 
 Bottles, cribs, prams and everything for little ones.
 

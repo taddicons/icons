@@ -1,6 +1,6 @@
 # Faith & spirituality
 
-<sub>Taddicons 2.0.1 · People & society · 34 icons</sub>
+<sub>Taddicons 2.1.0 · People & society · 34 icons</sub>
 
 Symbols and places of faith, drawn with respect.
 

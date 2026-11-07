@@ -1,6 +1,6 @@
 # Gardening
 
-<sub>Taddicons 2.0.1 · World & nature · 31 icons</sub>
+<sub>Taddicons 2.1.0 · World & nature · 31 icons</sub>
 
 Garden tools, pots, beds and lawns.
 

@@ -1,6 +1,6 @@
 # Work and jobs
 
-<sub>Taddicons 2.0.1 · Documents & messages · 35 icons</sub>
+<sub>Taddicons 2.1.0 · Documents & messages · 35 icons</sub>
 
 Applications, requests and messages at work.
 

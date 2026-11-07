@@ -1,13 +1,13 @@
 /*!
- * Taddicons 2.0.1 - The Official Taddi Icon Set
+ * Taddicons 2.1.0 - The Official Taddi Icon Set
  * https://taddicons.com - https://github.com/taddicons/icons
  * License: MIT
  */
 @font-face {
   font-family: "Taddicons";
-  src: url("taddicons.woff2?v=2.0.1") format("woff2"),
-       url("taddicons.woff?v=2.0.1") format("woff"),
-       url("taddicons.ttf?v=2.0.1") format("truetype");
+  src: url("taddicons.woff2?v=2.1.0") format("woff2"),
+       url("taddicons.woff?v=2.1.0") format("woff"),
+       url("taddicons.ttf?v=2.1.0") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: block;

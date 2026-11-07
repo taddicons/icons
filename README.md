@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://taddicons.com"><img src="https://img.shields.io/badge/icons-5%2C840-f25e3a?style=flat-square" alt="5,840 icons"></a>
   <a href="#formats"><img src="https://img.shields.io/badge/formats-SVG%20%C2%B7%20font%20%C2%B7%20PNG%20%C2%B7%20WebP%20%C2%B7%20AVIF%20%C2%B7%20ICO-444?style=flat-square" alt="Formats"></a>
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-2.0.1-444?style=flat-square" alt="Version 2.0.1"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-2.1.0-444?style=flat-square" alt="Version 2.1.0"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-444?style=flat-square" alt="MIT License"></a>
 </p>
 
@@ -60,7 +60,7 @@ life people actually write about.
 - **Families you can read.** Cards are a card set down at a slight angle, invitations a card rising from an envelope,
   social posts a rounded square, and formal documents a page with a folded corner. The picture inside tells you the topic.
 - **Every format you need.** SVG files in three colourings, an SVG sprite, a webfont with CSS classes and ligatures, and
-  PNG, WebP, AVIF and ICO files in five sizes (in the [release downloads](https://github.com/taddicons/icons/releases/tag/v2.0.1)).
+  PNG, WebP, AVIF and ICO files in five sizes (in the [release downloads](https://github.com/taddicons/icons/releases/tag/v2.1.0)).
 - **Made to be found.** Every icon has a section, a category and search keywords in [`icons.json`](icons.json); the
   document icons also have a frequency tier, a document kind and the channels they are sent on.
 - **Free.** MIT licensed, for personal and commercial work.
@@ -99,7 +99,7 @@ One request for all <!-- count -->5,840<!-- /count --> icons. Each icon is a `<s
 ### Webfont
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/taddicons/icons@2.0.1/font/taddicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/taddicons/icons@2.1.0/font/taddicons.min.css">
 
 <i class="ti ti-wedding-invitation"></i>
 <i class="ti ti-2x ti-gradient ti-thank-you-note"></i>
@@ -112,14 +112,14 @@ The SVGs work as images anywhere, in two ready-made colourings besides the outli
 gradient on a transparent background) and `mark` (the official mark: the gradient icon on a light circle):
 
 ```html
-<img src="https://cdn.jsdelivr.net/gh/taddicons/icons@2.0.1/svg/mark/moving-announcement.svg" width="64" height="64" alt="Moving announcement">
+<img src="https://cdn.jsdelivr.net/gh/taddicons/icons@2.1.0/svg/mark/moving-announcement.svg" width="64" height="64" alt="Moving announcement">
 ```
 
-PNG, WebP and AVIF at 32 to 512 px and an ICO for every icon are in the [release downloads](https://github.com/taddicons/icons/releases/tag/v2.0.1), one ZIP per format,
+PNG, WebP and AVIF at 32 to 512 px and an ICO for every icon are in the [release downloads](https://github.com/taddicons/icons/releases/tag/v2.1.0), one ZIP per format,
 sorted as `<format>/<colouring>/<size>/<name>.<ext>`.
 
 Every file in this repository is on the jsDelivr CDN at
-`https://cdn.jsdelivr.net/gh/taddicons/icons@2.0.1/<path>`, for example `.../svg/outline/lease-agreement.svg`.
+`https://cdn.jsdelivr.net/gh/taddicons/icons@2.1.0/<path>`, for example `.../svg/outline/lease-agreement.svg`.
 
 ## Formats
 
@@ -130,15 +130,15 @@ Every file in this repository is on the jsDelivr CDN at
 | [`svg/mark`](svg/mark) | SVG | Gradient icon on the light circle | scalable, 40 px grid | Avatars, list markers, docs |
 | [`sprite`](sprite) | SVG sprite | from the page | scalable | Many icons on one page with one request |
 | [`font`](font) | WOFF2, WOFF, TTF, CSS, SCSS, JSON | text colour, or the gradient helpers | scalable | `<i class="ti ti-…">`, ligatures |
-| [Release](https://github.com/taddicons/icons/releases/tag/v2.0.1) `png` | PNG | `gradient`, `mark` | 32, 64, 128, 256, 512 | Email, documents, anything without SVG |
-| [Release](https://github.com/taddicons/icons/releases/tag/v2.0.1) `webp` | WebP (lossless) | `gradient`, `mark` | 32, 64, 128, 256, 512 | Small files for the web |
-| [Release](https://github.com/taddicons/icons/releases/tag/v2.0.1) `avif` | AVIF | `gradient`, `mark` | 32, 64, 128, 256, 512 | The smallest files for modern browsers |
-| [Release](https://github.com/taddicons/icons/releases/tag/v2.0.1) `ico` | ICO (PNG frames) | `mark` | 16, 24, 32, 48, 64, 128, 256 in one file | Favicons, Windows |
+| [Release](https://github.com/taddicons/icons/releases/tag/v2.1.0) `png` | PNG | `gradient`, `mark` | 32, 64, 128, 256, 512 | Email, documents, anything without SVG |
+| [Release](https://github.com/taddicons/icons/releases/tag/v2.1.0) `webp` | WebP (lossless) | `gradient`, `mark` | 32, 64, 128, 256, 512 | Small files for the web |
+| [Release](https://github.com/taddicons/icons/releases/tag/v2.1.0) `avif` | AVIF | `gradient`, `mark` | 32, 64, 128, 256, 512 | The smallest files for modern browsers |
+| [Release](https://github.com/taddicons/icons/releases/tag/v2.1.0) `ico` | ICO (PNG frames) | `mark` | 16, 24, 32, 48, 64, 128, 256 in one file | Favicons, Windows |
 | [`icons.json`](icons.json) | JSON | | | Names, titles, sections, categories, keywords, code points |
 | [`gallery`](gallery) | Markdown, HTML | | | One page per category, and the whole set on one searchable page |
 
 With <!-- count -->5,840<!-- /count --> icons the raster files (about a gigabyte) no longer live in the repository: each format is one ZIP in the
-[release downloads](https://github.com/taddicons/icons/releases/tag/v2.0.1), sorted as `<format>/<colouring>/<size>/<name>.<ext>`:
+[release downloads](https://github.com/taddicons/icons/releases/tag/v2.1.0), sorted as `<format>/<colouring>/<size>/<name>.<ext>`:
 
 ```
 taddicons/

@@ -1,6 +1,6 @@
 # Devices & hardware
 
-<sub>Taddicons 2.0.1 · Interface · 105 icons</sub>
+<sub>Taddicons 2.1.0 · Interface · 105 icons</sub>
 
 Computers, phones, peripherals, parts and power.
 

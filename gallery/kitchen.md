@@ -1,6 +1,6 @@
 # Kitchen & cooking
 
-<sub>Taddicons 2.0.1 · Everyday life & health · 80 icons</sub>
+<sub>Taddicons 2.1.0 · Everyday life & health · 80 icons</sub>
 
 Appliances, pans, utensils and baking.
 

@@ -1,6 +1,6 @@
 # Small business and side hustle
 
-<sub>Taddicons 2.0.1 · Documents & messages · 25 icons</sub>
+<sub>Taddicons 2.1.0 · Documents & messages · 25 icons</sub>
 
 Everything a small shop, freelancer or club treasurer sends to customers.
 

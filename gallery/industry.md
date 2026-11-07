@@ -1,6 +1,6 @@
 # Manufacturing & safety
 
-<sub>Taddicons 2.0.1 · Tools & trades · 29 icons</sub>
+<sub>Taddicons 2.1.0 · Tools & trades · 29 icons</sub>
 
 Machines, production and workplace safety.
 

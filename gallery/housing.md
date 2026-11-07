@@ -1,6 +1,6 @@
 # Home and renting
 
-<sub>Taddicons 2.0.1 · Documents & messages · 18 icons</sub>
+<sub>Taddicons 2.1.0 · Documents & messages · 18 icons</sub>
 
 Landlords, tenants, neighbours and moving.
 

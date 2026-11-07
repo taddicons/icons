@@ -1,6 +1,6 @@
 # Energy & environment
 
-<sub>Taddicons 2.0.1 · World & nature · 90 icons</sub>
+<sub>Taddicons 2.1.0 · World & nature · 90 icons</sub>
 
 Power, renewables, fuel, emissions and plants.
 

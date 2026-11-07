@@ -1,6 +1,6 @@
 # Clothing & fashion
 
-<sub>Taddicons 2.0.1 · Everyday life & health · 90 icons</sub>
+<sub>Taddicons 2.1.0 · Everyday life & health · 90 icons</sub>
 
 Clothes, shoes, accessories and care labels.
 

@@ -1,6 +1,6 @@
 # Letters to companies
 
-<sub>Taddicons 2.0.1 · Documents & messages · 32 icons</sub>
+<sub>Taddicons 2.1.0 · Documents & messages · 32 icons</sub>
 
 Complaints, refunds, cancellations and your consumer rights, done properly.
 
