@@ -113,7 +113,7 @@ def main():
         "copyright": "Copyright (c) 2026 Taddi",
         "manufacturer": "Taddi",
         "designer": "Taddi",
-        "description": "Taddicons, the official Taddi icon set: one outline icon for every kind of document.",
+        "description": "Taddicons, the official Taddi icon set: outline icons in one calm style.",
         "vendorURL": "https://taddi.app",
         "designerURL": "https://taddicons.com",
         "licenseDescription": "MIT License. https://github.com/taddicons/icons/blob/main/LICENSE",

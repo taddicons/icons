@@ -1,7 +1,7 @@
 {
   "name": "taddicons",
-  "version": "1.0.0",
-  "description": "Taddicons, the official Taddi icon set: 400 outline icons for every kind of document, as SVG, sprite, webfont, PNG, WebP, AVIF and ICO.",
+  "version": "2.0.0",
+  "description": "Taddicons, the official Taddi icon set: thousands of outline icons in one calm style, from interface symbols and every kind of document to specialist icons, as SVG, sprite, webfont, PNG, WebP, AVIF and ICO.",
   "license": "MIT",
   "author": "Taddi (https://taddi.app)",
   "homepage": "https://taddicons.com",
@@ -10,25 +10,40 @@
     "url": "git+https://github.com/taddicons/icons.git"
   },
   "bugs": "https://github.com/taddicons/icons/issues",
-  "keywords": ["icons", "icon-set", "svg-icons", "icon-font", "webfont", "outline-icons", "documents", "letters", "cards", "taddi", "taddicons"],
+  "keywords": [
+    "icons",
+    "icon-set",
+    "svg-icons",
+    "icon-font",
+    "webfont",
+    "outline-icons",
+    "line-icons",
+    "ui-icons",
+    "free-icons",
+    "documents",
+    "taddi",
+    "taddicons"
+  ],
   "private": true,
   "style": "font/taddicons.css",
-  "files": ["icons.json", "svg", "sprite", "font", "png", "webp", "avif", "ico", "LICENSE"],
+  "files": [
+    "icons.json",
+    "svg",
+    "sprite",
+    "font",
+    "LICENSE"
+  ],
   "exports": {
-    "./icons.json": "./icons.json",
     "./sprite/*": "./sprite/*",
     "./svg/*": "./svg/*",
-    "./font/*": "./font/*",
-    "./png/*": "./png/*",
-    "./webp/*": "./webp/*",
-    "./avif/*": "./avif/*",
-    "./ico/*": "./ico/*"
+    "./font/*": "./font/*"
   },
   "scripts": {
     "build": "npm run build:font && npm run build:images && npm run build:docs",
     "build:font": "python3 scripts/build-font.py",
     "build:images": "node scripts/build-images.mjs",
-    "build:docs": "node scripts/build-docs.mjs"
+    "build:docs": "node scripts/build-docs.mjs",
+    "release": "node scripts/package-release.mjs"
   },
   "devDependencies": {
     "sharp": "0.34.5"

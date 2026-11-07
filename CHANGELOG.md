@@ -3,6 +3,25 @@
 All notable changes to Taddicons. The project follows [Semantic Versioning](https://semver.org): icon names and
 webfont code points never change within a major version.
 
+## 2.0.0 (2026-11-07)
+
+Taddicons becomes a complete icon set: 5,840 outline icons in 79 categories and eight sections.
+
+- 5,440 new icons, drawn by hand in the same style as version 1: interface (arrows, controls, text, files,
+  communication, devices, connectivity, media, design, code, charts, security, time, shapes, maths), business (office,
+  commerce, finance, logistics, property), people (people, hands, accessibility, emoji, celebrations, faith, society),
+  everyday life (health, dental, veterinary, beauty, baby, household, kitchen, food, clothing, education), science and
+  leisure (science, the lab, sports, games, instruments, photography), the world (animals, nature, the outdoors,
+  gardening, farming, weather, energy, transport, aviation, maritime, maps, buildings) and making things (tools, the
+  trades, electronics, industry, crafts).
+- Every name and code point of version 1 is unchanged (`U+E001` to `U+E190`); the new icons follow from `U+E191`.
+- `icons.json` adds `sections`, and each category names its `section`. `tier`, `kind` and `channels` stay on the
+  document icons only.
+- The PNG, WebP, AVIF and ICO files moved out of the repository into the release downloads, one ZIP per format
+  (`npm run release`). The repository keeps the SVGs, the sprite, the webfont and the data.
+- The gallery is one Markdown page per category (`gallery/<category>.md`) and one searchable page,
+  `gallery/index.html`.
+
 ## 1.0.0 (2026-11-07)
 
 The first release.

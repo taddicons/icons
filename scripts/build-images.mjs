@@ -6,8 +6,10 @@
 //   png|webp|avif/<variant>/<size>/<name>.<ext>    variant gradient or mark, sizes 32 to 512 px
 //   ico/<name>.ico                  the mark at 16, 24, 32, 48, 64, 128 and 256 px (PNG frames)
 //
-// usage: npm install && npm run build:images
+// usage: npm install && npm run build:images [-- --missing] [name …]
+//   --missing   only the icons that have no png/mark/512 file yet (the vector files and the sprite are always rebuilt)
 import { mkdir, readFile, writeFile, readdir } from "node:fs/promises";
+import { existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import sharp from "sharp";
@@ -102,11 +104,17 @@ async function main() {
   ].join("\n");
   await writeFile(join(ROOT, "sprite/taddicons.svg"), sprite + "\n");
 
-  let done = 0;
-  await pool(icons, 6, async (icon) => {
+  for (const icon of icons) {
     const body = bodies.get(icon.name);
     await writeFile(join(ROOT, "svg/gradient", `${icon.name}.svg`), gradientSvg(icon.name, body) + "\n");
     await writeFile(join(ROOT, "svg/mark", `${icon.name}.svg`), markSvg(icon.name, body) + "\n");
+  }
+  const raster = process.argv.includes("--missing") ? icons.filter((i) => !existsSync(join(ROOT, "png/mark/512", `${i.name}.png`))) : icons;
+  console.log(`vectors: ${icons.length}; rasters to build: ${raster.length}`);
+
+  let done = 0;
+  await pool(raster, 8, async (icon) => {
+    const body = bodies.get(icon.name);
     for (const size of SIZES) {
       for (const variant of VARIANTS) {
         const svg = variant === "mark" ? markSvg(icon.name, body, size, size) : gradientSvg(icon.name, body, size, size);
@@ -119,10 +127,10 @@ async function main() {
     const frames = [];
     for (const size of ICO_SIZES) frames.push({ size, png: await render(markSvg(icon.name, body, size, size)).png({ compressionLevel: 9 }).toBuffer() });
     await writeFile(join(ROOT, "ico", `${icon.name}.ico`), ico(frames));
-    if (++done % 50 === 0) console.log(`${done}/${icons.length}`);
+    if (++done % 100 === 0) console.log(`${done}/${raster.length}`);
   });
   const count = (await readdir(join(ROOT, "png/mark/512"))).length;
-  console.log(`images: ${icons.length} icons built (${count} in png/mark/512)`);
+  console.log(`images: ${raster.length} icons rendered (${count} in png/mark/512)`);
 }
 
 await main();
