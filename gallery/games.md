@@ -1,6 +1,6 @@
 # Games & toys
 
-<sub>Taddicons 2.0.0 · Science, sport & play · 99 icons</sub>
+<sub>Taddicons 2.0.1 · Science, sport & play · 99 icons</sub>
 
 Consoles, cards, chess, toys and fantasy.
 

@@ -1,6 +1,6 @@
 # Invitations and events
 
-<sub>Taddicons 2.0.0 · Documents & messages · 32 icons</sub>
+<sub>Taddicons 2.0.1 · Documents & messages · 32 icons</sub>
 
 Designed invitations with their own RSVP page, plus every message around an event.
 

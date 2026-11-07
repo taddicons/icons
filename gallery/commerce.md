@@ -1,6 +1,6 @@
 # Shopping & commerce
 
-<sub>Taddicons 2.0.0 · Business & money · 107 icons</sub>
+<sub>Taddicons 2.0.1 · Business & money · 107 icons</sub>
 
 Carts, bags, stores, tags, coupons and orders.
 

@@ -1,6 +1,6 @@
 # Plumbing, electrical & HVAC
 
-<sub>Taddicons 2.0.0 · Tools & trades · 62 icons</sub>
+<sub>Taddicons 2.0.1 · Tools & trades · 62 icons</sub>
 
 Pipes, valves, wiring, breakers and climate.
 

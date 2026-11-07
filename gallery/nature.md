@@ -1,6 +1,6 @@
 # Nature
 
-<sub>Taddicons 2.0.0 · World & nature · 62 icons</sub>
+<sub>Taddicons 2.0.1 · World & nature · 62 icons</sub>
 
 Trees, flowers, plants, landscapes and water.
 

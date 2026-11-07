@@ -1,6 +1,6 @@
 # Arrows & directions
 
-<sub>Taddicons 2.0.0 · Interface · 189 icons</sub>
+<sub>Taddicons 2.0.1 · Interface · 189 icons</sub>
 
 Arrows, chevrons, turns, swaps and every way to point.
 

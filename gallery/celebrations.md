@@ -1,6 +1,6 @@
 # Holidays & celebrations
 
-<sub>Taddicons 2.0.0 · People & society · 67 icons</sub>
+<sub>Taddicons 2.0.1 · People & society · 67 icons</sub>
 
 Parties, gifts, seasons and festivities.
 

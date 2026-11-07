@@ -1,6 +1,6 @@
 # Accessibility
 
-<sub>Taddicons 2.0.0 · People & society · 47 icons</sub>
+<sub>Taddicons 2.0.1 · People & society · 47 icons</sub>
 
 Access, mobility, vision, hearing and assistance.
 

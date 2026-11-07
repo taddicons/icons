@@ -1,6 +1,6 @@
 # Animals
 
-<sub>Taddicons 2.0.0 · World & nature · 110 icons</sub>
+<sub>Taddicons 2.0.1 · World & nature · 110 icons</sub>
 
 Pets, farm animals, wildlife, birds, fish and insects.
 

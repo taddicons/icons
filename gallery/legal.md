@@ -1,6 +1,6 @@
 # Agreements and legal
 
-<sub>Taddicons 2.0.0 · Documents & messages · 19 icons</sub>
+<sub>Taddicons 2.0.1 · Documents & messages · 19 icons</sub>
 
 Simple agreements, consents and formal notices; complex matters go to a lawyer.
 

@@ -1,6 +1,6 @@
 # Medical & health
 
-<sub>Taddicons 2.0.0 · Everyday life & health · 176 icons</sub>
+<sub>Taddicons 2.0.1 · Everyday life & health · 176 icons</sub>
 
 Care, medicine, the body, tests and specialties.
 

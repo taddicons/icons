@@ -1,6 +1,6 @@
 # Time & calendar
 
-<sub>Taddicons 2.0.0 · Interface · 79 icons</sub>
+<sub>Taddicons 2.0.1 · Interface · 79 icons</sub>
 
 Clocks, timers, calendars and schedules.
 

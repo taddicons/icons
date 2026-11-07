@@ -1,6 +1,6 @@
 # Logistics & moving
 
-<sub>Taddicons 2.0.0 · Business & money · 66 icons</sub>
+<sub>Taddicons 2.0.1 · Business & money · 66 icons</sub>
 
 Boxes, pallets, warehouses, delivery and moving.
 

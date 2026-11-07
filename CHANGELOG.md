@@ -3,6 +3,16 @@
 All notable changes to Taddicons. The project follows [Semantic Versioning](https://semver.org): icon names and
 webfont code points never change within a major version.
 
+## 2.0.1 (2026-11-07)
+
+228 icons redrawn so they read more clearly at small sizes. Names and code points are unchanged.
+
+- Icons that looked too much like something else, were too busy at 16 px or left out a key detail were redrawn, across
+  every section. Examples: the NFC icon no longer resembles the NFC Forum mark, the refund icon stays inside the grid,
+  the file warning has its dot, and skip back 10 matches skip forward 10.
+- The orthodox cross now shows the lower bar raised on the viewer's left, the usual Russian Orthodox form.
+- The PNG, WebP, AVIF and ICO downloads are rebuilt with the new drawings.
+
 ## 2.0.0 (2026-11-07)
 
 Taddicons becomes a complete icon set: 5,840 outline icons in 79 categories and eight sections.

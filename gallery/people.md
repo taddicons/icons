@@ -1,6 +1,6 @@
 # People & users
 
-<sub>Taddicons 2.0.0 · People & society · 112 icons</sub>
+<sub>Taddicons 2.0.1 · People & society · 112 icons</sub>
 
 Users, groups, roles, figures and actions.
 

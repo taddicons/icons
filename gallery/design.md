@@ -1,6 +1,6 @@
 # Design & creative
 
-<sub>Taddicons 2.0.0 · Interface · 106 icons</sub>
+<sub>Taddicons 2.0.1 · Interface · 106 icons</sub>
 
 Drawing tools, layers, alignment, colour and shapes tools.
 

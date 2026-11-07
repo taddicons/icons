@@ -1,6 +1,6 @@
 # Dental care
 
-<sub>Taddicons 2.0.0 · Everyday life & health · 34 icons</sub>
+<sub>Taddicons 2.0.1 · Everyday life & health · 34 icons</sub>
 
 Teeth, treatments and the dentist's tools.
 

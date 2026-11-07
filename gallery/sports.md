@@ -1,6 +1,6 @@
 # Sports & fitness
 
-<sub>Taddicons 2.0.0 · Science, sport & play · 166 icons</sub>
+<sub>Taddicons 2.0.1 · Science, sport & play · 166 icons</sub>
 
 Balls, gear, gyms and athletes.
 

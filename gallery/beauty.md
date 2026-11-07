@@ -1,6 +1,6 @@
 # Beauty & wellness
 
-<sub>Taddicons 2.0.0 · Everyday life & health · 31 icons</sub>
+<sub>Taddicons 2.0.1 · Everyday life & health · 31 icons</sub>
 
 Salon, skin care, make-up and spa.
 
