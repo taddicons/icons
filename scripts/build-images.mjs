@@ -5,9 +5,15 @@
 //   svg/mark/<name>.svg             the official mark: the gradient icon on a light circle with a faint edge
 //   png|webp|avif/<variant>/<size>/<name>.<ext>    variant gradient or mark, sizes 32 to 512 px
 //   ico/<name>.ico                  the mark at 16, 24, 32, 48, 64, 128 and 256 px (PNG frames)
+//   svg/emoji/<name>.svg            the message emoji: a white sticker (the shape filled and edged in white) under the
+//                                   gradient lines, viewBox -3 -3 30 30, no shadow (the app adds its own)
+//   sprite/taddicons-emoji.svg      every emoji as a <symbol>, sharing one gradient (inline the sprite in the page)
+//   png|webp/emoji/<size>/<name>.<ext>   the emoji at 32, 64, 96 and 144 px with a soft shadow baked in
 //
-// usage: npm install && npm run build:images [-- --missing] [name …]
-//   --missing   only the icons that have no png/mark/512 file yet (the vector files and the sprite are always rebuilt)
+// usage: npm install && npm run build:images [-- --missing] [-- --emoji-only] [name …]
+//   --missing      only the icons that have no png/mark/512 or png/emoji/144 file yet (the vector files and the
+//                  sprites are always rebuilt)
+//   --emoji-only   render only the emoji rasters
 import { mkdir, readFile, writeFile, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -28,6 +34,12 @@ const STROKE = 1.35;
 const SIZES = [32, 64, 128, 256, 512];
 const ICO_SIZES = [16, 24, 32, 48, 64, 128, 256];
 const VARIANTS = ["gradient", "mark"];
+/** Message emoji (founder, 7 Nov 2026: white sticker, orange gradient lines). */
+const EMOJI_SIZES = [32, 64, 96, 144];
+const EMOJI_FORMATS = ["png", "webp"];
+const EMOJI_STROKE = 1.5;
+const EMOJI_EDGE = 5; // the white edge reaches 2.5 units past every line
+const WHITE = "#ffffff";
 const FORMATS = {
   png: (img) => img.png({ compressionLevel: 9, adaptiveFiltering: true }),
   webp: (img) => img.webp({ lossless: true, effort: 6 }),
@@ -53,6 +65,17 @@ function markSvg(name, body, px = 40, size = 40) {
   // A faint edge: 1 px up to 96 px, then growing gently (1/96 of the circle) so it stays faint on large files.
   const edge = Math.max(1, px / 96) * (40 / px);
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 40 40"><defs>${gradientDef(id, 10, 30)}</defs><circle cx="20" cy="20" r="${20 - edge / 2}" fill="${CIRCLE}" stroke="${EDGE}" stroke-width="${+edge.toFixed(3)}"/><g transform="translate(8 8)" ${lineAttrs(`url(#${id})`, strokeFor(px * 0.6))}>${body}</g></svg>`;
+}
+
+/** The message emoji: a 30 unit box (-3 to 27) around the 24 grid. The shape is filled white and edged with a 5 unit white
+ *  stroke, the gradient lines sit on top. `px` is the drawn size; `shadow` bakes in a soft shadow under the sticker. */
+function emojiSvg(name, body, px = 30, size = 30, shadow = false) {
+  const id = `te-g-${name}`, sid = `te-s-${name}`;
+  const lineW = Math.round(Math.max(EMOJI_STROKE, 30 / px) * 100) / 100;
+  const filter = shadow ? `<filter id="${sid}" x="-3" y="-3" width="30" height="30" filterUnits="userSpaceOnUse"><feGaussianBlur in="SourceAlpha" stdDeviation="0.55"/><feOffset dy="0.45" result="b"/><feFlood flood-color="#000" flood-opacity="0.24"/><feComposite in2="b" operator="in"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>` : "";
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="-3 -3 30 30"><defs>${gradientDef(id, 2, 22)}${filter}</defs>` +
+    `<g fill="${WHITE}" stroke="${WHITE}" stroke-width="${EMOJI_EDGE}" stroke-linecap="round" stroke-linejoin="round"${shadow ? ` filter="url(#${sid})"` : ""}>${body}</g>` +
+    `<g ${lineAttrs(`url(#${id})`, lineW)}>${body}</g></svg>`;
 }
 
 /** An .ico file holding PNG frames (Windows Vista and later, every current browser). */
@@ -85,8 +108,9 @@ async function pool(items, n, fn) {
 const render = (svg) => sharp(Buffer.from(svg), { density: 72 });
 
 async function main() {
-  const dirs = ["sprite", "svg/gradient", "svg/mark", "ico"];
+  const dirs = ["sprite", "svg/gradient", "svg/mark", "svg/emoji", "ico"];
   for (const f of Object.keys(FORMATS)) for (const v of VARIANTS) for (const s of SIZES) dirs.push(`${f}/${v}/${s}`);
+  for (const f of EMOJI_FORMATS) for (const s of EMOJI_SIZES) dirs.push(`${f}/emoji/${s}`);
   await Promise.all(dirs.map((d) => mkdir(join(ROOT, d), { recursive: true })));
 
   const bodies = new Map();
@@ -103,18 +127,35 @@ async function main() {
     `</svg>`,
   ].join("\n");
   await writeFile(join(ROOT, "sprite/taddicons.svg"), sprite + "\n");
+  const emojiSprite = [
+    `<svg xmlns="http://www.w3.org/2000/svg" style="display:none">`,
+    `<!-- Taddicons ${meta.version} message emoji - MIT - https://taddicons.com`,
+    `     Use: <svg width="28" height="28"><use href="#face-smile"/></svg> with this sprite inlined in the page. -->`,
+    `<defs>${gradientDef("te-g", 2, 22)}</defs>`,
+    ...meta.icons.map((i) => emojiSvg(i.name, bodies.get(i.name)).replace(/^<svg[^>]*><defs>.*?<\/defs>/, `<symbol id="${i.name}" viewBox="-3 -3 30 30">`).replace(`url(#te-g-${i.name})`, "url(#te-g)").replace(/<\/svg>$/, "</symbol>")),
+    `</svg>`,
+  ].join("\n");
+  await writeFile(join(ROOT, "sprite/taddicons-emoji.svg"), emojiSprite + "\n");
 
   for (const icon of icons) {
     const body = bodies.get(icon.name);
     await writeFile(join(ROOT, "svg/gradient", `${icon.name}.svg`), gradientSvg(icon.name, body) + "\n");
     await writeFile(join(ROOT, "svg/mark", `${icon.name}.svg`), markSvg(icon.name, body) + "\n");
+    await writeFile(join(ROOT, "svg/emoji", `${icon.name}.svg`), emojiSvg(icon.name, body) + "\n");
   }
-  const raster = process.argv.includes("--missing") ? icons.filter((i) => !existsSync(join(ROOT, "png/mark/512", `${i.name}.png`))) : icons;
+  const emojiOnly = process.argv.includes("--emoji-only");
+  const has = (i) => existsSync(join(ROOT, "png/emoji/144", `${i.name}.png`)) && (emojiOnly || existsSync(join(ROOT, "png/mark/512", `${i.name}.png`)));
+  const raster = process.argv.includes("--missing") ? icons.filter((i) => !has(i)) : icons;
   console.log(`vectors: ${icons.length}; rasters to build: ${raster.length}`);
 
   let done = 0;
   await pool(raster, 8, async (icon) => {
     const body = bodies.get(icon.name);
+    for (const size of EMOJI_SIZES) {
+      const base = await render(emojiSvg(icon.name, body, size, size, true)).png().toBuffer();
+      for (const ext of EMOJI_FORMATS) await FORMATS[ext](sharp(base)).toFile(join(ROOT, ext, "emoji", String(size), `${icon.name}.${ext}`));
+    }
+    if (emojiOnly) { if (++done % 100 === 0) console.log(`${done}/${raster.length}`); return; }
     for (const size of SIZES) {
       for (const variant of VARIANTS) {
         const svg = variant === "mark" ? markSvg(icon.name, body, size, size) : gradientSvg(icon.name, body, size, size);

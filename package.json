@@ -28,6 +28,7 @@
   "style": "font/taddicons.css",
   "files": [
     "icons.json",
+    "emoji.json",
     "svg",
     "sprite",
     "font",
@@ -39,9 +40,10 @@
     "./font/*": "./font/*"
   },
   "scripts": {
-    "build": "npm run build:font && npm run build:images && npm run build:docs",
+    "build": "npm run build:font && npm run build:images && npm run build:emoji && npm run build:docs",
     "build:font": "python3 scripts/build-font.py",
     "build:images": "node scripts/build-images.mjs",
+    "build:emoji": "node scripts/build-emoji.mjs",
     "build:docs": "node scripts/build-docs.mjs",
     "release": "node scripts/package-release.mjs"
   },

@@ -224,6 +224,21 @@ export function Taddicon({ name, size = 24, label }) {
 npm install github:taddicons/icons
 ```
 
+## Message emoji
+
+Every icon also comes as a message emoji: a white sticker (the shape filled and edged in white) with the lines in the
+Taddi gradient. It reads on light, coloured and dark chat bubbles alike. Taddi uses these in its messages.
+
+| File | What it is |
+|---|---|
+| `svg/emoji/<name>.svg` | One emoji, viewBox `-3 -3 30 30`, no shadow (add your own, for example a 0.5 px drop shadow) |
+| `sprite/taddicons-emoji.svg` | Every emoji as a `<symbol>`, sharing one gradient. Inline it in the page and use `<svg width="28" height="28"><use href="#face-smile"/></svg>` |
+| `emoji.json` | The picker groups (faces, hands, people, celebrations, food, animals, nature, travel, activities, objects, Taddi), and per emoji its title, keywords and the standard emoji it stands for when there is one |
+| Release `png` / `webp` `emoji/` | 32, 64, 96 and 144 px with a soft shadow, for notifications and emails |
+
+A message stores an emoji as a short code, `:face-tears-of-joy:`. Where the sticker cannot be shown, use the `unicode`
+field from `emoji.json` (😂), or the title.
+
 ## Style guide
 
 | | |
@@ -449,7 +464,8 @@ npm run release                              # the PNG, WebP, AVIF and ICO ZIPs 
 | Script | Makes |
 |---|---|
 | [`scripts/build-font.py`](scripts/build-font.py) | Turns every line into a filled outline, merges it into one glyph, and writes WOFF2, WOFF, TTF, the CSS, the SCSS map and the code point JSON |
-| [`scripts/build-images.mjs`](scripts/build-images.mjs) | The sprite, the gradient and mark SVGs, all PNG, WebP and AVIF sizes and the ICO files |
+| [`scripts/build-images.mjs`](scripts/build-images.mjs) | The sprites, the gradient, mark and emoji SVGs, all PNG, WebP and AVIF sizes and the ICO files |
+| [`scripts/build-emoji.mjs`](scripts/build-emoji.mjs) | `emoji.json`: the picker groups and each emoji's title, keywords and standard emoji (matches in `scripts/emoji-unicode.json`) |
 | [`scripts/build-docs.mjs`](scripts/build-docs.mjs) | The README banner and category tables, the gallery pages and `gallery/index.html`, and `font/demo.html` |
 | [`scripts/package-release.mjs`](scripts/package-release.mjs) | One ZIP per raster format for the GitHub release |
 
