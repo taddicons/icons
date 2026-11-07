@@ -1,0 +1,36 @@
+{
+  "name": "taddicons",
+  "version": "1.0.0",
+  "description": "Taddicons, the official Taddi icon set: 400 outline icons for every kind of document, as SVG, sprite, webfont, PNG, WebP, AVIF and ICO.",
+  "license": "MIT",
+  "author": "Taddi (https://taddi.app)",
+  "homepage": "https://icons.taddi.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/official-taddi/icons.git"
+  },
+  "bugs": "https://github.com/official-taddi/icons/issues",
+  "keywords": ["icons", "icon-set", "svg-icons", "icon-font", "webfont", "outline-icons", "documents", "letters", "cards", "taddi", "taddicons"],
+  "private": true,
+  "style": "font/taddicons.css",
+  "files": ["icons.json", "svg", "sprite", "font", "png", "webp", "avif", "ico", "LICENSE"],
+  "exports": {
+    "./icons.json": "./icons.json",
+    "./sprite/*": "./sprite/*",
+    "./svg/*": "./svg/*",
+    "./font/*": "./font/*",
+    "./png/*": "./png/*",
+    "./webp/*": "./webp/*",
+    "./avif/*": "./avif/*",
+    "./ico/*": "./ico/*"
+  },
+  "scripts": {
+    "build": "npm run build:font && npm run build:images && npm run build:docs",
+    "build:font": "python3 scripts/build-font.py",
+    "build:images": "node scripts/build-images.mjs",
+    "build:docs": "node scripts/build-docs.mjs"
+  },
+  "devDependencies": {
+    "sharp": "0.34.5"
+  }
+}

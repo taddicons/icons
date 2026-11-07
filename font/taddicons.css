@@ -1,0 +1,492 @@
+/*!
+ * Taddicons 1.0.0 - The Official Taddi Icon Set
+ * https://icons.taddi.app - https://github.com/official-taddi/icons
+ * License: MIT
+ */
+@font-face {
+  font-family: "Taddicons";
+  src: url("taddicons.woff2?v=1.0.0") format("woff2"),
+       url("taddicons.woff?v=1.0.0") format("woff"),
+       url("taddicons.ttf?v=1.0.0") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+/* Base: <i class="ti ti-birthday-card"></i> */
+.ti {
+  display: inline-block;
+  font-family: "Taddicons" !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  vertical-align: -0.125em;
+  speak: never;
+  font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Sizes */
+.ti-xs { font-size: .75em; }
+.ti-sm { font-size: .875em; }
+.ti-lg { font-size: 1.25em; }
+.ti-xl { font-size: 1.5em; }
+.ti-2x { font-size: 2em; }
+.ti-3x { font-size: 3em; }
+.ti-4x { font-size: 4em; }
+.ti-5x { font-size: 5em; }
+.ti-6x { font-size: 6em; }
+.ti-8x { font-size: 8em; }
+.ti-10x { font-size: 10em; }
+
+/* Fixed width, for lists and menus */
+.ti-fw { width: 1.25em; text-align: center; }
+
+/* Rotate and flip */
+.ti-rotate-90 { transform: rotate(90deg); }
+.ti-rotate-180 { transform: rotate(180deg); }
+.ti-rotate-270 { transform: rotate(270deg); }
+.ti-flip-h { transform: scaleX(-1); }
+.ti-flip-v { transform: scaleY(-1); }
+.ti-flip-both { transform: scale(-1, -1); }
+
+/* The Taddi button gradient on the icon's lines */
+.ti-gradient::before {
+  background-image: linear-gradient(to right, #f76845, #f25e3a);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* The official Taddi mark: the gradient icon on a light circle with a faint edge */
+.ti-mark {
+  display: inline-grid;
+  place-items: center;
+  width: 1.6667em;
+  height: 1.6667em;
+  border-radius: 50%;
+  background: #fafafa;
+  box-shadow: inset 0 0 0 1px #e4e4e4;
+  vertical-align: -.45em;
+}
+.ti-mark::before {
+  background-image: linear-gradient(to right, #f76845, #f25e3a);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Icons in a list: <ul class="ti-ul"><li><i class="ti ti-li ti-thank-you-note"></i> Thank you</li></ul> */
+.ti-ul { list-style: none; margin-left: 1.75em; padding-left: 0; }
+.ti-ul > li { position: relative; }
+.ti-li { position: absolute; left: -1.75em; width: 1.25em; text-align: center; line-height: inherit; }
+
+@media (forced-colors: active) {
+  .ti-gradient::before, .ti-mark::before { background: none; color: CanvasText; }
+  .ti-mark { background: Canvas; box-shadow: none; border: 1px solid CanvasText; }
+}
+
+/* Icons */
+.ti-information-request::before { content: "\e001"; }
+.ti-condolence-message::before { content: "\e002"; }
+.ti-follow-up-email::before { content: "\e003"; }
+.ti-formal-email::before { content: "\e004"; }
+.ti-say-no-politely::before { content: "\e005"; }
+.ti-favor-request::before { content: "\e006"; }
+.ti-reschedule-request::before { content: "\e007"; }
+.ti-appointment-cancellation::before { content: "\e008"; }
+.ti-check-in-message::before { content: "\e009"; }
+.ti-appointment-confirmation::before { content: "\e00a"; }
+.ti-congratulations-message::before { content: "\e00b"; }
+.ti-friendly-reminder::before { content: "\e00c"; }
+.ti-get-well-message::before { content: "\e00d"; }
+.ti-holiday-greetings-message::before { content: "\e00e"; }
+.ti-group-announcement::before { content: "\e00f"; }
+.ti-out-of-office::before { content: "\e010"; }
+.ti-quick-reply::before { content: "\e011"; }
+.ti-running-late::before { content: "\e012"; }
+.ti-short-apology::before { content: "\e013"; }
+.ti-thank-you-message::before { content: "\e014"; }
+.ti-introduction-email::before { content: "\e015"; }
+.ti-reconnect-message::before { content: "\e016"; }
+.ti-voice-message::before { content: "\e017"; }
+.ti-anniversary-card::before { content: "\e018"; }
+.ti-birthday-card::before { content: "\e019"; }
+.ti-christmas-card::before { content: "\e01a"; }
+.ti-fathers-day-card::before { content: "\e01b"; }
+.ti-mothers-day-card::before { content: "\e01c"; }
+.ti-sympathy-card::before { content: "\e01d"; }
+.ti-thank-you-card::before { content: "\e01e"; }
+.ti-congratulations-card::before { content: "\e01f"; }
+.ti-easter-card::before { content: "\e020"; }
+.ti-get-well-card::before { content: "\e021"; }
+.ti-just-because-card::before { content: "\e022"; }
+.ti-new-year-card::before { content: "\e023"; }
+.ti-valentines-card::before { content: "\e024"; }
+.ti-diwali-card::before { content: "\e025"; }
+.ti-eid-card::before { content: "\e026"; }
+.ti-engagement-card::before { content: "\e027"; }
+.ti-farewell-card::before { content: "\e028"; }
+.ti-graduation-card::before { content: "\e029"; }
+.ti-hanukkah-card::before { content: "\e02a"; }
+.ti-lunar-new-year-card::before { content: "\e02b"; }
+.ti-new-baby-card::before { content: "\e02c"; }
+.ti-new-home-card::before { content: "\e02d"; }
+.ti-retirement-card::before { content: "\e02e"; }
+.ti-teacher-thank-you-card::before { content: "\e02f"; }
+.ti-thanksgiving-card::before { content: "\e030"; }
+.ti-wedding-card::before { content: "\e031"; }
+.ti-baptism-card::before { content: "\e032"; }
+.ti-bar-bat-mitzvah-card::before { content: "\e033"; }
+.ti-pet-sympathy-card::before { content: "\e034"; }
+.ti-remembrance-card::before { content: "\e035"; }
+.ti-carer-thank-you-card::before { content: "\e036"; }
+.ti-birthday-party-invitation::before { content: "\e037"; }
+.ti-invitation::before { content: "\e038"; }
+.ti-kids-party-invitation::before { content: "\e039"; }
+.ti-save-the-date::before { content: "\e03a"; }
+.ti-wedding-invitation::before { content: "\e03b"; }
+.ti-event-cancellation::before { content: "\e03c"; }
+.ti-event-update::before { content: "\e03d"; }
+.ti-dinner-invitation::before { content: "\e03e"; }
+.ti-game-night-invitation::before { content: "\e03f"; }
+.ti-meeting-invitation::before { content: "\e040"; }
+.ti-playdate-invitation::before { content: "\e041"; }
+.ti-rsvp-reply::before { content: "\e042"; }
+.ti-anniversary-party-invitation::before { content: "\e043"; }
+.ti-baby-shower-invitation::before { content: "\e044"; }
+.ti-bachelor-party-invitation::before { content: "\e045"; }
+.ti-book-club-invitation::before { content: "\e046"; }
+.ti-bridal-shower-invitation::before { content: "\e047"; }
+.ti-engagement-party-invitation::before { content: "\e048"; }
+.ti-family-reunion-invitation::before { content: "\e049"; }
+.ti-farewell-party-invitation::before { content: "\e04a"; }
+.ti-fundraiser-invitation::before { content: "\e04b"; }
+.ti-graduation-party-invitation::before { content: "\e04c"; }
+.ti-holiday-party-invitation::before { content: "\e04d"; }
+.ti-housewarming-invitation::before { content: "\e04e"; }
+.ti-memorial-service-invitation::before { content: "\e04f"; }
+.ti-online-event-invitation::before { content: "\e050"; }
+.ti-retirement-party-invitation::before { content: "\e051"; }
+.ti-street-party-invitation::before { content: "\e052"; }
+.ti-surprise-party-invitation::before { content: "\e053"; }
+.ti-workshop-invitation::before { content: "\e054"; }
+.ti-class-reunion-invitation::before { content: "\e055"; }
+.ti-quinceanera-invitation::before { content: "\e056"; }
+.ti-lost-pet-post::before { content: "\e057"; }
+.ti-new-job-post::before { content: "\e058"; }
+.ti-open-to-work-post::before { content: "\e059"; }
+.ti-small-business-promo-post::before { content: "\e05a"; }
+.ti-recommendation-request-post::before { content: "\e05b"; }
+.ti-birthday-wish-post::before { content: "\e05c"; }
+.ti-holiday-greetings-post::before { content: "\e05d"; }
+.ti-life-update-post::before { content: "\e05e"; }
+.ti-photo-caption::before { content: "\e05f"; }
+.ti-local-business-shoutout::before { content: "\e060"; }
+.ti-thank-you-post::before { content: "\e061"; }
+.ti-travel-post::before { content: "\e062"; }
+.ti-baby-announcement-post::before { content: "\e063"; }
+.ti-volunteer-call-post::before { content: "\e064"; }
+.ti-community-event-post::before { content: "\e065"; }
+.ti-engagement-post::before { content: "\e066"; }
+.ti-event-promotion-post::before { content: "\e067"; }
+.ti-fundraiser-post::before { content: "\e068"; }
+.ti-graduation-post::before { content: "\e069"; }
+.ti-in-memoriam-post::before { content: "\e06a"; }
+.ti-milestone-post::before { content: "\e06b"; }
+.ti-product-launch-post::before { content: "\e06c"; }
+.ti-sale-post::before { content: "\e06d"; }
+.ti-hiring-post::before { content: "\e06e"; }
+.ti-moving-post::before { content: "\e06f"; }
+.ti-awareness-post::before { content: "\e070"; }
+.ti-apology::before { content: "\e071"; }
+.ti-best-man-speech::before { content: "\e072"; }
+.ti-birth-announcement::before { content: "\e073"; }
+.ti-condolence::before { content: "\e074"; }
+.ti-eulogy::before { content: "\e075"; }
+.ti-formal-letter::before { content: "\e076"; }
+.ti-funeral-notice::before { content: "\e077"; }
+.ti-maid-of-honor-speech::before { content: "\e078"; }
+.ti-obituary::before { content: "\e079"; }
+.ti-thank-you::before { content: "\e07a"; }
+.ti-wedding-speech::before { content: "\e07b"; }
+.ti-wedding-vows::before { content: "\e07c"; }
+.ti-new-pet-announcement::before { content: "\e07d"; }
+.ti-personal-letter::before { content: "\e07e"; }
+.ti-holiday-letter::before { content: "\e07f"; }
+.ti-father-of-the-bride-speech::before { content: "\e080"; }
+.ti-gratitude-letter::before { content: "\e081"; }
+.ti-love-letter::before { content: "\e082"; }
+.ti-memorial-tribute::before { content: "\e083"; }
+.ti-moving-announcement::before { content: "\e084"; }
+.ti-retirement-announcement::before { content: "\e085"; }
+.ti-retirement-speech::before { content: "\e086"; }
+.ti-toast::before { content: "\e087"; }
+.ti-wedding-announcement::before { content: "\e088"; }
+.ti-adoption-announcement::before { content: "\e089"; }
+.ti-breakup-letter::before { content: "\e08a"; }
+.ti-coming-out-letter::before { content: "\e08b"; }
+.ti-grief-letter::before { content: "\e08c"; }
+.ti-proposal-words::before { content: "\e08d"; }
+.ti-reconciliation-letter::before { content: "\e08e"; }
+.ti-babysitter-instructions::before { content: "\e08f"; }
+.ti-emergency-contact-sheet::before { content: "\e090"; }
+.ti-school-absence-note::before { content: "\e091"; }
+.ti-family-group-update::before { content: "\e092"; }
+.ti-holiday-plans-message::before { content: "\e093"; }
+.ti-note-to-teacher::before { content: "\e094"; }
+.ti-recipe::before { content: "\e095"; }
+.ti-thank-you-for-gift::before { content: "\e096"; }
+.ti-grandparent-update::before { content: "\e097"; }
+.ti-care-plan-for-parent::before { content: "\e098"; }
+.ti-caregiver-instructions::before { content: "\e099"; }
+.ti-family-newsletter::before { content: "\e09a"; }
+.ti-house-sitter-instructions::before { content: "\e09b"; }
+.ti-pet-sitter-instructions::before { content: "\e09c"; }
+.ti-family-history-story::before { content: "\e09d"; }
+.ti-legacy-letter::before { content: "\e09e"; }
+.ti-letter-to-santa::before { content: "\e09f"; }
+.ti-letter-to-my-child::before { content: "\e0a0"; }
+.ti-letter-to-future-self::before { content: "\e0a1"; }
+.ti-life-story::before { content: "\e0a2"; }
+.ti-data-deletion-request::before { content: "\e0a3"; }
+.ti-gym-cancellation::before { content: "\e0a4"; }
+.ti-contract-cancellation::before { content: "\e0a5"; }
+.ti-cancellation::before { content: "\e0a6"; }
+.ti-change-of-address::before { content: "\e0a7"; }
+.ti-complaint::before { content: "\e0a8"; }
+.ti-chargeback-dispute::before { content: "\e0a9"; }
+.ti-flight-compensation-claim::before { content: "\e0aa"; }
+.ti-refund-request::before { content: "\e0ab"; }
+.ti-fraud-report::before { content: "\e0ac"; }
+.ti-data-access-request::before { content: "\e0ad"; }
+.ti-return-request::before { content: "\e0ae"; }
+.ti-warranty-claim::before { content: "\e0af"; }
+.ti-quote-request::before { content: "\e0b0"; }
+.ti-delivery-complaint::before { content: "\e0b1"; }
+.ti-repair-request::before { content: "\e0b2"; }
+.ti-unsubscribe-request::before { content: "\e0b3"; }
+.ti-order-inquiry::before { content: "\e0b4"; }
+.ti-positive-review::before { content: "\e0b5"; }
+.ti-better-price-request::before { content: "\e0b6"; }
+.ti-insurance-cancellation::before { content: "\e0b7"; }
+.ti-contractor-complaint::before { content: "\e0b8"; }
+.ti-compliment-letter::before { content: "\e0b9"; }
+.ti-bank-fee-dispute::before { content: "\e0ba"; }
+.ti-billing-dispute::before { content: "\e0bb"; }
+.ti-complaint-escalation::before { content: "\e0bc"; }
+.ti-hotel-complaint::before { content: "\e0bd"; }
+.ti-lost-luggage-claim::before { content: "\e0be"; }
+.ti-negative-review::before { content: "\e0bf"; }
+.ti-accessibility-request::before { content: "\e0c0"; }
+.ti-identity-theft-report::before { content: "\e0c1"; }
+.ti-product-safety-report::before { content: "\e0c2"; }
+.ti-payment-plan-request::before { content: "\e0c3"; }
+.ti-hardship-letter::before { content: "\e0c4"; }
+.ti-insurance-claim::before { content: "\e0c5"; }
+.ti-invoice::before { content: "\e0c6"; }
+.ti-payment-reminder::before { content: "\e0c7"; }
+.ti-quote::before { content: "\e0c8"; }
+.ti-receipt::before { content: "\e0c9"; }
+.ti-repayment-reminder::before { content: "\e0ca"; }
+.ti-split-the-bill::before { content: "\e0cb"; }
+.ti-insurance-claim-appeal::before { content: "\e0cc"; }
+.ti-debt-validation-request::before { content: "\e0cd"; }
+.ti-donation-request::before { content: "\e0ce"; }
+.ti-sponsorship-request::before { content: "\e0cf"; }
+.ti-borrow-money-request::before { content: "\e0d0"; }
+.ti-fee-waiver-request::before { content: "\e0d1"; }
+.ti-crowdfunding-pitch::before { content: "\e0d2"; }
+.ti-debt-dispute::before { content: "\e0d3"; }
+.ti-personal-loan-agreement::before { content: "\e0d4"; }
+.ti-donation-thank-you::before { content: "\e0d5"; }
+.ti-deposit-return-request::before { content: "\e0d6"; }
+.ti-neighbour-noise-letter::before { content: "\e0d7"; }
+.ti-rental-application::before { content: "\e0d8"; }
+.ti-rental-contract::before { content: "\e0d9"; }
+.ti-repair-request-landlord::before { content: "\e0da"; }
+.ti-notice-to-vacate::before { content: "\e0db"; }
+.ti-viewing-request::before { content: "\e0dc"; }
+.ti-neighbour-introduction::before { content: "\e0dd"; }
+.ti-rent-reminder::before { content: "\e0de"; }
+.ti-landlord-reference-request::before { content: "\e0df"; }
+.ti-rent-reduction-request::before { content: "\e0e0"; }
+.ti-lease-renewal-request::before { content: "\e0e1"; }
+.ti-sublet-request::before { content: "\e0e2"; }
+.ti-hoa-letter::before { content: "\e0e3"; }
+.ti-move-in-report::before { content: "\e0e4"; }
+.ti-rent-increase-objection::before { content: "\e0e5"; }
+.ti-property-listing::before { content: "\e0e6"; }
+.ti-roommate-agreement::before { content: "\e0e7"; }
+.ti-job-offer-acceptance::before { content: "\e0e8"; }
+.ti-raise-request::before { content: "\e0e9"; }
+.ti-cover-letter::before { content: "\e0ea"; }
+.ti-job-application::before { content: "\e0eb"; }
+.ti-salary-negotiation::before { content: "\e0ec"; }
+.ti-networking-message::before { content: "\e0ed"; }
+.ti-profile-summary::before { content: "\e0ee"; }
+.ti-reference-letter::before { content: "\e0ef"; }
+.ti-resignation-letter::before { content: "\e0f0"; }
+.ti-resume::before { content: "\e0f1"; }
+.ti-sick-note-employer::before { content: "\e0f2"; }
+.ti-interview-thank-you::before { content: "\e0f3"; }
+.ti-vacation-request::before { content: "\e0f4"; }
+.ti-meeting-minutes::before { content: "\e0f5"; }
+.ti-memo::before { content: "\e0f6"; }
+.ti-team-update::before { content: "\e0f7"; }
+.ti-welcome-colleague::before { content: "\e0f8"; }
+.ti-informational-interview-request::before { content: "\e0f9"; }
+.ti-promotion-request::before { content: "\e0fa"; }
+.ti-reference-request::before { content: "\e0fb"; }
+.ti-remote-work-request::before { content: "\e0fc"; }
+.ti-hr-complaint::before { content: "\e0fd"; }
+.ti-job-offer-decline::before { content: "\e0fe"; }
+.ti-employment-termination::before { content: "\e0ff"; }
+.ti-faq::before { content: "\e100"; }
+.ti-farewell-email::before { content: "\e101"; }
+.ti-internship-application::before { content: "\e102"; }
+.ti-parental-leave-request::before { content: "\e103"; }
+.ti-policy::before { content: "\e104"; }
+.ti-proposal::before { content: "\e105"; }
+.ti-colleague-recommendation::before { content: "\e106"; }
+.ti-report::before { content: "\e107"; }
+.ti-short-bio::before { content: "\e108"; }
+.ti-sop::before { content: "\e109"; }
+.ti-volunteer-application::before { content: "\e10a"; }
+.ti-appointment-reminder::before { content: "\e10b"; }
+.ti-review-request::before { content: "\e10c"; }
+.ti-order-confirmation::before { content: "\e10d"; }
+.ti-product-description::before { content: "\e10e"; }
+.ti-review-response::before { content: "\e10f"; }
+.ti-support-email::before { content: "\e110"; }
+.ti-blog-post::before { content: "\e111"; }
+.ti-holiday-closure-notice::before { content: "\e112"; }
+.ti-project-update::before { content: "\e113"; }
+.ti-customer-thank-you::before { content: "\e114"; }
+.ti-customer-welcome::before { content: "\e115"; }
+.ti-business-announcement::before { content: "\e116"; }
+.ti-client-onboarding::before { content: "\e117"; }
+.ti-final-payment-notice::before { content: "\e118"; }
+.ti-flyer::before { content: "\e119"; }
+.ti-estimate-follow-up::before { content: "\e11a"; }
+.ti-menu::before { content: "\e11b"; }
+.ti-newsletter::before { content: "\e11c"; }
+.ti-loyalty-offer::before { content: "\e11d"; }
+.ti-partnership-proposal::before { content: "\e11e"; }
+.ti-poster::before { content: "\e11f"; }
+.ti-press-release::before { content: "\e120"; }
+.ti-price-list::before { content: "\e121"; }
+.ti-sales-email::before { content: "\e122"; }
+.ti-gift-voucher::before { content: "\e123"; }
+.ti-marketplace-listing::before { content: "\e124"; }
+.ti-pickup-arrangement::before { content: "\e125"; }
+.ti-buyer-inquiry::before { content: "\e126"; }
+.ti-giveaway-post::before { content: "\e127"; }
+.ti-wanted-post::before { content: "\e128"; }
+.ti-offer-message::before { content: "\e129"; }
+.ti-seller-reply::before { content: "\e12a"; }
+.ti-bill-of-sale::before { content: "\e12b"; }
+.ti-car-sale-ad::before { content: "\e12c"; }
+.ti-yard-sale-flyer::before { content: "\e12d"; }
+.ti-extension-request::before { content: "\e12e"; }
+.ti-college-application-essay::before { content: "\e12f"; }
+.ti-email-to-professor::before { content: "\e130"; }
+.ti-scholarship-application::before { content: "\e131"; }
+.ti-teacher-meeting-request::before { content: "\e132"; }
+.ti-book-report::before { content: "\e133"; }
+.ti-tutoring-request::before { content: "\e134"; }
+.ti-class-parents-message::before { content: "\e135"; }
+.ti-summer-job-application::before { content: "\e136"; }
+.ti-recommendation-request-teacher::before { content: "\e137"; }
+.ti-school-complaint::before { content: "\e138"; }
+.ti-graduation-speech::before { content: "\e139"; }
+.ti-presentation-script::before { content: "\e13a"; }
+.ti-research-paper::before { content: "\e13b"; }
+.ti-school-essay::before { content: "\e13c"; }
+.ti-host-family-letter::before { content: "\e13d"; }
+.ti-thesis-chapter::before { content: "\e13e"; }
+.ti-medical-bill-dispute::before { content: "\e13f"; }
+.ti-medication-list::before { content: "\e140"; }
+.ti-medical-records-request::before { content: "\e141"; }
+.ti-symptom-summary::before { content: "\e142"; }
+.ti-doctor-appointment-request::before { content: "\e143"; }
+.ti-vet-appointment-request::before { content: "\e144"; }
+.ti-hospital-update::before { content: "\e145"; }
+.ti-caregiver-update::before { content: "\e146"; }
+.ti-disability-accommodation-request::before { content: "\e147"; }
+.ti-second-opinion-request::before { content: "\e148"; }
+.ti-preauthorization-request::before { content: "\e149"; }
+.ti-care-home-inquiry::before { content: "\e14a"; }
+.ti-therapist-inquiry::before { content: "\e14b"; }
+.ti-meal-train::before { content: "\e14c"; }
+.ti-pet-health-record::before { content: "\e14d"; }
+.ti-advance-directive::before { content: "\e14e"; }
+.ti-benefits-appeal::before { content: "\e14f"; }
+.ti-parking-ticket-appeal::before { content: "\e150"; }
+.ti-tax-office-letter::before { content: "\e151"; }
+.ti-letter-to-representative::before { content: "\e152"; }
+.ti-objection-to-decision::before { content: "\e153"; }
+.ti-visa-invitation-letter::before { content: "\e154"; }
+.ti-city-issue-report::before { content: "\e155"; }
+.ti-traffic-fine-appeal::before { content: "\e156"; }
+.ti-tax-payment-plan::before { content: "\e157"; }
+.ti-jury-duty-excuse::before { content: "\e158"; }
+.ti-benefits-application::before { content: "\e159"; }
+.ti-character-reference::before { content: "\e15a"; }
+.ti-foi-request::before { content: "\e15b"; }
+.ti-name-change-notice::before { content: "\e15c"; }
+.ti-authority-noise-complaint::before { content: "\e15d"; }
+.ti-permit-application::before { content: "\e15e"; }
+.ti-petition::before { content: "\e15f"; }
+.ti-visa-cover-letter::before { content: "\e160"; }
+.ti-public-comment::before { content: "\e161"; }
+.ti-demand-letter::before { content: "\e162"; }
+.ti-service-contract::before { content: "\e163"; }
+.ti-child-travel-consent::before { content: "\e164"; }
+.ti-cease-and-desist::before { content: "\e165"; }
+.ti-privacy-complaint::before { content: "\e166"; }
+.ti-nda::before { content: "\e167"; }
+.ti-consent-form::before { content: "\e168"; }
+.ti-takedown-request::before { content: "\e169"; }
+.ti-freelance-agreement::before { content: "\e16a"; }
+.ti-harassment-report::before { content: "\e16b"; }
+.ti-incident-report::before { content: "\e16c"; }
+.ti-breach-notice::before { content: "\e16d"; }
+.ti-power-of-attorney::before { content: "\e16e"; }
+.ti-settlement-offer::before { content: "\e16f"; }
+.ti-small-claims-statement::before { content: "\e170"; }
+.ti-witness-statement::before { content: "\e171"; }
+.ti-event-waiver::before { content: "\e172"; }
+.ti-will-wishes::before { content: "\e173"; }
+.ti-model-release::before { content: "\e174"; }
+.ti-fundraising-letter::before { content: "\e175"; }
+.ti-coach-to-parents::before { content: "\e176"; }
+.ti-lost-and-found-notice::before { content: "\e177"; }
+.ti-meeting-announcement::before { content: "\e178"; }
+.ti-team-schedule::before { content: "\e179"; }
+.ti-club-welcome::before { content: "\e17a"; }
+.ti-club-newsletter::before { content: "\e17b"; }
+.ti-community-survey::before { content: "\e17c"; }
+.ti-letter-to-the-editor::before { content: "\e17d"; }
+.ti-membership-renewal::before { content: "\e17e"; }
+.ti-neighbourhood-alert::before { content: "\e17f"; }
+.ti-sponsor-thank-you::before { content: "\e180"; }
+.ti-volunteer-thank-you::before { content: "\e181"; }
+.ti-volunteer-signup::before { content: "\e182"; }
+.ti-award-nomination::before { content: "\e183"; }
+.ti-parish-bulletin::before { content: "\e184"; }
+.ti-digital-postcard::before { content: "\e185"; }
+.ti-hotel-booking-request::before { content: "\e186"; }
+.ti-host-thank-you::before { content: "\e187"; }
+.ti-tour-inquiry::before { content: "\e188"; }
+.ti-travel-itinerary::before { content: "\e189"; }
+.ti-group-trip-plan::before { content: "\e18a"; }
+.ti-trip-invitation::before { content: "\e18b"; }
+.ti-rental-car-dispute::before { content: "\e18c"; }
+.ti-guest-review::before { content: "\e18d"; }
+.ti-hotel-special-request::before { content: "\e18e"; }
+.ti-house-swap-request::before { content: "\e18f"; }
+.ti-embassy-letter::before { content: "\e190"; }
