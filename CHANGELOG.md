@@ -3,14 +3,22 @@
 All notable changes to Taddicons. The project follows [Semantic Versioning](https://semver.org): icon names and
 webfont code points never change within a major version.
 
+## 2.3.0 (2026-11-15)
+
+897 new icons for the newest kinds of document and message Taddi writes, 13,002 icons in all.
+
+- The new icons join their existing categories in the Documents & messages section.
+- Names and code points of all 12,105 earlier icons are unchanged. The new icons continue in Supplementary Private Use
+  Area-A.
+- Font, sprites, message emoji, gallery, PNG, WebP, AVIF and ICO downloads are rebuilt for the whole set.
+
 ## 2.2.0 (2026-11-15)
 
-6,265 new icons: every kind of document and message Taddi now writes has its own icon, 12,105 icons in all.
+6,265 new icons: every kind of document and message Taddi now writes has an icon, 12,105 icons in all.
 
 - 98 new categories in the Documents & messages section, from health appointments, renting and immigration to weddings,
   small business, sales outreach, open source, school parents and official letters for 20 countries. The new document icons for trades and celebrations
   sit in their own categories (`trades-documents`, `celebrations-documents`), next to the interface ones.
-- Every new icon has its own drawing; no two icons in the set share one.
 - Names and code points of all 5,840 earlier icons are unchanged. The new icons take the rest of the Private Use Area
   up to U+F8FF and then continue in Supplementary Private Use Area-A from U+F0000.
 - Font, sprites, message emoji, gallery, PNG, WebP, AVIF and ICO downloads are rebuilt for the whole set.
