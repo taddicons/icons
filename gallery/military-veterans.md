@@ -1,0 +1,81 @@
+# Military and veterans
+
+<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+
+Letters and notes for deployed service members, their families and veterans, plus benefits, records, housing and remembrance.
+
+<table>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-deployed-partner.svg" width="44" height="44" alt="Letter to a deployed partner"><br><sub><b>Letter to a deployed partner</b></sub><br><sub><code>letter-to-deployed-partner</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-deployed-service-member.svg" width="44" height="44" alt="Letter to a service member away from home"><br><sub><b>Letter to a service member away from home</b></sub><br><sub><code>letter-to-deployed-service-member</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/child-letter-to-deployed-parent.svg" width="44" height="44" alt="Child's letter to a parent away on duty"><br><sub><b>Child's letter to a parent away on duty</b></sub><br><sub><code>child-letter-to-deployed-parent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/care-package-note.svg" width="44" height="44" alt="Note to put in a care package"><br><sub><b>Note to put in a care package</b></sub><br><sub><code>care-package-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/care-package-address-request.svg" width="44" height="44" alt="Ask for a mailing address to send a care package"><br><sub><b>Ask for a mailing address to send a care package</b></sub><br><sub><code>care-package-address-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-a-service-member.svg" width="44" height="44" alt="Thank a service member"><br><sub><b>Thank a service member</b></sub><br><sub><code>thank-a-service-member</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/veterans-day-thanks-post.svg" width="44" height="44" alt="Post to thank veterans"><br><sub><b>Post to thank veterans</b></sub><br><sub><code>veterans-day-thanks-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/veteran-benefits-claim-letter.svg" width="44" height="44" alt="Letter to claim veteran benefits"><br><sub><b>Letter to claim veteran benefits</b></sub><br><sub><code>veteran-benefits-claim-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/veteran-claim-status-email.svg" width="44" height="44" alt="Ask for an update on a benefits claim"><br><sub><b>Ask for an update on a benefits claim</b></sub><br><sub><code>veteran-claim-status-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/military-service-records-request.svg" width="44" height="44" alt="Request your military service records"><br><sub><b>Request your military service records</b></sub><br><sub><code>military-service-records-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/replacement-discharge-papers-request.svg" width="44" height="44" alt="Ask for replacement discharge papers"><br><sub><b>Ask for replacement discharge papers</b></sub><br><sub><code>replacement-discharge-papers-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/unit-reunion-invitation.svg" width="44" height="44" alt="Invite old comrades to a reunion"><br><sub><b>Invite old comrades to a reunion</b></sub><br><sub><code>unit-reunion-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/old-comrade-reunion-message.svg" width="44" height="44" alt="Reach out to a former comrade"><br><sub><b>Reach out to a former comrade</b></sub><br><sub><code>old-comrade-reunion-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/military-spouse-support-message.svg" width="44" height="44" alt="Support for a military spouse"><br><sub><b>Support for a military spouse</b></sub><br><sub><code>military-spouse-support-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/military-family-help-offer.svg" width="44" height="44" alt="Offer to help a military family"><br><sub><b>Offer to help a military family</b></sub><br><sub><code>military-family-help-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-home-card.svg" width="44" height="44" alt="Welcome home card for a service member"><br><sub><b>Welcome home card for a service member</b></sub><br><sub><code>welcome-home-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/homecoming-celebration-invitation.svg" width="44" height="44" alt="Invite people to a homecoming"><br><sub><b>Invite people to a homecoming</b></sub><br><sub><code>homecoming-celebration-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/service-skills-for-civilian-work.svg" width="44" height="44" alt="Turn your service into civilian job skills"><br><sub><b>Turn your service into civilian job skills</b></sub><br><sub><code>service-skills-for-civilian-work</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/veteran-job-cover-letter.svg" width="44" height="44" alt="Cover letter for a veteran applying for a job"><br><sub><b>Cover letter for a veteran applying for a job</b></sub><br><sub><code>veteran-job-cover-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/commander-reference-request.svg" width="44" height="44" alt="Ask a former commander for a reference"><br><sub><b>Ask a former commander for a reference</b></sub><br><sub><code>commander-reference-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fallen-service-member-condolence.svg" width="44" height="44" alt="Condolence letter after a service member dies"><br><sub><b>Condolence letter after a service member dies</b></sub><br><sub><code>fallen-service-member-condolence</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/veteran-memorial-tribute.svg" width="44" height="44" alt="Tribute to a veteran at a memorial"><br><sub><b>Tribute to a veteran at a memorial</b></sub><br><sub><code>veteran-memorial-tribute</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/base-housing-repair-request.svg" width="44" height="44" alt="Ask for a repair in military housing"><br><sub><b>Ask for a repair in military housing</b></sub><br><sub><code>base-housing-repair-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/base-housing-move-out-notice.svg" width="44" height="44" alt="Notice that you are leaving military housing"><br><sub><b>Notice that you are leaving military housing</b></sub><br><sub><code>base-housing-move-out-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/military-child-school-transfer-letter.svg" width="44" height="44" alt="Letter to a new school after a military move"><br><sub><b>Letter to a new school after a military move</b></sub><br><sub><code>military-child-school-transfer-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/deployment-leave-request-to-employer.svg" width="44" height="44" alt="Ask your employer for time off around a deployment"><br><sub><b>Ask your employer for time off around a deployment</b></sub><br><sub><code>deployment-leave-request-to-employer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/deployment-send-off-message.svg" width="44" height="44" alt="Send-off message before a deployment"><br><sub><b>Send-off message before a deployment</b></sub><br><sub><code>deployment-send-off-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-employer-flexible-hours-spouse-deployed.svg" width="44" height="44" alt="Ask your employer for flexible hours while your spouse is deployed"><br><sub><b>Ask your employer for flexible hours while your spouse is deployed</b></sub><br><sub><code>ask-employer-flexible-hours-spouse-deployed</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbour-to-watch-home-during-deployment.svg" width="44" height="44" alt="Ask a neighbour to keep an eye on your home during a deployment"><br><sub><b>Ask a neighbour to keep an eye on your home during a deployment</b></sub><br><sub><code>ask-neighbour-to-watch-home-during-deployment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/plan-video-calls-with-deployed-parent.svg" width="44" height="44" alt="Agree a call schedule with a deployed parent"><br><sub><b>Agree a call schedule with a deployed parent</b></sub><br><sub><code>plan-video-calls-with-deployed-parent</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-children-a-parent-is-deploying.svg" width="44" height="44" alt="Tell your children a parent is going away on duty"><br><sub><b>Tell your children a parent is going away on duty</b></sub><br><sub><code>tell-children-a-parent-is-deploying</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-school-support-for-child-with-parent-deployed.svg" width="44" height="44" alt="Tell your child's school that a parent is deployed"><br><sub><b>Tell your child's school that a parent is deployed</b></sub><br><sub><code>ask-school-support-for-child-with-parent-deployed</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-trusted-person-to-manage-affairs-while-away.svg" width="44" height="44" alt="Ask a trusted person to handle things while you are away on duty"><br><sub><b>Ask a trusted person to handle things while you are away on duty</b></sub><br><sub><code>ask-trusted-person-to-manage-affairs-while-away</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retirement-ceremony-speech-service-member.svg" width="44" height="44" alt="A speech at a military retirement ceremony"><br><sub><b>A speech at a military retirement ceremony</b></sub><br><sub><code>retirement-ceremony-speech-service-member</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/congratulate-service-member-on-promotion.svg" width="44" height="44" alt="Congratulate a service member on a promotion"><br><sub><b>Congratulate a service member on a promotion</b></sub><br><sub><code>congratulate-service-member-on-promotion</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-new-military-family-to-the-community.svg" width="44" height="44" alt="Welcome a new military family to the neighbourhood"><br><sub><b>Welcome a new military family to the neighbourhood</b></sub><br><sub><code>welcome-new-military-family-to-the-community</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-veteran-to-be-your-mentor.svg" width="44" height="44" alt="Ask a veteran to mentor you"><br><sub><b>Ask a veteran to mentor you</b></sub><br><sub><code>ask-veteran-to-be-your-mentor</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-recruiter-how-service-counts-as-experience.svg" width="44" height="44" alt="Ask a recruiter how your military service counts as experience"><br><sub><b>Ask a recruiter how your military service counts as experience</b></sub><br><sub><code>ask-recruiter-how-service-counts-as-experience</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-thank-you-for-your-service.svg" width="44" height="44" alt="Reply when someone thanks you for your service"><br><sub><b>Reply when someone thanks you for your service</b></sub><br><sub><code>reply-to-thank-you-for-your-service</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-veterans-to-a-support-meeting.svg" width="44" height="44" alt="Invite fellow veterans to a veteran support meeting"><br><sub><b>Invite fellow veterans to a veteran support meeting</b></sub><br><sub><code>invite-veterans-to-a-support-meeting</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-replacement-service-medals.svg" width="44" height="44" alt="Ask for replacement service medals"><br><sub><b>Ask for replacement service medals</b></sub><br><sub><code>ask-replacement-service-medals</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/memorial-day-remembrance-post.svg" width="44" height="44" alt="Post to remember those who died in service"><br><sub><b>Post to remember those who died in service</b></sub><br><sub><code>memorial-day-remembrance-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/check-on-a-veteran-friend.svg" width="44" height="44" alt="Check in on a veteran friend"><br><sub><b>Check in on a veteran friend</b></sub><br><sub><code>check-on-a-veteran-friend</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-veteran-healthcare-appointment.svg" width="44" height="44" alt="Ask for a health appointment as a veteran"><br><sub><b>Ask for a health appointment as a veteran</b></sub><br><sub><code>ask-for-veteran-healthcare-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friends-help-with-military-move.svg" width="44" height="44" alt="Ask friends to help with a military move"><br><sub><b>Ask friends to help with a military move</b></sub><br><sub><code>ask-friends-help-with-military-move</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/goodbye-message-to-your-unit.svg" width="44" height="44" alt="Write a goodbye message to your unit"><br><sub><b>Write a goodbye message to your unit</b></sub><br><sub><code>goodbye-message-to-your-unit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/toast-at-a-military-send-off-dinner.svg" width="44" height="44" alt="A toast at a military send-off dinner"><br><sub><b>A toast at a military send-off dinner</b></sub><br><sub><code>toast-at-a-military-send-off-dinner</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-landlord-end-lease-due-to-orders.svg" width="44" height="44" alt="Ask a landlord to end your lease because of military orders"><br><sub><b>Ask a landlord to end your lease because of military orders</b></sub><br><sub><code>ask-landlord-end-lease-due-to-orders</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-recommendation-for-officer-school.svg" width="44" height="44" alt="Ask a commander for a recommendation for officer training"><br><sub><b>Ask a commander for a recommendation for officer training</b></sub><br><sub><code>ask-recommendation-for-officer-school</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-military-spouse-volunteers.svg" width="44" height="44" alt="Thank volunteers who supported military families"><br><sub><b>Thank volunteers who supported military families</b></sub><br><sub><code>thank-military-spouse-volunteers</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-honour-guard-after-military-funeral.svg" width="44" height="44" alt="Thank the honour guard after a military funeral"><br><sub><b>Thank the honour guard after a military funeral</b></sub><br><sub><code>thank-honour-guard-after-military-funeral</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-school-to-host-veteran-speaker.svg" width="44" height="44" alt="Ask a school to host a veteran speaker"><br><sub><b>Ask a school to host a veteran speaker</b></sub><br><sub><code>ask-school-to-host-veteran-speaker</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-unit-reunion-photos-and-stories.svg" width="44" height="44" alt="Ask old comrades for photos and stories for a reunion"><br><sub><b>Ask old comrades for photos and stories for a reunion</b></sub><br><sub><code>ask-unit-reunion-photos-and-stories</code></sub></td>
+</tr>
+</table>
+
+[← Separation and divorce admin](divorce-separation.md) · [All categories](../README.md#gallery) · [Living abroad and expats →](expats-abroad.md)

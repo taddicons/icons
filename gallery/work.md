@@ -1,6 +1,6 @@
 # Work and jobs
 
-<sub>Taddicons 2.1.0 · Documents & messages · 35 icons</sub>
+<sub>Taddicons 2.2.0 · Documents & messages · 65 icons</sub>
 
 Applications, requests and messages at work.
 
@@ -51,6 +51,46 @@ Applications, requests and messages at work.
 <td align="center" width="16%"><img src="../svg/mark/short-bio.svg" width="44" height="44" alt="Short bio"><br><sub><b>Short bio</b></sub><br><sub><code>short-bio</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/sop.svg" width="44" height="44" alt="Standard procedure"><br><sub><b>Standard procedure</b></sub><br><sub><code>sop</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/volunteer-application.svg" width="44" height="44" alt="Volunteer application"><br><sub><b>Volunteer application</b></sub><br><sub><code>volunteer-application</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-manager-for-support.svg" width="44" height="44" alt="Thank your manager for their support"><br><sub><b>Thank your manager for their support</b></sub><br><sub><code>thank-manager-for-support</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/office-move-announcement.svg" width="44" height="44" alt="Tell staff the office is moving"><br><sub><b>Tell staff the office is moving</b></sub><br><sub><code>office-move-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/job-description.svg" width="44" height="44" alt="Write a job description for a role you are hiring for"><br><sub><b>Write a job description for a role you are hiring for</b></sub><br><sub><code>job-description</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lessons-learned-review.svg" width="44" height="44" alt="Write a lessons-learned review after a project"><br><sub><b>Write a lessons-learned review after a project</b></sub><br><sub><code>lessons-learned-review</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/office-closure-notice.svg" width="44" height="44" alt="Tell staff or clients the office will be closed"><br><sub><b>Tell staff or clients the office will be closed</b></sub><br><sub><code>office-closure-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fire-drill-notice.svg" width="44" height="44" alt="Tell staff about a planned fire drill"><br><sub><b>Tell staff about a planned fire drill</b></sub><br><sub><code>fire-drill-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-survey-request.svg" width="44" height="44" alt="Ask staff to fill in a survey"><br><sub><b>Ask staff to fill in a survey</b></sub><br><sub><code>staff-survey-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/client-meeting-recap.svg" width="44" height="44" alt="Sum up a client meeting and the next steps"><br><sub><b>Sum up a client meeting and the next steps</b></sub><br><sub><code>client-meeting-recap</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/budget-request.svg" width="44" height="44" alt="Ask for budget for a project or team need"><br><sub><b>Ask for budget for a project or team need</b></sub><br><sub><code>budget-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/purchase-approval-request.svg" width="44" height="44" alt="Ask your manager to approve a purchase"><br><sub><b>Ask your manager to approve a purchase</b></sub><br><sub><code>purchase-approval-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/job-share-proposal.svg" width="44" height="44" alt="Propose sharing a job with a colleague"><br><sub><b>Propose sharing a job with a colleague</b></sub><br><sub><code>job-share-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sabbatical-request.svg" width="44" height="44" alt="Ask for a sabbatical or career break"><br><sub><b>Ask for a sabbatical or career break</b></sub><br><sub><code>sabbatical-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-written-contract.svg" width="44" height="44" alt="Ask your employer for a written contract"><br><sub><b>Ask your employer for a written contract</b></sub><br><sub><code>ask-for-written-contract</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/contract-hours-query.svg" width="44" height="44" alt="Ask your employer about your contracted hours"><br><sub><b>Ask your employer about your contracted hours</b></sub><br><sub><code>contract-hours-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/join-project-request.svg" width="44" height="44" alt="Ask to join a project at work"><br><sub><b>Ask to join a project at work</b></sub><br><sub><code>join-project-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/internal-job-application.svg" width="44" height="44" alt="Apply for a job inside your own organisation"><br><sub><b>Apply for a job inside your own organisation</b></sub><br><sub><code>internal-job-application</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/counter-offer-reply.svg" width="44" height="44" alt="Reply to a counter-offer from your employer after resigning"><br><sub><b>Reply to a counter-offer from your employer after resigning</b></sub><br><sub><code>counter-offer-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/accept-promotion.svg" width="44" height="44" alt="Accept a promotion at work"><br><sub><b>Accept a promotion at work</b></sub><br><sub><code>accept-promotion</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-promotion.svg" width="44" height="44" alt="Turn down a promotion politely"><br><sub><b>Turn down a promotion politely</b></sub><br><sub><code>decline-promotion</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/leaving-card-message.svg" width="44" height="44" alt="Write a message in a colleague's leaving card"><br><sub><b>Write a message in a colleague's leaving card</b></sub><br><sub><code>leaving-card-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/meeting-cancellation-notice.svg" width="44" height="44" alt="Cancel a work meeting"><br><sub><b>Cancel a work meeting</b></sub><br><sub><code>meeting-cancellation-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lunch-and-learn-proposal.svg" width="44" height="44" alt="Propose a lunch-and-learn session at work"><br><sub><b>Propose a lunch-and-learn session at work</b></sub><br><sub><code>lunch-and-learn-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/personal-development-plan.svg" width="44" height="44" alt="Write a personal development plan for work"><br><sub><b>Write a personal development plan for work</b></sub><br><sub><code>personal-development-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/relocation-request.svg" width="44" height="44" alt="Ask to relocate to another office or site"><br><sub><b>Ask to relocate to another office or site</b></sub><br><sub><code>relocation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/process-change-announcement.svg" width="44" height="44" alt="Tell your team about a change in how work is done"><br><sub><b>Tell your team about a change in how work is done</b></sub><br><sub><code>process-change-announcement</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/system-access-request.svg" width="44" height="44" alt="Ask IT for access to a system or tool"><br><sub><b>Ask IT for access to a system or tool</b></sub><br><sub><code>system-access-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/return-company-property-note.svg" width="44" height="44" alt="Arrange to return work equipment when you leave"><br><sub><b>Arrange to return work equipment when you leave</b></sub><br><sub><code>return-company-property-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sickness-absence-update.svg" width="44" height="44" alt="Update your employer during a longer sickness absence"><br><sub><b>Update your employer during a longer sickness absence</b></sub><br><sub><code>sickness-absence-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-job-announcement-post.svg" width="44" height="44" alt="Announce your new job on social media"><br><sub><b>Announce your new job on social media</b></sub><br><sub><code>new-job-announcement-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/workplace-parking-request.svg" width="44" height="44" alt="Ask for a parking space at work"><br><sub><b>Ask for a parking space at work</b></sub><br><sub><code>workplace-parking-request</code></sub></td>
 </tr>
 </table>
 

@@ -32,7 +32,7 @@ VERSION = META["version"]
 FAMILY = "Taddicons"
 PREFIX = "ti"
 # Fixed so a rebuild of the same version gives the same font file.
-RELEASED = "Sat Nov  7 00:00:00 2026"
+RELEASED = "Sun Nov 15 00:00:00 2026"
 
 # 24 grid units -> 960 font units (40 per unit). The icon sits on the text like a capital letter: 840 above the
 # baseline, 120 below it, so `vertical-align: -0.125em` centres it on lowercase text.

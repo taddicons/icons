@@ -1,0 +1,81 @@
+# Gaming and online communities
+
+<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+
+Guild and clan notes, moderator messages, ban appeals, tournaments, streamer and fan posts, game refunds and parent questions about games.
+
+<table>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/guild-recruitment-post.svg" width="44" height="44" alt="Recruit new guild members"><br><sub><b>Recruit new guild members</b></sub><br><sub><code>guild-recruitment-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guild-member-welcome.svg" width="44" height="44" alt="Welcome a new guild member"><br><sub><b>Welcome a new guild member</b></sub><br><sub><code>guild-member-welcome</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guild-rules-announcement.svg" width="44" height="44" alt="Announce new group rules"><br><sub><b>Announce new group rules</b></sub><br><sub><code>guild-rules-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clan-member-warning.svg" width="44" height="44" alt="Warn a member about their behaviour"><br><sub><b>Warn a member about their behaviour</b></sub><br><sub><code>clan-member-warning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guild-leader-handover.svg" width="44" height="44" alt="Hand over the guild leadership"><br><sub><b>Hand over the guild leadership</b></sub><br><sub><code>guild-leader-handover</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guild-disband-notice.svg" width="44" height="44" alt="Announce that the group is closing"><br><sub><b>Announce that the group is closing</b></sub><br><sub><code>guild-disband-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/moderator-application.svg" width="44" height="44" alt="Apply to be a moderator"><br><sub><b>Apply to be a moderator</b></sub><br><sub><code>moderator-application</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/moderator-warning-message.svg" width="44" height="44" alt="Warn a user as a moderator"><br><sub><b>Warn a user as a moderator</b></sub><br><sub><code>moderator-warning-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ban-appeal.svg" width="44" height="44" alt="Appeal a ban from a game or server"><br><sub><b>Appeal a ban from a game or server</b></sub><br><sub><code>ban-appeal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ban-appeal-reply.svg" width="44" height="44" alt="Answer a ban appeal"><br><sub><b>Answer a ban appeal</b></sub><br><sub><code>ban-appeal-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/report-player-abuse.svg" width="44" height="44" alt="Report a player for abuse or cheating"><br><sub><b>Report a player for abuse or cheating</b></sub><br><sub><code>report-player-abuse</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-etiquette-reminder.svg" width="44" height="44" alt="Remind a community of good manners"><br><sub><b>Remind a community of good manners</b></sub><br><sub><code>community-etiquette-reminder</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/forum-thread-lock-notice.svg" width="44" height="44" alt="Explain why a thread was locked"><br><sub><b>Explain why a thread was locked</b></sub><br><sub><code>forum-thread-lock-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tournament-announcement.svg" width="44" height="44" alt="Announce a gaming tournament"><br><sub><b>Announce a gaming tournament</b></sub><br><sub><code>tournament-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tournament-sponsor-ask.svg" width="44" height="44" alt="Ask a business to sponsor your event"><br><sub><b>Ask a business to sponsor your event</b></sub><br><sub><code>tournament-sponsor-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tournament-results-post.svg" width="44" height="44" alt="Post the tournament results"><br><sub><b>Post the tournament results</b></sub><br><sub><code>tournament-results-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/esports-tryout-invite.svg" width="44" height="44" alt="Invite a player to a team tryout"><br><sub><b>Invite a player to a team tryout</b></sub><br><sub><code>esports-tryout-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/esports-team-bench-note.svg" width="44" height="44" alt="Tell a player they will sit out"><br><sub><b>Tell a player they will sit out</b></sub><br><sub><code>esports-team-bench-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/scrim-request.svg" width="44" height="44" alt="Ask another team for a practice match"><br><sub><b>Ask another team for a practice match</b></sub><br><sub><code>scrim-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/streamer-collab-request.svg" width="44" height="44" alt="Ask a streamer to team up"><br><sub><b>Ask a streamer to team up</b></sub><br><sub><code>streamer-collab-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fan-community-launch-post.svg" width="44" height="44" alt="Start a fan community"><br><sub><b>Start a fan community</b></sub><br><sub><code>fan-community-launch-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fan-art-permission-ask.svg" width="44" height="44" alt="Ask permission to use fan art"><br><sub><b>Ask permission to use fan art</b></sub><br><sub><code>fan-art-permission-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/stream-schedule-change-post.svg" width="44" height="44" alt="Announce a change to your stream schedule"><br><sub><b>Announce a change to your stream schedule</b></sub><br><sub><code>stream-schedule-change-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/game-refund-request.svg" width="44" height="44" alt="Ask for a refund for a game"><br><sub><b>Ask for a refund for a game</b></sub><br><sub><code>game-refund-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/hacked-game-account-report.svg" width="44" height="44" alt="Report a hacked game account"><br><sub><b>Report a hacked game account</b></sub><br><sub><code>hacked-game-account-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/child-purchase-refund-request.svg" width="44" height="44" alt="Ask for a refund after a child's purchases"><br><sub><b>Ask for a refund after a child's purchases</b></sub><br><sub><code>child-purchase-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/parent-game-safety-question.svg" width="44" height="44" alt="Ask a parent about a game your child will play"><br><sub><b>Ask a parent about a game your child will play</b></sub><br><sub><code>parent-game-safety-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/game-server-invite.svg" width="44" height="44" alt="Invite someone to your game server"><br><sub><b>Invite someone to your game server</b></sub><br><sub><code>game-server-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/game-friend-request-note.svg" width="44" height="44" alt="Ask to add a player as a friend"><br><sub><b>Ask to add a player as a friend</b></sub><br><sub><code>game-friend-request-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teammate-kind-feedback.svg" width="44" height="44" alt="Give a teammate kind feedback after a match"><br><sub><b>Give a teammate kind feedback after a match</b></sub><br><sub><code>teammate-kind-feedback</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-player-chat-not-ok.svg" width="44" height="44" alt="Tell a player their chat is not okay"><br><sub><b>Tell a player their chat is not okay</b></sub><br><sub><code>tell-player-chat-not-ok</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/looking-for-group-post.svg" width="44" height="44" alt="Post that you are looking for a group"><br><sub><b>Post that you are looking for a group</b></sub><br><sub><code>looking-for-group-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-game-trade-offer.svg" width="44" height="44" alt="Offer an in-game trade"><br><sub><b>Offer an in-game trade</b></sub><br><sub><code>in-game-trade-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-sharing-game-account.svg" width="44" height="44" alt="Say no to sharing your game account"><br><sub><b>Say no to sharing your game account</b></sub><br><sub><code>decline-sharing-game-account</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/child-gaming-time-agreement.svg" width="44" height="44" alt="Agree gaming time rules with your child"><br><sub><b>Agree gaming time rules with your child</b></sub><br><sub><code>child-gaming-time-agreement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/game-bug-report-studio.svg" width="44" height="44" alt="Report a bug to the game makers"><br><sub><b>Report a bug to the game makers</b></sub><br><sub><code>game-bug-report-studio</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/game-feature-suggestion.svg" width="44" height="44" alt="Suggest a new feature to the game makers"><br><sub><b>Suggest a new feature to the game makers</b></sub><br><sub><code>game-feature-suggestion</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restore-lost-game-progress.svg" width="44" height="44" alt="Ask support to restore lost game progress"><br><sub><b>Ask support to restore lost game progress</b></sub><br><sub><code>restore-lost-game-progress</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/game-scam-warning-post.svg" width="44" height="44" alt="Warn your community about a scam"><br><sub><b>Warn your community about a scam</b></sub><br><sub><code>game-scam-warning-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-volunteer-mods-post.svg" width="44" height="44" alt="Thank your community moderators"><br><sub><b>Thank your community moderators</b></sub><br><sub><code>thank-volunteer-mods-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-game-night-post.svg" width="44" height="44" alt="Announce a community game night"><br><sub><b>Announce a community game night</b></sub><br><sub><code>community-game-night-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-team-you-are-leaving.svg" width="44" height="44" alt="Tell your team you are leaving"><br><sub><b>Tell your team you are leaving</b></sub><br><sub><code>tell-team-you-are-leaving</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-join-gaming-team.svg" width="44" height="44" alt="Ask to join a gaming team"><br><sub><b>Ask to join a gaming team</b></sub><br><sub><code>ask-to-join-gaming-team</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-gaming-coach.svg" width="44" height="44" alt="Ask someone to coach you"><br><sub><b>Ask someone to coach you</b></sub><br><sub><code>ask-for-gaming-coach</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-viewers-milestone.svg" width="44" height="44" alt="Thank your viewers for a milestone"><br><sub><b>Thank your viewers for a milestone</b></sub><br><sub><code>thank-viewers-milestone</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-vote-post.svg" width="44" height="44" alt="Ask your community to vote on a choice"><br><sub><b>Ask your community to vote on a choice</b></sub><br><sub><code>community-vote-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/share-game-mod-post.svg" width="44" height="44" alt="Share a mod you made"><br><sub><b>Share a mod you made</b></sub><br><sub><code>share-game-mod-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-streamer-brand-deal.svg" width="44" height="44" alt="Say no to a brand deal as a streamer"><br><sub><b>Say no to a brand deal as a streamer</b></sub><br><sub><code>decline-streamer-brand-deal</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-no-spoilers-community.svg" width="44" height="44" alt="Ask people not to post spoilers"><br><sub><b>Ask people not to post spoilers</b></sub><br><sub><code>ask-no-spoilers-community</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teammate-rage-quit-talk.svg" width="44" height="44" alt="Talk to a teammate who keeps quitting matches"><br><sub><b>Talk to a teammate who keeps quitting matches</b></sub><br><sub><code>teammate-rage-quit-talk</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/talk-to-teen-about-game-spending.svg" width="44" height="44" alt="Talk with your teen about spending in games"><br><sub><b>Talk with your teen about spending in games</b></sub><br><sub><code>talk-to-teen-about-game-spending</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-apology-for-mistake.svg" width="44" height="44" alt="Apologise to your community for a mistake"><br><sub><b>Apologise to your community for a mistake</b></sub><br><sub><code>community-apology-for-mistake</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/game-server-maintenance-notice.svg" width="44" height="44" alt="Announce server downtime"><br><sub><b>Announce server downtime</b></sub><br><sub><code>game-server-maintenance-notice</code></sub></td>
+</tr>
+</table>
+
+[← Civic and local government](civic-local-government.md) · [All categories](../README.md#gallery) · [Rural, farming and outdoors →](rural-farming-outdoors.md)

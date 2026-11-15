@@ -1,0 +1,96 @@
+# Sales and marketing outreach
+
+<sub>Taddicons 2.2.0 · Documents & messages · 64 icons</sub>
+
+Cold and warm outreach, follow-ups, demos, proposals, price talks, renewals, partner pitches, events and customer proof.
+
+<table>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/cold-intro-email.svg" width="44" height="44" alt="Cold email to a new prospect"><br><sub><b>Cold email to a new prospect</b></sub><br><sub><code>cold-intro-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cold-network-message.svg" width="44" height="44" alt="Short first message on a work network"><br><sub><b>Short first message on a work network</b></sub><br><sub><code>cold-network-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/buyer-introduction-ask.svg" width="44" height="44" alt="Ask a contact to introduce you to a buyer"><br><sub><b>Ask a contact to introduce you to a buyer</b></sub><br><sub><code>buyer-introduction-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-meeting-follow-up.svg" width="44" height="44" alt="Ask for a chat after meeting at an event"><br><sub><b>Ask for a chat after meeting at an event</b></sub><br><sub><code>event-meeting-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/no-reply-follow-up.svg" width="44" height="44" alt="Nudge a prospect who has not replied"><br><sub><b>Nudge a prospect who has not replied</b></sub><br><sub><code>no-reply-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/quiet-prospect-closing-note.svg" width="44" height="44" alt="Closing note when a prospect goes quiet"><br><sub><b>Closing note when a prospect goes quiet</b></sub><br><sub><code>quiet-prospect-closing-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/demo-invitation.svg" width="44" height="44" alt="Invite someone to a product demo"><br><sub><b>Invite someone to a product demo</b></sub><br><sub><code>demo-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/demo-follow-up.svg" width="44" height="44" alt="Follow up after a demo"><br><sub><b>Follow up after a demo</b></sub><br><sub><code>demo-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trial-check-in.svg" width="44" height="44" alt="Check in during a free trial"><br><sub><b>Check in during a free trial</b></sub><br><sub><code>trial-check-in</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/proposal-cover-note.svg" width="44" height="44" alt="Cover note for a proposal"><br><sub><b>Cover note for a proposal</b></sub><br><sub><code>proposal-cover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/proposal-chase.svg" width="44" height="44" alt="Chase a proposal with no answer"><br><sub><b>Chase a proposal with no answer</b></sub><br><sub><code>proposal-chase</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/price-objection-reply.svg" width="44" height="44" alt="Reply to a customer who says the price is too high"><br><sub><b>Reply to a customer who says the price is too high</b></sub><br><sub><code>price-objection-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/discount-decline-reply.svg" width="44" height="44" alt="Politely say no to a discount request"><br><sub><b>Politely say no to a discount request</b></sub><br><sub><code>discount-decline-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-renewal-reminder.svg" width="44" height="44" alt="Remind a customer their contract is renewing"><br><sub><b>Remind a customer their contract is renewing</b></sub><br><sub><code>customer-renewal-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/leaving-customer-save-note.svg" width="44" height="44" alt="Win back a customer who wants to leave"><br><sub><b>Win back a customer who wants to leave</b></sub><br><sub><code>leaving-customer-save-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-upsell-offer.svg" width="44" height="44" alt="Offer an existing customer something extra"><br><sub><b>Offer an existing customer something extra</b></sub><br><sub><code>customer-upsell-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reseller-partner-pitch.svg" width="44" height="44" alt="Ask a business to sell or recommend your product"><br><sub><b>Ask a business to sell or recommend your product</b></sub><br><sub><code>reseller-partner-pitch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/webinar-invitation.svg" width="44" height="44" alt="Invite customers to a webinar"><br><sub><b>Invite customers to a webinar</b></sub><br><sub><code>webinar-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trade-show-meeting-request.svg" width="44" height="44" alt="Book a meeting at a trade show"><br><sub><b>Book a meeting at a trade show</b></sub><br><sub><code>trade-show-meeting-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/product-news-newsletter.svg" width="44" height="44" alt="Newsletter about what is new"><br><sub><b>Newsletter about what is new</b></sub><br><sub><code>product-news-newsletter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/case-study-request.svg" width="44" height="44" alt="Ask a happy customer for a case study"><br><sub><b>Ask a happy customer for a case study</b></sub><br><sub><code>case-study-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/referral-programme-invite.svg" width="44" height="44" alt="Invite customers to a referral programme"><br><sub><b>Invite customers to a referral programme</b></sub><br><sub><code>referral-programme-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-deal-graceful-reply.svg" width="44" height="44" alt="Reply when a customer chooses someone else"><br><sub><b>Reply when a customer chooses someone else</b></sub><br><sub><code>lost-deal-graceful-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/win-loss-interview-request.svg" width="44" height="44" alt="Ask a customer for a short win-loss chat"><br><sub><b>Ask a customer for a short win-loss chat</b></sub><br><sub><code>win-loss-interview-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/win-loss-team-note.svg" width="44" height="44" alt="Note to the team after a deal is won or lost"><br><sub><b>Note to the team after a deal is won or lost</b></sub><br><sub><code>win-loss-team-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/quote-expiry-nudge.svg" width="44" height="44" alt="Remind a customer that your quote is ending"><br><sub><b>Remind a customer that your quote is ending</b></sub><br><sub><code>quote-expiry-nudge</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-welcome-after-sale.svg" width="44" height="44" alt="Welcome a new customer after they buy"><br><sub><b>Welcome a new customer after they buy</b></sub><br><sub><code>customer-welcome-after-sale</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-meeting-confirmation.svg" width="44" height="44" alt="Confirm a sales meeting with a prospect"><br><sub><b>Confirm a sales meeting with a prospect</b></sub><br><sub><code>sales-meeting-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-meeting-reschedule.svg" width="44" height="44" alt="Move a sales meeting to a new time"><br><sub><b>Move a sales meeting to a new time</b></sub><br><sub><code>sales-meeting-reschedule</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-meeting-agenda.svg" width="44" height="44" alt="Send an agenda before a sales meeting"><br><sub><b>Send an agenda before a sales meeting</b></sub><br><sub><code>sales-meeting-agenda</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/discovery-call-recap.svg" width="44" height="44" alt="Sum up a first sales call and agree next steps"><br><sub><b>Sum up a first sales call and agree next steps</b></sub><br><sub><code>discovery-call-recap</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pricing-question-reply.svg" width="44" height="44" alt="Answer a prospect who asks about price"><br><sub><b>Answer a prospect who asks about price</b></sub><br><sub><code>pricing-question-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/inbound-lead-reply.svg" width="44" height="44" alt="Reply to someone who filled in your contact form"><br><sub><b>Reply to someone who filled in your contact form</b></sub><br><sub><code>inbound-lead-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/contract-sent-note.svg" width="44" height="44" alt="Send a contract to a customer for signature"><br><sub><b>Send a contract to a customer for signature</b></sub><br><sub><code>contract-sent-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/contract-signature-chase.svg" width="44" height="44" alt="Chase a contract that has not been signed yet"><br><sub><b>Chase a contract that has not been signed yet</b></sub><br><sub><code>contract-signature-chase</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/paid-pilot-proposal.svg" width="44" height="44" alt="Propose a short paid pilot to a prospect"><br><sub><b>Propose a short paid pilot to a prospect</b></sub><br><sub><code>paid-pilot-proposal</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pilot-results-summary.svg" width="44" height="44" alt="Share pilot results and suggest the next step"><br><sub><b>Share pilot results and suggest the next step</b></sub><br><sub><code>pilot-results-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/review-site-request.svg" width="44" height="44" alt="Ask a happy customer to leave a review on a review site"><br><sub><b>Ask a happy customer to leave a review on a review site</b></sub><br><sub><code>review-site-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/internal-champion-pack-note.svg" width="44" height="44" alt="Help your contact sell your product inside their company"><br><sub><b>Help your contact sell your product inside their company</b></sub><br><sub><code>internal-champion-pack-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decision-maker-meeting-ask.svg" width="44" height="44" alt="Ask your contact to bring the budget holder to a meeting"><br><sub><b>Ask your contact to bring the budget holder to a meeting</b></sub><br><sub><code>decision-maker-meeting-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/security-questionnaire-cover-note.svg" width="44" height="44" alt="Send back a completed security questionnaire"><br><sub><b>Send back a completed security questionnaire</b></sub><br><sub><code>security-questionnaire-cover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/procurement-vendor-forms-note.svg" width="44" height="44" alt="Send vendor forms to a customer's procurement team"><br><sub><b>Send vendor forms to a customer's procurement team</b></sub><br><sub><code>procurement-vendor-forms-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/purchase-order-request.svg" width="44" height="44" alt="Ask a customer for a purchase order number"><br><sub><b>Ask a customer for a purchase order number</b></sub><br><sub><code>purchase-order-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/account-manager-handover-intro.svg" width="44" height="44" alt="Introduce a new account manager to a customer"><br><sub><b>Introduce a new account manager to a customer</b></sub><br><sub><code>account-manager-handover-intro</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-review-invite.svg" width="44" height="44" alt="Invite a customer to a quarterly business review"><br><sub><b>Invite a customer to a quarterly business review</b></sub><br><sub><code>business-review-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/quiet-account-check-in.svg" width="44" height="44" alt="Check in with a customer you have not heard from"><br><sub><b>Check in with a customer you have not heard from</b></sub><br><sub><code>quiet-account-check-in</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/multi-year-deal-offer.svg" width="44" height="44" alt="Offer a customer a better price for a longer contract"><br><sub><b>Offer a customer a better price for a longer contract</b></sub><br><sub><code>multi-year-deal-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/plan-downgrade-reply.svg" width="44" height="44" alt="Reply to a customer who wants a smaller plan"><br><sub><b>Reply to a customer who wants a smaller plan</b></sub><br><sub><code>plan-downgrade-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/competitor-switch-offer.svg" width="44" height="44" alt="Invite a prospect to switch from a competitor"><br><sub><b>Invite a prospect to switch from a competitor</b></sub><br><sub><code>competitor-switch-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/funding-news-outreach.svg" width="44" height="44" alt="Reach out to a company after news of new funding"><br><sub><b>Reach out to a company after news of new funding</b></sub><br><sub><code>funding-news-outreach</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-role-congrats-outreach.svg" width="44" height="44" alt="Congratulate a contact on a new job and reconnect"><br><sub><b>Congratulate a contact on a new job and reconnect</b></sub><br><sub><code>new-role-congrats-outreach</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/useful-content-follow-up.svg" width="44" height="44" alt="Follow up with a prospect by sharing something useful"><br><sub><b>Follow up with a prospect by sharing something useful</b></sub><br><sub><code>useful-content-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/old-lead-reconnect.svg" width="44" height="44" alt="Reconnect with a lead who went quiet months ago"><br><sub><b>Reconnect with a lead who went quiet months ago</b></sub><br><sub><code>old-lead-reconnect</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-customer-win-back.svg" width="44" height="44" alt="Invite a former customer to come back"><br><sub><b>Invite a former customer to come back</b></sub><br><sub><code>lost-customer-win-back</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/limited-time-offer-email.svg" width="44" height="44" alt="Email prospects about a time-limited offer"><br><sub><b>Email prospects about a time-limited offer</b></sub><br><sub><code>limited-time-offer-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-feature-customer-email.svg" width="44" height="44" alt="Tell customers about a new feature they can use"><br><sub><b>Tell customers about a new feature they can use</b></sub><br><sub><code>new-feature-customer-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/co-marketing-proposal.svg" width="44" height="44" alt="Propose a joint marketing project to a partner company"><br><sub><b>Propose a joint marketing project to a partner company</b></sub><br><sub><code>co-marketing-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/influencer-collaboration-pitch.svg" width="44" height="44" alt="Ask a creator to work with your brand"><br><sub><b>Ask a creator to work with your brand</b></sub><br><sub><code>influencer-collaboration-pitch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/partner-referral-thanks.svg" width="44" height="44" alt="Thank a partner for referring a new customer"><br><sub><b>Thank a partner for referring a new customer</b></sub><br><sub><code>partner-referral-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/media-pitch-email.svg" width="44" height="44" alt="Pitch a story about your company to a journalist"><br><sub><b>Pitch a story about your company to a journalist</b></sub><br><sub><code>media-pitch-email</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sales-voicemail-script.svg" width="44" height="44" alt="Script for a short voicemail to a prospect"><br><sub><b>Script for a short voicemail to a prospect</b></sub><br><sub><code>sales-voicemail-script</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-insight-post.svg" width="44" height="44" alt="Write a social post sharing a lesson from your customers"><br><sub><b>Write a social post sharing a lesson from your customers</b></sub><br><sub><code>sales-insight-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-roundtable-invitation.svg" width="44" height="44" alt="Invite customers to a small roundtable dinner or event"><br><sub><b>Invite customers to a small roundtable dinner or event</b></sub><br><sub><code>customer-roundtable-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/product-sample-reply.svg" width="44" height="44" alt="Reply to a request for a product sample"><br><sub><b>Reply to a request for a product sample</b></sub><br><sub><code>product-sample-reply</code></sub></td>
+</tr>
+</table>
+
+[← Volunteering and community](volunteering-community.md) · [All categories](../README.md#gallery) · [Civic and local government →](civic-local-government.md)

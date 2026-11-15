@@ -1,0 +1,81 @@
+# Estates, wills and executors
+
+<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+
+Notes and letters for the practical, legal and family tasks that follow a death, from telling providers to clearing a house.
+
+<table>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-utilities-of-death.svg" width="44" height="44" alt="Tell an energy or water supplier about a death"><br><sub><b>Tell an energy or water supplier about a death</b></sub><br><sub><code>tell-utilities-of-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-phone-provider-of-death.svg" width="44" height="44" alt="Tell a phone or internet provider about a death"><br><sub><b>Tell a phone or internet provider about a death</b></sub><br><sub><code>tell-phone-provider-of-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-pension-provider-of-death.svg" width="44" height="44" alt="Tell a pension payer about a death"><br><sub><b>Tell a pension payer about a death</b></sub><br><sub><code>tell-pension-provider-of-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-landlord-of-death.svg" width="44" height="44" alt="Tell a landlord that a tenant has died"><br><sub><b>Tell a landlord that a tenant has died</b></sub><br><sub><code>tell-landlord-of-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/stop-subscriptions-of-deceased.svg" width="44" height="44" alt="Cancel a person's subscriptions and memberships"><br><sub><b>Cancel a person's subscriptions and memberships</b></sub><br><sub><code>stop-subscriptions-of-deceased</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-death-certificate-copies.svg" width="44" height="44" alt="Ask for copies of a death certificate"><br><sub><b>Ask for copies of a death certificate</b></sub><br><sub><code>ask-for-death-certificate-copies</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-about-probate-process.svg" width="44" height="44" alt="Ask an office how probate works"><br><sub><b>Ask an office how probate works</b></sub><br><sub><code>ask-about-probate-process</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-lawyer-to-help-with-estate.svg" width="44" height="44" alt="Ask a lawyer to help with an estate"><br><sub><b>Ask a lawyer to help with an estate</b></sub><br><sub><code>ask-lawyer-to-help-with-estate</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/executor-intro-letter.svg" width="44" height="44" alt="Tell people you are the executor"><br><sub><b>Tell people you are the executor</b></sub><br><sub><code>executor-intro-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-executor-role.svg" width="44" height="44" alt="Say no to being an executor"><br><sub><b>Say no to being an executor</b></sub><br><sub><code>decline-executor-role</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-someone-to-be-my-executor.svg" width="44" height="44" alt="Ask someone to be your executor"><br><sub><b>Ask someone to be your executor</b></sub><br><sub><code>ask-someone-to-be-my-executor</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-will-copy.svg" width="44" height="44" alt="Ask for a copy of a will"><br><sub><b>Ask for a copy of a will</b></sub><br><sub><code>ask-for-will-copy</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-creditor-of-deceased.svg" width="44" height="44" alt="Reply to someone asking for a dead person's debt"><br><sub><b>Reply to someone asking for a dead person's debt</b></sub><br><sub><code>reply-to-creditor-of-deceased</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-bank-for-balance-at-death.svg" width="44" height="44" alt="Ask a bank what was in an account when someone died"><br><sub><b>Ask a bank what was in an account when someone died</b></sub><br><sub><code>ask-bank-for-balance-at-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-email-provider-deceased-account.svg" width="44" height="44" alt="Ask a company to open or close a dead person's account"><br><sub><b>Ask a company to open or close a dead person's account</b></sub><br><sub><code>ask-email-provider-deceased-account</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/list-online-accounts-for-family.svg" width="44" height="44" alt="List your online accounts for your family"><br><sub><b>List your online accounts for your family</b></sub><br><sub><code>list-online-accounts-for-family</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/belongings-picking-order-proposal.svg" width="44" height="44" alt="Suggest a fair way to choose belongings"><br><sub><b>Suggest a fair way to choose belongings</b></sub><br><sub><code>belongings-picking-order-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-relative-for-keepsake.svg" width="44" height="44" alt="Ask a relative if you can have a keepsake"><br><sub><b>Ask a relative if you can have a keepsake</b></sub><br><sub><code>ask-relative-for-keepsake</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/house-clearance-quote-request.svg" width="44" height="44" alt="Ask a clearance firm for a quote"><br><sub><b>Ask a clearance firm for a quote</b></sub><br><sub><code>house-clearance-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clearance-days-family-plan.svg" width="44" height="44" alt="Plan the days for clearing a home with family"><br><sub><b>Plan the days for clearing a home with family</b></sub><br><sub><code>clearance-days-family-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/donate-estate-belongings-ask.svg" width="44" height="44" alt="Ask a charity to take belongings from a home"><br><sub><b>Ask a charity to take belongings from a home</b></sub><br><sub><code>donate-estate-belongings-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/memorial-fund-announcement.svg" width="44" height="44" alt="Announce a fund in someone's memory"><br><sub><b>Announce a fund in someone's memory</b></sub><br><sub><code>memorial-fund-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/memorial-fund-thanks.svg" width="44" height="44" alt="Thank people who gave to a memorial fund"><br><sub><b>Thank people who gave to a memorial fund</b></sub><br><sub><code>memorial-fund-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/estate-progress-update.svg" width="44" height="44" alt="Update family on how the estate is going"><br><sub><b>Update family on how the estate is going</b></sub><br><sub><code>estate-progress-update</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/gentle-worry-about-will.svg" width="44" height="44" alt="Share a worry about a will with a relative"><br><sub><b>Share a worry about a will with a relative</b></sub><br><sub><code>gentle-worry-about-will</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sell-family-home-notice.svg" width="44" height="44" alt="Tell family the family home will be sold"><br><sub><b>Tell family the family home will be sold</b></sub><br><sub><code>sell-family-home-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-tax-office-final-return-info.svg" width="44" height="44" alt="Ask the tax office about a dead person's last tax return"><br><sub><b>Ask the tax office about a dead person's last tax return</b></sub><br><sub><code>ask-tax-office-final-return-info</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-bank-of-death.svg" width="44" height="44" alt="Tell a bank that a customer has died"><br><sub><b>Tell a bank that a customer has died</b></sub><br><sub><code>tell-bank-of-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-insurer-about-policy-after-death.svg" width="44" height="44" alt="Ask an insurer if a dead person had a policy"><br><sub><b>Ask an insurer if a dead person had a policy</b></sub><br><sub><code>ask-insurer-about-policy-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-employer-of-death.svg" width="44" height="44" alt="Tell an employer that a worker has died"><br><sub><b>Tell an employer that a worker has died</b></sub><br><sub><code>tell-employer-of-death</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-club-member-has-died.svg" width="44" height="44" alt="Tell a club or group that a member has died"><br><sub><b>Tell a club or group that a member has died</b></sub><br><sub><code>tell-club-member-has-died</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-post-office-to-redirect-mail-after-death.svg" width="44" height="44" alt="Ask the post office to redirect a dead person's mail"><br><sub><b>Ask the post office to redirect a dead person's mail</b></sub><br><sub><code>ask-post-office-to-redirect-mail-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-vehicle-office-of-death.svg" width="44" height="44" alt="Tell the vehicle office a car owner has died"><br><sub><b>Tell the vehicle office a car owner has died</b></sub><br><sub><code>tell-vehicle-office-of-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-social-site-to-close-deceased-account.svg" width="44" height="44" alt="Ask a social site to close or memorialise an account"><br><sub><b>Ask a social site to close or memorialise an account</b></sub><br><sub><code>ask-social-site-to-close-deceased-account</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-family-to-share-estate-costs.svg" width="44" height="44" alt="Ask family to share costs of an estate"><br><sub><b>Ask family to share costs of an estate</b></sub><br><sub><code>ask-family-to-share-estate-costs</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/executor-costs-explained-to-family.svg" width="44" height="44" alt="Explain to family what an executor can pay from the estate"><br><sub><b>Explain to family what an executor can pay from the estate</b></sub><br><sub><code>executor-costs-explained-to-family</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-beneficiary-payment-will-take-longer.svg" width="44" height="44" alt="Tell a beneficiary their share will take longer"><br><sub><b>Tell a beneficiary their share will take longer</b></sub><br><sub><code>tell-beneficiary-payment-will-take-longer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-relative-for-missing-estate-documents.svg" width="44" height="44" alt="Ask a relative to look for papers the estate needs"><br><sub><b>Ask a relative to look for papers the estate needs</b></sub><br><sub><code>ask-relative-for-missing-estate-documents</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbour-to-watch-empty-house.svg" width="44" height="44" alt="Ask a neighbour to keep an eye on an empty house"><br><sub><b>Ask a neighbour to keep an eye on an empty house</b></sub><br><sub><code>ask-neighbour-to-watch-empty-house</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-insurer-house-is-empty.svg" width="44" height="44" alt="Tell the home insurer that the house is empty after a death"><br><sub><b>Tell the home insurer that the house is empty after a death</b></sub><br><sub><code>tell-insurer-house-is-empty</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-valuer-to-price-belongings.svg" width="44" height="44" alt="Ask someone to value a dead person's belongings"><br><sub><b>Ask someone to value a dead person's belongings</b></sub><br><sub><code>ask-valuer-to-price-belongings</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-court-office-about-grant-status.svg" width="44" height="44" alt="Ask the court office where a probate application stands"><br><sub><b>Ask the court office where a probate application stands</b></sub><br><sub><code>ask-court-office-about-grant-status</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/family-meeting-about-estate-invitation.svg" width="44" height="44" alt="Invite family to talk about the estate"><br><sub><b>Invite family to talk about the estate</b></sub><br><sub><code>family-meeting-about-estate-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-bank-to-release-money-for-funeral.svg" width="44" height="44" alt="Ask a bank to pay funeral costs from the account"><br><sub><b>Ask a bank to pay funeral costs from the account</b></sub><br><sub><code>ask-bank-to-release-money-for-funeral</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/estate-to-do-list-for-executor.svg" width="44" height="44" alt="To-do list for an executor"><br><sub><b>To-do list for an executor</b></sub><br><sub><code>estate-to-do-list-for-executor</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-executor-where-things-are.svg" width="44" height="44" alt="Letter to my executor about where things are"><br><sub><b>Letter to my executor about where things are</b></sub><br><sub><code>letter-to-executor-where-things-are</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-beneficiary-what-they-receive.svg" width="44" height="44" alt="Tell someone what they will receive from an estate"><br><sub><b>Tell someone what they will receive from an estate</b></sub><br><sub><code>tell-beneficiary-what-they-receive</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-something-i-lent-the-person-who-died.svg" width="44" height="44" alt="Ask the family for something you lent to the person who died"><br><sub><b>Ask the family for something you lent to the person who died</b></sub><br><sub><code>ask-for-something-i-lent-the-person-who-died</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-family-to-share-photos-of-someone-who-died.svg" width="44" height="44" alt="Ask family to share photos of someone who died"><br><sub><b>Ask family to share photos of someone who died</b></sub><br><sub><code>ask-family-to-share-photos-of-someone-who-died</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/calm-reply-to-relative-who-disagrees-about-will.svg" width="44" height="44" alt="Reply calmly to a relative who disagrees about the will"><br><sub><b>Reply calmly to a relative who disagrees about the will</b></sub><br><sub><code>calm-reply-to-relative-who-disagrees-about-will</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-the-executor.svg" width="44" height="44" alt="Thank someone for being the executor"><br><sub><b>Thank someone for being the executor</b></sub><br><sub><code>thank-the-executor</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-local-tax-office-of-death.svg" width="44" height="44" alt="Tell the local tax office that a resident has died"><br><sub><b>Tell the local tax office that a resident has died</b></sub><br><sub><code>tell-local-tax-office-of-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-bank-about-joint-account-after-death.svg" width="44" height="44" alt="Ask a bank how a joint account works after a death"><br><sub><b>Ask a bank how a joint account works after a death</b></sub><br><sub><code>ask-bank-about-joint-account-after-death</code></sub></td>
+</tr>
+</table>
+
+[← Wedding guests and bridal party](wedding-guests.md) · [All categories](../README.md#gallery) · [Separation and divorce admin →](divorce-separation.md)

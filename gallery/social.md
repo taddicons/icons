@@ -1,6 +1,6 @@
 # Social posts
 
-<sub>Taddicons 2.1.0 · Documents & messages · 26 icons</sub>
+<sub>Taddicons 2.2.0 · Documents & messages · 44 icons</sub>
 
 Posts with a picture for the networks you connected, written for regular people, not influencers.
 
@@ -40,6 +40,30 @@ Posts with a picture for the networks you connected, written for regular people,
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/moving-post.svg" width="44" height="44" alt="We moved post"><br><sub><b>We moved post</b></sub><br><sub><code>moving-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/awareness-post.svg" width="44" height="44" alt="Awareness post for a cause"><br><sub><b>Awareness post for a cause</b></sub><br><sub><code>awareness-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-pet-post.svg" width="44" height="44" alt="Announce a new pet"><br><sub><b>Announce a new pet</b></sub><br><sub><code>new-pet-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/found-pet-post.svg" width="44" height="44" alt="Post about a found pet"><br><sub><b>Post about a found pet</b></sub><br><sub><code>found-pet-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbours-for-help-post.svg" width="44" height="44" alt="Ask neighbours for help"><br><sub><b>Ask neighbours for help</b></sub><br><sub><code>ask-neighbours-for-help-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-item-post.svg" width="44" height="44" alt="Post about a lost item"><br><sub><b>Post about a lost item</b></sub><br><sub><code>lost-item-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/married-years-anniversary-post.svg" width="44" height="44" alt="Share a wedding anniversary"><br><sub><b>Share a wedding anniversary</b></sub><br><sub><code>married-years-anniversary-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retirement-post.svg" width="44" height="44" alt="Post about retiring"><br><sub><b>Post about retiring</b></sub><br><sub><code>retirement-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-day-of-school-post.svg" width="44" height="44" alt="Post about the first day of school"><br><sub><b>Post about the first day of school</b></sub><br><sub><code>first-day-of-school-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/recovery-thank-you-post.svg" width="44" height="44" alt="Thank people after recovering"><br><sub><b>Thank people after recovering</b></sub><br><sub><code>recovery-thank-you-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/give-away-free-items-post.svg" width="44" height="44" alt="Give away free items"><br><sub><b>Give away free items</b></sub><br><sub><code>give-away-free-items-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/congratulate-a-friend-post.svg" width="44" height="44" alt="Congratulate a friend publicly"><br><sub><b>Congratulate a friend publicly</b></sub><br><sub><code>congratulate-a-friend-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/charity-run-update-post.svg" width="44" height="44" alt="Share a charity run update"><br><sub><b>Share a charity run update</b></sub><br><sub><code>charity-run-update-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fundraiser-thank-you-post.svg" width="44" height="44" alt="Thank donors after a fundraiser"><br><sub><b>Thank donors after a fundraiser</b></sub><br><sub><code>fundraiser-thank-you-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-thank-you-post.svg" width="44" height="44" alt="Thank guests after a wedding"><br><sub><b>Thank guests after a wedding</b></sub><br><sub><code>wedding-thank-you-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/closing-down-announcement-post.svg" width="44" height="44" alt="Announce that you are closing"><br><sub><b>Announce that you are closing</b></sub><br><sub><code>closing-down-announcement-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/taking-a-break-post.svg" width="44" height="44" alt="Announce a break from social media"><br><sub><b>Announce a break from social media</b></sub><br><sub><code>taking-a-break-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/local-alert-post.svg" width="44" height="44" alt="Share a local alert"><br><sub><b>Share a local alert</b></sub><br><sub><code>local-alert-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/adoption-day-post.svg" width="44" height="44" alt="Celebrate an adoption day"><br><sub><b>Celebrate an adoption day</b></sub><br><sub><code>adoption-day-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/year-in-review-post.svg" width="44" height="44" alt="Share a year in review"><br><sub><b>Share a year in review</b></sub><br><sub><code>year-in-review-post</code></sub></td>
 </tr>
 </table>
 

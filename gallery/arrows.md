@@ -1,6 +1,6 @@
 # Arrows & directions
 
-<sub>Taddicons 2.1.0 · Interface · 189 icons</sub>
+<sub>Taddicons 2.2.0 · Interface · 189 icons</sub>
 
 Arrows, chevrons, turns, swaps and every way to point.
 
@@ -260,4 +260,4 @@ Arrows, chevrons, turns, swaps and every way to point.
 </tr>
 </table>
 
-[← Travel](travel.md) · [All categories](../README.md#gallery) · [Interface & controls →](interface.md)
+[← Official letters, United States](official-us.md) · [All categories](../README.md#gallery) · [Interface & controls →](interface.md)

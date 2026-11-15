@@ -1,6 +1,6 @@
 # Society & causes
 
-<sub>Taddicons 2.1.0 · People & society · 75 icons</sub>
+<sub>Taddicons 2.2.0 · People & society · 75 icons</sub>
 
 Charity, civic life, voting, rights and relief.
 

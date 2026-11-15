@@ -1,0 +1,81 @@
+# Healthcare professionals
+
+<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+
+Notes from clinicians and care staff: reminders, referrals, handovers, results, rotas, student placements, thanks and replies to complaints.
+
+<table>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/clinic-appointment-reminder.svg" width="44" height="44" alt="Remind a patient of their appointment"><br><sub><b>Remind a patient of their appointment</b></sub><br><sub><code>clinic-appointment-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/missed-appointment-follow-up.svg" width="44" height="44" alt="Follow up after a missed appointment"><br><sub><b>Follow up after a missed appointment</b></sub><br><sub><code>missed-appointment-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinic-appointment-cancelled.svg" width="44" height="44" alt="Tell a patient we must cancel their visit"><br><sub><b>Tell a patient we must cancel their visit</b></sub><br><sub><code>clinic-appointment-cancelled</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pre-visit-preparation-note.svg" width="44" height="44" alt="Tell a patient how to prepare for a visit"><br><sub><b>Tell a patient how to prepare for a visit</b></sub><br><sub><code>pre-visit-preparation-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/test-results-ready-notice.svg" width="44" height="44" alt="Tell a patient their results are ready"><br><sub><b>Tell a patient their results are ready</b></sub><br><sub><code>test-results-ready-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sharing-results-kindly-letter.svg" width="44" height="44" alt="Share test results with care"><br><sub><b>Share test results with care</b></sub><br><sub><code>sharing-results-kindly-letter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/visit-summary-letter-to-patient.svg" width="44" height="44" alt="Write a summary after a patient visit"><br><sub><b>Write a summary after a patient visit</b></sub><br><sub><code>visit-summary-letter-to-patient</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/specialist-referral-letter.svg" width="44" height="44" alt="Refer a patient to a specialist"><br><sub><b>Refer a patient to a specialist</b></sub><br><sub><code>specialist-referral-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/referral-sent-note-to-patient.svg" width="44" height="44" alt="Tell a patient their referral has been sent"><br><sub><b>Tell a patient their referral has been sent</b></sub><br><sub><code>referral-sent-note-to-patient</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/referral-chaser-email.svg" width="44" height="44" alt="Chase a referral that has gone quiet"><br><sub><b>Chase a referral that has gone quiet</b></sub><br><sub><code>referral-chaser-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shift-handover-summary.svg" width="44" height="44" alt="Write a shift handover note"><br><sub><b>Write a shift handover note</b></sub><br><sub><code>shift-handover-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/patient-care-handover-to-team.svg" width="44" height="44" alt="Hand a patient's care to a colleague"><br><sub><b>Hand a patient's care to a colleague</b></sub><br><sub><code>patient-care-handover-to-team</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/going-home-instructions-plain.svg" width="44" height="44" alt="Write going-home instructions in plain words"><br><sub><b>Write going-home instructions in plain words</b></sub><br><sub><code>going-home-instructions-plain</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/care-visit-note-for-family.svg" width="44" height="44" alt="Update a family after a care visit"><br><sub><b>Update a family after a care visit</b></sub><br><sub><code>care-visit-note-for-family</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-rota-change-request.svg" width="44" height="44" alt="Ask a manager to change your shift"><br><sub><b>Ask a manager to change your shift</b></sub><br><sub><code>staff-rota-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shift-swap-notice-to-team.svg" width="44" height="44" alt="Ask the team to swap a shift"><br><sub><b>Ask the team to swap a shift</b></sub><br><sub><code>shift-swap-notice-to-team</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/on-call-cover-request.svg" width="44" height="44" alt="Ask a colleague to cover on call"><br><sub><b>Ask a colleague to cover on call</b></sub><br><sub><code>on-call-cover-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-placement-welcome-email.svg" width="44" height="44" alt="Welcome a student on placement"><br><sub><b>Welcome a student on placement</b></sub><br><sub><code>student-placement-welcome-email</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/student-placement-feedback-letter.svg" width="44" height="44" alt="Give feedback on a student placement"><br><sub><b>Give feedback on a student placement</b></sub><br><sub><code>student-placement-feedback-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-placement-request-email.svg" width="44" height="44" alt="Ask a ward to host a student"><br><sub><b>Ask a ward to host a student</b></sub><br><sub><code>student-placement-request-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinical-team-thank-you-note.svg" width="44" height="44" alt="Thank your team after a hard week"><br><sub><b>Thank your team after a hard week</b></sub><br><sub><code>clinical-team-thank-you-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-patient-kind-words.svg" width="44" height="44" alt="Reply to a family's thank-you"><br><sub><b>Reply to a family's thank-you</b></sub><br><sub><code>reply-to-patient-kind-words</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/complaint-acknowledgement-letter.svg" width="44" height="44" alt="Acknowledge a patient's complaint"><br><sub><b>Acknowledge a patient's complaint</b></sub><br><sub><code>complaint-acknowledgement-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/complaint-outcome-letter.svg" width="44" height="44" alt="Tell a patient what we found after a complaint"><br><sub><b>Tell a patient what we found after a complaint</b></sub><br><sub><code>complaint-outcome-letter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/apology-for-long-wait.svg" width="44" height="44" alt="Say sorry for a long wait"><br><sub><b>Say sorry for a long wait</b></sub><br><sub><code>apology-for-long-wait</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/patient-information-sheet-intro.svg" width="44" height="44" alt="Write a plain patient information sheet"><br><sub><b>Write a plain patient information sheet</b></sub><br><sub><code>patient-information-sheet-intro</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinic-hours-change-notice.svg" width="44" height="44" alt="Announce new clinic opening hours"><br><sub><b>Announce new clinic opening hours</b></sub><br><sub><code>clinic-hours-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-new-patient-letter.svg" width="44" height="44" alt="Welcome a new patient to the practice"><br><sub><b>Welcome a new patient to the practice</b></sub><br><sub><code>welcome-new-patient-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-patient-their-medicine-has-changed.svg" width="44" height="44" alt="Tell a patient their medicine has changed"><br><sub><b>Tell a patient their medicine has changed</b></sub><br><sub><code>tell-patient-their-medicine-has-changed</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/annual-review-recall-letter.svg" width="44" height="44" alt="Invite a patient to a yearly review"><br><sub><b>Invite a patient to a yearly review</b></sub><br><sub><code>annual-review-recall-letter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/vaccination-clinic-invitation.svg" width="44" height="44" alt="Invite patients to a vaccination clinic"><br><sub><b>Invite patients to a vaccination clinic</b></sub><br><sub><code>vaccination-clinic-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-patient-for-more-information-before-booking.svg" width="44" height="44" alt="Ask a patient for more details before we book"><br><sub><b>Ask a patient for more details before we book</b></sub><br><sub><code>ask-patient-for-more-information-before-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/out-of-stock-medicine-notice.svg" width="44" height="44" alt="Tell a patient their medicine is out of stock"><br><sub><b>Tell a patient their medicine is out of stock</b></sub><br><sub><code>out-of-stock-medicine-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/waiting-list-update-to-patient.svg" width="44" height="44" alt="Give a patient a waiting list update"><br><sub><b>Give a patient a waiting list update</b></sub><br><sub><code>waiting-list-update-to-patient</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-return-advice-letter-for-patient.svg" width="44" height="44" alt="Write a work return advice letter for a patient"><br><sub><b>Write a work return advice letter for a patient</b></sub><br><sub><code>work-return-advice-letter-for-patient</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/check-in-message-after-treatment.svg" width="44" height="44" alt="Check in on a patient after treatment"><br><sub><b>Check in on a patient after treatment</b></sub><br><sub><code>check-in-message-after-treatment</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/procedure-day-instructions-letter.svg" width="44" height="44" alt="Tell a patient how their procedure day will go"><br><sub><b>Tell a patient how their procedure day will go</b></sub><br><sub><code>procedure-day-instructions-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ward-visiting-rules-for-families.svg" width="44" height="44" alt="Explain ward visiting rules to families"><br><sub><b>Explain ward visiting rules to families</b></sub><br><sub><code>ward-visiting-rules-for-families</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-note-for-a-new-colleague-in-care.svg" width="44" height="44" alt="Welcome a new colleague to the care team"><br><sub><b>Welcome a new colleague to the care team</b></sub><br><sub><code>welcome-note-for-a-new-colleague-in-care</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-a-colleague-to-cover-a-clinic-session.svg" width="44" height="44" alt="Ask a colleague to cover a clinic session"><br><sub><b>Ask a colleague to cover a clinic session</b></sub><br><sub><code>ask-a-colleague-to-cover-a-clinic-session</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-a-volunteer-at-the-clinic.svg" width="44" height="44" alt="Thank a volunteer at our clinic"><br><sub><b>Thank a volunteer at our clinic</b></sub><br><sub><code>thank-a-volunteer-at-the-clinic</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-patients-their-nurse-is-leaving.svg" width="44" height="44" alt="Tell patients their nurse is leaving"><br><sub><b>Tell patients their nurse is leaving</b></sub><br><sub><code>tell-patients-their-nurse-is-leaving</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/infection-control-reminder-to-team.svg" width="44" height="44" alt="Remind the team about infection control"><br><sub><b>Remind the team about infection control</b></sub><br><sub><code>infection-control-reminder-to-team</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/book-an-interpreter-for-a-patient-visit.svg" width="44" height="44" alt="Book an interpreter for a patient visit"><br><sub><b>Book an interpreter for a patient visit</b></sub><br><sub><code>book-an-interpreter-for-a-patient-visit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-a-patient-to-arrive-on-time.svg" width="44" height="44" alt="Ask patients to arrive on time"><br><sub><b>Ask patients to arrive on time</b></sub><br><sub><code>ask-a-patient-to-arrive-on-time</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/update-doctor-on-a-patient-after-hospital-stay.svg" width="44" height="44" alt="Update a patient's doctor after a hospital stay"><br><sub><b>Update a patient's doctor after a hospital stay</b></sub><br><sub><code>update-doctor-on-a-patient-after-hospital-stay</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/explain-why-we-cannot-prescribe-a-medicine.svg" width="44" height="44" alt="Explain kindly why we cannot give a medicine"><br><sub><b>Explain kindly why we cannot give a medicine</b></sub><br><sub><code>explain-why-we-cannot-prescribe-a-medicine</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-closure-notice-for-patients.svg" width="44" height="44" alt="Tell patients when the clinic is closed over a holiday"><br><sub><b>Tell patients when the clinic is closed over a holiday</b></sub><br><sub><code>holiday-closure-notice-for-patients</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/announce-a-new-clinic-service.svg" width="44" height="44" alt="Announce a new service at our clinic"><br><sub><b>Announce a new service at our clinic</b></sub><br><sub><code>announce-a-new-clinic-service</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-patients-for-feedback-on-their-visit.svg" width="44" height="44" alt="Ask patients for feedback on their visit"><br><sub><b>Ask patients for feedback on their visit</b></sub><br><sub><code>ask-patients-for-feedback-on-their-visit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/learning-note-after-a-near-miss.svg" width="44" height="44" alt="Share a learning note after a near miss"><br><sub><b>Share a learning note after a near miss</b></sub><br><sub><code>learning-note-after-a-near-miss</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reference-for-a-care-colleague.svg" width="44" height="44" alt="Write a reference for a care colleague"><br><sub><b>Write a reference for a care colleague</b></sub><br><sub><code>reference-for-a-care-colleague</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-week-plan-for-a-new-care-assistant.svg" width="44" height="44" alt="Set out a first week plan for a care assistant"><br><sub><b>Set out a first week plan for a care assistant</b></sub><br><sub><code>first-week-plan-for-a-new-care-assistant</code></sub></td>
+</tr>
+</table>
+
+[← Teachers and educators](teachers-educators.md) · [All categories](../README.md#gallery) · [Shops and market stalls →](retail-markets.md)

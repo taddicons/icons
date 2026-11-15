@@ -3,6 +3,18 @@
 All notable changes to Taddicons. The project follows [Semantic Versioning](https://semver.org): icon names and
 webfont code points never change within a major version.
 
+## 2.2.0 (2026-11-15)
+
+6,265 new icons: every kind of document and message Taddi now writes has its own icon, 12,105 icons in all.
+
+- 98 new categories in the Documents & messages section, from health appointments, renting and immigration to weddings,
+  small business, sales outreach, open source, school parents and official letters for 20 countries. The new document icons for trades and celebrations
+  sit in their own categories (`trades-documents`, `celebrations-documents`), next to the interface ones.
+- Every new icon has its own drawing; no two icons in the set share one.
+- Names and code points of all 5,840 earlier icons are unchanged. The new icons take the rest of the Private Use Area
+  up to U+F8FF and then continue in Supplementary Private Use Area-A from U+F0000.
+- Font, sprites, message emoji, gallery, PNG, WebP, AVIF and ICO downloads are rebuilt for the whole set.
+
 ## 2.1.0 (2026-11-07)
 
 - Message emoji for every icon (founder, 7 November 2026: white sticker, Taddi gradient lines): `svg/emoji/<name>.svg`,
@@ -25,7 +37,7 @@ webfont code points never change within a major version.
 
 Taddicons becomes a complete icon set: 5,840 outline icons in 79 categories and eight sections.
 
-- 5,440 new icons, drawn by hand in the same style as version 1: interface (arrows, controls, text, files,
+- 5,440 new icons, drawn in the same style as version 1: interface (arrows, controls, text, files,
   communication, devices, connectivity, media, design, code, charts, security, time, shapes, maths), business (office,
   commerce, finance, logistics, property), people (people, hands, accessibility, emoji, celebrations, faith, society),
   everyday life (health, dental, veterinary, beauty, baby, household, kitchen, food, clothing, education), science and

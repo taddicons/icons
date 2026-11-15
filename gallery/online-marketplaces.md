@@ -1,0 +1,81 @@
+# Online shopping and marketplaces
+
+<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+
+Messages for buying and selling on marketplaces: questions, offers, pickups, problems, feedback and scam reports.
+
+<table>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/item-still-available.svg" width="44" height="44" alt="Ask if an item is still for sale"><br><sub><b>Ask if an item is still for sale</b></sub><br><sub><code>item-still-available</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seller-more-photos.svg" width="44" height="44" alt="Ask a seller for more photos"><br><sub><b>Ask a seller for more photos</b></sub><br><sub><code>seller-more-photos</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-condition-question.svg" width="44" height="44" alt="Ask a seller about an item's age and condition"><br><sub><b>Ask a seller about an item's age and condition</b></sub><br><sub><code>item-condition-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lower-price-offer.svg" width="44" height="44" alt="Offer a lower price to a seller"><br><sub><b>Offer a lower price to a seller</b></sub><br><sub><code>lower-price-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/counteroffer-reply.svg" width="44" height="44" alt="Answer a seller's counter price"><br><sub><b>Answer a seller's counter price</b></sub><br><sub><code>counteroffer-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/low-offer-decline.svg" width="44" height="44" alt="Say no to a very low offer"><br><sub><b>Say no to a very low offer</b></sub><br><sub><code>low-offer-decline</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/shipping-cost-question.svg" width="44" height="44" alt="Ask a seller about postage and packing"><br><sub><b>Ask a seller about postage and packing</b></sub><br><sub><code>shipping-cost-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bundle-items-request.svg" width="44" height="44" alt="Ask to buy several items together"><br><sub><b>Ask to buy several items together</b></sub><br><sub><code>bundle-items-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/safe-meeting-place.svg" width="44" height="44" alt="Suggest a safe place to meet a buyer or seller"><br><sub><b>Suggest a safe place to meet a buyer or seller</b></sub><br><sub><code>safe-meeting-place</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pickup-running-late.svg" width="44" height="44" alt="Tell a buyer or seller you are running late"><br><sub><b>Tell a buyer or seller you are running late</b></sub><br><sub><code>pickup-running-late</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-not-as-described.svg" width="44" height="44" alt="Say an item was not as described"><br><sub><b>Say an item was not as described</b></sub><br><sub><code>item-not-as-described</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/order-not-arrived.svg" width="44" height="44" alt="Ask a seller where my order is"><br><sub><b>Ask a seller where my order is</b></sub><br><sub><code>order-not-arrived</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/parcel-damaged-in-post.svg" width="44" height="44" alt="Report an item broken in the post"><br><sub><b>Report an item broken in the post</b></sub><br><sub><code>parcel-damaged-in-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/marketplace-return-request.svg" width="44" height="44" alt="Ask to return an item you bought online"><br><sub><b>Ask to return an item you bought online</b></sub><br><sub><code>marketplace-return-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seller-refund-offer.svg" width="44" height="44" alt="Offer a buyer a refund or fix"><br><sub><b>Offer a buyer a refund or fix</b></sub><br><sub><code>seller-refund-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/buyer-no-show-message.svg" width="44" height="44" alt="Message a buyer who did not show up"><br><sub><b>Message a buyer who did not show up</b></sub><br><sub><code>buyer-no-show-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seller-feedback-review.svg" width="44" height="44" alt="Leave feedback for a seller"><br><sub><b>Leave feedback for a seller</b></sub><br><sub><code>seller-feedback-review</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/buyer-feedback-review.svg" width="44" height="44" alt="Leave feedback for a buyer"><br><sub><b>Leave feedback for a buyer</b></sub><br><sub><code>buyer-feedback-review</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/fake-listing-report.svg" width="44" height="44" alt="Report a fake or scam listing"><br><sub><b>Report a fake or scam listing</b></sub><br><sub><code>fake-listing-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/scam-seller-warning-post.svg" width="44" height="44" alt="Warn others about a scam seller"><br><sub><b>Warn others about a scam seller</b></sub><br><sub><code>scam-seller-warning-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/overpayment-scam-refusal.svg" width="44" height="44" alt="Refuse an offer to pay too much"><br><sub><b>Refuse an offer to pay too much</b></sub><br><sub><code>overpayment-scam-refusal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-swap-proposal.svg" width="44" height="44" alt="Propose swapping items"><br><sub><b>Propose swapping items</b></sub><br><sub><code>item-swap-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hold-item-request.svg" width="44" height="44" alt="Ask a seller to hold an item for you"><br><sub><b>Ask a seller to hold an item for you</b></sub><br><sub><code>hold-item-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/price-drop-post.svg" width="44" height="44" alt="Lower the price on your listing"><br><sub><b>Lower the price on your listing</b></sub><br><sub><code>price-drop-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/proof-of-purchase-request.svg" width="44" height="44" alt="Ask a seller for a receipt or proof"><br><sub><b>Ask a seller for a receipt or proof</b></sub><br><sub><code>proof-of-purchase-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/payment-dispute-note.svg" width="44" height="44" alt="Ask the site or bank to look into a payment"><br><sub><b>Ask the site or bank to look into a payment</b></sub><br><sub><code>payment-dispute-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/free-item-giveaway-post.svg" width="44" height="44" alt="Give an item away for free"><br><sub><b>Give an item away for free</b></sub><br><sub><code>free-item-giveaway-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seller-delivery-delay-notice.svg" width="44" height="44" alt="Tell a buyer their order will arrive late"><br><sub><b>Tell a buyer their order will arrive late</b></sub><br><sub><code>seller-delivery-delay-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/buyer-cancel-order-request.svg" width="44" height="44" alt="Ask to cancel an order you just placed"><br><sub><b>Ask to cancel an order you just placed</b></sub><br><sub><code>buyer-cancel-order-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/waiting-buyers-item-sold.svg" width="44" height="44" alt="Tell interested buyers an item has been sold"><br><sub><b>Tell interested buyers an item has been sold</b></sub><br><sub><code>waiting-buyers-item-sold</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pickup-time-proposal.svg" width="44" height="44" alt="Suggest a time to collect an item"><br><sub><b>Suggest a time to collect an item</b></sub><br><sub><code>pickup-time-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/payment-sent-confirmation.svg" width="44" height="44" alt="Tell a seller you have paid"><br><sub><b>Tell a seller you have paid</b></sub><br><sub><code>payment-sent-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/postage-tracking-details.svg" width="44" height="44" alt="Send a buyer the tracking details"><br><sub><b>Send a buyer the tracking details</b></sub><br><sub><code>postage-tracking-details</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-received-confirmation.svg" width="44" height="44" alt="Tell a seller the item has arrived"><br><sub><b>Tell a seller the item has arrived</b></sub><br><sub><code>item-received-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wrong-item-received-report.svg" width="44" height="44" alt="Report that the wrong item was sent"><br><sub><b>Report that the wrong item was sent</b></sub><br><sub><code>wrong-item-received-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/missing-parts-report.svg" width="44" height="44" alt="Report parts missing from something you bought"><br><sub><b>Report parts missing from something you bought</b></sub><br><sub><code>missing-parts-report</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/return-request-decline.svg" width="44" height="44" alt="Politely refuse a buyer's request to return an item"><br><sub><b>Politely refuse a buyer's request to return an item</b></sub><br><sub><code>return-request-decline</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-relist-notice.svg" width="44" height="44" alt="Tell followers an item is back on sale"><br><sub><b>Tell followers an item is back on sale</b></sub><br><sub><code>item-relist-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/measurements-request.svg" width="44" height="44" alt="Ask a seller for the exact measurements"><br><sub><b>Ask a seller for the exact measurements</b></sub><br><sub><code>measurements-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-age-and-use-question.svg" width="44" height="44" alt="Ask a seller how old an item is and how it was used"><br><sub><b>Ask a seller how old an item is and how it was used</b></sub><br><sub><code>item-age-and-use-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/deposit-for-large-item-request.svg" width="44" height="44" alt="Ask a buyer for a deposit on a large item"><br><sub><b>Ask a buyer for a deposit on a large item</b></sub><br><sub><code>deposit-for-large-item-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cash-on-collection-agreement.svg" width="44" height="44" alt="Agree to pay cash when you collect"><br><sub><b>Agree to pay cash when you collect</b></sub><br><sub><code>cash-on-collection-agreement</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/authenticity-question.svg" width="44" height="44" alt="Ask a seller to prove an item is genuine"><br><sub><b>Ask a seller to prove an item is genuine</b></sub><br><sub><code>authenticity-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seller-unresponsive-chaser.svg" width="44" height="44" alt="Chase a seller who has gone quiet"><br><sub><b>Chase a seller who has gone quiet</b></sub><br><sub><code>seller-unresponsive-chaser</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/abusive-buyer-report.svg" width="44" height="44" alt="Report a rude or threatening buyer to the site"><br><sub><b>Report a rude or threatening buyer to the site</b></sub><br><sub><code>abusive-buyer-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/delivery-address-correction.svg" width="44" height="44" alt="Fix the delivery address on your order"><br><sub><b>Fix the delivery address on your order</b></sub><br><sub><code>delivery-address-correction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/part-refund-after-problem.svg" width="44" height="44" alt="Ask for a part refund after a small problem"><br><sub><b>Ask for a part refund after a small problem</b></sub><br><sub><code>part-refund-after-problem</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/return-policy-question.svg" width="44" height="44" alt="Ask a seller about their return rules before buying"><br><sub><b>Ask a seller about their return rules before buying</b></sub><br><sub><code>return-policy-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wanted-item-post.svg" width="44" height="44" alt="Post asking for an item you want"><br><sub><b>Post asking for an item you want</b></sub><br><sub><code>wanted-item-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbourhood-sale-post.svg" width="44" height="44" alt="Post announcing a neighbourhood sale"><br><sub><b>Post announcing a neighbourhood sale</b></sub><br><sub><code>neighbourhood-sale-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-you-after-purchase.svg" width="44" height="44" alt="Thank a seller after a good sale"><br><sub><b>Thank a seller after a good sale</b></sub><br><sub><code>thank-you-after-purchase</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-no-longer-for-sale.svg" width="44" height="44" alt="Take down a listing and tell people why"><br><sub><b>Take down a listing and tell people why</b></sub><br><sub><code>item-no-longer-for-sale</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/courier-collection-arrangement.svg" width="44" height="44" alt="Arrange for a courier to collect a large item"><br><sub><b>Arrange for a courier to collect a large item</b></sub><br><sub><code>courier-collection-arrangement</code></sub></td>
+</tr>
+</table>
+
+[← Consumer rights and refunds](consumer-refunds.md) · [All categories](../README.md#gallery) · [Phone, internet and subscriptions →](telecoms-subscriptions.md)

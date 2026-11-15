@@ -1,6 +1,6 @@
 # Small business and side hustle
 
-<sub>Taddicons 2.1.0 · Documents & messages · 25 icons</sub>
+<sub>Taddicons 2.2.0 · Documents & messages · 72 icons</sub>
 
 Everything a small shop, freelancer or club treasurer sends to customers.
 
@@ -39,6 +39,67 @@ Everything a small shop, freelancer or club treasurer sends to customers.
 </tr>
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/gift-voucher.svg" width="44" height="44" alt="Gift voucher"><br><sub><b>Gift voucher</b></sub><br><sub><code>gift-voucher</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/confirm-order-details-with-customer.svg" width="44" height="44" alt="Confirm order details with a customer"><br><sub><b>Confirm order details with a customer</b></sub><br><sub><code>confirm-order-details-with-customer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-customer-item-is-back-in-stock.svg" width="44" height="44" alt="Tell a customer an item is back in stock"><br><sub><b>Tell a customer an item is back in stock</b></sub><br><sub><code>tell-customer-item-is-back-in-stock</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/apologise-for-a-long-wait.svg" width="44" height="44" alt="Apologise for a long customer wait"><br><sub><b>Apologise for a long customer wait</b></sub><br><sub><code>apologise-for-a-long-wait</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-a-customer-for-a-deposit.svg" width="44" height="44" alt="Ask a customer for a deposit"><br><sub><b>Ask a customer for a deposit</b></sub><br><sub><code>ask-a-customer-for-a-deposit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-a-quote-request.svg" width="44" height="44" alt="Reply to a quote request"><br><sub><b>Reply to a quote request</b></sub><br><sub><code>reply-to-a-quote-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/turn-down-a-custom-order.svg" width="44" height="44" alt="Turn down a custom order"><br><sub><b>Turn down a custom order</b></sub><br><sub><code>turn-down-a-custom-order</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-customer-delivery-date.svg" width="44" height="44" alt="Tell a customer the delivery date"><br><sub><b>Tell a customer the delivery date</b></sub><br><sub><code>tell-customer-delivery-date</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/send-bank-details-for-payment.svg" width="44" height="44" alt="Send bank details for payment"><br><sub><b>Send bank details for payment</b></sub><br><sub><code>send-bank-details-for-payment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/follow-up-after-a-repair-job.svg" width="44" height="44" alt="Follow up after a repair job"><br><sub><b>Follow up after a repair job</b></sub><br><sub><code>follow-up-after-a-repair-job</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/announce-a-new-service.svg" width="44" height="44" alt="Announce a new service"><br><sub><b>Announce a new service</b></sub><br><sub><code>announce-a-new-service</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-supplier-for-invoice-copy.svg" width="44" height="44" alt="Ask a supplier for an invoice copy"><br><sub><b>Ask a supplier for an invoice copy</b></sub><br><sub><code>ask-supplier-for-invoice-copy</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-a-price-haggle.svg" width="44" height="44" alt="Reply to a customer asking for a lower price"><br><sub><b>Reply to a customer asking for a lower price</b></sub><br><sub><code>reply-to-a-price-haggle</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-a-supplier.svg" width="44" height="44" alt="Thank a supplier for good service"><br><sub><b>Thank a supplier for good service</b></sub><br><sub><code>thank-a-supplier</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/message-after-a-missed-booking.svg" width="44" height="44" alt="Message a customer who missed a booking"><br><sub><b>Message a customer who missed a booking</b></sub><br><sub><code>message-after-a-missed-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-customer-to-collect-order.svg" width="44" height="44" alt="Ask a customer to collect an order"><br><sub><b>Ask a customer to collect an order</b></sub><br><sub><code>ask-customer-to-collect-order</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-customer-about-a-product-fault.svg" width="44" height="44" alt="Tell a customer about a product fault"><br><sub><b>Tell a customer about a product fault</b></sub><br><sub><code>tell-customer-about-a-product-fault</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-customers-to-an-open-day.svg" width="44" height="44" alt="Invite customers to an open day"><br><sub><b>Invite customers to an open day</b></sub><br><sub><code>invite-customers-to-an-open-day</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/customer-price-rise-notice.svg" width="44" height="44" alt="Tell customers your prices are going up"><br><sub><b>Tell customers your prices are going up</b></sub><br><sub><code>customer-price-rise-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/end-supplier-agreement.svg" width="44" height="44" alt="Tell a supplier you are ending your agreement"><br><sub><b>Tell a supplier you are ending your agreement</b></sub><br><sub><code>end-supplier-agreement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-a-refund-request.svg" width="44" height="44" alt="Reply to a customer asking for a refund"><br><sub><b>Reply to a customer asking for a refund</b></sub><br><sub><code>reply-to-a-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-customer-to-confirm-booking.svg" width="44" height="44" alt="Ask a customer to confirm their booking"><br><sub><b>Ask a customer to confirm their booking</b></sub><br><sub><code>ask-customer-to-confirm-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cancel-a-customer-booking.svg" width="44" height="44" alt="Tell a customer you must cancel their booking"><br><sub><b>Tell a customer you must cancel their booking</b></sub><br><sub><code>cancel-a-customer-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/client-review-meeting-invite.svg" width="44" height="44" alt="Invite a client to a review meeting"><br><sub><b>Invite a client to a review meeting</b></sub><br><sub><code>client-review-meeting-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/send-contract-for-signing.svg" width="44" height="44" alt="Send a contract to a client for signing"><br><sub><b>Send a contract to a client for signing</b></sub><br><sub><code>send-contract-for-signing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-terms-change-notice.svg" width="44" height="44" alt="Tell customers about a change to your terms"><br><sub><b>Tell customers about a change to your terms</b></sub><br><sub><code>customer-terms-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-a-customer-data-request.svg" width="44" height="44" alt="Reply to a customer asking for the data you hold"><br><sub><b>Reply to a customer asking for the data you hold</b></sub><br><sub><code>reply-to-a-customer-data-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seasonal-sale-announcement.svg" width="44" height="44" alt="Announce a seasonal sale to customers"><br><sub><b>Announce a seasonal sale to customers</b></sub><br><sub><code>seasonal-sale-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/year-end-customer-thank-you.svg" width="44" height="44" alt="Thank your customers at the end of the year"><br><sub><b>Thank your customers at the end of the year</b></sub><br><sub><code>year-end-customer-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/joint-event-proposal-to-a-local-business.svg" width="44" height="44" alt="Suggest a joint event to another local business"><br><sub><b>Suggest a joint event to another local business</b></sub><br><sub><code>joint-event-proposal-to-a-local-business</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/story-pitch-to-local-news.svg" width="44" height="44" alt="Pitch a story about your business to local news"><br><sub><b>Pitch a story about your business to local news</b></sub><br><sub><code>story-pitch-to-local-news</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/failed-card-payment-update-request.svg" width="44" height="44" alt="Ask a customer to update card details after a failed payment"><br><sub><b>Ask a customer to update card details after a failed payment</b></sub><br><sub><code>failed-card-payment-update-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/job-completion-note.svg" width="44" height="44" alt="Tell a customer a job is finished"><br><sub><b>Tell a customer a job is finished</b></sub><br><sub><code>job-completion-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-customer-for-site-access-details.svg" width="44" height="44" alt="Ask a customer how to get into the site before a job"><br><sub><b>Ask a customer how to get into the site before a job</b></sub><br><sub><code>ask-customer-for-site-access-details</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/out-of-stock-substitute-offer.svg" width="44" height="44" alt="Offer a customer a swap for an out-of-stock item"><br><sub><b>Offer a customer a swap for an out-of-stock item</b></sub><br><sub><code>out-of-stock-substitute-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/minimum-order-explained.svg" width="44" height="44" alt="Explain your minimum order to a customer"><br><sub><b>Explain your minimum order to a customer</b></sub><br><sub><code>minimum-order-explained</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/late-payment-fee-notice.svg" width="44" height="44" alt="Tell a customer a late payment fee may apply"><br><sub><b>Tell a customer a late payment fee may apply</b></sub><br><sub><code>late-payment-fee-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-shortage-service-notice.svg" width="44" height="44" alt="Tell customers service is slower due to staff shortages"><br><sub><b>Tell customers service is slower due to staff shortages</b></sub><br><sub><code>staff-shortage-service-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-customer-for-a-large-order.svg" width="44" height="44" alt="Thank a customer for a large order"><br><sub><b>Thank a customer for a large order</b></sub><br><sub><code>thank-customer-for-a-large-order</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/revised-quote-notice.svg" width="44" height="44" alt="Send a customer a revised quote"><br><sub><b>Send a customer a revised quote</b></sub><br><sub><code>revised-quote-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-feedback-survey-invite.svg" width="44" height="44" alt="Invite customers to fill in a short survey"><br><sub><b>Invite customers to fill in a short survey</b></sub><br><sub><code>customer-feedback-survey-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/job-running-late-update.svg" width="44" height="44" alt="Tell a customer a job will take longer than planned"><br><sub><b>Tell a customer a job will take longer than planned</b></sub><br><sub><code>job-running-late-update</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trade-account-application-reply.svg" width="44" height="44" alt="Reply to a business asking for a trade account"><br><sub><b>Reply to a business asking for a trade account</b></sub><br><sub><code>trade-account-application-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-to-take-on-a-client.svg" width="44" height="44" alt="Politely decline to take on a new client"><br><sub><b>Politely decline to take on a new client</b></sub><br><sub><code>decline-to-take-on-a-client</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/chase-an-unsigned-contract.svg" width="44" height="44" alt="Remind a client to sign and return a contract"><br><sub><b>Remind a client to sign and return a contract</b></sub><br><sub><code>chase-an-unsigned-contract</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-credit-note-notice.svg" width="44" height="44" alt="Tell a customer you have issued a credit note"><br><sub><b>Tell a customer you have issued a credit note</b></sub><br><sub><code>customer-credit-note-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/subcontractor-job-offer.svg" width="44" height="44" alt="Offer a job to a subcontractor"><br><sub><b>Offer a job to a subcontractor</b></sub><br><sub><code>subcontractor-job-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-shop-to-stock-your-product.svg" width="44" height="44" alt="Ask a shop to stock your product"><br><sub><b>Ask a shop to stock your product</b></sub><br><sub><code>ask-shop-to-stock-your-product</code></sub></td>
 </tr>
 </table>
 

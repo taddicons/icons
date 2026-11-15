@@ -1,6 +1,6 @@
 # Home and renting
 
-<sub>Taddicons 2.1.0 · Documents & messages · 18 icons</sub>
+<sub>Taddicons 2.2.0 · Documents & messages · 45 icons</sub>
 
 Landlords, tenants, neighbours and moving.
 
@@ -28,6 +28,43 @@ Landlords, tenants, neighbours and moving.
 <td align="center" width="16%"><img src="../svg/mark/rent-increase-objection.svg" width="44" height="44" alt="Object to a rent increase"><br><sub><b>Object to a rent increase</b></sub><br><sub><code>rent-increase-objection</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/property-listing.svg" width="44" height="44" alt="Room or flat listing"><br><sub><b>Room or flat listing</b></sub><br><sub><code>property-listing</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/roommate-agreement.svg" width="44" height="44" alt="Roommate agreement"><br><sub><b>Roommate agreement</b></sub><br><sub><code>roommate-agreement</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pet-permission-request-landlord.svg" width="44" height="44" alt="Ask your landlord if you may keep a pet"><br><sub><b>Ask your landlord if you may keep a pet</b></sub><br><sub><code>pet-permission-request-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/paint-rental-permission-ask.svg" width="44" height="44" alt="Ask to paint or decorate a rented home"><br><sub><b>Ask to paint or decorate a rented home</b></sub><br><sub><code>paint-rental-permission-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-keys-report-landlord.svg" width="44" height="44" alt="Tell your landlord you lost your keys"><br><sub><b>Tell your landlord you lost your keys</b></sub><br><sub><code>lost-keys-report-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/parking-space-request-landlord.svg" width="44" height="44" alt="Ask your landlord about a parking space"><br><sub><b>Ask your landlord about a parking space</b></sub><br><sub><code>parking-space-request-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-neighbour-for-help.svg" width="44" height="44" alt="Thank a neighbour for helping you"><br><sub><b>Thank a neighbour for helping you</b></sub><br><sub><code>thank-neighbour-for-help</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbour-to-take-parcels.svg" width="44" height="44" alt="Ask a neighbour to take in parcels"><br><sub><b>Ask a neighbour to take in parcels</b></sub><br><sub><code>ask-neighbour-to-take-parcels</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-fence-hedge-note.svg" width="44" height="44" alt="Raise a fence or hedge problem with a neighbour"><br><sub><b>Raise a fence or hedge problem with a neighbour</b></sub><br><sub><code>neighbour-fence-hedge-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-party-heads-up.svg" width="44" height="44" alt="Tell neighbours you are having a party"><br><sub><b>Tell neighbours you are having a party</b></sub><br><sub><code>neighbour-party-heads-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-tree-branches-note.svg" width="44" height="44" alt="Ask a neighbour to trim overhanging branches"><br><sub><b>Ask a neighbour to trim overhanging branches</b></sub><br><sub><code>neighbour-tree-branches-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/blocked-driveway-neighbour-note.svg" width="44" height="44" alt="Ask a neighbour not to block your drive"><br><sub><b>Ask a neighbour not to block your drive</b></sub><br><sub><code>blocked-driveway-neighbour-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/moved-home-announcement.svg" width="44" height="44" alt="Tell friends and family you have moved"><br><sub><b>Tell friends and family you have moved</b></sub><br><sub><code>moved-home-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friends-help-moving.svg" width="44" height="44" alt="Ask friends to help you move"><br><sub><b>Ask friends to help you move</b></sub><br><sub><code>ask-friends-help-moving</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/moving-company-quote-request.svg" width="44" height="44" alt="Ask a moving company for a quote"><br><sub><b>Ask a moving company for a quote</b></sub><br><sub><code>moving-company-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/change-address-notice-letter.svg" width="44" height="44" alt="Tell an organisation your new address"><br><sub><b>Tell an organisation your new address</b></sub><br><sub><code>change-address-notice-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-new-owner-to-pass-on-post.svg" width="44" height="44" alt="Ask the new occupant to pass on your post"><br><sub><b>Ask the new occupant to pass on your post</b></sub><br><sub><code>ask-new-owner-to-pass-on-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/home-purchase-offer-letter.svg" width="44" height="44" alt="Make an offer on a home"><br><sub><b>Make an offer on a home</b></sub><br><sub><code>home-purchase-offer-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sale-progress-update-request.svg" width="44" height="44" alt="Ask an estate agent for a sale update"><br><sub><b>Ask an estate agent for a sale update</b></sub><br><sub><code>sale-progress-update-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/housewarming-invitation-neighbours.svg" width="44" height="44" alt="Invite neighbours to a housewarming"><br><sub><b>Invite neighbours to a housewarming</b></sub><br><sub><code>housewarming-invitation-neighbours</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rent-due-date-change-request.svg" width="44" height="44" alt="Ask your landlord to change the rent due date"><br><sub><b>Ask your landlord to change the rent due date</b></sub><br><sub><code>rent-due-date-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/appliance-breakdown-report-landlord.svg" width="44" height="44" alt="Report a broken appliance to your landlord"><br><sub><b>Report a broken appliance to your landlord</b></sub><br><sub><code>appliance-breakdown-report-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rental-satellite-broadband-permission.svg" width="44" height="44" alt="Ask permission to install broadband or a dish"><br><sub><b>Ask permission to install broadband or a dish</b></sub><br><sub><code>rental-satellite-broadband-permission</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/flatmate-cleaning-rota-message.svg" width="44" height="44" alt="Agree a cleaning rota with your housemates"><br><sub><b>Agree a cleaning rota with your housemates</b></sub><br><sub><code>flatmate-cleaning-rota-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/housemate-guest-staying-ask.svg" width="44" height="44" alt="Ask housemates if a guest can stay"><br><sub><b>Ask housemates if a guest can stay</b></sub><br><sub><code>housemate-guest-staying-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/move-out-inspection-request.svg" width="44" height="44" alt="Ask for a move-out inspection"><br><sub><b>Ask for a move-out inspection</b></sub><br><sub><code>move-out-inspection-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/shared-hallway-problem-note.svg" width="44" height="44" alt="Report a messy shared hallway or bins"><br><sub><b>Report a messy shared hallway or bins</b></sub><br><sub><code>shared-hallway-problem-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/key-handover-arrangement-message.svg" width="44" height="44" alt="Arrange the key handover day"><br><sub><b>Arrange the key handover day</b></sub><br><sub><code>key-handover-arrangement-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-new-neighbours-card.svg" width="44" height="44" alt="Welcome new neighbours"><br><sub><b>Welcome new neighbours</b></sub><br><sub><code>welcome-new-neighbours-card</code></sub></td>
 </tr>
 </table>
 

@@ -1,0 +1,81 @@
+# Airlines, hotels and holiday complaints
+
+<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+
+Letters and messages to put right flight, hotel, package holiday, rental car and cruise problems, and to thank staff who helped.
+
+<table>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/flight-delay-expenses-claim.svg" width="44" height="44" alt="Ask an airline to repay costs of a delay"><br><sub><b>Ask an airline to repay costs of a delay</b></sub><br><sub><code>flight-delay-expenses-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/denied-boarding-complaint.svg" width="44" height="44" alt="Complain about being refused a seat on a flight"><br><sub><b>Complain about being refused a seat on a flight</b></sub><br><sub><code>denied-boarding-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/delayed-bag-essentials-claim.svg" width="44" height="44" alt="Ask an airline to pay for things while my bag is late"><br><sub><b>Ask an airline to pay for things while my bag is late</b></sub><br><sub><code>delayed-bag-essentials-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airline-voucher-refund-request.svg" width="44" height="44" alt="Ask for money back instead of a travel voucher"><br><sub><b>Ask for money back instead of a travel voucher</b></sub><br><sub><code>airline-voucher-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airline-seat-downgrade-complaint.svg" width="44" height="44" alt="Complain about a seat or class you did not get"><br><sub><b>Complain about a seat or class you did not get</b></sub><br><sub><code>airline-seat-downgrade-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-overbooking-complaint.svg" width="44" height="44" alt="Complain that the hotel had no room for me"><br><sub><b>Complain that the hotel had no room for me</b></sub><br><sub><code>hotel-overbooking-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/hotel-cleanliness-complaint.svg" width="44" height="44" alt="Complain about a dirty hotel room"><br><sub><b>Complain about a dirty hotel room</b></sub><br><sub><code>hotel-cleanliness-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-deposit-refund-request.svg" width="44" height="44" alt="Ask a hotel for my deposit back"><br><sub><b>Ask a hotel for my deposit back</b></sub><br><sub><code>hotel-deposit-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-facilities-closed-complaint.svg" width="44" height="44" alt="Complain that hotel facilities were shut"><br><sub><b>Complain that hotel facilities were shut</b></sub><br><sub><code>hotel-facilities-closed-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/booking-site-error-complaint.svg" width="44" height="44" alt="Complain to a booking site about a wrong booking"><br><sub><b>Complain to a booking site about a wrong booking</b></sub><br><sub><code>booking-site-error-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/package-holiday-complaint.svg" width="44" height="44" alt="Complain about a package holiday"><br><sub><b>Complain about a package holiday</b></sub><br><sub><code>package-holiday-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/package-holiday-cancellation-refund.svg" width="44" height="44" alt="Ask a tour company to refund a cancelled holiday"><br><sub><b>Ask a tour company to refund a cancelled holiday</b></sub><br><sub><code>package-holiday-cancellation-refund</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/holiday-not-as-described-complaint.svg" width="44" height="44" alt="Complain that a holiday home was not as advertised"><br><sub><b>Complain that a holiday home was not as advertised</b></sub><br><sub><code>holiday-not-as-described-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tour-trip-complaint.svg" width="44" height="44" alt="Complain about a guided tour or day trip"><br><sub><b>Complain about a guided tour or day trip</b></sub><br><sub><code>tour-trip-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/travel-agent-complaint.svg" width="44" height="44" alt="Complain about a travel agent"><br><sub><b>Complain about a travel agent</b></sub><br><sub><code>travel-agent-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rental-car-extra-charges-dispute.svg" width="44" height="44" alt="Dispute extra charges from a car hire firm"><br><sub><b>Dispute extra charges from a car hire firm</b></sub><br><sub><code>rental-car-extra-charges-dispute</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rental-car-breakdown-claim.svg" width="44" height="44" alt="Ask a car hire firm to pay after the car broke down"><br><sub><b>Ask a car hire firm to pay after the car broke down</b></sub><br><sub><code>rental-car-breakdown-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rental-car-deposit-refund-request.svg" width="44" height="44" alt="Ask a car hire firm for my deposit back"><br><sub><b>Ask a car hire firm for my deposit back</b></sub><br><sub><code>rental-car-deposit-refund-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/cruise-itinerary-change-complaint.svg" width="44" height="44" alt="Complain that a cruise changed route"><br><sub><b>Complain that a cruise changed route</b></sub><br><sub><code>cruise-itinerary-change-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cruise-cabin-problem-complaint.svg" width="44" height="44" alt="Complain about a problem with my cruise cabin"><br><sub><b>Complain about a problem with my cruise cabin</b></sub><br><sub><code>cruise-cabin-problem-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cruise-onboard-charges-dispute.svg" width="44" height="44" alt="Dispute a charge on my cruise bill"><br><sub><b>Dispute a charge on my cruise bill</b></sub><br><sub><code>cruise-onboard-charges-dispute</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/travel-complaint-chaser.svg" width="44" height="44" alt="Chase a travel company that has not replied"><br><sub><b>Chase a travel company that has not replied</b></sub><br><sub><code>travel-complaint-chaser</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/travel-dispute-escalation-note.svg" width="44" height="44" alt="Write down a travel dispute for a regulator or ombudsman"><br><sub><b>Write down a travel dispute for a regulator or ombudsman</b></sub><br><sub><code>travel-dispute-escalation-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-hotel-staff-note.svg" width="44" height="44" alt="Thank hotel staff who went the extra mile"><br><sub><b>Thank hotel staff who went the extra mile</b></sub><br><sub><code>thank-hotel-staff-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/thank-airline-crew-note.svg" width="44" height="44" alt="Thank an airline crew or ground staff"><br><sub><b>Thank an airline crew or ground staff</b></sub><br><sub><code>thank-airline-crew-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/honest-holiday-review.svg" width="44" height="44" alt="Write an honest holiday review"><br><sub><b>Write an honest holiday review</b></sub><br><sub><code>honest-holiday-review</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airport-transfer-no-show-complaint.svg" width="44" height="44" alt="Complain that the airport transfer never came"><br><sub><b>Complain that the airport transfer never came</b></sub><br><sub><code>airport-transfer-no-show-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-room-not-ready-complaint.svg" width="44" height="44" alt="Complain that your hotel room was not ready on arrival"><br><sub><b>Complain that your hotel room was not ready on arrival</b></sub><br><sub><code>hotel-room-not-ready-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-room-view-not-as-booked.svg" width="44" height="44" alt="Complain that your hotel room was not the room you booked"><br><sub><b>Complain that your hotel room was not the room you booked</b></sub><br><sub><code>hotel-room-view-not-as-booked</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-hidden-resort-fee-dispute.svg" width="44" height="44" alt="Dispute a hotel fee you were not told about"><br><sub><b>Dispute a hotel fee you were not told about</b></sub><br><sub><code>hotel-hidden-resort-fee-dispute</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/hotel-pest-in-room-complaint.svg" width="44" height="44" alt="Report pests in your hotel room"><br><sub><b>Report pests in your hotel room</b></sub><br><sub><code>hotel-pest-in-room-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-wifi-not-working-complaint.svg" width="44" height="44" alt="Complain that hotel wifi did not work"><br><sub><b>Complain that hotel wifi did not work</b></sub><br><sub><code>hotel-wifi-not-working-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-building-works-complaint.svg" width="44" height="44" alt="Complain about building works at your hotel"><br><sub><b>Complain about building works at your hotel</b></sub><br><sub><code>hotel-building-works-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-food-poisoning-report.svg" width="44" height="44" alt="Report that you got sick after hotel food"><br><sub><b>Report that you got sick after hotel food</b></sub><br><sub><code>hotel-food-poisoning-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-rep-no-help-complaint.svg" width="44" height="44" alt="Complain that the holiday rep did not help"><br><sub><b>Complain that the holiday rep did not help</b></sub><br><sub><code>holiday-rep-no-help-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/transfer-coach-late-complaint.svg" width="44" height="44" alt="Complain that your transfer coach was very late"><br><sub><b>Complain that your transfer coach was very late</b></sub><br><sub><code>transfer-coach-late-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/flight-cancelled-rebooking-request.svg" width="44" height="44" alt="Ask an airline to rebook a cancelled flight"><br><sub><b>Ask an airline to rebook a cancelled flight</b></sub><br><sub><code>flight-cancelled-rebooking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/damaged-suitcase-claim.svg" width="44" height="44" alt="Claim for a suitcase damaged on a flight"><br><sub><b>Claim for a suitcase damaged on a flight</b></sub><br><sub><code>damaged-suitcase-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/missed-connection-hotel-costs-claim.svg" width="44" height="44" alt="Claim costs after a missed connecting flight"><br><sub><b>Claim costs after a missed connecting flight</b></sub><br><sub><code>missed-connection-hotel-costs-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-insurance-claim-cover-letter.svg" width="44" height="44" alt="Cover letter for a holiday insurance claim"><br><sub><b>Cover letter for a holiday insurance claim</b></sub><br><sub><code>holiday-insurance-claim-cover-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-rental-not-as-advertised-complaint.svg" width="44" height="44" alt="Complain about a holiday rental that did not match its listing"><br><sub><b>Complain about a holiday rental that did not match its listing</b></sub><br><sub><code>holiday-rental-not-as-advertised-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-rental-host-deposit-return.svg" width="44" height="44" alt="Ask a holiday rental host for your deposit back"><br><sub><b>Ask a holiday rental host for your deposit back</b></sub><br><sub><code>holiday-rental-host-deposit-return</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/campsite-pitch-complaint.svg" width="44" height="44" alt="Complain about a campsite pitch that was not as booked"><br><sub><b>Complain about a campsite pitch that was not as booked</b></sub><br><sub><code>campsite-pitch-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ski-trip-no-snow-complaint.svg" width="44" height="44" alt="Complain about a ski trip with no snow or closed lifts"><br><sub><b>Complain about a ski trip with no snow or closed lifts</b></sub><br><sub><code>ski-trip-no-snow-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/train-journey-delay-refund-request.svg" width="44" height="44" alt="Ask for a refund for a delayed train journey"><br><sub><b>Ask for a refund for a delayed train journey</b></sub><br><sub><code>train-journey-delay-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ferry-crossing-cancelled-refund.svg" width="44" height="44" alt="Ask for a refund after a ferry was cancelled"><br><sub><b>Ask for a refund after a ferry was cancelled</b></sub><br><sub><code>ferry-crossing-cancelled-refund</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/excursion-cancelled-refund-request.svg" width="44" height="44" alt="Ask for money back for a cancelled excursion"><br><sub><b>Ask for money back for a cancelled excursion</b></sub><br><sub><code>excursion-cancelled-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airport-lounge-access-refused-complaint.svg" width="44" height="44" alt="Complain that you were refused airport lounge entry"><br><sub><b>Complain that you were refused airport lounge entry</b></sub><br><sub><code>airport-lounge-access-refused-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/child-club-safety-concern-report.svg" width="44" height="44" alt="Report a safety worry about a kids club on holiday"><br><sub><b>Report a safety worry about a kids club on holiday</b></sub><br><sub><code>child-club-safety-concern-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/accessible-room-not-provided-complaint.svg" width="44" height="44" alt="Complain that the accessible room you booked was not provided"><br><sub><b>Complain that the accessible room you booked was not provided</b></sub><br><sub><code>accessible-room-not-provided-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-compensation-offer-reply.svg" width="44" height="44" alt="Reply to a compensation offer for a spoiled holiday"><br><sub><b>Reply to a compensation offer for a spoiled holiday</b></sub><br><sub><code>holiday-compensation-offer-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-bank-for-holiday-refund-help.svg" width="44" height="44" alt="Ask your bank to help get a refund for a holiday"><br><sub><b>Ask your bank to help get a refund for a holiday</b></sub><br><sub><code>ask-bank-for-holiday-refund-help</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-complaint-timeline-summary.svg" width="44" height="44" alt="Sum up your holiday complaint in order"><br><sub><b>Sum up your holiday complaint in order</b></sub><br><sub><code>holiday-complaint-timeline-summary</code></sub></td>
+</tr>
+</table>
+
+[← Travel and trips](travel-trips.md) · [All categories](../README.md#gallery) · [Consumer rights and refunds →](consumer-refunds.md)
