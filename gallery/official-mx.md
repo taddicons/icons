@@ -1,6 +1,6 @@
 # Official letters, Mexico
 
-<sub>Taddicons 2.2.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 73 icons</sub>
 
 The official letters people in Mexico most often need: tenancy, work, tax and banks, insurance and social security, consumer rights, authorities, family and neighbours, written in correct Mexican Spanish.
 

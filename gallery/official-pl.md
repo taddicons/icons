@@ -1,6 +1,6 @@
 # Official letters, Poland
 
-<sub>Taddicons 2.2.0 · Documents & messages · 72 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 72 icons</sub>
 
 The official letters people in Poland most often need: tenancy, work, tax and banks, insurance and ZUS, consumer rights, authorities and data rights, school and family, neighbours, written in correct Polish.
 

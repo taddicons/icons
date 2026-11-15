@@ -1,6 +1,6 @@
 # Real estate agents and brokers
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Messages an agent sends to owners, buyers and tenants, from first contact and viewings to offers, hard news and closing day.
 
@@ -75,6 +75,19 @@ Messages an agent sends to owners, buyers and tenants, from first contact and vi
 <td align="center" width="16%"><img src="../svg/mark/coming-soon-announcement.svg" width="44" height="44" alt="Announce a home that is coming soon"><br><sub><b>Announce a home that is coming soon</b></sub><br><sub><code>coming-soon-announcement</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/buyer-tour-day-plan.svg" width="44" height="44" alt="Send a buyer the plan for viewing day"><br><sub><b>Send a buyer the plan for viewing day</b></sub><br><sub><code>buyer-tour-day-plan</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/stalled-listing-strategy-call.svg" width="44" height="44" alt="Ask a seller for a call about a stalled listing"><br><sub><b>Ask a seller for a call about a stalled listing</b></sub><br><sub><code>stalled-listing-strategy-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-seller-utility-details.svg" width="44" height="44" alt="Ask a seller for the home's bills and utility details"><br><sub><b>Ask a seller for the home's bills and utility details</b></sub><br><sub><code>rea-seller-utility-details</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rea-second-viewing-update.svg" width="44" height="44" alt="Tell a seller a buyer wants a second viewing"><br><sub><b>Tell a seller a buyer wants a second viewing</b></sub><br><sub><code>rea-second-viewing-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-seller-handover-items.svg" width="44" height="44" alt="Remind a seller what to leave for the buyers"><br><sub><b>Remind a seller what to leave for the buyers</b></sub><br><sub><code>rea-seller-handover-items</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-client-thank-you-event.svg" width="44" height="44" alt="Invite past clients to a thank-you event"><br><sub><b>Invite past clients to a thank-you event</b></sub><br><sub><code>rea-client-thank-you-event</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-tradesperson-quote-request.svg" width="44" height="44" alt="Ask a tradesperson to quote for a client's repairs"><br><sub><b>Ask a tradesperson to quote for a client's repairs</b></sub><br><sub><code>rea-tradesperson-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/offer-submission-cover-note.svg" width="44" height="44" alt="Cover note when an agent submits a buyer's offer"><br><sub><b>Cover note when an agent submits a buyer's offer</b></sub><br><sub><code>offer-submission-cover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/open-house-cancelled-notice.svg" width="44" height="44" alt="Tell buyers an open house has been cancelled"><br><sub><b>Tell buyers an open house has been cancelled</b></sub><br><sub><code>open-house-cancelled-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/contract-deadline-reminder-buyer.svg" width="44" height="44" alt="Remind a buyer about upcoming contract deadlines"><br><sub><b>Remind a buyer about upcoming contract deadlines</b></sub><br><sub><code>contract-deadline-reminder-buyer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/agent-holiday-cover-intro.svg" width="44" height="44" alt="Introduce the colleague covering your clients while you are away"><br><sub><b>Introduce the colleague covering your clients while you are away</b></sub><br><sub><code>agent-holiday-cover-intro</code></sub></td>
 </tr>
 </table>
 

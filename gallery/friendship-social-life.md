@@ -1,6 +1,6 @@
 # Friendship and social life
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Making and changing plans, saying sorry, staying close from far away, hosting, and looking after friendships.
 
@@ -75,6 +75,19 @@ Making and changing plans, saying sorry, staying close from far away, hosting, a
 <td align="center" width="16%"><img src="../svg/mark/welcome-friend-partner-to-group.svg" width="44" height="44" alt="Welcome a friend's new partner to the group"><br><sub><b>Welcome a friend's new partner to the group</b></sub><br><sub><code>welcome-friend-partner-to-group</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/friend-game-night-invite.svg" width="44" height="44" alt="Invite friends to a game night"><br><sub><b>Invite friends to a game night</b></sub><br><sub><code>friend-game-night-invite</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/check-in-friend-after-bad-news.svg" width="44" height="44" alt="Check in on a friend after bad news"><br><sub><b>Check in on a friend after bad news</b></sub><br><sub><code>check-in-friend-after-bad-news</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friendship-anniversary-message.svg" width="44" height="44" alt="Mark the years you have been friends"><br><sub><b>Mark the years you have been friends</b></sub><br><sub><code>friendship-anniversary-message</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/friend-new-baby-visit-ask.svg" width="44" height="44" alt="Ask a friend with a new baby when you can visit"><br><sub><b>Ask a friend with a new baby when you can visit</b></sub><br><sub><code>friend-new-baby-visit-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-lend-money-friend.svg" width="44" height="44" alt="Say no kindly when a friend asks to borrow money"><br><sub><b>Say no kindly when a friend asks to borrow money</b></sub><br><sub><code>decline-lend-money-friend</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-new-home-congrats.svg" width="44" height="44" alt="Congratulate a friend on moving into a new home"><br><sub><b>Congratulate a friend on moving into a new home</b></sub><br><sub><code>friend-new-home-congrats</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-friend-regular-coffee.svg" width="44" height="44" alt="Invite a friend to a regular coffee catch-up"><br><sub><b>Invite a friend to a regular coffee catch-up</b></sub><br><sub><code>invite-friend-regular-coffee</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-ask-for-advice.svg" width="44" height="44" alt="Ask a friend for advice on a decision"><br><sub><b>Ask a friend for advice on a decision</b></sub><br><sub><code>friend-ask-for-advice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-sobriety-milestone-message.svg" width="44" height="44" alt="Congratulate a friend on a sobriety milestone"><br><sub><b>Congratulate a friend on a sobriety milestone</b></sub><br><sub><code>friend-sobriety-milestone-message</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/suggest-cheaper-plans-with-friends.svg" width="44" height="44" alt="Suggest cheaper plans with friends"><br><sub><b>Suggest cheaper plans with friends</b></sub><br><sub><code>suggest-cheaper-plans-with-friends</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-be-walking-buddy.svg" width="44" height="44" alt="Ask a friend to be your walking or running buddy"><br><sub><b>Ask a friend to be your walking or running buddy</b></sub><br><sub><code>ask-friend-to-be-walking-buddy</code></sub></td>
 </tr>
 </table>
 

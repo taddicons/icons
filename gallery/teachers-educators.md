@@ -1,6 +1,6 @@
 # Teachers and educators
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Notes to parents, newsletters, praise and concern notes, report comments, trip letters and the everyday writing of a classroom.
 
@@ -67,6 +67,22 @@ Notes to parents, newsletters, praise and concern notes, report comments, trip l
 <td align="center" width="16%"><img src="../svg/mark/class-pet-holiday-care-request.svg" width="44" height="44" alt="Ask a family to look after the class pet over the holidays"><br><sub><b>Ask a family to look after the class pet over the holidays</b></sub><br><sub><code>class-pet-holiday-care-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/after-school-detention-notice.svg" width="44" height="44" alt="Notice to a family about an after-school detention"><br><sub><b>Notice to a family about an after-school detention</b></sub><br><sub><code>after-school-detention-notice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/head-lice-letter-home.svg" width="44" height="44" alt="Letter home about head lice in the class"><br><sub><b>Letter home about head lice in the class</b></sub><br><sub><code>head-lice-letter-home</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/exam-timetable-letter-home.svg" width="44" height="44" alt="Letter home with the exam timetable"><br><sub><b>Letter home with the exam timetable</b></sub><br><sub><code>exam-timetable-letter-home</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/new-teacher-colleague-welcome.svg" width="44" height="44" alt="Welcome a new teacher to the school"><br><sub><b>Welcome a new teacher to the school</b></sub><br><sub><code>new-teacher-colleague-welcome</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cover-teacher-thanks-note.svg" width="44" height="44" alt="Thank a colleague who covered your class"><br><sub><b>Thank a colleague who covered your class</b></sub><br><sub><code>cover-teacher-thanks-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-training-day-closure-notice.svg" width="44" height="44" alt="Tell families the school is closed for a staff training day"><br><sub><b>Tell families the school is closed for a staff training day</b></sub><br><sub><code>staff-training-day-closure-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/online-safety-tips-note-home.svg" width="44" height="44" alt="Note home with online safety tips for families"><br><sub><b>Note home with online safety tips for families</b></sub><br><sub><code>online-safety-tips-note-home</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-play-costume-request.svg" width="44" height="44" alt="Ask families to help with a costume for the school play"><br><sub><b>Ask families to help with a costume for the school play</b></sub><br><sub><code>school-play-costume-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-snack-rules-note.svg" width="44" height="44" alt="Note home about snacks and treats in class"><br><sub><b>Note home about snacks and treats in class</b></sub><br><sub><code>class-snack-rules-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/end-of-term-reading-list-note.svg" width="44" height="44" alt="Send families a reading list for the holidays"><br><sub><b>Send families a reading list for the holidays</b></sub><br><sub><code>end-of-term-reading-list-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-garden-project-note.svg" width="44" height="44" alt="Tell families about the class garden project"><br><sub><b>Tell families about the class garden project</b></sub><br><sub><code>class-garden-project-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/spelling-list-note-home.svg" width="44" height="44" alt="Send this week's spelling words home"><br><sub><b>Send this week's spelling words home</b></sub><br><sub><code>spelling-list-note-home</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/field-trip-helper-briefing.svg" width="44" height="44" alt="Brief parent helpers before a school trip"><br><sub><b>Brief parent helpers before a school trip</b></sub><br><sub><code>field-trip-helper-briefing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pupil-achievement-certificate.svg" width="44" height="44" alt="Write a certificate for a pupil's achievement"><br><sub><b>Write a certificate for a pupil's achievement</b></sub><br><sub><code>pupil-achievement-certificate</code></sub></td>
 </tr>
 </table>
 

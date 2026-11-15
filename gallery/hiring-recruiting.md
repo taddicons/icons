@@ -1,6 +1,6 @@
 # Hiring and recruiting
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes for both sides of a hire: job ads, outreach, interviews, offers, references, starting a job and moving inside a company.
 
@@ -75,6 +75,19 @@ Notes for both sides of a hire: job ads, outreach, interviews, offers, reference
 <td align="center" width="16%"><img src="../svg/mark/ask-for-trial-shift.svg" width="44" height="44" alt="Ask for a paid trial shift"><br><sub><b>Ask for a paid trial shift</b></sub><br><sub><code>ask-for-trial-shift</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-employer-to-move-start-date.svg" width="44" height="44" alt="Ask to start a new job later"><br><sub><b>Ask to start a new job later</b></sub><br><sub><code>ask-employer-to-move-start-date</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/post-open-role-to-network.svg" width="44" height="44" alt="Share an open job with your network"><br><sub><b>Share an open job with your network</b></sub><br><sub><code>post-open-role-to-network</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/job-fair-stand-invite.svg" width="44" height="44" alt="Invite job seekers to your stand at a careers fair"><br><sub><b>Invite job seekers to your stand at a careers fair</b></sub><br><sub><code>job-fair-stand-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/candidate-experience-survey.svg" width="44" height="44" alt="Ask candidates about their hiring experience"><br><sub><b>Ask candidates about their hiring experience</b></sub><br><sub><code>candidate-experience-survey</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/interview-panel-thank-you.svg" width="44" height="44" alt="Thank colleagues who sat on an interview panel"><br><sub><b>Thank colleagues who sat on an interview panel</b></sub><br><sub><code>interview-panel-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/job-closing-soon-post.svg" width="44" height="44" alt="Post that a job advert closes soon"><br><sub><b>Post that a job advert closes soon</b></sub><br><sub><code>job-closing-soon-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/recruitment-agency-terms-question.svg" width="44" height="44" alt="Ask a recruitment agency to explain their terms"><br><sub><b>Ask a recruitment agency to explain their terms</b></sub><br><sub><code>recruitment-agency-terms-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/interview-adjustments-offer.svg" width="44" height="44" alt="Offer a candidate changes to make the interview easier"><br><sub><b>Offer a candidate changes to make the interview easier</b></sub><br><sub><code>interview-adjustments-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/recruiter-salary-range-question.svg" width="44" height="44" alt="Ask a recruiter for the pay range before you apply"><br><sub><b>Ask a recruiter for the pay range before you apply</b></sub><br><sub><code>recruiter-salary-range-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/interviewer-feedback-chaser.svg" width="44" height="44" alt="Remind interviewers to send their candidate feedback"><br><sub><b>Remind interviewers to send their candidate feedback</b></sub><br><sub><code>interviewer-feedback-chaser</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/candidate-data-deletion-request.svg" width="44" height="44" alt="Ask an employer to delete your job application data"><br><sub><b>Ask an employer to delete your job application data</b></sub><br><sub><code>candidate-data-deletion-request</code></sub></td>
 </tr>
 </table>
 

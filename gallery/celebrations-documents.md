@@ -1,6 +1,6 @@
 # Celebrations of every culture
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Festivals, rites of passage and milestones from many cultures, written so anyone can send them to anyone.
 
@@ -75,6 +75,19 @@ Festivals, rites of passage and milestones from many cultures, written so anyone
 <td align="center" width="16%"><img src="../svg/mark/homecoming-celebration-invite.svg" width="44" height="44" alt="Invite people to welcome someone home"><br><sub><b>Invite people to welcome someone home</b></sub><br><sub><code>homecoming-celebration-invite</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/housewarming-party-invite-short.svg" width="44" height="44" alt="Short invite to a housewarming"><br><sub><b>Short invite to a housewarming</b></sub><br><sub><code>housewarming-party-invite-short</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/birthday-message-to-colleague.svg" width="44" height="44" alt="Birthday message to a colleague"><br><sub><b>Birthday message to a colleague</b></sub><br><sub><code>birthday-message-to-colleague</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mid-autumn-festival-greeting.svg" width="44" height="44" alt="Mid-Autumn Festival greeting for family and friends"><br><sub><b>Mid-Autumn Festival greeting for family and friends</b></sub><br><sub><code>mid-autumn-festival-greeting</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/teachers-day-thank-you.svg" width="44" height="44" alt="Teachers' Day thank-you message for a teacher"><br><sub><b>Teachers' Day thank-you message for a teacher</b></sub><br><sub><code>teachers-day-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-anniversary-toast.svg" width="44" height="44" alt="Toast to a couple at their wedding anniversary party"><br><sub><b>Toast to a couple at their wedding anniversary party</b></sub><br><sub><code>wedding-anniversary-toast</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/golden-anniversary-card.svg" width="44" height="44" alt="Card for a couple's 50th wedding anniversary"><br><sub><b>Card for a couple's 50th wedding anniversary</b></sub><br><sub><code>golden-anniversary-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/raksha-bandhan-greeting.svg" width="44" height="44" alt="Raksha Bandhan message for a brother or sister"><br><sub><b>Raksha Bandhan message for a brother or sister</b></sub><br><sub><code>raksha-bandhan-greeting</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pride-gathering-invite.svg" width="44" height="44" alt="Invite friends to a Pride picnic or gathering"><br><sub><b>Invite friends to a Pride picnic or gathering</b></sub><br><sub><code>pride-gathering-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bonfire-night-invite.svg" width="44" height="44" alt="Invite neighbours or friends to a bonfire and fireworks night"><br><sub><b>Invite neighbours or friends to a bonfire and fireworks night</b></sub><br><sub><code>bonfire-night-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/halloween-party-invite.svg" width="44" height="44" alt="Invite friends or kids to a Halloween costume party"><br><sub><b>Invite friends or kids to a Halloween costume party</b></sub><br><sub><code>halloween-party-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/independence-day-cookout-invite.svg" width="44" height="44" alt="Invite friends to a national day cookout or barbecue"><br><sub><b>Invite friends to a national day cookout or barbecue</b></sub><br><sub><code>independence-day-cookout-invite</code></sub></td>
 </tr>
 </table>
 

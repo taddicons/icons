@@ -1,6 +1,6 @@
 # Small business
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Customers, suppliers and staff of a small business: quotes, invoices, policies and polite firmness.
 
@@ -67,6 +67,22 @@ Customers, suppliers and staff of a small business: quotes, invoices, policies a
 <td align="center" width="16%"><img src="../svg/mark/contractor-quote-request.svg" width="44" height="44" alt="Ask a contractor to quote for work at your business"><br><sub><b>Ask a contractor to quote for work at your business</b></sub><br><sub><code>contractor-quote-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/staff-uniform-policy.svg" width="44" height="44" alt="Short staff policy on uniform and appearance at work"><br><sub><b>Short staff policy on uniform and appearance at work</b></sub><br><sub><code>staff-uniform-policy</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/customer-order-collection-reminder.svg" width="44" height="44" alt="Remind a customer their order is ready to collect"><br><sub><b>Remind a customer their order is ready to collect</b></sub><br><sub><code>customer-order-collection-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-wrong-goods.svg" width="44" height="44" alt="Tell a supplier they sent the wrong goods"><br><sub><b>Tell a supplier they sent the wrong goods</b></sub><br><sub><code>supplier-wrong-goods</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/uncollected-goods-notice.svg" width="44" height="44" alt="Tell a customer to collect goods they left with you"><br><sub><b>Tell a customer to collect goods they left with you</b></sub><br><sub><code>uncollected-goods-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shop-landlord-repair-request.svg" width="44" height="44" alt="Ask your shop landlord to fix a problem with the premises"><br><sub><b>Ask your shop landlord to fix a problem with the premises</b></sub><br><sub><code>shop-landlord-repair-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-details-check.svg" width="44" height="44" alt="Ask customers to check the details you hold about them"><br><sub><b>Ask customers to check the details you hold about them</b></sub><br><sub><code>customer-details-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-hours-change-notice.svg" width="44" height="44" alt="Tell staff about a planned change to their working hours"><br><sub><b>Tell staff about a planned change to their working hours</b></sub><br><sub><code>staff-hours-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/failed-payment-notice.svg" width="44" height="44" alt="Tell a customer their card payment did not go through"><br><sub><b>Tell a customer their card payment did not go through</b></sub><br><sub><code>failed-payment-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-product-data-request.svg" width="44" height="44" alt="Ask a supplier for product safety or ingredient information"><br><sub><b>Ask a supplier for product safety or ingredient information</b></sub><br><sub><code>supplier-product-data-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/business-impersonation-scam-warning.svg" width="44" height="44" alt="Warn customers about scam messages using your business name"><br><sub><b>Warn customers about scam messages using your business name</b></sub><br><sub><code>business-impersonation-scam-warning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-contract-renewal-check.svg" width="44" height="44" alt="Check the terms before a supplier contract renews"><br><sub><b>Check the terms before a supplier contract renews</b></sub><br><sub><code>supplier-contract-renewal-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seasonal-staff-wanted-post.svg" width="44" height="44" alt="Advertise seasonal or holiday jobs at your business"><br><sub><b>Advertise seasonal or holiday jobs at your business</b></sub><br><sub><code>seasonal-staff-wanted-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/booking-deposit-terms-reminder.svg" width="44" height="44" alt="Remind a customer of the deposit and cancellation terms"><br><sub><b>Remind a customer of the deposit and cancellation terms</b></sub><br><sub><code>booking-deposit-terms-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/local-delivery-area-notice.svg" width="44" height="44" alt="Tell customers where and when you deliver locally"><br><sub><b>Tell customers where and when you deliver locally</b></sub><br><sub><code>local-delivery-area-notice</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Tech help for family and seniors
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Notes for asking for tech help, warning relatives about scams, explaining steps simply, reassuring nervous beginners and thanking the people who help.
 
@@ -67,6 +67,22 @@ Notes for asking for tech help, warning relatives about scams, explaining steps 
 <td align="center" width="16%"><img src="../svg/mark/voice-message-how-to-note.svg" width="44" height="44" alt="How to send a voice message, for an older relative"><br><sub><b>How to send a voice message, for an older relative</b></sub><br><sub><code>voice-message-how-to-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/hearing-aid-phone-pairing-help.svg" width="44" height="44" alt="Ask the hearing clinic for help connecting hearing aids to a phone"><br><sub><b>Ask the hearing clinic for help connecting hearing aids to a phone</b></sub><br><sub><code>hearing-aid-phone-pairing-help</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tech-check-up-visit-note.svg" width="44" height="44" alt="Plan a tech check-up visit for an older parent"><br><sub><b>Plan a tech check-up visit for an older parent</b></sub><br><sub><code>tech-check-up-visit-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-bank-for-paper-statements.svg" width="44" height="44" alt="Ask your bank to send paper statements by post"><br><sub><b>Ask your bank to send paper statements by post</b></sub><br><sub><code>ask-bank-for-paper-statements</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/simple-phone-shop-enquiry.svg" width="44" height="44" alt="Ask a shop about an easy-to-use phone"><br><sub><b>Ask a shop about an easy-to-use phone</b></sub><br><sub><code>simple-phone-shop-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/unwanted-app-subscription-help-request.svg" width="44" height="44" alt="Ask family for help stopping an app subscription"><br><sub><b>Ask family for help stopping an app subscription</b></sub><br><sub><code>unwanted-app-subscription-help-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/taxi-app-how-to-note.svg" width="44" height="44" alt="Simple steps for booking a taxi with an app"><br><sub><b>Simple steps for booking a taxi with an app</b></sub><br><sub><code>taxi-app-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/phone-battery-tips-note.svg" width="44" height="44" alt="Simple tips to keep a phone battery going"><br><sub><b>Simple tips to keep a phone battery going</b></sub><br><sub><code>phone-battery-tips-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/qr-code-how-to-note.svg" width="44" height="44" alt="Simple steps for scanning a QR code"><br><sub><b>Simple steps for scanning a QR code</b></sub><br><sub><code>qr-code-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/screen-lock-how-to-note.svg" width="44" height="44" alt="Simple steps for setting a screen lock on a phone"><br><sub><b>Simple steps for setting a screen lock on a phone</b></sub><br><sub><code>screen-lock-how-to-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-family-is-this-message-real.svg" width="44" height="44" alt="Ask family to check if a message is real or a scam"><br><sub><b>Ask family to check if a message is real or a scam</b></sub><br><sub><code>ask-family-is-this-message-real</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ebook-borrowing-how-to-note.svg" width="44" height="44" alt="Show a relative how to borrow library ebooks"><br><sub><b>Show a relative how to borrow library ebooks</b></sub><br><sub><code>ebook-borrowing-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/medicine-reminder-setup-note.svg" width="44" height="44" alt="Help a relative set phone reminders for their tablets"><br><sub><b>Help a relative set phone reminders for their tablets</b></sub><br><sub><code>medicine-reminder-setup-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/smart-doorbell-explainer-note.svg" width="44" height="44" alt="Explain a new video doorbell to a relative"><br><sub><b>Explain a new video doorbell to a relative</b></sub><br><sub><code>smart-doorbell-explainer-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/contactless-payment-how-to-note.svg" width="44" height="44" alt="Explain how to pay by tapping a card"><br><sub><b>Explain how to pay by tapping a card</b></sub><br><sub><code>contactless-payment-how-to-note</code></sub></td>
 </tr>
 </table>
 

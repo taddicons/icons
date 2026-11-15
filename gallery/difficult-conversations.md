@@ -1,6 +1,6 @@
 # Apologies and difficult conversations
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Saying sorry, setting limits, giving bad news and mending things with the people who matter.
 
@@ -75,6 +75,19 @@ Saying sorry, setting limits, giving bad news and mending things with the people
 <td align="center" width="16%"><img src="../svg/mark/reply-to-an-angry-message-calmly.svg" width="44" height="44" alt="Reply to an angry message without anger"><br><sub><b>Reply to an angry message without anger</b></sub><br><sub><code>reply-to-an-angry-message-calmly</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tell-an-adult-child-you-cannot-keep-giving-money.svg" width="44" height="44" alt="Tell an adult child you cannot keep giving money"><br><sub><b>Tell an adult child you cannot keep giving money</b></sub><br><sub><code>tell-an-adult-child-you-cannot-keep-giving-money</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-for-a-talk-after-a-long-silence.svg" width="44" height="44" alt="Ask for a talk after a long silence"><br><sub><b>Ask for a talk after a long silence</b></sub><br><sub><code>ask-for-a-talk-after-a-long-silence</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-partner-for-a-calm-talk-about-money.svg" width="44" height="44" alt="Ask your partner for a calm talk about money worries"><br><sub><b>Ask your partner for a calm talk about money worries</b></sub><br><sub><code>ask-partner-for-a-calm-talk-about-money</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/raise-noise-problem-with-housemate.svg" width="44" height="44" alt="Raise a noise problem with a housemate"><br><sub><b>Raise a noise problem with a housemate</b></sub><br><sub><code>raise-noise-problem-with-housemate</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/step-back-from-a-group-chat.svg" width="44" height="44" alt="Tell a group you are stepping back from the group chat"><br><sub><b>Tell a group you are stepping back from the group chat</b></sub><br><sub><code>step-back-from-a-group-chat</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-colleague-a-joke-upset-you.svg" width="44" height="44" alt="Tell a colleague that a joke they made upset you"><br><sub><b>Tell a colleague that a joke they made upset you</b></sub><br><sub><code>tell-colleague-a-joke-upset-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-friend-you-can-no-longer-give-lifts.svg" width="44" height="44" alt="Tell a friend you can no longer give them lifts"><br><sub><b>Tell a friend you can no longer give them lifts</b></sub><br><sub><code>tell-friend-you-can-no-longer-give-lifts</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-going-into-business-with-friend.svg" width="44" height="44" alt="Tell a friend you do not want to start a business with them"><br><sub><b>Tell a friend you do not want to start a business with them</b></sub><br><sub><code>decline-going-into-business-with-friend</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/say-no-to-being-a-guarantor.svg" width="44" height="44" alt="Say no when someone asks you to be their guarantor"><br><sub><b>Say no when someone asks you to be their guarantor</b></sub><br><sub><code>say-no-to-being-a-guarantor</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/say-no-to-a-friends-sales-pitch.svg" width="44" height="44" alt="Say no kindly when a friend keeps trying to sell you products"><br><sub><b>Say no kindly when a friend keeps trying to sell you products</b></sub><br><sub><code>say-no-to-a-friends-sales-pitch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-family-to-avoid-politics-at-gatherings.svg" width="44" height="44" alt="Ask family to leave politics out of a family gathering"><br><sub><b>Ask family to leave politics out of a family gathering</b></sub><br><sub><code>ask-family-to-avoid-politics-at-gatherings</code></sub></td>
 </tr>
 </table>
 

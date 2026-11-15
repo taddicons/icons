@@ -1,6 +1,6 @@
 # School and parents
 
-<sub>Taddicons 2.2.0 · Documents & messages · 64 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 64 icons</sub>
 
 Notes between families and schools: bullying, support, meetings, trips, uniforms, appeals, moves and class parent messages.
 

@@ -1,6 +1,6 @@
 # Faith and ceremonies
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Messages for religious and cultural ceremonies of every tradition, written with respect and without assuming one.
 
@@ -75,6 +75,19 @@ Messages for religious and cultural ceremonies of every tradition, written with 
 <td align="center" width="16%"><img src="../svg/mark/faith-community-notice-post.svg" width="44" height="44" alt="Share a notice for your faith community"><br><sub><b>Share a notice for your faith community</b></sub><br><sub><code>faith-community-notice-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/youth-group-parent-letter.svg" width="44" height="44" alt="Write to parents about a faith youth group"><br><sub><b>Write to parents about a faith youth group</b></sub><br><sub><code>youth-group-parent-letter</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/missed-ceremony-apology.svg" width="44" height="44" alt="Apologise for missing a religious ceremony"><br><sub><b>Apologise for missing a religious ceremony</b></sub><br><sub><code>missed-ceremony-apology</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-book-faith-hall-for-ceremony.svg" width="44" height="44" alt="Ask to book the community hall at a place of worship"><br><sub><b>Ask to book the community hall at a place of worship</b></sub><br><sub><code>ask-to-book-faith-hall-for-ceremony</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/invite-friends-to-navratri-garba-night.svg" width="44" height="44" alt="Invite friends to a Navratri garba night"><br><sub><b>Invite friends to a Navratri garba night</b></sub><br><sub><code>invite-friends-to-navratri-garba-night</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-faith-leader-about-marriage-preparation.svg" width="44" height="44" alt="Ask a faith leader about marriage preparation"><br><sub><b>Ask a faith leader about marriage preparation</b></sub><br><sub><code>ask-faith-leader-about-marriage-preparation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ceremony-photography-rules-notice.svg" width="44" height="44" alt="Tell guests the photo and phone rules at a ceremony"><br><sub><b>Tell guests the photo and phone rules at a ceremony</b></sub><br><sub><code>ceremony-photography-rules-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/set-up-faith-meal-rota-for-family.svg" width="44" height="44" alt="Set up a meal rota at your place of worship for a family in need"><br><sub><b>Set up a meal rota at your place of worship for a family in need</b></sub><br><sub><code>set-up-faith-meal-rota-for-family</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/confirmation-service-invitation.svg" width="44" height="44" alt="Invite people to a confirmation service"><br><sub><b>Invite people to a confirmation service</b></sub><br><sub><code>confirmation-service-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/place-of-worship-dress-code-note.svg" width="44" height="44" alt="Tell guests what to wear at a place of worship"><br><sub><b>Tell guests what to wear at a place of worship</b></sub><br><sub><code>place-of-worship-dress-code-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-faith-leader-to-visit-sick-relative.svg" width="44" height="44" alt="Ask a faith leader to visit a sick relative"><br><sub><b>Ask a faith leader to visit a sick relative</b></sub><br><sub><code>ask-faith-leader-to-visit-sick-relative</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-faith-community-for-meals.svg" width="44" height="44" alt="Thank your faith community for bringing meals"><br><sub><b>Thank your faith community for bringing meals</b></sub><br><sub><code>thank-faith-community-for-meals</code></sub></td>
 </tr>
 </table>
 

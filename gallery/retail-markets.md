@@ -1,6 +1,6 @@
 # Shops and market stalls
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes for shop owners and stallholders: sales, loyalty, apologies, suppliers, returns, fair applications and shop-local campaigns.
 
@@ -75,6 +75,19 @@ Notes for shop owners and stallholders: sales, loyalty, apologies, suppliers, re
 <td align="center" width="16%"><img src="../svg/mark/shop-closing-down-notice.svg" width="44" height="44" alt="Tell customers your shop is closing for good"><br><sub><b>Tell customers your shop is closing for good</b></sub><br><sub><code>shop-closing-down-notice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/allergy-information-sign.svg" width="44" height="44" alt="Sign about allergy information in your shop"><br><sub><b>Sign about allergy information in your shop</b></sub><br><sub><code>allergy-information-sign</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/order-ready-collection-message.svg" width="44" height="44" alt="Tell a customer their order is ready"><br><sub><b>Tell a customer their order is ready</b></sub><br><sub><code>order-ready-collection-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-faulty-item-reply.svg" width="44" height="44" alt="Reply to a customer returning a faulty item"><br><sub><b>Reply to a customer returning a faulty item</b></sub><br><sub><code>retail-faulty-item-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/retail-supplier-price-list-request.svg" width="44" height="44" alt="Ask a new supplier for a price list"><br><sub><b>Ask a new supplier for a price list</b></sub><br><sub><code>retail-supplier-price-list-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-new-worker-first-shift.svg" width="44" height="44" alt="Welcome a new shop worker before their first shift"><br><sub><b>Welcome a new shop worker before their first shift</b></sub><br><sub><code>retail-new-worker-first-shift</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-market-insurance-proof.svg" width="44" height="44" alt="Send proof of insurance to a market organiser"><br><sub><b>Send proof of insurance to a market organiser</b></sub><br><sub><code>retail-market-insurance-proof</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-joint-offer-proposal.svg" width="44" height="44" alt="Suggest a joint offer with a nearby shop"><br><sub><b>Suggest a joint offer with a nearby shop</b></sub><br><sub><code>retail-joint-offer-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-returns-window-sign.svg" width="44" height="44" alt="Shop sign for an extended holiday returns period"><br><sub><b>Shop sign for an extended holiday returns period</b></sub><br><sub><code>holiday-returns-window-sign</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-wanted-shop-sign.svg" width="44" height="44" alt="Staff wanted sign for a shop window"><br><sub><b>Staff wanted sign for a shop window</b></sub><br><sub><code>staff-wanted-shop-sign</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/stall-booking-cancellation-to-organiser.svg" width="44" height="44" alt="Cancel your market stall booking with the organiser"><br><sub><b>Cancel your market stall booking with the organiser</b></sub><br><sub><code>stall-booking-cancellation-to-organiser</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-on-hold-for-customer-reply.svg" width="44" height="44" alt="Tell a customer an item is on hold for them"><br><sub><b>Tell a customer an item is on hold for them</b></sub><br><sub><code>item-on-hold-for-customer-reply</code></sub></td>
 </tr>
 </table>
 

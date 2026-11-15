@@ -1,6 +1,6 @@
 # Camping & outdoors
 
-<sub>Taddicons 2.2.0 · World & nature · 38 icons</sub>
+<sub>Taddicons 2.3.0 · World & nature · 38 icons</sub>
 
 Tents, campfires, trails and gear.
 

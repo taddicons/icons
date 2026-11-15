@@ -1,6 +1,6 @@
 # Consumer rights and refunds
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages for getting your money or a fix when goods, deliveries, adverts or subscriptions go wrong, plus answers for small sellers.
 
@@ -75,6 +75,19 @@ Letters and messages for getting your money or a fix when goods, deliveries, adv
 <td align="center" width="16%"><img src="../svg/mark/service-not-done-refund-request.svg" width="44" height="44" alt="Ask for a refund for a service that was never done"><br><sub><b>Ask for a refund for a service that was never done</b></sub><br><sub><code>service-not-done-refund-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/smaller-refund-than-expected-query.svg" width="44" height="44" alt="Ask why a refund was smaller than expected"><br><sub><b>Ask why a refund was smaller than expected</b></sub><br><sub><code>smaller-refund-than-expected-query</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/unclear-refund-policy-question.svg" width="44" height="44" alt="Ask a shop to explain its refund rules before you buy"><br><sub><b>Ask a shop to explain its refund rules before you buy</b></sub><br><sub><code>unclear-refund-policy-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/missed-delivery-slot-compensation.svg" width="44" height="44" alt="Ask for a goodwill payment after a missed delivery slot"><br><sub><b>Ask for a goodwill payment after a missed delivery slot</b></sub><br><sub><code>missed-delivery-slot-compensation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/meal-kit-missing-items-refund.svg" width="44" height="44" alt="Ask for a refund when a meal kit box arrives with items missing"><br><sub><b>Ask for a refund when a meal kit box arrives with items missing</b></sub><br><sub><code>meal-kit-missing-items-refund</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/custom-made-order-cancel-request.svg" width="44" height="44" alt="Ask to cancel an order for a custom-made item"><br><sub><b>Ask to cancel an order for a custom-made item</b></sub><br><sub><code>custom-made-order-cancel-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/warranty-repair-delay-complaint.svg" width="44" height="44" alt="Complain that a warranty repair is taking too long"><br><sub><b>Complain that a warranty repair is taking too long</b></sub><br><sub><code>warranty-repair-delay-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pre-order-cancel-refund-request.svg" width="44" height="44" alt="Cancel a pre-order and ask for your money back"><br><sub><b>Cancel a pre-order and ask for your money back</b></sub><br><sub><code>pre-order-cancel-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/digital-content-fault-refund-request.svg" width="44" height="44" alt="Ask for a refund or fix for a faulty app, game or download"><br><sub><b>Ask for a refund or fix for a faulty app, game or download</b></sub><br><sub><code>digital-content-fault-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bnpl-return-refund-query.svg" width="44" height="44" alt="Ask a pay-later provider to pause payments after you returned an item"><br><sub><b>Ask a pay-later provider to pause payments after you returned an item</b></sub><br><sub><code>bnpl-return-refund-query</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/return-postage-refund-request.svg" width="44" height="44" alt="Ask a seller to refund the postage you paid to return a faulty item"><br><sub><b>Ask a seller to refund the postage you paid to return a faulty item</b></sub><br><sub><code>return-postage-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/faulty-item-collection-request.svg" width="44" height="44" alt="Ask a seller to collect a large faulty item from your home"><br><sub><b>Ask a seller to collect a large faulty item from your home</b></sub><br><sub><code>faulty-item-collection-request</code></sub></td>
 </tr>
 </table>
 

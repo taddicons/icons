@@ -1,6 +1,6 @@
 # Languages and cultural exchange
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes for language partners, tutors, penpals, host families, study abroad, translators, cultural events and learning groups.
 
@@ -75,6 +75,19 @@ Notes for language partners, tutors, penpals, host families, study abroad, trans
 <td align="center" width="16%"><img src="../svg/mark/correct-a-translation-error-kindly.svg" width="44" height="44" alt="Point out an error in a translation kindly"><br><sub><b>Point out an error in a translation kindly</b></sub><br><sub><code>correct-a-translation-error-kindly</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/penpal-postcard-note.svg" width="44" height="44" alt="Write a postcard to a pen pal"><br><sub><b>Write a postcard to a pen pal</b></sub><br><sub><code>penpal-postcard-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/penpal-share-photos-letter.svg" width="44" height="44" alt="Send photos to a pen pal with a letter"><br><sub><b>Send photos to a pen pal with a letter</b></sub><br><sub><code>penpal-share-photos-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-video-call-setup.svg" width="44" height="44" alt="Set up your first video call with a language partner"><br><sub><b>Set up your first video call with a language partner</b></sub><br><sub><code>language-partner-video-call-setup</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/language-meetup-venue-change-notice.svg" width="44" height="44" alt="Tell your language meetup group the venue has changed"><br><sub><b>Tell your language meetup group the venue has changed</b></sub><br><sub><code>language-meetup-venue-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-resource-share.svg" width="44" height="44" alt="Share a useful learning resource with your language partner"><br><sub><b>Share a useful learning resource with your language partner</b></sub><br><sub><code>language-partner-resource-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conversation-club-feedback-ask.svg" width="44" height="44" alt="Ask members of a conversation club what they would like to change"><br><sub><b>Ask members of a conversation club what they would like to change</b></sub><br><sub><code>conversation-club-feedback-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-exam-good-luck.svg" width="44" height="44" alt="Wish your language partner good luck before their language exam"><br><sub><b>Wish your language partner good luck before their language exam</b></sub><br><sub><code>language-partner-exam-good-luck</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-goal-setting-note.svg" width="44" height="44" alt="Agree learning goals with your language partner"><br><sub><b>Agree learning goals with your language partner</b></sub><br><sub><code>language-partner-goal-setting-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/exchange-group-chat-rules-note.svg" width="44" height="44" alt="Share simple rules for a language exchange group chat"><br><sub><b>Share simple rules for a language exchange group chat</b></sub><br><sub><code>exchange-group-chat-rules-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pronunciation-feedback-ask.svg" width="44" height="44" alt="Ask a native speaker to check your pronunciation"><br><sub><b>Ask a native speaker to check your pronunciation</b></sub><br><sub><code>pronunciation-feedback-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/exam-study-group-invite.svg" width="44" height="44" alt="Invite other learners to a study group for a language exam"><br><sub><b>Invite other learners to a study group for a language exam</b></sub><br><sub><code>exam-study-group-invite</code></sub></td>
 </tr>
 </table>
 

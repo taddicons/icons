@@ -1,6 +1,6 @@
 # Grief and memorial
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Words for loss and remembering: telling people, asking for help, and honouring someone.
 
@@ -75,6 +75,19 @@ Words for loss and remembering: telling people, asking for help, and honouring s
 <td align="center" width="16%"><img src="../svg/mark/memorial-bench-or-tree-announcement.svg" width="44" height="44" alt="Announce a memorial bench or tree"><br><sub><b>Announce a memorial bench or tree</b></sub><br><sub><code>memorial-bench-or-tree-announcement</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/thank-the-eulogy-speaker.svg" width="44" height="44" alt="Thank someone who spoke at a funeral"><br><sub><b>Thank someone who spoke at a funeral</b></sub><br><sub><code>thank-the-eulogy-speaker</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/grief-letter-to-yourself.svg" width="44" height="44" alt="A gentle letter to yourself in grief"><br><sub><b>A gentle letter to yourself in grief</b></sub><br><sub><code>grief-letter-to-yourself</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/headstone-enquiry-to-stonemason.svg" width="44" height="44" alt="Ask a stonemason about a headstone"><br><sub><b>Ask a stonemason about a headstone</b></sub><br><sub><code>headstone-enquiry-to-stonemason</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/memorial-donation-thank-you.svg" width="44" height="44" alt="Thank people who gave to charity in memory of someone"><br><sub><b>Thank people who gave to charity in memory of someone</b></sub><br><sub><code>memorial-donation-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-holiday-without-them-message.svg" width="44" height="44" alt="Message to family before the first holiday without a loved one"><br><sub><b>Message to family before the first holiday without a loved one</b></sub><br><sub><code>first-holiday-without-them-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/memorial-playlist-request.svg" width="44" height="44" alt="Ask family and friends for songs for a memorial playlist"><br><sub><b>Ask family and friends for songs for a memorial playlist</b></sub><br><sub><code>memorial-playlist-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/grief-quiet-time-message.svg" width="44" height="44" alt="Tell people you need quiet time while grieving"><br><sub><b>Tell people you need quiet time while grieving</b></sub><br><sub><code>grief-quiet-time-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/birthday-of-someone-who-died-message.svg" width="44" height="44" alt="Message on the birthday of someone who has died"><br><sub><b>Message on the birthday of someone who has died</b></sub><br><sub><code>birthday-of-someone-who-died-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sympathy-for-loss-of-a-friend.svg" width="44" height="44" alt="Sympathy for the loss of a friend"><br><sub><b>Sympathy for the loss of a friend</b></sub><br><sub><code>sympathy-for-loss-of-a-friend</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-manager-to-tell-team-about-loss.svg" width="44" height="44" alt="Ask your manager to tell the team about your loss"><br><sub><b>Ask your manager to tell the team about your loss</b></sub><br><sub><code>ask-manager-to-tell-team-about-loss</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friends-not-to-post-about-death-yet.svg" width="44" height="44" alt="Ask friends not to post about the death yet"><br><sub><b>Ask friends not to post about the death yet</b></sub><br><sub><code>ask-friends-not-to-post-about-death-yet</code></sub></td>
 </tr>
 </table>
 

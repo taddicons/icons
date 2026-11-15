@@ -1,6 +1,6 @@
 # Musicians and performers
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Gigs, riders, band life, lessons, recitals, releases and the money side of making music.
 
@@ -75,6 +75,19 @@ Gigs, riders, band life, lessons, recitals, releases and the money side of makin
 <td align="center" width="16%"><img src="../svg/mark/ask-for-a-place-to-stay-on-tour.svg" width="44" height="44" alt="Ask a friend or fan for a place to stay on tour"><br><sub><b>Ask a friend or fan for a place to stay on tour</b></sub><br><sub><code>ask-for-a-place-to-stay-on-tour</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/announce-stepping-away-from-performing.svg" width="44" height="44" alt="Announce you are stepping away from performing"><br><sub><b>Announce you are stepping away from performing</b></sub><br><sub><code>announce-stepping-away-from-performing</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/remind-a-band-of-the-load-in-time.svg" width="44" height="44" alt="Remind the band of load-in and call time"><br><sub><b>Remind the band of load-in and call time</b></sub><br><sub><code>remind-a-band-of-the-load-in-time</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/studio-time-booking-request.svg" width="44" height="44" alt="Ask a recording studio about booking time for your band"><br><sub><b>Ask a recording studio about booking time for your band</b></sub><br><sub><code>studio-time-booking-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/gig-photographer-request.svg" width="44" height="44" alt="Ask a photographer to take pictures at your gig"><br><sub><b>Ask a photographer to take pictures at your gig</b></sub><br><sub><code>gig-photographer-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gig-poster-design-brief.svg" width="44" height="44" alt="Brief a designer on a poster for your upcoming gig"><br><sub><b>Brief a designer on a poster for your upcoming gig</b></sub><br><sub><code>gig-poster-design-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-dance-song-confirmation.svg" width="44" height="44" alt="Confirm the first dance song and details with a wedding couple"><br><sub><b>Confirm the first dance song and details with a wedding couple</b></sub><br><sub><code>first-dance-song-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/instrument-repair-quote-request.svg" width="44" height="44" alt="Ask a repair shop for a quote to fix your instrument"><br><sub><b>Ask a repair shop for a quote to fix your instrument</b></sub><br><sub><code>instrument-repair-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lesson-payment-reminder.svg" width="44" height="44" alt="Remind a student or parent that lesson fees are due"><br><sub><b>Remind a student or parent that lesson fees are due</b></sub><br><sub><code>lesson-payment-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/song-request-reply.svg" width="44" height="44" alt="Reply to a guest who asks you to play a song"><br><sub><b>Reply to a guest who asks you to play a song</b></sub><br><sub><code>song-request-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/gig-filming-permission-request.svg" width="44" height="44" alt="Ask a venue for permission to film your gig"><br><sub><b>Ask a venue for permission to film your gig</b></sub><br><sub><code>gig-filming-permission-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/music-exam-entry-note.svg" width="44" height="44" alt="Tell a student and parent about an upcoming music exam entry"><br><sub><b>Tell a student and parent about an upcoming music exam entry</b></sub><br><sub><code>music-exam-entry-note</code></sub></td>
 </tr>
 </table>
 

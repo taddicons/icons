@@ -1,6 +1,6 @@
 # Managers and leaders
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Feedback, warnings, hiring decisions, team news, one-to-ones and speeches for people who lead a team.
 
@@ -75,6 +75,19 @@ Feedback, warnings, hiring decisions, team news, one-to-ones and speeches for pe
 <td align="center" width="16%"><img src="../svg/mark/flexible-working-request-reply.svg" width="44" height="44" alt="Reply to a request for flexible working"><br><sub><b>Reply to a request for flexible working</b></sub><br><sub><code>flexible-working-request-reply</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/year-end-team-thank-you.svg" width="44" height="44" alt="Thank your team at the end of the year"><br><sub><b>Thank your team at the end of the year</b></sub><br><sub><code>year-end-team-thank-you</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tell-team-you-are-going-on-leave.svg" width="44" height="44" alt="Tell your team you will be away and who is in charge"><br><sub><b>Tell your team you will be away and who is in charge</b></sub><br><sub><code>tell-team-you-are-going-on-leave</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-survey-results-share.svg" width="44" height="44" alt="Share team survey results and what you will do about them"><br><sub><b>Share team survey results and what you will do about them</b></sub><br><sub><code>team-survey-results-share</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/upward-feedback-request.svg" width="44" height="44" alt="Ask your team for honest feedback on how you manage"><br><sub><b>Ask your team for honest feedback on how you manage</b></sub><br><sub><code>upward-feedback-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-milestone-celebration-note.svg" width="44" height="44" alt="Celebrate a team milestone and thank the people behind it"><br><sub><b>Celebrate a team milestone and thank the people behind it</b></sub><br><sub><code>team-milestone-celebration-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/meeting-cancel-give-time-back.svg" width="44" height="44" alt="Cancel a regular meeting and give the time back to your team"><br><sub><b>Cancel a regular meeting and give the time back to your team</b></sub><br><sub><code>meeting-cancel-give-time-back</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-starter-buddy-assignment.svg" width="44" height="44" alt="Ask a team member to be a buddy for someone who is starting soon"><br><sub><b>Ask a team member to be a buddy for someone who is starting soon</b></sub><br><sub><code>new-starter-buddy-assignment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-cover-rota-note.svg" width="44" height="44" alt="Share the holiday cover plan with your team"><br><sub><b>Share the holiday cover plan with your team</b></sub><br><sub><code>holiday-cover-rota-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tool-training-session-invite.svg" width="44" height="44" alt="Invite your team to training on a new work tool"><br><sub><b>Invite your team to training on a new work tool</b></sub><br><sub><code>tool-training-session-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/workload-rebalance-message.svg" width="44" height="44" alt="Tell a team member you are moving some of their work"><br><sub><b>Tell a team member you are moving some of their work</b></sub><br><sub><code>workload-rebalance-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/absence-reporting-rules-reminder.svg" width="44" height="44" alt="Remind your team how to report sickness and absence"><br><sub><b>Remind your team how to report sickness and absence</b></sub><br><sub><code>absence-reporting-rules-reminder</code></sub></td>
 </tr>
 </table>
 

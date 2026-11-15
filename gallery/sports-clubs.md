@@ -1,6 +1,6 @@
 # Sports and clubs
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Teams, clubs and hobby groups: sign-ups, fixtures, fees, kit, coaches and club news.
 
@@ -67,6 +67,22 @@ Teams, clubs and hobby groups: sign-ups, fixtures, fees, kit, coaches and club n
 <td align="center" width="16%"><img src="../svg/mark/club-membership-pause-request.svg" width="44" height="44" alt="Ask to pause your club membership for a while"><br><sub><b>Ask to pause your club membership for a while</b></sub><br><sub><code>club-membership-pause-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/league-player-registration-note.svg" width="44" height="44" alt="Send player registration forms to the league"><br><sub><b>Send player registration forms to the league</b></sub><br><sub><code>league-player-registration-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/pre-season-training-plan.svg" width="44" height="44" alt="Pre-season training plan for the squad"><br><sub><b>Pre-season training plan for the squad</b></sub><br><sub><code>pre-season-training-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-new-member-welcome.svg" width="44" height="44" alt="Welcome a new member to the club"><br><sub><b>Welcome a new member to the club</b></sub><br><sub><code>club-new-member-welcome</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/kit-washing-rota.svg" width="44" height="44" alt="Share the rota for washing the team kit"><br><sub><b>Share the rota for washing the team kit</b></sub><br><sub><code>kit-washing-rota</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-new-sponsor-welcome.svg" width="44" height="44" alt="Welcome a new sponsor to the club"><br><sub><b>Welcome a new sponsor to the club</b></sub><br><sub><code>club-new-sponsor-welcome</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-social-event-notice.svg" width="44" height="44" alt="Tell members about a club social event"><br><sub><b>Tell members about a club social event</b></sub><br><sub><code>club-social-event-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-equipment-grant-request.svg" width="44" height="44" alt="Ask the local council or a fund for an equipment grant"><br><sub><b>Ask the local council or a fund for an equipment grant</b></sub><br><sub><code>club-equipment-grant-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-member-feedback-survey.svg" width="44" height="44" alt="Ask members to fill in a short club survey"><br><sub><b>Ask members to fill in a short club survey</b></sub><br><sub><code>club-member-feedback-survey</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/missing-player-check-in.svg" width="44" height="44" alt="Check in with a player who has stopped coming"><br><sub><b>Check in with a player who has stopped coming</b></sub><br><sub><code>missing-player-check-in</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/new-coach-announcement.svg" width="44" height="44" alt="Tell members the club has a new coach"><br><sub><b>Tell members the club has a new coach</b></sub><br><sub><code>new-coach-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sponsor-renewal-request.svg" width="44" height="44" alt="Ask a club sponsor to renew for next season"><br><sub><b>Ask a club sponsor to renew for next season</b></sub><br><sub><code>sponsor-renewal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/match-day-helper-rota.svg" width="44" height="44" alt="Share the match day helper rota"><br><sub><b>Share the match day helper rota</b></sub><br><sub><code>match-day-helper-rota</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/season-registration-open-notice.svg" width="44" height="44" alt="Announce that registration is open for the new season"><br><sub><b>Announce that registration is open for the new season</b></sub><br><sub><code>season-registration-open-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-anniversary-reunion-invite.svg" width="44" height="44" alt="Invite past players to a club anniversary reunion"><br><sub><b>Invite past players to a club anniversary reunion</b></sub><br><sub><code>club-anniversary-reunion-invite</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Hobbies and clubs
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes, posts and papers for book clubs, choirs, running groups, meetups, swaps, workshops and competitions.
 
@@ -75,6 +75,19 @@ Notes, posts and papers for book clubs, choirs, running groups, meetups, swaps, 
 <td align="center" width="16%"><img src="../svg/mark/club-treasurer-report-note.svg" width="44" height="44" alt="Send members a short money report for the club"><br><sub><b>Send members a short money report for the club</b></sub><br><sub><code>club-treasurer-report-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tell-members-new-meeting-time.svg" width="44" height="44" alt="Tell members the meeting time has changed"><br><sub><b>Tell members the meeting time has changed</b></sub><br><sub><code>tell-members-new-meeting-time</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/club-open-day-invitation.svg" width="44" height="44" alt="Invite neighbours to a club open day"><br><sub><b>Invite neighbours to a club open day</b></sub><br><sub><code>club-open-day-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-photo-consent-request.svg" width="44" height="44" alt="Ask club members for consent to use their photos"><br><sub><b>Ask club members for consent to use their photos</b></sub><br><sub><code>club-photo-consent-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/leave-club-politely.svg" width="44" height="44" alt="Tell your club you are leaving"><br><sub><b>Tell your club you are leaving</b></sub><br><sub><code>leave-club-politely</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-fee-increase-notice.svg" width="44" height="44" alt="Tell members the club fee is going up"><br><sub><b>Tell members the club fee is going up</b></sub><br><sub><code>club-fee-increase-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-merger-proposal.svg" width="44" height="44" alt="Suggest to members that the club joins with another club"><br><sub><b>Suggest to members that the club joins with another club</b></sub><br><sub><code>club-merger-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-season-awards-invite.svg" width="44" height="44" alt="Invite members to the end-of-season awards night"><br><sub><b>Invite members to the end-of-season awards night</b></sub><br><sub><code>club-season-awards-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-newsletter-contributions-call.svg" width="44" height="44" alt="Ask club members to send in pieces for the newsletter"><br><sub><b>Ask club members to send in pieces for the newsletter</b></sub><br><sub><code>club-newsletter-contributions-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-skills-night-invite.svg" width="44" height="44" alt="Invite members to a skills night where they teach each other"><br><sub><b>Invite members to a skills night where they teach each other</b></sub><br><sub><code>club-skills-night-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/club-incident-report-note.svg" width="44" height="44" alt="Write up an accident or incident at a club session"><br><sub><b>Write up an accident or incident at a club session</b></sub><br><sub><code>club-incident-report-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-guest-visitor-policy-note.svg" width="44" height="44" alt="Explain the club's rules for bringing guests"><br><sub><b>Explain the club's rules for bringing guests</b></sub><br><sub><code>club-guest-visitor-policy-note</code></sub></td>
 </tr>
 </table>
 

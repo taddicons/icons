@@ -1,6 +1,6 @@
 # Trades and home repairs
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Hiring, briefing and paying builders, plumbers, electricians and other trades, and what to do when it goes wrong.
 
@@ -67,6 +67,22 @@ Hiring, briefing and paying builders, plumbers, electricians and other trades, a
 <td align="center" width="16%"><img src="../svg/mark/tradesperson-wanted-post.svg" width="44" height="44" alt="Ask your local group to recommend a tradesperson"><br><sub><b>Ask your local group to recommend a tradesperson</b></sub><br><sub><code>tradesperson-wanted-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/trade-working-hours-agreement.svg" width="44" height="44" alt="Agree working hours and noise times with builders"><br><sub><b>Agree working hours and noise times with builders</b></sub><br><sub><code>trade-working-hours-agreement</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/pets-at-home-trade-note.svg" width="44" height="44" alt="Tell a tradesperson about pets or children at home"><br><sub><b>Tell a tradesperson about pets or children at home</b></sub><br><sub><code>pets-at-home-trade-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/waste-disposal-proof-request.svg" width="44" height="44" alt="Ask a tradesperson how they will dispose of your waste"><br><sub><b>Ask a tradesperson how they will dispose of your waste</b></sub><br><sub><code>waste-disposal-proof-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/job-paperwork-and-guarantees-request.svg" width="44" height="44" alt="Ask for the guarantees and manuals after a job"><br><sub><b>Ask for the guarantees and manuals after a job</b></sub><br><sub><code>job-paperwork-and-guarantees-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-invoice-query.svg" width="44" height="44" alt="Ask a tradesperson to explain items on an invoice"><br><sub><b>Ask a tradesperson to explain items on an invoice</b></sub><br><sub><code>trade-invoice-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/window-cleaner-booking.svg" width="44" height="44" alt="Book a window cleaner for a regular clean"><br><sub><b>Book a window cleaner for a regular clean</b></sub><br><sub><code>window-cleaner-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lawn-mowing-regular-booking.svg" width="44" height="44" alt="Book a gardener to mow the lawn regularly"><br><sub><b>Book a gardener to mow the lawn regularly</b></sub><br><sub><code>lawn-mowing-regular-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/leftover-materials-note.svg" width="44" height="44" alt="Tell a tradesperson what to do with leftover materials"><br><sub><b>Tell a tradesperson what to do with leftover materials</b></sub><br><sub><code>leftover-materials-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/progress-photos-request-trade.svg" width="44" height="44" alt="Ask a tradesperson to send progress photos while you are away"><br><sub><b>Ask a tradesperson to send progress photos while you are away</b></sub><br><sub><code>progress-photos-request-trade</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/carpet-fitting-booking.svg" width="44" height="44" alt="Book a carpet fitter and agree the details"><br><sub><b>Book a carpet fitter and agree the details</b></sub><br><sub><code>carpet-fitting-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/boiler-warranty-registration-check.svg" width="44" height="44" alt="Ask your installer to confirm the boiler warranty is registered"><br><sub><b>Ask your installer to confirm the boiler warranty is registered</b></sub><br><sub><code>boiler-warranty-registration-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/materials-delivery-slot-request.svg" width="44" height="44" alt="Arrange a delivery slot for building materials"><br><sub><b>Arrange a delivery slot for building materials</b></sub><br><sub><code>materials-delivery-slot-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/past-client-reference-ask.svg" width="44" height="44" alt="Ask a past client to give a reference for your trade work"><br><sub><b>Ask a past client to give a reference for your trade work</b></sub><br><sub><code>past-client-reference-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/job-photos-use-permission.svg" width="44" height="44" alt="Ask a customer if you can use photos of their job"><br><sub><b>Ask a customer if you can use photos of their job</b></sub><br><sub><code>job-photos-use-permission</code></sub></td>
 </tr>
 </table>
 

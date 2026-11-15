@@ -1,6 +1,6 @@
 # Being a landlord or property manager
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages for landlords and property managers, from applicants and rent to repairs, notices, renewals and goodbyes.
 
@@ -75,6 +75,19 @@ Letters and messages for landlords and property managers, from applicants and re
 <td align="center" width="16%"><img src="../svg/mark/building-works-notice-tenants.svg" width="44" height="44" alt="Warn tenants about building works"><br><sub><b>Warn tenants about building works</b></sub><br><sub><code>building-works-notice-tenants</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/water-shutoff-notice.svg" width="44" height="44" alt="Warn tenants that water will be turned off"><br><sub><b>Warn tenants that water will be turned off</b></sub><br><sub><code>water-shutoff-notice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/deposit-returned-confirmation.svg" width="44" height="44" alt="Confirm that you have returned a tenant's deposit"><br><sub><b>Confirm that you have returned a tenant's deposit</b></sub><br><sub><code>deposit-returned-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/contractor-key-access-arrangement.svg" width="44" height="44" alt="Arrange key collection and access with a contractor for a rented home"><br><sub><b>Arrange key collection and access with a contractor for a rented home</b></sub><br><sub><code>contractor-key-access-arrangement</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tenant-utility-transfer-reminder.svg" width="44" height="44" alt="Remind a new tenant to put the utility bills in their name"><br><sub><b>Remind a new tenant to put the utility bills in their name</b></sub><br><sub><code>tenant-utility-transfer-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/check-out-inspection-booking.svg" width="44" height="44" alt="Book the end-of-tenancy check-out inspection with your tenant"><br><sub><b>Book the end-of-tenancy check-out inspection with your tenant</b></sub><br><sub><code>check-out-inspection-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rent-payment-plan-offer.svg" width="44" height="44" alt="Offer a tenant in rent arrears a written plan to pay back what is owed"><br><sub><b>Offer a tenant in rent arrears a written plan to pay back what is owed</b></sub><br><sub><code>rent-payment-plan-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-contact-details-update-request.svg" width="44" height="44" alt="Ask your tenants to confirm their current phone and email details"><br><sub><b>Ask your tenants to confirm their current phone and email details</b></sub><br><sub><code>tenant-contact-details-update-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pest-treatment-visit-notice.svg" width="44" height="44" alt="Tell tenants a pest control visit is booked"><br><sub><b>Tell tenants a pest control visit is booked</b></sub><br><sub><code>pest-treatment-visit-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/parking-space-allocation-note.svg" width="44" height="44" alt="Tell tenants which parking space is theirs"><br><sub><b>Tell tenants which parking space is theirs</b></sub><br><sub><code>parking-space-allocation-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tenant-lost-key-replacement-note.svg" width="44" height="44" alt="Reply to a tenant who has lost a key to the property"><br><sub><b>Reply to a tenant who has lost a key to the property</b></sub><br><sub><code>tenant-lost-key-replacement-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/communal-area-clear-out-notice.svg" width="44" height="44" alt="Ask residents to clear their things from shared hallways"><br><sub><b>Ask residents to clear their things from shared hallways</b></sub><br><sub><code>communal-area-clear-out-notice</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Home and renting
 
-<sub>Taddicons 2.2.0 · Documents & messages · 45 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 74 icons</sub>
 
 Landlords, tenants, neighbours and moving.
 
@@ -65,6 +65,45 @@ Landlords, tenants, neighbours and moving.
 <td align="center" width="16%"><img src="../svg/mark/shared-hallway-problem-note.svg" width="44" height="44" alt="Report a messy shared hallway or bins"><br><sub><b>Report a messy shared hallway or bins</b></sub><br><sub><code>shared-hallway-problem-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/key-handover-arrangement-message.svg" width="44" height="44" alt="Arrange the key handover day"><br><sub><b>Arrange the key handover day</b></sub><br><sub><code>key-handover-arrangement-message</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/welcome-new-neighbours-card.svg" width="44" height="44" alt="Welcome new neighbours"><br><sub><b>Welcome new neighbours</b></sub><br><sub><code>welcome-new-neighbours-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/flatmate-moving-out-notice.svg" width="44" height="44" alt="Tell your flatmates you are moving out"><br><sub><b>Tell your flatmates you are moving out</b></sub><br><sub><code>flatmate-moving-out-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/room-to-let-flatmate-post.svg" width="44" height="44" alt="Post that a room is free in your shared home"><br><sub><b>Post that a room is free in your shared home</b></sub><br><sub><code>room-to-let-flatmate-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/room-advert-reply.svg" width="44" height="44" alt="Reply to an advert for a room in a shared home"><br><sub><b>Reply to an advert for a room in a shared home</b></sub><br><sub><code>room-advert-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/lock-change-request-landlord.svg" width="44" height="44" alt="Ask your landlord to change or fix the locks"><br><sub><b>Ask your landlord to change or fix the locks</b></sub><br><sub><code>lock-change-request-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letting-agent-service-complaint.svg" width="44" height="44" alt="Complain to a letting agent about poor service"><br><sub><b>Complain to a letting agent about poor service</b></sub><br><sub><code>letting-agent-service-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-smoke-drift-note.svg" width="44" height="44" alt="Ask a neighbour about smoke coming into your home"><br><sub><b>Ask a neighbour about smoke coming into your home</b></sub><br><sub><code>neighbour-smoke-drift-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lift-out-of-order-report.svg" width="44" height="44" alt="Report a broken lift in your building"><br><sub><b>Report a broken lift in your building</b></sub><br><sub><code>lift-out-of-order-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/home-survey-booking-request.svg" width="44" height="44" alt="Ask a surveyor to inspect a home you want to buy"><br><sub><b>Ask a surveyor to inspect a home you want to buy</b></sub><br><sub><code>home-survey-booking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/removal-damage-claim.svg" width="44" height="44" alt="Claim from a removal company for damage"><br><sub><b>Claim from a removal company for damage</b></sub><br><sub><code>removal-damage-claim</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/broadband-home-move-request.svg" width="44" height="44" alt="Ask your broadband provider to move with you"><br><sub><b>Ask your broadband provider to move with you</b></sub><br><sub><code>broadband-home-move-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/home-renovation-quote-request.svg" width="44" height="44" alt="Ask a builder to quote for home work"><br><sub><b>Ask a builder to quote for home work</b></sub><br><sub><code>home-renovation-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/draughty-home-improvement-request.svg" width="44" height="44" alt="Ask your landlord to fix a cold, draughty home"><br><sub><b>Ask your landlord to fix a cold, draughty home</b></sub><br><sub><code>draughty-home-improvement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/landlord-contact-details-request.svg" width="44" height="44" alt="Ask for your landlord's name and address"><br><sub><b>Ask for your landlord's name and address</b></sub><br><sub><code>landlord-contact-details-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbour-to-keep-a-spare-key.svg" width="44" height="44" alt="Ask a neighbour to keep a spare key"><br><sub><b>Ask a neighbour to keep a spare key</b></sub><br><sub><code>ask-neighbour-to-keep-a-spare-key</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wrong-parcel-delivered-neighbour-note.svg" width="44" height="44" alt="Tell a neighbour you have their parcel"><br><sub><b>Tell a neighbour you have their parcel</b></sub><br><sub><code>wrong-parcel-delivered-neighbour-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/bike-storage-request-building-manager.svg" width="44" height="44" alt="Ask your building for safe bike storage"><br><sub><b>Ask your building for safe bike storage</b></sub><br><sub><code>bike-storage-request-building-manager</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/moving-day-parking-bay-request.svg" width="44" height="44" alt="Ask the council to reserve parking for moving day"><br><sub><b>Ask the council to reserve parking for moving day</b></sub><br><sub><code>moving-day-parking-bay-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/end-of-tenancy-cleaning-booking.svg" width="44" height="44" alt="Book a clean for the end of your tenancy"><br><sub><b>Book a clean for the end of your tenancy</b></sub><br><sub><code>end-of-tenancy-cleaning-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/unwanted-furniture-removal-request-landlord.svg" width="44" height="44" alt="Ask your landlord to remove unwanted furniture"><br><sub><b>Ask your landlord to remove unwanted furniture</b></sub><br><sub><code>unwanted-furniture-removal-request-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/broken-entry-door-report.svg" width="44" height="44" alt="Report a broken main door in your building"><br><sub><b>Report a broken main door in your building</b></sub><br><sub><code>broken-entry-door-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lodger-house-rules.svg" width="44" height="44" alt="House rules for a lodger in your home"><br><sub><b>House rules for a lodger in your home</b></sub><br><sub><code>lodger-house-rules</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/home-buyer-questions-to-seller.svg" width="44" height="44" alt="Ask a seller questions before buying their home"><br><sub><b>Ask a seller questions before buying their home</b></sub><br><sub><code>home-buyer-questions-to-seller</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-repair-cost-split-neighbour.svg" width="44" height="44" alt="Suggest splitting a shared repair with a neighbour"><br><sub><b>Suggest splitting a shared repair with a neighbour</b></sub><br><sub><code>shared-repair-cost-split-neighbour</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-halls-room-change-request.svg" width="44" height="44" alt="Ask your student halls for a room change"><br><sub><b>Ask your student halls for a room change</b></sub><br><sub><code>student-halls-room-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/spare-key-request-landlord.svg" width="44" height="44" alt="Ask your landlord for a spare or extra key"><br><sub><b>Ask your landlord for a spare or extra key</b></sub><br><sub><code>spare-key-request-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/garden-shed-permission-request-landlord.svg" width="44" height="44" alt="Ask your landlord if you can put up a shed"><br><sub><b>Ask your landlord if you can put up a shed</b></sub><br><sub><code>garden-shed-permission-request-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/introduce-yourself-to-new-landlord.svg" width="44" height="44" alt="Introduce yourself to a new landlord after a sale"><br><sub><b>Introduce yourself to a new landlord after a sale</b></sub><br><sub><code>introduce-yourself-to-new-landlord</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/home-search-brief-to-agent.svg" width="44" height="44" alt="Tell an agent what kind of home you are looking for"><br><sub><b>Tell an agent what kind of home you are looking for</b></sub><br><sub><code>home-search-brief-to-agent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bills-responsibility-question-landlord.svg" width="44" height="44" alt="Ask your landlord which bills you pay"><br><sub><b>Ask your landlord which bills you pay</b></sub><br><sub><code>bills-responsibility-question-landlord</code></sub></td>
 </tr>
 </table>
 

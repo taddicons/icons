@@ -1,6 +1,6 @@
 # Civic and local government
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Letters, speeches and requests to councillors, councils, libraries, school boards and election helpers, so ordinary people can be heard where they live.
 
@@ -75,6 +75,19 @@ Letters, speeches and requests to councillors, councils, libraries, school board
 <td align="center" width="16%"><img src="../svg/mark/poll-worker-sign-up-note.svg" width="44" height="44" alt="Offer to work at a polling station"><br><sub><b>Offer to work at a polling station</b></sub><br><sub><code>poll-worker-sign-up-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/overgrown-hedge-report.svg" width="44" height="44" alt="Report an overgrown hedge or tree blocking the path"><br><sub><b>Report an overgrown hedge or tree blocking the path</b></sub><br><sub><code>overgrown-hedge-report</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/roadworks-disruption-complaint.svg" width="44" height="44" alt="Complain about roadworks that go on too long"><br><sub><b>Complain about roadworks that go on too long</b></sub><br><sub><code>roadworks-disruption-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/empty-property-report.svg" width="44" height="44" alt="Report a long-empty home or building to the council"><br><sub><b>Report a long-empty home or building to the council</b></sub><br><sub><code>empty-property-report</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/bus-shelter-repair-request.svg" width="44" height="44" alt="Ask for a damaged bus shelter to be repaired"><br><sub><b>Ask for a damaged bus shelter to be repaired</b></sub><br><sub><code>bus-shelter-repair-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fly-posting-report.svg" width="44" height="44" alt="Report fly-posting or illegal signs in your street"><br><sub><b>Report fly-posting or illegal signs in your street</b></sub><br><sub><code>fly-posting-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/public-toilet-repair-request.svg" width="44" height="44" alt="Ask the council to repair or reopen a public toilet"><br><sub><b>Ask the council to repair or reopen a public toilet</b></sub><br><sub><code>public-toilet-repair-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/overflowing-litter-bin-report.svg" width="44" height="44" alt="Report an overflowing public litter bin"><br><sub><b>Report an overflowing public litter bin</b></sub><br><sub><code>overflowing-litter-bin-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/residents-parking-scheme-request.svg" width="44" height="44" alt="Ask the council to consider a residents' parking scheme for your street"><br><sub><b>Ask the council to consider a residents' parking scheme for your street</b></sub><br><sub><code>residents-parking-scheme-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-planter-adoption-request.svg" width="44" height="44" alt="Ask the council if residents can adopt and plant a public flower bed"><br><sub><b>Ask the council if residents can adopt and plant a public flower bed</b></sub><br><sub><code>community-planter-adoption-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/hustings-invitation-to-candidates.svg" width="44" height="44" alt="Invite local election candidates to a public question meeting"><br><sub><b>Invite local election candidates to a public question meeting</b></sub><br><sub><code>hustings-invitation-to-candidates</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/road-sign-damage-report.svg" width="44" height="44" alt="Report a damaged, missing or hidden road sign to the council"><br><sub><b>Report a damaged, missing or hidden road sign to the council</b></sub><br><sub><code>road-sign-damage-report</code></sub></td>
 </tr>
 </table>
 

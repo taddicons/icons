@@ -1,6 +1,6 @@
 # Disability and access
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Asking for what you need to take part, in plain words, with dignity and no jargon.
 
@@ -75,6 +75,19 @@ Asking for what you need to take part, in plain words, with dignity and no jargo
 <td align="center" width="16%"><img src="../svg/mark/ask-a-bank-for-accessible-banking.svg" width="44" height="44" alt="Ask a bank to make banking accessible for you"><br><sub><b>Ask a bank to make banking accessible for you</b></sub><br><sub><code>ask-a-bank-for-accessible-banking</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-for-breaks-during-a-long-event.svg" width="44" height="44" alt="Ask for rest breaks during a long event"><br><sub><b>Ask for rest breaks during a long event</b></sub><br><sub><code>ask-for-breaks-during-a-long-event</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/post-about-an-access-barrier-you-faced.svg" width="44" height="44" alt="Post about an access barrier you faced"><br><sub><b>Post about an access barrier you faced</b></sub><br><sub><code>post-about-an-access-barrier-you-faced</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-landlord-to-fit-grab-rails.svg" width="44" height="44" alt="Ask your landlord for permission to fit grab rails"><br><sub><b>Ask your landlord for permission to fit grab rails</b></sub><br><sub><code>ask-landlord-to-fit-grab-rails</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-cinema-about-audio-description.svg" width="44" height="44" alt="Ask a cinema about audio-described screenings"><br><sub><b>Ask a cinema about audio-described screenings</b></sub><br><sub><code>ask-cinema-about-audio-description</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-flexible-start-times-for-a-condition.svg" width="44" height="44" alt="Ask for flexible start times because of a health condition"><br><sub><b>Ask for flexible start times because of a health condition</b></sub><br><sub><code>ask-for-flexible-start-times-for-a-condition</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-salon-for-a-quiet-appointment.svg" width="44" height="44" alt="Ask a salon for a calm, quiet appointment"><br><sub><b>Ask a salon for a calm, quiet appointment</b></sub><br><sub><code>ask-salon-for-a-quiet-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/book-wheelchair-accessible-taxi.svg" width="44" height="44" alt="Book a wheelchair-accessible taxi in advance"><br><sub><b>Book a wheelchair-accessible taxi in advance</b></sub><br><sub><code>book-wheelchair-accessible-taxi</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/relaxed-performance-request.svg" width="44" height="44" alt="Ask a theatre or cinema to offer a relaxed performance"><br><sub><b>Ask a theatre or cinema to offer a relaxed performance</b></sub><br><sub><code>relaxed-performance-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/inclusive-sports-club-ask.svg" width="44" height="44" alt="Ask a sports club how it can include a disabled child or adult"><br><sub><b>Ask a sports club how it can include a disabled child or adult</b></sub><br><sub><code>inclusive-sports-club-ask</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tradesperson-visit-access-note.svg" width="44" height="44" alt="Tell a tradesperson what you need when they visit your home"><br><sub><b>Tell a tradesperson what you need when they visit your home</b></sub><br><sub><code>tradesperson-visit-access-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/accessible-polling-station-request.svg" width="44" height="44" alt="Ask the elections office about access at your polling station"><br><sub><b>Ask the elections office about access at your polling station</b></sub><br><sub><code>accessible-polling-station-request</code></sub></td>
 </tr>
 </table>
 

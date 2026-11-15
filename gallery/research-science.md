@@ -1,6 +1,6 @@
 # Research and science collaboration
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes between researchers: sharing data and code, answering reviewers, grants, abstracts, ethics questions, credit and field work.
 
@@ -75,6 +75,19 @@ Notes between researchers: sharing data and code, answering reviewers, grants, a
 <td align="center" width="16%"><img src="../svg/mark/research-weekly-progress-email.svg" width="44" height="44" alt="Weekly progress email to your supervisor"><br><sub><b>Weekly progress email to your supervisor</b></sub><br><sub><code>research-weekly-progress-email</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-colleague-to-check-statistics.svg" width="44" height="44" alt="Ask a colleague to check your statistics"><br><sub><b>Ask a colleague to check your statistics</b></sub><br><sub><code>ask-colleague-to-check-statistics</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/welcome-new-lab-member.svg" width="44" height="44" alt="Welcome a new student or researcher to the lab"><br><sub><b>Welcome a new student or researcher to the lab</b></sub><br><sub><code>welcome-new-lab-member</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-coauthor-submission-approval.svg" width="44" height="44" alt="Ask co-authors to approve a paper before you submit"><br><sub><b>Ask co-authors to approve a paper before you submit</b></sub><br><sub><code>sci-coauthor-submission-approval</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sci-data-sharing-agreement-request.svg" width="44" height="44" alt="Ask for a data sharing agreement"><br><sub><b>Ask for a data sharing agreement</b></sub><br><sub><code>sci-data-sharing-agreement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-equipment-out-of-service.svg" width="44" height="44" alt="Tell lab users a machine is out of service"><br><sub><b>Tell lab users a machine is out of service</b></sub><br><sub><code>sci-equipment-out-of-service</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-instrument-training-request.svg" width="44" height="44" alt="Ask a technician for training on an instrument"><br><sub><b>Ask a technician for training on an instrument</b></sub><br><sub><code>sci-instrument-training-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-thesis-committee-meeting.svg" width="44" height="44" alt="Ask your thesis committee for a meeting date"><br><sub><b>Ask your thesis committee for a meeting date</b></sub><br><sub><code>sci-thesis-committee-meeting</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lab-visitor-safety-briefing.svg" width="44" height="44" alt="Safety briefing for a visitor to your lab"><br><sub><b>Safety briefing for a visitor to your lab</b></sub><br><sub><code>lab-visitor-safety-briefing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/funder-report-extension-request.svg" width="44" height="44" alt="Ask a funder for more time to submit a progress report"><br><sub><b>Ask a funder for more time to submit a progress report</b></sub><br><sub><code>funder-report-extension-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/student-lab-placement-offer.svg" width="44" height="44" alt="Offer a student a placement in your lab"><br><sub><b>Offer a student a placement in your lab</b></sub><br><sub><code>student-lab-placement-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sample-shipment-notice-to-partner-lab.svg" width="44" height="44" alt="Tell a partner lab that samples are on their way"><br><sub><b>Tell a partner lab that samples are on their way</b></sub><br><sub><code>sample-shipment-notice-to-partner-lab</code></sub></td>
 </tr>
 </table>
 

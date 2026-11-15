@@ -1,6 +1,6 @@
 # Restaurants, cafes and food business
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Orders, quotes, bookings, allergy information, staff messages, reviews and market stalls for people who feed others for a living.
 
@@ -75,6 +75,19 @@ Orders, quotes, bookings, allergy information, staff messages, reviews and marke
 <td align="center" width="16%"><img src="../svg/mark/late-order-change-decline.svg" width="44" height="44" alt="Say no to a late change on a custom order"><br><sub><b>Say no to a late change on a custom order</b></sub><br><sub><code>late-order-change-decline</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/new-kitchen-hire-welcome.svg" width="44" height="44" alt="Welcome a new kitchen hire"><br><sub><b>Welcome a new kitchen hire</b></sub><br><sub><code>new-kitchen-hire-welcome</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/allergy-scare-follow-up.svg" width="44" height="44" alt="Follow up with a guest after an allergy scare"><br><sub><b>Follow up with a guest after an allergy scare</b></sub><br><sub><code>allergy-scare-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/book-urgent-pest-control-visit.svg" width="44" height="44" alt="Book an urgent pest control visit for a food business"><br><sub><b>Book an urgent pest control visit for a food business</b></sub><br><sub><code>book-urgent-pest-control-visit</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/staff-allergen-check-reminder.svg" width="44" height="44" alt="Remind kitchen and floor staff about allergen checks"><br><sub><b>Remind kitchen and floor staff about allergen checks</b></sub><br><sub><code>staff-allergen-check-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/offer-surplus-food-to-charity.svg" width="44" height="44" alt="Offer surplus food to a local charity"><br><sub><b>Offer surplus food to a local charity</b></sub><br><sub><code>offer-surplus-food-to-charity</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/card-machine-down-notice.svg" width="44" height="44" alt="Tell customers the card machine is not working"><br><sub><b>Tell customers the card machine is not working</b></sub><br><sub><code>card-machine-down-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-supplier-price-rise.svg" width="44" height="44" alt="Reply to a supplier about a price rise"><br><sub><b>Reply to a supplier about a price rise</b></sub><br><sub><code>reply-to-supplier-price-rise</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/food-hygiene-reinspection-request.svg" width="44" height="44" alt="Ask for a hygiene re-inspection after making fixes"><br><sub><b>Ask for a hygiene re-inspection after making fixes</b></sub><br><sub><code>food-hygiene-reinspection-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reopening-after-refit-post.svg" width="44" height="44" alt="Announce your reopening after a refit"><br><sub><b>Announce your reopening after a refit</b></sub><br><sub><code>reopening-after-refit-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/street-trading-licence-question.svg" width="44" height="44" alt="Ask the council about a street trading licence"><br><sub><b>Ask the council about a street trading licence</b></sub><br><sub><code>street-trading-licence-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-break-times-reminder.svg" width="44" height="44" alt="Remind kitchen staff about break times"><br><sub><b>Remind kitchen staff about break times</b></sub><br><sub><code>staff-break-times-reminder</code></sub></td>
 </tr>
 </table>
 

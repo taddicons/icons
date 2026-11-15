@@ -1,6 +1,6 @@
 # Airlines, hotels and holiday complaints
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages to put right flight, hotel, package holiday, rental car and cruise problems, and to thank staff who helped.
 
@@ -75,6 +75,19 @@ Letters and messages to put right flight, hotel, package holiday, rental car and
 <td align="center" width="16%"><img src="../svg/mark/holiday-compensation-offer-reply.svg" width="44" height="44" alt="Reply to a compensation offer for a spoiled holiday"><br><sub><b>Reply to a compensation offer for a spoiled holiday</b></sub><br><sub><code>holiday-compensation-offer-reply</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-bank-for-holiday-refund-help.svg" width="44" height="44" alt="Ask your bank to help get a refund for a holiday"><br><sub><b>Ask your bank to help get a refund for a holiday</b></sub><br><sub><code>ask-bank-for-holiday-refund-help</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/holiday-complaint-timeline-summary.svg" width="44" height="44" alt="Sum up your holiday complaint in order"><br><sub><b>Sum up your holiday complaint in order</b></sub><br><sub><code>holiday-complaint-timeline-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rental-cancelled-by-host-complaint.svg" width="44" height="44" alt="Complain when a host cancels your holiday rental"><br><sub><b>Complain when a host cancels your holiday rental</b></sub><br><sub><code>rental-cancelled-by-host-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/airline-special-assistance-complaint.svg" width="44" height="44" alt="Complain that airport or airline assistance was not given"><br><sub><b>Complain that airport or airline assistance was not given</b></sub><br><sub><code>airline-special-assistance-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/theme-park-closures-complaint.svg" width="44" height="44" alt="Complain about closed rides at a theme park"><br><sub><b>Complain about closed rides at a theme park</b></sub><br><sub><code>theme-park-closures-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airport-parking-charge-dispute.svg" width="44" height="44" alt="Dispute a charge from airport parking"><br><sub><b>Dispute a charge from airport parking</b></sub><br><sub><code>airport-parking-charge-dispute</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-booking-not-found-complaint.svg" width="44" height="44" alt="Complain that the hotel had no record of your booking"><br><sub><b>Complain that the hotel had no record of your booking</b></sub><br><sub><code>hotel-booking-not-found-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tour-guide-no-show-complaint.svg" width="44" height="44" alt="Complain when a booked tour guide never turned up"><br><sub><b>Complain when a booked tour guide never turned up</b></sub><br><sub><code>tour-guide-no-show-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-safe-theft-report.svg" width="44" height="44" alt="Report items stolen from your hotel room or safe"><br><sub><b>Report items stolen from your hotel room or safe</b></sub><br><sub><code>hotel-safe-theft-report</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/booking-name-change-fee-dispute.svg" width="44" height="44" alt="Dispute a fee for correcting a name on a travel booking"><br><sub><b>Dispute a fee for correcting a name on a travel booking</b></sub><br><sub><code>booking-name-change-fee-dispute</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airline-dietary-meal-missing-complaint.svg" width="44" height="44" alt="Complain that the special meal you booked on a flight was missing"><br><sub><b>Complain that the special meal you booked on a flight was missing</b></sub><br><sub><code>airline-dietary-meal-missing-complaint</code></sub></td>
 </tr>
 </table>
 

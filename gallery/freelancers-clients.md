@@ -1,6 +1,6 @@
 # Freelancers and clients
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Everything a freelancer writes to clients, from first enquiry and kickoff to scope, money, boundaries, handover and referrals.
 
@@ -75,6 +75,19 @@ Everything a freelancer writes to clients, from first enquiry and kickoff to sco
 <td align="center" width="16%"><img src="../svg/mark/freelance-invoice-cover-note.svg" width="44" height="44" alt="Write the note that sends your invoice"><br><sub><b>Write the note that sends your invoice</b></sub><br><sub><code>freelance-invoice-cover-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/freelance-job-post-bid.svg" width="44" height="44" alt="Write a short bid for a job post"><br><sub><b>Write a short bid for a job post</b></sub><br><sub><code>freelance-job-post-bid</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/freelance-new-client-welcome-pack.svg" width="44" height="44" alt="Welcome a new client and explain how you work"><br><sub><b>Welcome a new client and explain how you work</b></sub><br><sub><code>freelance-new-client-welcome-pack</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-signed-agreement-before-start.svg" width="44" height="44" alt="Ask a client to sign the agreement before you start"><br><sub><b>Ask a client to sign the agreement before you start</b></sub><br><sub><code>freelance-signed-agreement-before-start</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/freelance-new-dates-after-late-feedback.svg" width="44" height="44" alt="Reset the deadline after late feedback from a client"><br><sub><b>Reset the deadline after late feedback from a client</b></sub><br><sub><code>freelance-new-dates-after-late-feedback</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-tell-client-about-helper.svg" width="44" height="44" alt="Tell a client you are bringing in a helper on their project"><br><sub><b>Tell a client you are bringing in a helper on their project</b></sub><br><sub><code>freelance-tell-client-about-helper</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-ask-client-which-tax-details-needed.svg" width="44" height="44" alt="Ask a new client which tax details they need from you"><br><sub><b>Ask a new client which tax details they need from you</b></sub><br><sub><code>freelance-ask-client-which-tax-details-needed</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-reply-to-portfolio-removal-request.svg" width="44" height="44" alt="Reply to a client who asks you to remove work from your portfolio"><br><sub><b>Reply to a client who asks you to remove work from your portfolio</b></sub><br><sub><code>freelance-reply-to-portfolio-removal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-invoice-question-reply.svg" width="44" height="44" alt="Reply when a client questions your invoice"><br><sub><b>Reply when a client questions your invoice</b></sub><br><sub><code>freelance-invoice-question-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-contract-ending-reminder.svg" width="44" height="44" alt="Remind a client that your contract is ending soon"><br><sub><b>Remind a client that your contract is ending soon</b></sub><br><sub><code>freelance-contract-ending-reminder</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/freelance-ask-client-to-share-access-safely.svg" width="44" height="44" alt="Ask a client to give you account access safely"><br><sub><b>Ask a client to give you account access safely</b></sub><br><sub><code>freelance-ask-client-to-share-access-safely</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-price-list-for-new-enquiry.svg" width="44" height="44" alt="Send your price list to a new enquiry"><br><sub><b>Send your price list to a new enquiry</b></sub><br><sub><code>freelance-price-list-for-new-enquiry</code></sub></td>
 </tr>
 </table>
 

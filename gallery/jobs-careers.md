@@ -1,6 +1,6 @@
 # Jobs and careers
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Everything between looking for work and leaving it: outreach, follow-ups, negotiation, references and moves.
 
@@ -75,6 +75,19 @@ Everything between looking for work and leaving it: outreach, follow-ups, negoti
 <td align="center" width="16%"><img src="../svg/mark/study-leave-request.svg" width="44" height="44" alt="Ask your boss for time off to study"><br><sub><b>Ask your boss for time off to study</b></sub><br><sub><code>study-leave-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/rehire-ask-former-employer.svg" width="44" height="44" alt="Ask to come back to a former employer"><br><sub><b>Ask to come back to a former employer</b></sub><br><sub><code>rehire-ask-former-employer</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/cv-feedback-ask-friend.svg" width="44" height="44" alt="Ask a friend to read your CV"><br><sub><b>Ask a friend to read your CV</b></sub><br><sub><code>cv-feedback-ask-friend</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/background-check-delay-query.svg" width="44" height="44" alt="Ask a new employer why your background check is taking so long"><br><sub><b>Ask a new employer why your background check is taking so long</b></sub><br><sub><code>background-check-delay-query</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/interview-travel-expenses-query.svg" width="44" height="44" alt="Ask an employer whether they cover travel costs for an interview"><br><sub><b>Ask an employer whether they cover travel costs for an interview</b></sub><br><sub><code>interview-travel-expenses-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/references-after-offer-request.svg" width="44" height="44" alt="Ask a new employer to contact your references only after an offer"><br><sub><b>Ask a new employer to contact your references only after an offer</b></sub><br><sub><code>references-after-offer-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-job-news-to-mentor.svg" width="44" height="44" alt="Tell a mentor you got the new job they helped you prepare for"><br><sub><b>Tell a mentor you got the new job they helped you prepare for</b></sub><br><sub><code>new-job-news-to-mentor</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/training-course-takeaways-note.svg" width="44" height="44" alt="Share what you learned on a training course with your manager"><br><sub><b>Share what you learned on a training course with your manager</b></sub><br><sub><code>training-course-takeaways-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shift-pattern-change-request.svg" width="44" height="44" alt="Ask your manager to change your regular shift pattern"><br><sub><b>Ask your manager to change your regular shift pattern</b></sub><br><sub><code>shift-pattern-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/written-job-description-request.svg" width="44" height="44" alt="Ask your employer for a written description of your role"><br><sub><b>Ask your employer for a written description of your role</b></sub><br><sub><code>written-job-description-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/remote-role-working-hours-question.svg" width="44" height="44" alt="Ask an employer which hours a remote role works across time zones"><br><sub><b>Ask an employer which hours a remote role works across time zones</b></sub><br><sub><code>remote-role-working-hours-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conference-place-request.svg" width="44" height="44" alt="Ask your manager for time off to attend an industry event"><br><sub><b>Ask your manager for time off to attend an industry event</b></sub><br><sub><code>conference-place-request</code></sub></td>
 </tr>
 </table>
 

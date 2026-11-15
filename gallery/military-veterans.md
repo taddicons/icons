@@ -1,6 +1,6 @@
 # Military and veterans
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and notes for deployed service members, their families and veterans, plus benefits, records, housing and remembrance.
 
@@ -75,6 +75,19 @@ Letters and notes for deployed service members, their families and veterans, plu
 <td align="center" width="16%"><img src="../svg/mark/thank-honour-guard-after-military-funeral.svg" width="44" height="44" alt="Thank the honour guard after a military funeral"><br><sub><b>Thank the honour guard after a military funeral</b></sub><br><sub><code>thank-honour-guard-after-military-funeral</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-school-to-host-veteran-speaker.svg" width="44" height="44" alt="Ask a school to host a veteran speaker"><br><sub><b>Ask a school to host a veteran speaker</b></sub><br><sub><code>ask-school-to-host-veteran-speaker</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-unit-reunion-photos-and-stories.svg" width="44" height="44" alt="Ask old comrades for photos and stories for a reunion"><br><sub><b>Ask old comrades for photos and stories for a reunion</b></sub><br><sub><code>ask-unit-reunion-photos-and-stories</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reserve-training-leave-request.svg" width="44" height="44" alt="Ask your employer for time off for reserve forces training"><br><sub><b>Ask your employer for time off for reserve forces training</b></sub><br><sub><code>reserve-training-leave-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/veteran-discount-enquiry.svg" width="44" height="44" alt="Ask a business whether it offers a discount for veterans"><br><sub><b>Ask a business whether it offers a discount for veterans</b></sub><br><sub><code>veteran-discount-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/veteran-career-advice-chat-ask.svg" width="44" height="44" alt="Ask a veteran working in a civilian job for a short career chat"><br><sub><b>Ask a veteran working in a civilian job for a short career chat</b></sub><br><sub><code>veteran-career-advice-chat-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/military-move-utility-cancellation-note.svg" width="44" height="44" alt="Close utility and service accounts before a military move"><br><sub><b>Close utility and service accounts before a military move</b></sub><br><sub><code>military-move-utility-cancellation-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/veteran-peer-group-thank-you.svg" width="44" height="44" alt="Thank a veteran peer support group for being there for you"><br><sub><b>Thank a veteran peer support group for being there for you</b></sub><br><sub><code>veteran-peer-group-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/transition-course-place-request.svg" width="44" height="44" alt="Ask for a place on a course that helps you leave the forces"><br><sub><b>Ask for a place on a course that helps you leave the forces</b></sub><br><sub><code>transition-course-place-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/veteran-hiring-programme-question.svg" width="44" height="44" alt="Ask an employer about their programme for hiring veterans"><br><sub><b>Ask an employer about their programme for hiring veterans</b></sub><br><sub><code>veteran-hiring-programme-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/unit-reunion-rsvp-reply.svg" width="44" height="44" alt="Reply to a unit reunion invitation"><br><sub><b>Reply to a unit reunion invitation</b></sub><br><sub><code>unit-reunion-rsvp-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/veteran-volunteer-offer-note.svg" width="44" height="44" alt="Offer to volunteer with a veterans' charity"><br><sub><b>Offer to volunteer with a veterans' charity</b></sub><br><sub><code>veteran-volunteer-offer-note</code></sub></td>
 </tr>
 </table>
 

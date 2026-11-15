@@ -1,6 +1,6 @@
 # Coaches and sports organisers
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Team lists, parent letters, travel and tournament plans, injuries, money, praise and hard talks for people who run a team or club.
 
@@ -75,6 +75,19 @@ Team lists, parent letters, travel and tournament plans, injuries, money, praise
 <td align="center" width="16%"><img src="../svg/mark/team-group-chat-rules.svg" width="44" height="44" alt="Set the rules for the team group chat"><br><sub><b>Set the rules for the team group chat</b></sub><br><sub><code>team-group-chat-rules</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/left-behind-items-notice.svg" width="44" height="44" alt="Tell families about lost property"><br><sub><b>Tell families about lost property</b></sub><br><sub><code>left-behind-items-notice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/coach-running-late-message.svg" width="44" height="44" alt="Tell the team you will be late"><br><sub><b>Tell the team you will be late</b></sub><br><sub><code>coach-running-late-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kit-design-vote.svg" width="44" height="44" alt="Ask players and parents to vote on a new team kit"><br><sub><b>Ask players and parents to vote on a new team kit</b></sub><br><sub><code>kit-design-vote</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/assistant-coach-thank-you.svg" width="44" height="44" alt="Thank your assistant coach at the end of the season"><br><sub><b>Thank your assistant coach at the end of the season</b></sub><br><sub><code>assistant-coach-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-photo-day-notice.svg" width="44" height="44" alt="Tell families about the team photo day"><br><sub><b>Tell families about the team photo day</b></sub><br><sub><code>team-photo-day-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hot-weather-training-notice.svg" width="44" height="44" alt="Hot weather changes to training sessions"><br><sub><b>Hot weather changes to training sessions</b></sub><br><sub><code>hot-weather-training-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/training-session-plan.svg" width="44" height="44" alt="Training session plan to share with your coaching team"><br><sub><b>Training session plan to share with your coaching team</b></sub><br><sub><code>training-session-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/player-club-transfer-request.svg" width="44" height="44" alt="Ask a player's old club to release them to join your team"><br><sub><b>Ask a player's old club to release them to join your team</b></sub><br><sub><code>player-club-transfer-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/training-time-change-notice.svg" width="44" height="44" alt="Tell players and parents that regular training times are changing"><br><sub><b>Tell players and parents that regular training times are changing</b></sub><br><sub><code>training-time-change-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trials-place-offer-note.svg" width="44" height="44" alt="Offer a player a place on the team after trials"><br><sub><b>Offer a player a place on the team after trials</b></sub><br><sub><code>trials-place-offer-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-aid-volunteer-ask.svg" width="44" height="44" alt="Ask parents to volunteer as the team's first aider"><br><sub><b>Ask parents to volunteer as the team's first aider</b></sub><br><sub><code>first-aid-volunteer-ask</code></sub></td>
 </tr>
 </table>
 

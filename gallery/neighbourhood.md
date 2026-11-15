@@ -1,6 +1,6 @@
 # Neighbourhood and environment
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Neighbours, streets, councils and the local environment: asking, reporting and organising.
 
@@ -75,6 +75,19 @@ Neighbours, streets, councils and the local environment: asking, reporting and o
 <td align="center" width="16%"><img src="../svg/mark/thank-volunteers-after-a-street-event.svg" width="44" height="44" alt="Thank helpers after a street event"><br><sub><b>Thank helpers after a street event</b></sub><br><sub><code>thank-volunteers-after-a-street-event</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-neighbours-to-share-a-skip.svg" width="44" height="44" alt="Ask neighbours to share a skip"><br><sub><b>Ask neighbours to share a skip</b></sub><br><sub><code>ask-neighbours-to-share-a-skip</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/post-a-lost-pet-notice.svg" width="44" height="44" alt="Post a notice about a lost pet"><br><sub><b>Post a notice about a lost pet</b></sub><br><sub><code>post-a-lost-pet-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/street-speeding-concern-council.svg" width="44" height="44" alt="Tell the council about cars speeding on your street"><br><sub><b>Tell the council about cars speeding on your street</b></sub><br><sub><code>street-speeding-concern-council</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/shared-bin-store-tidy-note.svg" width="44" height="44" alt="Ask neighbours to help keep the shared bin store tidy"><br><sub><b>Ask neighbours to help keep the shared bin store tidy</b></sub><br><sub><code>shared-bin-store-tidy-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-moving-away-farewell.svg" width="44" height="44" alt="Say goodbye to a neighbour who is moving away"><br><sub><b>Say goodbye to a neighbour who is moving away</b></sub><br><sub><code>neighbour-moving-away-farewell</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/alarm-sounding-neighbour-away-note.svg" width="44" height="44" alt="Tell a neighbour their alarm kept going off while they were away"><br><sub><b>Tell a neighbour their alarm kept going off while they were away</b></sub><br><sub><code>alarm-sounding-neighbour-away-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-drain-blockage-note.svg" width="44" height="44" alt="Tell neighbours about a blocked shared drain and suggest sorting it together"><br><sub><b>Tell neighbours about a blocked shared drain and suggest sorting it together</b></sub><br><sub><code>shared-drain-blockage-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbour-to-angle-security-light.svg" width="44" height="44" alt="Ask a neighbour to angle a security light away from your windows"><br><sub><b>Ask a neighbour to angle a security light away from your windows</b></sub><br><sub><code>ask-neighbour-to-angle-security-light</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/report-broken-play-equipment-in-park.svg" width="44" height="44" alt="Report broken play equipment in a local park"><br><sub><b>Report broken play equipment in a local park</b></sub><br><sub><code>report-broken-play-equipment-in-park</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbour-not-to-block-our-dropped-kerb.svg" width="44" height="44" alt="Ask a neighbour not to park across your dropped kerb"><br><sub><b>Ask a neighbour not to park across your dropped kerb</b></sub><br><sub><code>ask-neighbour-not-to-block-our-dropped-kerb</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbours-to-shut-the-shared-gate.svg" width="44" height="44" alt="Remind neighbours to close the shared gate"><br><sub><b>Remind neighbours to close the shared gate</b></sub><br><sub><code>ask-neighbours-to-shut-the-shared-gate</code></sub></td>
 </tr>
 </table>
 

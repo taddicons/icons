@@ -1,6 +1,6 @@
 # Social posts
 
-<sub>Taddicons 2.2.0 · Documents & messages · 44 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 74 icons</sub>
 
 Posts with a picture for the networks you connected, written for regular people, not influencers.
 
@@ -64,6 +64,46 @@ Posts with a picture for the networks you connected, written for regular people,
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/adoption-day-post.svg" width="44" height="44" alt="Celebrate an adoption day"><br><sub><b>Celebrate an adoption day</b></sub><br><sub><code>adoption-day-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/year-in-review-post.svg" width="44" height="44" alt="Share a year in review"><br><sub><b>Share a year in review</b></sub><br><sub><code>year-in-review-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sobriety-anniversary-post.svg" width="44" height="44" alt="Share a sobriety anniversary"><br><sub><b>Share a sobriety anniversary</b></sub><br><sub><code>sobriety-anniversary-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pregnancy-announcement-post.svg" width="44" height="44" alt="Announce a pregnancy"><br><sub><b>Announce a pregnancy</b></sub><br><sub><code>pregnancy-announcement-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/name-change-announcement-post.svg" width="44" height="44" alt="Announce a change of name"><br><sub><b>Announce a change of name</b></sub><br><sub><code>name-change-announcement-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-anniversary-post.svg" width="44" height="44" alt="Celebrate a business anniversary"><br><sub><b>Celebrate a business anniversary</b></sub><br><sub><code>business-anniversary-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/grand-opening-post.svg" width="44" height="44" alt="Announce a grand opening"><br><sub><b>Announce a grand opening</b></sub><br><sub><code>grand-opening-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/blood-donation-appeal-post.svg" width="44" height="44" alt="Ask people to give blood"><br><sub><b>Ask people to give blood</b></sub><br><sub><code>blood-donation-appeal-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/certification-earned-post.svg" width="44" height="44" alt="Share a new certificate or qualification"><br><sub><b>Share a new certificate or qualification</b></sub><br><sub><code>certification-earned-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/home-renovation-reveal-post.svg" width="44" height="44" alt="Show off a finished home renovation"><br><sub><b>Show off a finished home renovation</b></sub><br><sub><code>home-renovation-reveal-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/babysitter-wanted-post.svg" width="44" height="44" alt="Look for a babysitter"><br><sub><b>Look for a babysitter</b></sub><br><sub><code>babysitter-wanted-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/birthday-thank-you-post.svg" width="44" height="44" alt="Thank everyone for birthday wishes"><br><sub><b>Thank everyone for birthday wishes</b></sub><br><sub><code>birthday-thank-you-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/podcast-episode-promo-post.svg" width="44" height="44" alt="Promote a new podcast episode"><br><sub><b>Promote a new podcast episode</b></sub><br><sub><code>podcast-episode-promo-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-year-resolution-post.svg" width="44" height="44" alt="Share your New Year goals"><br><sub><b>Share your New Year goals</b></sub><br><sub><code>new-year-resolution-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/marathon-finish-post.svg" width="44" height="44" alt="Celebrate finishing a race"><br><sub><b>Celebrate finishing a race</b></sub><br><sub><code>marathon-finish-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/debt-free-milestone-post.svg" width="44" height="44" alt="Celebrate becoming debt-free"><br><sub><b>Celebrate becoming debt-free</b></sub><br><sub><code>debt-free-milestone-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/before-and-after-project-post.svg" width="44" height="44" alt="Before and after of a finished job"><br><sub><b>Before and after of a finished job</b></sub><br><sub><code>before-and-after-project-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dog-walker-wanted-post.svg" width="44" height="44" alt="Look for a dog walker"><br><sub><b>Look for a dog walker</b></sub><br><sub><code>dog-walker-wanted-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tutor-wanted-post.svg" width="44" height="44" alt="Look for a tutor"><br><sub><b>Look for a tutor</b></sub><br><sub><code>tutor-wanted-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/surplus-food-sharing-post.svg" width="44" height="44" alt="Offer spare food to neighbours"><br><sub><b>Offer spare food to neighbours</b></sub><br><sub><code>surplus-food-sharing-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restock-announcement-post.svg" width="44" height="44" alt="Announce that a product is back in stock"><br><sub><b>Announce that a product is back in stock</b></sub><br><sub><code>restock-announcement-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shop-relocation-post.svg" width="44" height="44" alt="Tell customers your shop is moving"><br><sub><b>Tell customers your shop is moving</b></sub><br><sub><code>shop-relocation-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-website-launch-post.svg" width="44" height="44" alt="Announce your new website"><br><sub><b>Announce your new website</b></sub><br><sub><code>new-website-launch-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/award-win-post.svg" width="44" height="44" alt="Share that you won an award"><br><sub><b>Share that you won an award</b></sub><br><sub><code>award-win-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/career-change-post.svg" width="44" height="44" alt="Announce a career change"><br><sub><b>Announce a career change</b></sub><br><sub><code>career-change-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/found-item-post.svg" width="44" height="44" alt="Post about something you found"><br><sub><b>Post about something you found</b></sub><br><sub><code>found-item-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sports-team-win-post.svg" width="44" height="44" alt="Celebrate a team win"><br><sub><b>Celebrate a team win</b></sub><br><sub><code>sports-team-win-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/empty-nest-post.svg" width="44" height="44" alt="Share that your youngest has left home"><br><sub><b>Share that your youngest has left home</b></sub><br><sub><code>empty-nest-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/handmade-craft-showcase-post.svg" width="44" height="44" alt="Show off something you made"><br><sub><b>Show off something you made</b></sub><br><sub><code>handmade-craft-showcase-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-feature-post.svg" width="44" height="44" alt="Share that you were featured in the press"><br><sub><b>Share that you were featured in the press</b></sub><br><sub><code>press-feature-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/new-team-member-post.svg" width="44" height="44" alt="Welcome a new team member publicly"><br><sub><b>Welcome a new team member publicly</b></sub><br><sub><code>new-team-member-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/service-outage-post.svg" width="44" height="44" alt="Tell customers about a service outage"><br><sub><b>Tell customers about a service outage</b></sub><br><sub><code>service-outage-post</code></sub></td>
 </tr>
 </table>
 

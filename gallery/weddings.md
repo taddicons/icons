@@ -1,6 +1,6 @@
 # Weddings
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 From the engagement to the thank-you: invitations around the day, vendors, speeches and guest messages.
 
@@ -67,6 +67,22 @@ From the engagement to the thank-you: invitations around the day, vendors, speec
 <td align="center" width="16%"><img src="../svg/mark/wedding-final-numbers-to-venue.svg" width="44" height="44" alt="Send the venue your final guest numbers"><br><sub><b>Send the venue your final guest numbers</b></sub><br><sub><code>wedding-final-numbers-to-venue</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/plus-one-request-reply-no.svg" width="44" height="44" alt="Kindly say no when a guest asks to bring a plus-one"><br><sub><b>Kindly say no when a guest asks to bring a plus-one</b></sub><br><sub><code>plus-one-request-reply-no</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/wedding-room-block-deadline-reminder.svg" width="44" height="44" alt="Remind guests to book their room before the hotel deadline"><br><sub><b>Remind guests to book their room before the hotel deadline</b></sub><br><sub><code>wedding-room-block-deadline-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-vendor-cancel-notice.svg" width="44" height="44" alt="Cancel a wedding supplier booking"><br><sub><b>Cancel a wedding supplier booking</b></sub><br><sub><code>wedding-vendor-cancel-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-order-of-service.svg" width="44" height="44" alt="Write a wedding order of service"><br><sub><b>Write a wedding order of service</b></sub><br><sub><code>wedding-order-of-service</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-table-plan-to-venue.svg" width="44" height="44" alt="Send the wedding table plan to the venue"><br><sub><b>Send the wedding table plan to the venue</b></sub><br><sub><code>wedding-table-plan-to-venue</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-gift-return-note.svg" width="44" height="44" alt="Return a wedding gift after the wedding is called off"><br><sub><b>Return a wedding gift after the wedding is called off</b></sub><br><sub><code>wedding-gift-return-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-supplier-run-sheet.svg" width="44" height="44" alt="Send wedding suppliers a run sheet for the day"><br><sub><b>Send wedding suppliers a run sheet for the day</b></sub><br><sub><code>wedding-supplier-run-sheet</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-access-info-for-guests.svg" width="44" height="44" alt="Share access information with wedding guests"><br><sub><b>Share access information with wedding guests</b></sub><br><sub><code>wedding-access-info-for-guests</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-vendor-payment-plan-ask.svg" width="44" height="44" alt="Ask a wedding supplier to pay in instalments"><br><sub><b>Ask a wedding supplier to pay in instalments</b></sub><br><sub><code>wedding-vendor-payment-plan-ask</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-day-contact-sheet.svg" width="44" height="44" alt="Make a wedding day contact sheet"><br><sub><b>Make a wedding day contact sheet</b></sub><br><sub><code>wedding-day-contact-sheet</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-vendor-tip-note.svg" width="44" height="44" alt="Write a thank-you note to go with a supplier's tip"><br><sub><b>Write a thank-you note to go with a supplier's tip</b></sub><br><sub><code>wedding-vendor-tip-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-shuttle-schedule-notice.svg" width="44" height="44" alt="Share the shuttle bus times with your wedding guests"><br><sub><b>Share the shuttle bus times with your wedding guests</b></sub><br><sub><code>wedding-shuttle-schedule-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-ceremony-readers-brief.svg" width="44" height="44" alt="Brief your ceremony readers on what to expect"><br><sub><b>Brief your ceremony readers on what to expect</b></sub><br><sub><code>wedding-ceremony-readers-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-gift-list-closing-note.svg" width="44" height="44" alt="Let guests know the gift list is closing"><br><sub><b>Let guests know the gift list is closing</b></sub><br><sub><code>wedding-gift-list-closing-note</code></sub></td>
 </tr>
 </table>
 

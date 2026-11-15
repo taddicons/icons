@@ -1,6 +1,6 @@
 # Student life
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 58 icons</sub>
 
 Everyday letters and messages for students: exams, grades, housing, roommates, internships, money, thesis work and clubs.
 
@@ -67,6 +67,21 @@ Everyday letters and messages for students: exams, grades, housing, roommates, i
 <td align="center" width="16%"><img src="../svg/mark/missed-enrolment-deadline-request.svg" width="44" height="44" alt="Ask to enrol on your course after the deadline"><br><sub><b>Ask to enrol on your course after the deadline</b></sub><br><sub><code>missed-enrolment-deadline-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/lost-work-tutor-notice.svg" width="44" height="44" alt="Tell your tutor you lost coursework through a computer problem"><br><sub><b>Tell your tutor you lost coursework through a computer problem</b></sub><br><sub><code>lost-work-tutor-notice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/move-out-cleaning-plan.svg" width="44" height="44" alt="Plan the move-out clean with your flatmates"><br><sub><b>Plan the move-out clean with your flatmates</b></sub><br><sub><code>move-out-cleaning-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-status-letter-request.svg" width="44" height="44" alt="Ask the university for a letter confirming you are a student"><br><sub><b>Ask the university for a letter confirming you are a student</b></sub><br><sub><code>student-status-letter-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/missed-class-apology.svg" width="44" height="44" alt="Say sorry to a lecturer for missing a class"><br><sub><b>Say sorry to a lecturer for missing a class</b></sub><br><sub><code>missed-class-apology</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-union-advice-request.svg" width="44" height="44" alt="Ask the student union advice service for help with a problem"><br><sub><b>Ask the student union advice service for help with a problem</b></sub><br><sub><code>student-union-advice-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lecturer-end-of-course-thanks.svg" width="44" height="44" alt="Thank a lecturer at the end of the course"><br><sub><b>Thank a lecturer at the end of the course</b></sub><br><sub><code>lecturer-end-of-course-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-record-name-correction.svg" width="44" height="44" alt="Ask the university to correct your name on its records"><br><sub><b>Ask the university to correct your name on its records</b></sub><br><sub><code>student-record-name-correction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mark-entry-correction-request.svg" width="44" height="44" alt="Ask for a mark that was entered wrongly to be corrected"><br><sub><b>Ask for a mark that was entered wrongly to be corrected</b></sub><br><sub><code>mark-entry-correction-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fee-refund-after-withdrawal.svg" width="44" height="44" alt="Ask for a fee refund after you leave your course"><br><sub><b>Ask for a fee refund after you leave your course</b></sub><br><sub><code>fee-refund-after-withdrawal</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/group-work-contribution-concern.svg" width="44" height="44" alt="Tell a tutor about uneven work in a group project"><br><sub><b>Tell a tutor about uneven work in a group project</b></sub><br><sub><code>group-work-contribution-concern</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/late-submission-penalty-review.svg" width="44" height="44" alt="Ask for a late work penalty to be looked at again"><br><sub><b>Ask for a late work penalty to be looked at again</b></sub><br><sub><code>late-submission-penalty-review</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/halls-contract-release-request.svg" width="44" height="44" alt="Ask to be released from a student housing contract"><br><sub><b>Ask to be released from a student housing contract</b></sub><br><sub><code>halls-contract-release-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lab-equipment-breakage-report.svg" width="44" height="44" alt="Report broken lab or studio equipment"><br><sub><b>Report broken lab or studio equipment</b></sub><br><sub><code>lab-equipment-breakage-report</code></sub></td>
 </tr>
 </table>
 

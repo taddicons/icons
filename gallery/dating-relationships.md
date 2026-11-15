@@ -1,6 +1,6 @@
 # Dating and relationships
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Starting, deepening, repairing and ending relationships, with honesty and kindness.
 
@@ -75,6 +75,19 @@ Starting, deepening, repairing and ending relationships, with honesty and kindne
 <td align="center" width="16%"><img src="../svg/mark/ask-someone-to-be-your-wedding-date.svg" width="44" height="44" alt="Ask someone to be your guest at a wedding"><br><sub><b>Ask someone to be your guest at a wedding</b></sub><br><sub><code>ask-someone-to-be-your-wedding-date</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-partner-to-share-chores.svg" width="44" height="44" alt="Ask your partner to share the housework fairly"><br><sub><b>Ask your partner to share the housework fairly</b></sub><br><sub><code>ask-partner-to-share-chores</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tell-partner-you-miss-them.svg" width="44" height="44" alt="Tell your partner you miss them"><br><sub><b>Tell your partner you miss them</b></sub><br><sub><code>tell-partner-you-miss-them</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/texting-pace-talk.svg" width="44" height="44" alt="Talk to someone you're dating about how often you text"><br><sub><b>Talk to someone you're dating about how often you text</b></sub><br><sub><code>texting-pace-talk</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pet-custody-after-breakup-message.svg" width="44" height="44" alt="Talk to your ex about who keeps the pet after a breakup"><br><sub><b>Talk to your ex about who keeps the pet after a breakup</b></sub><br><sub><code>pet-custody-after-breakup-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/video-call-before-meeting-ask.svg" width="44" height="44" alt="Suggest a video call before meeting someone from a dating app"><br><sub><b>Suggest a video call before meeting someone from a dating app</b></sub><br><sub><code>video-call-before-meeting-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sober-dating-heads-up.svg" width="44" height="44" alt="Tell a date you don't drink before you meet"><br><sub><b>Tell a date you don't drink before you meet</b></sub><br><sub><code>sober-dating-heads-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-partner-to-join-a-hobby.svg" width="44" height="44" alt="Invite your partner to try a hobby you love"><br><sub><b>Invite your partner to try a hobby you love</b></sub><br><sub><code>ask-partner-to-join-a-hobby</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-date-you-have-children.svg" width="44" height="44" alt="Tell someone you are dating that you have children"><br><sub><b>Tell someone you are dating that you have children</b></sub><br><sub><code>tell-date-you-have-children</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-photo-request-on-dating-app.svg" width="44" height="44" alt="Say no when a match asks you for private photos"><br><sub><b>Say no when a match asks you for private photos</b></sub><br><sub><code>decline-photo-request-on-dating-app</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/date-night-routine-suggestion.svg" width="44" height="44" alt="Suggest a regular date night to your partner"><br><sub><b>Suggest a regular date night to your partner</b></sub><br><sub><code>date-night-routine-suggestion</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-ex-to-delete-private-photos.svg" width="44" height="44" alt="Ask an ex-partner to delete private photos of you"><br><sub><b>Ask an ex-partner to delete private photos of you</b></sub><br><sub><code>ask-ex-to-delete-private-photos</code></sub></td>
 </tr>
 </table>
 

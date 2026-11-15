@@ -1,6 +1,6 @@
 # Creators and makers
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Pitches, collaboration asks, sponsor replies and fan messages for people who make things and share them.
 
@@ -75,6 +75,19 @@ Pitches, collaboration asks, sponsor replies and fan messages for people who mak
 <td align="center" width="16%"><img src="../svg/mark/thank-community-moderators.svg" width="44" height="44" alt="Thank the people who help moderate your community"><br><sub><b>Thank the people who help moderate your community</b></sub><br><sub><code>thank-community-moderators</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/customer-testimonial-ask.svg" width="44" height="44" alt="Ask a happy customer for a short review"><br><sub><b>Ask a happy customer for a short review</b></sub><br><sub><code>customer-testimonial-ask</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/behind-the-scenes-post.svg" width="44" height="44" alt="Share a behind-the-scenes look at your work"><br><sub><b>Share a behind-the-scenes look at your work</b></sub><br><sub><code>behind-the-scenes-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/brand-contract-terms-question.svg" width="44" height="44" alt="Ask a brand to explain terms in a sponsorship contract"><br><sub><b>Ask a brand to explain terms in a sponsorship contract</b></sub><br><sub><code>brand-contract-terms-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/collab-revenue-split-note.svg" width="44" height="44" alt="Agree how to share money from a collab with another creator"><br><sub><b>Agree how to share money from a collab with another creator</b></sub><br><sub><code>collab-revenue-split-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/online-course-launch-announcement.svg" width="44" height="44" alt="Announce the launch of your online course to your audience"><br><sub><b>Announce the launch of your online course to your audience</b></sub><br><sub><code>online-course-launch-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/content-approval-request.svg" width="44" height="44" alt="Send a sponsored draft to a brand for approval"><br><sub><b>Send a sponsored draft to a brand for approval</b></sub><br><sub><code>content-approval-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/video-editor-brief.svg" width="44" height="44" alt="Brief a freelance video editor on your next video"><br><sub><b>Brief a freelance video editor on your next video</b></sub><br><sub><code>video-editor-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/platform-move-announcement.svg" width="44" height="44" alt="Tell your audience you are moving to a new platform"><br><sub><b>Tell your audience you are moving to a new platform</b></sub><br><sub><code>platform-move-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/creator-impersonation-report.svg" width="44" height="44" alt="Report an account pretending to be you to the platform"><br><sub><b>Report an account pretending to be you to the platform</b></sub><br><sub><code>creator-impersonation-report</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/fan-boundaries-post.svg" width="44" height="44" alt="Post a kind reminder to fans about your privacy and boundaries"><br><sub><b>Post a kind reminder to fans about your privacy and boundaries</b></sub><br><sub><code>fan-boundaries-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-stream-thank-you.svg" width="44" height="44" alt="Thank your viewers after a charity stream and share the total"><br><sub><b>Thank your viewers after a charity stream and share the total</b></sub><br><sub><code>charity-stream-thank-you</code></sub></td>
 </tr>
 </table>
 

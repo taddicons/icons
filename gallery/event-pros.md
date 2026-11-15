@@ -1,6 +1,6 @@
 # Event planning professionals
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Messages an event planner sends to clients, venues and vendors, from the first proposal to the post-event report.
 
@@ -75,6 +75,19 @@ Messages an event planner sends to clients, venues and vendors, from the first p
 <td align="center" width="16%"><img src="../svg/mark/ep-referral-thanks.svg" width="44" height="44" alt="Thank someone for recommending you to a client"><br><sub><b>Thank someone for recommending you to a client</b></sub><br><sub><code>ep-referral-thanks</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ep-freelancer-brief.svg" width="44" height="44" alt="Brief a freelancer for an event job"><br><sub><b>Brief a freelancer for an event job</b></sub><br><sub><code>ep-freelancer-brief</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ep-supplier-invoice-query.svg" width="44" height="44" alt="Query an invoice from an event supplier"><br><sub><b>Query an invoice from an event supplier</b></sub><br><sub><code>ep-supplier-invoice-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-photographer-shot-list.svg" width="44" height="44" alt="Send a shot list to the event photographer"><br><sub><b>Send a shot list to the event photographer</b></sub><br><sub><code>ep-photographer-shot-list</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ep-final-invoice-after-event.svg" width="44" height="44" alt="Send a client the final invoice after an event"><br><sub><b>Send a client the final invoice after an event</b></sub><br><sub><code>ep-final-invoice-after-event</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-venue-access-check.svg" width="44" height="44" alt="Ask a venue about access for an event you are planning"><br><sub><b>Ask a venue about access for an event you are planning</b></sub><br><sub><code>ep-venue-access-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-noise-curfew-reminder.svg" width="44" height="44" alt="Remind suppliers of the venue noise curfew"><br><sub><b>Remind suppliers of the venue noise curfew</b></sub><br><sub><code>ep-noise-curfew-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-items-left-after-event.svg" width="44" height="44" alt="Tell a client about items left behind after the event"><br><sub><b>Tell a client about items left behind after the event</b></sub><br><sub><code>ep-items-left-after-event</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-client-thank-you-after-event.svg" width="44" height="44" alt="Thank the client after their event"><br><sub><b>Thank the client after their event</b></sub><br><sub><code>ep-client-thank-you-after-event</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-venue-damage-deposit-return.svg" width="44" height="44" alt="Ask the venue to return the damage deposit"><br><sub><b>Ask the venue to return the damage deposit</b></sub><br><sub><code>ep-venue-damage-deposit-return</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ep-guest-access-plan-to-venue.svg" width="44" height="44" alt="Send the venue the plan for guests' access needs"><br><sub><b>Send the venue the plan for guests' access needs</b></sub><br><sub><code>ep-guest-access-plan-to-venue</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-vendor-new-date-request.svg" width="44" height="44" alt="Ask a vendor to move to a new event date"><br><sub><b>Ask a vendor to move to a new event date</b></sub><br><sub><code>ep-vendor-new-date-request</code></sub></td>
 </tr>
 </table>
 

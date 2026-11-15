@@ -1,6 +1,6 @@
 # Taxes and benefits
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Letters and messages for tax offices, accountants, self-employed records, benefits, pensions and child support.
 
@@ -67,6 +67,22 @@ Letters and messages for tax offices, accountants, self-employed records, benefi
 <td align="center" width="16%"><img src="../svg/mark/tax-online-account-access-help.svg" width="44" height="44" alt="Ask for help getting into your online tax account"><br><sub><b>Ask for help getting into your online tax account</b></sub><br><sub><code>tax-online-account-access-help</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/benefit-contact-preference-change.svg" width="44" height="44" alt="Ask the benefits office to contact you in a different way"><br><sub><b>Ask the benefits office to contact you in a different way</b></sub><br><sub><code>benefit-contact-preference-change</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/work-expenses-relief-question.svg" width="44" height="44" alt="Ask if you can claim tax relief on work costs"><br><sub><b>Ask if you can claim tax relief on work costs</b></sub><br><sub><code>work-expenses-relief-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-claim-progress-enquiry.svg" width="44" height="44" alt="Ask how your benefit claim is progressing"><br><sub><b>Ask how your benefit claim is progressing</b></sub><br><sub><code>benefit-claim-progress-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/benefit-letters-accessible-format-request.svg" width="44" height="44" alt="Ask the benefits office to send letters in a format you can use"><br><sub><b>Ask the benefits office to send letters in a format you can use</b></sub><br><sub><code>benefit-letters-accessible-format-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-assessment-home-visit-request.svg" width="44" height="44" alt="Ask for a benefit assessment at home"><br><sub><b>Ask for a benefit assessment at home</b></sub><br><sub><code>benefit-assessment-home-visit-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/childcare-cost-receipt-request.svg" width="44" height="44" alt="Ask your childcare provider for a receipt of costs"><br><sub><b>Ask your childcare provider for a receipt of costs</b></sub><br><sub><code>childcare-cost-receipt-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-appeal-papers-request.svg" width="44" height="44" alt="Ask for the papers used in a benefit decision before appealing"><br><sub><b>Ask for the papers used in a benefit decision before appealing</b></sub><br><sub><code>benefit-appeal-papers-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-return-help-from-family.svg" width="44" height="44" alt="Ask a family member to help with your tax return"><br><sub><b>Ask a family member to help with your tax return</b></sub><br><sub><code>tax-return-help-from-family</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-paid-twice-refund-request.svg" width="44" height="44" alt="Ask the tax office to refund a payment made twice"><br><sub><b>Ask the tax office to refund a payment made twice</b></sub><br><sub><code>tax-paid-twice-refund-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tax-paperwork-checklist.svg" width="44" height="44" alt="Checklist of papers to gather for your tax return"><br><sub><b>Checklist of papers to gather for your tax return</b></sub><br><sub><code>tax-paperwork-checklist</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-payment-received-confirmation.svg" width="44" height="44" alt="Ask the tax office to confirm a payment arrived"><br><sub><b>Ask the tax office to confirm a payment arrived</b></sub><br><sub><code>tax-payment-received-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-letter-explanation-request.svg" width="44" height="44" alt="Ask the benefits office to explain a letter in plain words"><br><sub><b>Ask the benefits office to explain a letter in plain words</b></sub><br><sub><code>benefit-letter-explanation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-refund-bank-details-update.svg" width="44" height="44" alt="Give the tax office new bank details for a refund"><br><sub><b>Give the tax office new bank details for a refund</b></sub><br><sub><code>tax-refund-bank-details-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-office-call-back-request.svg" width="44" height="44" alt="Ask the tax office to call you back"><br><sub><b>Ask the tax office to call you back</b></sub><br><sub><code>tax-office-call-back-request</code></sub></td>
 </tr>
 </table>
 

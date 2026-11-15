@@ -1,6 +1,6 @@
 # Workplace for employees
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 58 icons</sub>
 
 Time off, pay problems, concerns and complaints, redundancy, and everyday notes to your boss and your colleagues.
 
@@ -67,6 +67,21 @@ Time off, pay problems, concerns and complaints, redundancy, and everyday notes 
 <td align="center" width="16%"><img src="../svg/mark/work-dress-code-question.svg" width="44" height="44" alt="Ask what to wear at work"><br><sub><b>Ask what to wear at work</b></sub><br><sub><code>work-dress-code-question</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/start-date-change-request.svg" width="44" height="44" alt="Ask a new employer to change your start date"><br><sub><b>Ask a new employer to change your start date</b></sub><br><sub><code>start-date-change-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/shared-kitchen-tidy-note.svg" width="44" height="44" alt="Note asking colleagues to keep the shared kitchen tidy"><br><sub><b>Note asking colleagues to keep the shared kitchen tidy</b></sub><br><sub><code>shared-kitchen-tidy-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/payslip-copy-request.svg" width="44" height="44" alt="Ask your employer for copies of your payslips"><br><sub><b>Ask your employer for copies of your payslips</b></sub><br><sub><code>payslip-copy-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/work-expenses-claim-note.svg" width="44" height="44" alt="Submit a work expenses claim"><br><sub><b>Submit a work expenses claim</b></sub><br><sub><code>work-expenses-claim-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pay-rise-request.svg" width="44" height="44" alt="Ask your manager for a pay rise"><br><sub><b>Ask your manager for a pay rise</b></sub><br><sub><code>pay-rise-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/timesheet-correction-request.svg" width="44" height="44" alt="Ask to correct hours on your timesheet"><br><sub><b>Ask to correct hours on your timesheet</b></sub><br><sub><code>timesheet-correction-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-equipment-fault-report.svg" width="44" height="44" alt="Report faulty work equipment"><br><sub><b>Report faulty work equipment</b></sub><br><sub><code>work-equipment-fault-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shift-premium-pay-question.svg" width="44" height="44" alt="Ask about extra pay for night or weekend shifts"><br><sub><b>Ask about extra pay for night or weekend shifts</b></sub><br><sub><code>shift-premium-pay-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-starter-questions-email.svg" width="44" height="44" alt="Ask questions before you start a new job"><br><sub><b>Ask questions before you start a new job</b></sub><br><sub><code>new-starter-questions-email</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/workstation-adjustment-request.svg" width="44" height="44" alt="Ask for a change to your desk or work equipment for health"><br><sub><b>Ask for a change to your desk or work equipment for health</b></sub><br><sub><code>workstation-adjustment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/leaving-date-confirmation-request.svg" width="44" height="44" alt="Ask your employer to confirm your last working day"><br><sub><b>Ask your employer to confirm your last working day</b></sub><br><sub><code>leaving-date-confirmation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-device-return-note.svg" width="44" height="44" alt="Arrange to hand back a work laptop or phone"><br><sub><b>Arrange to hand back a work laptop or phone</b></sub><br><sub><code>work-device-return-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rest-break-question.svg" width="44" height="44" alt="Ask about breaks during long shifts"><br><sub><b>Ask about breaks during long shifts</b></sub><br><sub><code>rest-break-question</code></sub></td>
 </tr>
 </table>
 

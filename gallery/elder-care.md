@@ -1,6 +1,6 @@
 # Elder care and carers
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Looking after an older person: care homes, carers, appointments, finances and family talks.
 
@@ -75,6 +75,19 @@ Looking after an older person: care homes, carers, appointments, finances and fa
 <td align="center" width="16%"><img src="../svg/mark/tell-relative-about-parent-diagnosis.svg" width="44" height="44" alt="Tell a relative about a parent's diagnosis"><br><sub><b>Tell a relative about a parent's diagnosis</b></sub><br><sub><code>tell-relative-about-parent-diagnosis</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/talk-about-downsizing-with-parent.svg" width="44" height="44" alt="Open a talk about downsizing with a parent"><br><sub><b>Open a talk about downsizing with a parent</b></sub><br><sub><code>talk-about-downsizing-with-parent</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-relatives-for-memories-for-parent.svg" width="44" height="44" alt="Ask relatives to share memories for a parent"><br><sub><b>Ask relatives to share memories for a parent</b></sub><br><sub><code>ask-relatives-for-memories-for-parent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-parent-to-share-appointment-calendar.svg" width="44" height="44" alt="Ask a parent to share a calendar for their appointments"><br><sub><b>Ask a parent to share a calendar for their appointments</b></sub><br><sub><code>ask-parent-to-share-appointment-calendar</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-care-home-about-visiting-and-outings.svg" width="44" height="44" alt="Ask a care home about visiting times and outings"><br><sub><b>Ask a care home about visiting times and outings</b></sub><br><sub><code>ask-care-home-about-visiting-and-outings</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-doctor-to-review-parent-medicines.svg" width="44" height="44" alt="Ask the doctor to review a parent's medicines"><br><sub><b>Ask the doctor to review a parent's medicines</b></sub><br><sub><code>ask-doctor-to-review-parent-medicines</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-siblings-about-parent-memory-changes.svg" width="44" height="44" alt="Tell siblings you have noticed memory changes in a parent"><br><sub><b>Tell siblings you have noticed memory changes in a parent</b></sub><br><sub><code>tell-siblings-about-parent-memory-changes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-parent-to-leave-risky-jobs-to-others.svg" width="44" height="44" alt="Ask a parent to let someone else do the risky jobs at home"><br><sub><b>Ask a parent to let someone else do the risky jobs at home</b></sub><br><sub><code>ask-parent-to-leave-risky-jobs-to-others</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-care-home-for-care-plan-copy.svg" width="44" height="44" alt="Ask the care home for a copy of your parent's care plan"><br><sub><b>Ask the care home for a copy of your parent's care plan</b></sub><br><sub><code>ask-care-home-for-care-plan-copy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-family-parent-moving-to-care-home.svg" width="44" height="44" alt="Tell family your parent is moving into a care home"><br><sub><b>Tell family your parent is moving into a care home</b></sub><br><sub><code>tell-family-parent-moving-to-care-home</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-surgery-to-record-you-as-carer.svg" width="44" height="44" alt="Ask the doctor's surgery to record you as a carer"><br><sub><b>Ask the doctor's surgery to record you as a carer</b></sub><br><sub><code>ask-surgery-to-record-you-as-carer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/question-care-home-fee-increase.svg" width="44" height="44" alt="Question a care home fee increase"><br><sub><b>Question a care home fee increase</b></sub><br><sub><code>question-care-home-fee-increase</code></sub></td>
 </tr>
 </table>
 

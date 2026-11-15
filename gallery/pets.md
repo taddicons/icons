@@ -1,6 +1,6 @@
 # Pets
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Vets, boarding, adoption, lost and found, and everything else for the animal at home.
 
@@ -75,6 +75,19 @@ Vets, boarding, adoption, lost and found, and everything else for the animal at 
 <td align="center" width="16%"><img src="../svg/mark/pet-move-notice-to-providers.svg" width="44" height="44" alt="Tell your vet and groomer you are moving away"><br><sub><b>Tell your vet and groomer you are moving away</b></sub><br><sub><code>pet-move-notice-to-providers</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/breeder-health-papers-request.svg" width="44" height="44" alt="Ask a breeder for a puppy's health papers"><br><sub><b>Ask a breeder for a puppy's health papers</b></sub><br><sub><code>breeder-health-papers-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/pet-death-notify-providers.svg" width="44" height="44" alt="Tell pet services your pet has died"><br><sub><b>Tell pet services your pet has died</b></sub><br><sub><code>pet-death-notify-providers</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-new-puppy-neighbours.svg" width="44" height="44" alt="Tell neighbours about your new puppy"><br><sub><b>Tell neighbours about your new puppy</b></sub><br><sub><code>pet-new-puppy-neighbours</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pet-missing-cat-shed-check.svg" width="44" height="44" alt="Ask neighbours to check their sheds for a missing cat"><br><sub><b>Ask neighbours to check their sheds for a missing cat</b></sub><br><sub><code>pet-missing-cat-shed-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-vet-weight-plan.svg" width="44" height="44" alt="Ask the vet for help with your pet's weight"><br><sub><b>Ask the vet for help with your pet's weight</b></sub><br><sub><code>pet-vet-weight-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-walker-schedule-change.svg" width="44" height="44" alt="Tell your dog walker about a change of schedule"><br><sub><b>Tell your dog walker about a change of schedule</b></sub><br><sub><code>pet-walker-schedule-change</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-sitter-house-notes.svg" width="44" height="44" alt="Leave house notes for a live-in pet sitter"><br><sub><b>Leave house notes for a live-in pet sitter</b></sub><br><sub><code>pet-sitter-house-notes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-diet-rules-for-sitter.svg" width="44" height="44" alt="Feeding and treat rules for your pet sitter"><br><sub><b>Feeding and treat rules for your pet sitter</b></sub><br><sub><code>pet-diet-rules-for-sitter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dog-incident-details-exchange.svg" width="44" height="44" alt="Share details with an owner after a dog incident"><br><sub><b>Share details with an owner after a dog incident</b></sub><br><sub><code>dog-incident-details-exchange</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-cat-coming-indoors-note.svg" width="44" height="44" alt="Ask a neighbour to help stop their cat coming into your home"><br><sub><b>Ask a neighbour to help stop their cat coming into your home</b></sub><br><sub><code>neighbour-cat-coming-indoors-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-hydrotherapy-enquiry.svg" width="44" height="44" alt="Ask a hydrotherapy centre about sessions for your pet"><br><sub><b>Ask a hydrotherapy centre about sessions for your pet</b></sub><br><sub><code>pet-hydrotherapy-enquiry</code></sub></td>
 </tr>
 </table>
 

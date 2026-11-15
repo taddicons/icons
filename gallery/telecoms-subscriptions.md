@@ -1,6 +1,6 @@
 # Phone, internet and subscriptions
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Plans, roaming, bills, outages, number porting, streaming and gym memberships, free trials, price rises, data privacy and moving home services.
 
@@ -67,6 +67,22 @@ Plans, roaming, bills, outages, number porting, streaming and gym memberships, f
 <td align="center" width="16%"><img src="../svg/mark/esim-switch-request.svg" width="44" height="44" alt="Ask your network to move your number to an eSIM"><br><sub><b>Ask your network to move your number to an eSIM</b></sub><br><sub><code>esim-switch-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/spending-cap-request.svg" width="44" height="44" alt="Ask for a spending cap on a mobile bill"><br><sub><b>Ask for a spending cap on a mobile bill</b></sub><br><sub><code>spending-cap-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/cloud-storage-downgrade-request.svg" width="44" height="44" alt="Downgrade a cloud storage plan you no longer need"><br><sub><b>Downgrade a cloud storage plan you no longer need</b></sub><br><sub><code>cloud-storage-downgrade-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/magazine-delivery-missing-complaint.svg" width="44" height="44" alt="Complain that magazine issues have not arrived"><br><sub><b>Complain that magazine issues have not arrived</b></sub><br><sub><code>magazine-delivery-missing-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/software-subscription-cancel-request.svg" width="44" height="44" alt="Cancel a software or app subscription"><br><sub><b>Cancel a software or app subscription</b></sub><br><sub><code>software-subscription-cancel-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/landline-fault-report.svg" width="44" height="44" alt="Report a fault on your home phone line"><br><sub><b>Report a fault on your home phone line</b></sub><br><sub><code>landline-fault-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sim-card-replacement-request.svg" width="44" height="44" alt="Ask for a replacement SIM card"><br><sub><b>Ask for a replacement SIM card</b></sub><br><sub><code>sim-card-replacement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/contract-end-date-request.svg" width="44" height="44" alt="Ask your provider when your contract ends"><br><sub><b>Ask your provider when your contract ends</b></sub><br><sub><code>contract-end-date-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/add-authorised-person-to-account.svg" width="44" height="44" alt="Ask your provider to let someone else manage your account"><br><sub><b>Ask your provider to let someone else manage your account</b></sub><br><sub><code>add-authorised-person-to-account</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/engineer-missed-appointment-complaint.svg" width="44" height="44" alt="Complain that an engineer did not turn up"><br><sub><b>Complain that an engineer did not turn up</b></sub><br><sub><code>engineer-missed-appointment-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/accessible-billing-request.svg" width="44" height="44" alt="Ask your provider for bills in a format you can read"><br><sub><b>Ask your provider for bills in a format you can read</b></sub><br><sub><code>accessible-billing-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/contract-summary-copy-request.svg" width="44" height="44" alt="Ask a provider for a copy of your contract and its summary"><br><sub><b>Ask a provider for a copy of your contract and its summary</b></sub><br><sub><code>contract-summary-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tv-box-return-confirmation-request.svg" width="44" height="44" alt="Ask a provider to confirm they got your returned TV box"><br><sub><b>Ask a provider to confirm they got your returned TV box</b></sub><br><sub><code>tv-box-return-confirmation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/premium-rate-charges-block-request.svg" width="44" height="44" alt="Ask your phone provider to block premium rate charges"><br><sub><b>Ask your phone provider to block premium rate charges</b></sub><br><sub><code>premium-rate-charges-block-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/international-calls-add-on-request.svg" width="44" height="44" alt="Ask to add cheaper calls abroad to your plan"><br><sub><b>Ask to add cheaper calls abroad to your plan</b></sub><br><sub><code>international-calls-add-on-request</code></sub></td>
 </tr>
 </table>
 

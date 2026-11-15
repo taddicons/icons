@@ -1,6 +1,6 @@
 # Everyday messages
 
-<sub>Taddicons 2.2.0 · Documents & messages · 65 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 65 icons</sub>
 
 Quick notes, replies and emails for the day-to-day.
 

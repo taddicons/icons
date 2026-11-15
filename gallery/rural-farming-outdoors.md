@@ -1,6 +1,6 @@
 # Rural, farming and outdoors
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes for land, farm sales, animals, seasonal workers, permits, camping, trails, bad weather and country neighbours.
 
@@ -75,6 +75,19 @@ Notes for land, farm sales, animals, seasonal workers, permits, camping, trails,
 <td align="center" width="16%"><img src="../svg/mark/orchard-gleaning-invitation.svg" width="44" height="44" alt="Invite neighbours to gather leftover fruit"><br><sub><b>Invite neighbours to gather leftover fruit</b></sub><br><sub><code>orchard-gleaning-invitation</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/feed-delivery-reschedule-email.svg" width="44" height="44" alt="Ask a supplier to move your feed delivery"><br><sub><b>Ask a supplier to move your feed delivery</b></sub><br><sub><code>feed-delivery-reschedule-email</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/rural-road-pothole-report.svg" width="44" height="44" alt="Report a pothole or road fault on a country lane"><br><sub><b>Report a pothole or road fault on a country lane</b></sub><br><sub><code>rural-road-pothole-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-crop-spraying-notice.svg" width="44" height="44" alt="Tell neighbours when you will spray crops"><br><sub><b>Tell neighbours when you will spray crops</b></sub><br><sub><code>rural-crop-spraying-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rural-harvest-contractor-booking.svg" width="44" height="44" alt="Book a contractor for harvest work"><br><sub><b>Book a contractor for harvest work</b></sub><br><sub><code>rural-harvest-contractor-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-dumped-rubbish-land-report.svg" width="44" height="44" alt="Report rubbish dumped on your land"><br><sub><b>Report rubbish dumped on your land</b></sub><br><sub><code>rural-dumped-rubbish-land-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-shared-track-repair-cost.svg" width="44" height="44" alt="Ask neighbours to share the cost of a track repair"><br><sub><b>Ask neighbours to share the cost of a track repair</b></sub><br><sub><code>rural-shared-track-repair-cost</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-bull-in-field-sign.svg" width="44" height="44" alt="Sign warning walkers there is a bull in the field"><br><sub><b>Sign warning walkers there is a bull in the field</b></sub><br><sub><code>rural-bull-in-field-sign</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dogs-on-leads-near-sheep-sign.svg" width="44" height="44" alt="Sign asking walkers to keep dogs on leads near sheep"><br><sub><b>Sign asking walkers to keep dogs on leads near sheep</b></sub><br><sub><code>dogs-on-leads-near-sheep-sign</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/used-farm-machinery-listing.svg" width="44" height="44" alt="Listing to sell used farm machinery"><br><sub><b>Listing to sell used farm machinery</b></sub><br><sub><code>used-farm-machinery-listing</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/barn-hire-for-event-enquiry.svg" width="44" height="44" alt="Ask a farm about hiring a barn for an event"><br><sub><b>Ask a farm about hiring a barn for an event</b></sub><br><sub><code>barn-hire-for-event-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bee-swarm-neighbour-note.svg" width="44" height="44" alt="Let neighbours know about a swarm from your beehive"><br><sub><b>Let neighbours know about a swarm from your beehive</b></sub><br><sub><code>bee-swarm-neighbour-note</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Parenting babies and kids
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes for sitters, nurseries, teachers, doctors and other parents about the small children in your care, plus house rules and handover logistics.
 
@@ -75,6 +75,19 @@ Notes for sitters, nurseries, teachers, doctors and other parents about the smal
 <td align="center" width="16%"><img src="../svg/mark/toddler-biting-note-to-daycare.svg" width="44" height="44" alt="Talk to a daycare about your child's biting"><br><sub><b>Talk to a daycare about your child's biting</b></sub><br><sub><code>toddler-biting-note-to-daycare</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-local-parents-for-a-recommendation.svg" width="44" height="44" alt="Ask other local parents for a recommendation"><br><sub><b>Ask other local parents for a recommendation</b></sub><br><sub><code>ask-local-parents-for-a-recommendation</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tell-carers-about-child-separation-anxiety.svg" width="44" height="44" alt="Tell carers how to help a child who cries at goodbyes"><br><sub><b>Tell carers how to help a child who cries at goodbyes</b></sub><br><sub><code>tell-carers-about-child-separation-anxiety</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-car-seat-driver-note.svg" width="44" height="44" alt="Show another driver how your child's car seat works"><br><sub><b>Show another driver how your child's car seat works</b></sub><br><sub><code>kids-car-seat-driver-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/kids-party-thank-guests.svg" width="44" height="44" alt="Thank guests after your child's birthday party"><br><sub><b>Thank guests after your child's birthday party</b></sub><br><sub><code>kids-party-thank-guests</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-nursery-home-change.svg" width="44" height="44" alt="Tell the nursery about a change at home"><br><sub><b>Tell the nursery about a change at home</b></sub><br><sub><code>kids-nursery-home-change</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-tell-parent-small-bump.svg" width="44" height="44" alt="Tell a parent their child got a small bump at your house"><br><sub><b>Tell a parent their child got a small bump at your house</b></sub><br><sub><code>kids-tell-parent-small-bump</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-nanny-share-proposal.svg" width="44" height="44" alt="Ask another family to share a nanny"><br><sub><b>Ask another family to share a nanny</b></sub><br><sub><code>kids-nanny-share-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-party-snack-rota-message.svg" width="44" height="44" alt="Ask class parents to sign up for the party snack rota"><br><sub><b>Ask class parents to sign up for the party snack rota</b></sub><br><sub><code>class-party-snack-rota-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-parent-their-child-was-hurt-at-our-house.svg" width="44" height="44" alt="Tell a parent their child got a small injury at your home"><br><sub><b>Tell a parent their child got a small injury at your home</b></sub><br><sub><code>tell-parent-their-child-was-hurt-at-our-house</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/nursery-invoice-query.svg" width="44" height="44" alt="Query a charge on your nursery or childcare invoice"><br><sub><b>Query a charge on your nursery or childcare invoice</b></sub><br><sub><code>nursery-invoice-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tooth-fairy-letter.svg" width="44" height="44" alt="A tooth fairy letter for your child"><br><sub><b>A tooth fairy letter for your child</b></sub><br><sub><code>tooth-fairy-letter</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Emergencies and disasters
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Words for the worst days: checking on people, leaving home, claims, missing persons, asking for help, thanking those who came and rebuilding afterwards.
 
@@ -75,6 +75,19 @@ Words for the worst days: checking on people, leaving home, claims, missing pers
 <td align="center" width="16%"><img src="../svg/mark/work-from-home-request-smoke-or-storm.svg" width="44" height="44" alt="Ask your boss to work from home during smoke or a storm"><br><sub><b>Ask your boss to work from home during smoke or a storm</b></sub><br><sub><code>work-from-home-request-smoke-or-storm</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/return-home-checklist.svg" width="44" height="44" alt="Checklist for returning home after an evacuation"><br><sub><b>Checklist for returning home after an evacuation</b></sub><br><sub><code>return-home-checklist</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/one-year-after-disaster-post.svg" width="44" height="44" alt="Mark one year since a disaster"><br><sub><b>Mark one year since a disaster</b></sub><br><sub><code>one-year-after-disaster-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-employer-for-pay-advance-after-disaster.svg" width="44" height="44" alt="Ask your employer for a pay advance after a disaster"><br><sub><b>Ask your employer for a pay advance after a disaster</b></sub><br><sub><code>ask-employer-for-pay-advance-after-disaster</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/cancel-or-move-booking-after-disaster.svg" width="44" height="44" alt="Ask to cancel or move a booking after a disaster"><br><sub><b>Ask to cancel or move a booking after a disaster</b></sub><br><sub><code>cancel-or-move-booking-after-disaster</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-bank-cards-lost-in-disaster.svg" width="44" height="44" alt="Tell your bank your cards were lost in a disaster"><br><sub><b>Tell your bank your cards were lost in a disaster</b></sub><br><sub><code>tell-bank-cards-lost-in-disaster</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/generator-safety-note-neighbours.svg" width="44" height="44" alt="Share generator safety steps with neighbours in a power cut"><br><sub><b>Share generator safety steps with neighbours in a power cut</b></sub><br><sub><code>generator-safety-note-neighbours</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-freeze-membership-after-disaster.svg" width="44" height="44" alt="Ask to freeze a membership after a disaster"><br><sub><b>Ask to freeze a membership after a disaster</b></sub><br><sub><code>ask-to-freeze-membership-after-disaster</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-landlord-about-rent-while-home-unlivable.svg" width="44" height="44" alt="Ask the landlord about rent while the home cannot be lived in"><br><sub><b>Ask the landlord about rent while the home cannot be lived in</b></sub><br><sub><code>ask-landlord-about-rent-while-home-unlivable</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-council-to-collect-storm-debris.svg" width="44" height="44" alt="Ask the council to collect flood or storm debris"><br><sub><b>Ask the council to collect flood or storm debris</b></sub><br><sub><code>ask-council-to-collect-storm-debris</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-utility-to-reconnect-after-disaster.svg" width="44" height="44" alt="Ask the utility company to reconnect supply after a disaster"><br><sub><b>Ask the utility company to reconnect supply after a disaster</b></sub><br><sub><code>ask-utility-to-reconnect-after-disaster</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-school-child-affected-by-disaster.svg" width="44" height="44" alt="Tell the school your child was affected by a disaster"><br><sub><b>Tell the school your child was affected by a disaster</b></sub><br><sub><code>tell-school-child-affected-by-disaster</code></sub></td>
 </tr>
 </table>
 

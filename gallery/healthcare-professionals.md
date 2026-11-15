@@ -1,6 +1,6 @@
 # Healthcare professionals
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes from clinicians and care staff: reminders, referrals, handovers, results, rotas, student placements, thanks and replies to complaints.
 
@@ -75,6 +75,19 @@ Notes from clinicians and care staff: reminders, referrals, handovers, results, 
 <td align="center" width="16%"><img src="../svg/mark/learning-note-after-a-near-miss.svg" width="44" height="44" alt="Share a learning note after a near miss"><br><sub><b>Share a learning note after a near miss</b></sub><br><sub><code>learning-note-after-a-near-miss</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/reference-for-a-care-colleague.svg" width="44" height="44" alt="Write a reference for a care colleague"><br><sub><b>Write a reference for a care colleague</b></sub><br><sub><code>reference-for-a-care-colleague</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/first-week-plan-for-a-new-care-assistant.svg" width="44" height="44" alt="Set out a first week plan for a care assistant"><br><sub><b>Set out a first week plan for a care assistant</b></sub><br><sub><code>first-week-plan-for-a-new-care-assistant</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/patient-portal-launch-notice.svg" width="44" height="44" alt="Tell patients about a new online patient portal"><br><sub><b>Tell patients about a new online patient portal</b></sub><br><sub><code>patient-portal-launch-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/patient-directions-parking-note.svg" width="44" height="44" alt="Directions and parking note for patients"><br><sub><b>Directions and parking note for patients</b></sub><br><sub><code>patient-directions-parking-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-patients-to-update-contact-details.svg" width="44" height="44" alt="Ask patients to check and update their contact details"><br><sub><b>Ask patients to check and update their contact details</b></sub><br><sub><code>ask-patients-to-update-contact-details</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-training-session-notice.svg" width="44" height="44" alt="Tell the care team about a training session"><br><sub><b>Tell the care team about a training session</b></sub><br><sub><code>team-training-session-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/locum-welcome-note.svg" width="44" height="44" alt="Welcome note for a locum joining the clinic"><br><sub><b>Welcome note for a locum joining the clinic</b></sub><br><sub><code>locum-welcome-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-patients-about-a-fee-change.svg" width="44" height="44" alt="Tell patients about a change to clinic fees"><br><sub><b>Tell patients about a change to clinic fees</b></sub><br><sub><code>tell-patients-about-a-fee-change</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/acknowledge-patient-records-request.svg" width="44" height="44" alt="Confirm you received a patient's request for their records"><br><sub><b>Confirm you received a patient's request for their records</b></sub><br><sub><code>acknowledge-patient-records-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-patients-a-new-clinician-has-joined.svg" width="44" height="44" alt="Tell patients a new clinician has joined"><br><sub><b>Tell patients a new clinician has joined</b></sub><br><sub><code>tell-patients-a-new-clinician-has-joined</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remind-team-about-patient-privacy.svg" width="44" height="44" alt="Remind the team about patient privacy"><br><sub><b>Remind the team about patient privacy</b></sub><br><sub><code>remind-team-about-patient-privacy</code></sub></td>
 </tr>
 </table>
 

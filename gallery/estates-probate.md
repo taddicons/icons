@@ -1,6 +1,6 @@
 # Estates, wills and executors
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes and letters for the practical, legal and family tasks that follow a death, from telling providers to clearing a house.
 
@@ -75,6 +75,19 @@ Notes and letters for the practical, legal and family tasks that follow a death,
 <td align="center" width="16%"><img src="../svg/mark/thank-the-executor.svg" width="44" height="44" alt="Thank someone for being the executor"><br><sub><b>Thank someone for being the executor</b></sub><br><sub><code>thank-the-executor</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tell-local-tax-office-of-death.svg" width="44" height="44" alt="Tell the local tax office that a resident has died"><br><sub><b>Tell the local tax office that a resident has died</b></sub><br><sub><code>tell-local-tax-office-of-death</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-bank-about-joint-account-after-death.svg" width="44" height="44" alt="Ask a bank how a joint account works after a death"><br><sub><b>Ask a bank how a joint account works after a death</b></sub><br><sub><code>ask-bank-about-joint-account-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-landlord-for-time-to-clear-rented-home.svg" width="44" height="44" alt="Ask a landlord for time to clear a rented home after a death"><br><sub><b>Ask a landlord for time to clear a rented home after a death</b></sub><br><sub><code>ask-landlord-for-time-to-clear-rented-home</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-funeral-director-for-itemised-bill.svg" width="44" height="44" alt="Ask the funeral director for an itemised bill"><br><sub><b>Ask the funeral director for an itemised bill</b></sub><br><sub><code>ask-funeral-director-for-itemised-bill</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-beneficiaries-estate-is-finished.svg" width="44" height="44" alt="Tell beneficiaries that the estate is finished"><br><sub><b>Tell beneficiaries that the estate is finished</b></sub><br><sub><code>tell-beneficiaries-estate-is-finished</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-employer-about-pay-owed-after-death.svg" width="44" height="44" alt="Ask an employer about pay and benefits owed after a death"><br><sub><b>Ask an employer about pay and benefits owed after a death</b></sub><br><sub><code>ask-employer-about-pay-owed-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-lender-about-car-finance-after-death.svg" width="44" height="44" alt="Ask a finance company about a car loan after a death"><br><sub><b>Ask a finance company about a car loan after a death</b></sub><br><sub><code>ask-lender-about-car-finance-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-storage-company-about-unit-after-death.svg" width="44" height="44" alt="Ask a storage company about a unit rented by someone who died"><br><sub><b>Ask a storage company about a unit rented by someone who died</b></sub><br><sub><code>ask-storage-company-about-unit-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-care-home-for-final-bill-after-death.svg" width="44" height="44" alt="Ask a care home for the final bill and deposit after a death"><br><sub><b>Ask a care home for the final bill and deposit after a death</b></sub><br><sub><code>ask-care-home-for-final-bill-after-death</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-beneficiary-to-confirm-receipt.svg" width="44" height="44" alt="Ask a beneficiary to confirm they received their share"><br><sub><b>Ask a beneficiary to confirm they received their share</b></sub><br><sub><code>ask-beneficiary-to-confirm-receipt</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-surgery-for-records-of-someone-who-died.svg" width="44" height="44" alt="Ask for the medical records of someone who died"><br><sub><b>Ask for the medical records of someone who died</b></sub><br><sub><code>ask-surgery-for-records-of-someone-who-died</code></sub></td>
 </tr>
 </table>
 

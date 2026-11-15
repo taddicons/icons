@@ -1,6 +1,6 @@
 # Travel and trips
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Planning trips with others, writing to hosts and hotels, sorting out problems on the road, travelling with extra needs, and sharing the trip afterwards.
 
@@ -67,6 +67,22 @@ Planning trips with others, writing to hosts and hotels, sorting out problems on
 <td align="center" width="16%"><img src="../svg/mark/visit-relatives-abroad-plans.svg" width="44" height="44" alt="Tell family abroad your visit plans"><br><sub><b>Tell family abroad your visit plans</b></sub><br><sub><code>visit-relatives-abroad-plans</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/trip-wrap-up-message.svg" width="44" height="44" alt="Thank the group and tie up loose ends after a trip"><br><sub><b>Thank the group and tie up loose ends after a trip</b></sub><br><sub><code>trip-wrap-up-message</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/trip-budget-plan-share.svg" width="44" height="44" alt="Share a trip budget with your travel partner or group"><br><sub><b>Share a trip budget with your travel partner or group</b></sub><br><sub><code>trip-budget-plan-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-rental-damage-charge-reply.svg" width="44" height="44" alt="Reply to a holiday rental damage charge"><br><sub><b>Reply to a holiday rental damage charge</b></sub><br><sub><code>holiday-rental-damage-charge-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trip-rooming-list.svg" width="44" height="44" alt="Share a rooming list for a group trip"><br><sub><b>Share a rooming list for a group trip</b></sub><br><sub><code>trip-rooming-list</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-passport-abroad-update.svg" width="44" height="44" alt="Tell family you lost your passport abroad"><br><sub><b>Tell family you lost your passport abroad</b></sub><br><sub><code>lost-passport-abroad-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tour-dietary-needs-note.svg" width="44" height="44" alt="Tell a tour company about your dietary needs"><br><sub><b>Tell a tour company about your dietary needs</b></sub><br><sub><code>tour-dietary-needs-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-free-day-ideas-share.svg" width="44" height="44" alt="Share ideas for a free day on a trip"><br><sub><b>Share ideas for a free day on a trip</b></sub><br><sub><code>trip-free-day-ideas-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/travel-companion-dropout-cost-talk.svg" width="44" height="44" alt="Talk costs when a travel friend drops out"><br><sub><b>Talk costs when a travel friend drops out</b></sub><br><sub><code>travel-companion-dropout-cost-talk</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rental-checkout-note-to-host.svg" width="44" height="44" alt="Leave a check-out note for your holiday host"><br><sub><b>Leave a check-out note for your holiday host</b></sub><br><sub><code>rental-checkout-note-to-host</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trip-shared-kitty-rules.svg" width="44" height="44" alt="Set up a shared money kitty for a trip"><br><sub><b>Set up a shared money kitty for a trip</b></sub><br><sub><code>trip-shared-kitty-rules</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/group-dinner-booking-abroad.svg" width="44" height="44" alt="Book a table for a group at a restaurant abroad"><br><sub><b>Book a table for a group at a restaurant abroad</b></sub><br><sub><code>group-dinner-booking-abroad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/museum-group-ticket-enquiry.svg" width="44" height="44" alt="Ask a museum or attraction about group tickets"><br><sub><b>Ask a museum or attraction about group tickets</b></sub><br><sub><code>museum-group-ticket-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-weather-plan-b-message.svg" width="44" height="44" alt="Tell the group about a backup plan for bad weather"><br><sub><b>Tell the group about a backup plan for bad weather</b></sub><br><sub><code>trip-weather-plan-b-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/boat-trip-booking-enquiry.svg" width="44" height="44" alt="Ask about booking a boat trip"><br><sub><b>Ask about booking a boat trip</b></sub><br><sub><code>boat-trip-booking-enquiry</code></sub></td>
 </tr>
 </table>
 

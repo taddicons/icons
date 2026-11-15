@@ -1,6 +1,6 @@
 # Government and official
 
-<sub>Taddicons 2.2.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 73 icons</sub>
 
 Authorities, appeals, permits and your representatives.
 

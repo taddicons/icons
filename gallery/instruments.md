@@ -1,6 +1,6 @@
 # Musical instruments
 
-<sub>Taddicons 2.2.0 · Science, sport & play · 38 icons</sub>
+<sub>Taddicons 2.3.0 · Science, sport & play · 38 icons</sub>
 
 Strings, keys, drums, brass, wind and notation.
 

@@ -1,6 +1,6 @@
 # Cars and transport
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Buying, selling, repairing and insuring a vehicle, and getting around: garages, fines, trains, flights and rides.
 
@@ -75,6 +75,19 @@ Buying, selling, repairing and insuring a vehicle, and getting around: garages, 
 <td align="center" width="16%"><img src="../svg/mark/motorbike-storage-request.svg" width="44" height="44" alt="Ask about storing a motorbike"><br><sub><b>Ask about storing a motorbike</b></sub><br><sub><code>motorbike-storage-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/car-buyer-no-show-message.svg" width="44" height="44" alt="Message a buyer who did not come for the car"><br><sub><b>Message a buyer who did not come for the car</b></sub><br><sub><code>car-buyer-no-show-message</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/car-for-sale-post.svg" width="44" height="44" alt="Post a car for sale"><br><sub><b>Post a car for sale</b></sub><br><sub><code>car-for-sale-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-lease-end-damage-query.svg" width="44" height="44" alt="Question the damage charges after you hand back a leased car"><br><sub><b>Question the damage charges after you hand back a leased car</b></sub><br><sub><code>car-lease-end-damage-query</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/season-ticket-refund-request.svg" width="44" height="44" alt="Ask for a refund on the unused part of a season ticket"><br><sub><b>Ask for a refund on the unused part of a season ticket</b></sub><br><sub><code>season-ticket-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rail-assistance-booking-request.svg" width="44" height="44" alt="Book help at the station for a train journey"><br><sub><b>Book help at the station for a train journey</b></sub><br><sub><code>rail-assistance-booking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-park-overcharge-complaint.svg" width="44" height="44" alt="Complain about being overcharged at a car park"><br><sub><b>Complain about being overcharged at a car park</b></sub><br><sub><code>car-park-overcharge-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-key-replacement-quote-request.svg" width="44" height="44" alt="Ask a garage or locksmith to quote for a new car key"><br><sub><b>Ask a garage or locksmith to quote for a new car key</b></sub><br><sub><code>car-key-replacement-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-service-history-request.svg" width="44" height="44" alt="Ask a garage or dealer for a car's service history"><br><sub><b>Ask a garage or dealer for a car's service history</b></sub><br><sub><code>car-service-history-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/company-vehicle-driving-complaint.svg" width="44" height="44" alt="Report unsafe driving by a company or delivery vehicle"><br><sub><b>Report unsafe driving by a company or delivery vehicle</b></sub><br><sub><code>company-vehicle-driving-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/hire-car-damage-charge-dispute.svg" width="44" height="44" alt="Dispute a damage charge from a car hire company"><br><sub><b>Dispute a damage charge from a car hire company</b></sub><br><sub><code>hire-car-damage-charge-dispute</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/old-parts-return-request.svg" width="44" height="44" alt="Ask a garage to give you back the old parts they replaced"><br><sub><b>Ask a garage to give you back the old parts they replaced</b></sub><br><sub><code>old-parts-return-request</code></sub></td>
 </tr>
 </table>
 

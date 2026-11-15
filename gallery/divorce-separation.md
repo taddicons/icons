@@ -1,6 +1,6 @@
 # Separation and divorce admin
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 The practical words for a separation: telling people, sharing money and homes, child schedules, professionals, records and calm messages to an ex.
 
@@ -75,6 +75,19 @@ The practical words for a separation: telling people, sharing money and homes, c
 <td align="center" width="16%"><img src="../svg/mark/ask-friend-to-stay-close-on-hard-day.svg" width="44" height="44" alt="Ask a friend to be with you on a hard day"><br><sub><b>Ask a friend to be with you on a hard day</b></sub><br><sub><code>ask-friend-to-stay-close-on-hard-day</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-ex-about-health-cover.svg" width="44" height="44" alt="Ask an ex about health cover for the children"><br><sub><b>Ask an ex about health cover for the children</b></sub><br><sub><code>ask-ex-about-health-cover</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/apologise-to-ex-after-argument.svg" width="44" height="44" alt="Apologise to an ex after an argument"><br><sub><b>Apologise to an ex after an argument</b></sub><br><sub><code>apologise-to-ex-after-argument</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-ex-to-agree-child-travel-abroad.svg" width="44" height="44" alt="Ask your ex to agree a trip abroad with the children"><br><sub><b>Ask your ex to agree a trip abroad with the children</b></sub><br><sub><code>ask-ex-to-agree-child-travel-abroad</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/agree-with-ex-how-to-tell-the-children.svg" width="44" height="44" alt="Agree with your ex how you will tell the children"><br><sub><b>Agree with your ex how you will tell the children</b></sub><br><sub><code>agree-with-ex-how-to-tell-the-children</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-ex-new-work-hours-change-schedule.svg" width="44" height="44" alt="Tell your ex your new work hours affect the child schedule"><br><sub><b>Tell your ex your new work hours affect the child schedule</b></sub><br><sub><code>tell-ex-new-work-hours-change-schedule</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-mutual-friend-not-to-take-sides.svg" width="44" height="44" alt="Ask a mutual friend not to take sides"><br><sub><b>Ask a mutual friend not to take sides</b></sub><br><sub><code>ask-mutual-friend-not-to-take-sides</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-ex-about-planned-house-move.svg" width="44" height="44" alt="Tell your ex you plan to move house"><br><sub><b>Tell your ex you plan to move house</b></sub><br><sub><code>tell-ex-about-planned-house-move</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-ex-about-changing-childs-school.svg" width="44" height="44" alt="Ask your ex-partner to discuss changing your child's school"><br><sub><b>Ask your ex-partner to discuss changing your child's school</b></sub><br><sub><code>ask-ex-about-changing-childs-school</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/propose-home-valuation-with-ex.svg" width="44" height="44" alt="Suggest getting your shared home valued after separating"><br><sub><b>Suggest getting your shared home valued after separating</b></sub><br><sub><code>propose-home-valuation-with-ex</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/propose-shared-rules-across-two-homes.svg" width="44" height="44" alt="Suggest shared rules for the children across both homes"><br><sub><b>Suggest shared rules for the children across both homes</b></sub><br><sub><code>propose-shared-rules-across-two-homes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-ex-to-exchange-financial-statements.svg" width="44" height="44" alt="Ask your ex-partner to share financial statements for the separation"><br><sub><b>Ask your ex-partner to share financial statements for the separation</b></sub><br><sub><code>ask-ex-to-exchange-financial-statements</code></sub></td>
 </tr>
 </table>
 

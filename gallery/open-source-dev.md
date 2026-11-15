@@ -1,6 +1,6 @@
 # Open source and developers
 
-<sub>Taddicons 2.2.0 · Documents & messages · 64 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 64 icons</sub>
 
 Kind, clear notes for issues, pull requests, releases, security reports, community rules, funding and handovers in shared software projects.
 

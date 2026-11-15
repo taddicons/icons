@@ -1,6 +1,6 @@
 # Hospitality and stays
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Hosting and staying: guests, rentals, restaurants, hotels and holiday homes.
 
@@ -75,6 +75,19 @@ Hosting and staying: guests, rentals, restaurants, hotels and holiday homes.
 <td align="center" width="16%"><img src="../svg/mark/guest-breakfast-options-note.svg" width="44" height="44" alt="Tell guests what is for breakfast"><br><sub><b>Tell guests what is for breakfast</b></sub><br><sub><code>guest-breakfast-options-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/restaurant-cake-policy-ask.svg" width="44" height="44" alt="Ask a restaurant if you can bring your own cake"><br><sub><b>Ask a restaurant if you can bring your own cake</b></sub><br><sub><code>restaurant-cake-policy-ask</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/host-stay-extension-ask.svg" width="44" height="44" alt="Ask a host to extend your stay"><br><sub><b>Ask a host to extend your stay</b></sub><br><sub><code>host-stay-extension-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restaurant-waitlist-request.svg" width="44" height="44" alt="Ask a restaurant to add you to their waitlist"><br><sub><b>Ask a restaurant to add you to their waitlist</b></sub><br><sub><code>restaurant-waitlist-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/hotel-cot-extra-bed-request.svg" width="44" height="44" alt="Ask a hotel for a cot or an extra bed"><br><sub><b>Ask a hotel for a cot or an extra bed</b></sub><br><sub><code>hotel-cot-extra-bed-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-airport-shuttle-request.svg" width="44" height="44" alt="Ask a hotel about an airport shuttle"><br><sub><b>Ask a hotel about an airport shuttle</b></sub><br><sub><code>hotel-airport-shuttle-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-booking-enquiry-reply.svg" width="44" height="44" alt="Reply to a guest's question before they book"><br><sub><b>Reply to a guest's question before they book</b></sub><br><sub><code>host-booking-enquiry-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restaurant-bring-own-wine-ask.svg" width="44" height="44" alt="Ask a restaurant if you can bring your own wine"><br><sub><b>Ask a restaurant if you can bring your own wine</b></sub><br><sub><code>restaurant-bring-own-wine-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guest-parking-info-note.svg" width="44" height="44" alt="Tell guests where to park and how parking works"><br><sub><b>Tell guests where to park and how parking works</b></sub><br><sub><code>guest-parking-info-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cleaner-turnover-brief.svg" width="44" height="44" alt="Brief your cleaner on what to do between guest stays"><br><sub><b>Brief your cleaner on what to do between guest stays</b></sub><br><sub><code>cleaner-turnover-brief</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/restaurant-deposit-refund-request.svg" width="44" height="44" alt="Ask a restaurant to return a booking deposit"><br><sub><b>Ask a restaurant to return a booking deposit</b></sub><br><sub><code>restaurant-deposit-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-company-invoice-request.svg" width="44" height="44" alt="Ask a hotel for an invoice in your company's name"><br><sub><b>Ask a hotel for an invoice in your company's name</b></sub><br><sub><code>hotel-company-invoice-request</code></sub></td>
 </tr>
 </table>
 

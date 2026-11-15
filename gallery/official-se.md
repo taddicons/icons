@@ -1,6 +1,6 @@
 # Official letters, Sweden
 
-<sub>Taddicons 2.2.0 · Documents & messages · 44 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 74 icons</sub>
 
 The official letters people in Sweden most often need: tenancy, work, tax and debts, insurance and health, consumer rights, authorities, school and neighbours, written in correct Swedish.
 
@@ -64,6 +64,46 @@ The official letters people in Sweden most often need: tenancy, work, tax and de
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/se-granne-storning.svg" width="44" height="44" alt="Störning från granne: complain about a noisy neighbour (Sweden)"><br><sub><b>Störning från granne: complain about a noisy neighbour (Sweden)</b></sub><br><sub><code>se-granne-storning</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/se-miljoforvaltning-anmalan.svg" width="44" height="44" alt="Anmälan om störning till kommunen: report nuisance (Sweden)"><br><sub><b>Anmälan om störning till kommunen: report nuisance (Sweden)</b></sub><br><sub><code>se-miljoforvaltning-anmalan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-deposition-aterbetalning.svg" width="44" height="44" alt="Återbetalning av deposition: ask for your deposit back (Sweden)"><br><sub><b>Återbetalning av deposition: ask for your deposit back (Sweden)</b></sub><br><sub><code>se-deposition-aterbetalning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-besiktning-avflyttning.svg" width="44" height="44" alt="Besiktning vid avflyttning: book a move-out inspection (Sweden)"><br><sub><b>Besiktning vid avflyttning: book a move-out inspection (Sweden)</b></sub><br><sub><code>se-besiktning-avflyttning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-brf-andring-tillstand.svg" width="44" height="44" alt="Ansökan om tillstånd: ask the co-op board to approve a renovation (Sweden)"><br><sub><b>Ansökan om tillstånd: ask the co-op board to approve a renovation (Sweden)</b></sub><br><sub><code>se-brf-andring-tillstand</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-hyresavtal-kopia.svg" width="44" height="44" alt="Begäran om kopia av hyresavtal: ask for a copy of your lease (Sweden)"><br><sub><b>Begäran om kopia av hyresavtal: ask for a copy of your lease (Sweden)</b></sub><br><sub><code>se-hyresavtal-kopia</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/se-tjanstledighet-ansokan.svg" width="44" height="44" alt="Ansökan om tjänstledighet: ask for leave of absence (Sweden)"><br><sub><b>Ansökan om tjänstledighet: ask for leave of absence (Sweden)</b></sub><br><sub><code>se-tjanstledighet-ansokan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-anstallningsintyg-begaran.svg" width="44" height="44" alt="Begäran om anställningsintyg: ask for proof of employment (Sweden)"><br><sub><b>Begäran om anställningsintyg: ask for proof of employment (Sweden)</b></sub><br><sub><code>se-anstallningsintyg-begaran</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-arbetsgivarintyg-begaran.svg" width="44" height="44" alt="Arbetsgivarintyg: ask a former employer for the a-kassa certificate (Sweden)"><br><sub><b>Arbetsgivarintyg: ask a former employer for the a-kassa certificate (Sweden)</b></sub><br><sub><code>se-arbetsgivarintyg-begaran</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-a-kassa-omprovning.svg" width="44" height="44" alt="Begäran om omprövning: ask the a-kassa to reconsider (Sweden)"><br><sub><b>Begäran om omprövning: ask the a-kassa to reconsider (Sweden)</b></sub><br><sub><code>se-a-kassa-omprovning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-lonesamtal-begaran.svg" width="44" height="44" alt="Begäran om lönesamtal: ask for a salary review meeting (Sweden)"><br><sub><b>Begäran om lönesamtal: ask for a salary review meeting (Sweden)</b></sub><br><sub><code>se-lonesamtal-begaran</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-forkortad-arbetstid.svg" width="44" height="44" alt="Ansökan om förkortad arbetstid: ask to cut your hours as a parent (Sweden)"><br><sub><b>Ansökan om förkortad arbetstid: ask to cut your hours as a parent (Sweden)</b></sub><br><sub><code>se-forkortad-arbetstid</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/se-csn-nedsattning.svg" width="44" height="44" alt="Ansökan om nedsättning: ask CSN to lower your loan payments (Sweden)"><br><sub><b>Ansökan om nedsättning: ask CSN to lower your loan payments (Sweden)</b></sub><br><sub><code>se-csn-nedsattning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-bankkonto-avslut.svg" width="44" height="44" alt="Avslut av bankkonto: close a bank account (Sweden)"><br><sub><b>Avslut av bankkonto: close a bank account (Sweden)</b></sub><br><sub><code>se-bankkonto-avslut</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-autogiro-aterkallelse.svg" width="44" height="44" alt="Återkallelse av autogiro: stop a direct debit (Sweden)"><br><sub><b>Återkallelse av autogiro: stop a direct debit (Sweden)</b></sub><br><sub><code>se-autogiro-aterkallelse</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-dodsfall-bank-anmalan.svg" width="44" height="44" alt="Anmälan om dödsfall: tell a bank about a death (Sweden)"><br><sub><b>Anmälan om dödsfall: tell a bank about a death (Sweden)</b></sub><br><sub><code>se-dodsfall-bank-anmalan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-forsakring-uppsagning.svg" width="44" height="44" alt="Uppsägning av försäkring: cancel an insurance policy (Sweden)"><br><sub><b>Uppsägning av försäkring: cancel an insurance policy (Sweden)</b></sub><br><sub><code>se-forsakring-uppsagning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-vardgaranti-begaran.svg" width="44" height="44" alt="Vårdgaranti: ask for care elsewhere after a long wait (Sweden)"><br><sub><b>Vårdgaranti: ask for care elsewhere after a long wait (Sweden)</b></sub><br><sub><code>se-vardgaranti-begaran</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/se-sjukresa-ersattning.svg" width="44" height="44" alt="Ersättning för sjukresa: claim travel costs for care (Sweden)"><br><sub><b>Ersättning för sjukresa: claim travel costs for care (Sweden)</b></sub><br><sub><code>se-sjukresa-ersattning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-vab-anmalan.svg" width="44" height="44" alt="VAB-anmälan: tell your employer you stay home with a sick child (Sweden)"><br><sub><b>VAB-anmälan: tell your employer you stay home with a sick child (Sweden)</b></sub><br><sub><code>se-vab-anmalan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-skolskjuts-ansokan.svg" width="44" height="44" alt="Ansökan om skolskjuts: apply for school transport (Sweden)"><br><sub><b>Ansökan om skolskjuts: apply for school transport (Sweden)</b></sub><br><sub><code>se-skolskjuts-ansokan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-modersmal-ansokan.svg" width="44" height="44" alt="Ansökan om modersmålsundervisning: apply for mother-tongue lessons (Sweden)"><br><sub><b>Ansökan om modersmålsundervisning: apply for mother-tongue lessons (Sweden)</b></sub><br><sub><code>se-modersmal-ansokan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-skolbyte-ansokan.svg" width="44" height="44" alt="Ansökan om skolbyte: ask to move your child to another school (Sweden)"><br><sub><b>Ansökan om skolbyte: ask to move your child to another school (Sweden)</b></sub><br><sub><code>se-skolbyte-ansokan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-gdpr-rattelse.svg" width="44" height="44" alt="Begäran om rättelse: ask to correct your personal data (Sweden)"><br><sub><b>Begäran om rättelse: ask to correct your personal data (Sweden)</b></sub><br><sub><code>se-gdpr-rattelse</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/se-telefonforsaljning-besked.svg" width="44" height="44" alt="Telefonförsäljning: say no to a deal offered by phone (Sweden)"><br><sub><b>Telefonförsäljning: say no to a deal offered by phone (Sweden)</b></sub><br><sub><code>se-telefonforsaljning-besked</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-elavtal-flytt.svg" width="44" height="44" alt="Flytt av elavtal: tell your electricity supplier you are moving (Sweden)"><br><sub><b>Flytt av elavtal: tell your electricity supplier you are moving (Sweden)</b></sub><br><sub><code>se-elavtal-flytt</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-bredband-avbrott.svg" width="44" height="44" alt="Avbrott i bredband: ask for a price cut after an internet outage (Sweden)"><br><sub><b>Avbrott i bredband: ask for a price cut after an internet outage (Sweden)</b></sub><br><sub><code>se-bredband-avbrott</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-handlaggning-fraga.svg" width="44" height="44" alt="Fråga om handläggning: ask an authority how your case is going (Sweden)"><br><sub><b>Fråga om handläggning: ask an authority how your case is going (Sweden)</b></sub><br><sub><code>se-handlaggning-fraga</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-tolk-begaran.svg" width="44" height="44" alt="Begäran om tolk: ask an authority for an interpreter (Sweden)"><br><sub><b>Begäran om tolk: ask an authority for an interpreter (Sweden)</b></sub><br><sub><code>se-tolk-begaran</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-granne-trad-beskarning.svg" width="44" height="44" alt="Beskärning av träd: ask a neighbour to trim trees or a hedge (Sweden)"><br><sub><b>Beskärning av träd: ask a neighbour to trim trees or a hedge (Sweden)</b></sub><br><sub><code>se-granne-trad-beskarning</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/se-granne-staket-forslag.svg" width="44" height="44" alt="Gemensamt staket: propose a shared fence to a neighbour (Sweden)"><br><sub><b>Gemensamt staket: propose a shared fence to a neighbour (Sweden)</b></sub><br><sub><code>se-granne-staket-forslag</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-bygglov-yttrande.svg" width="44" height="44" alt="Yttrande över bygglov: comment on a neighbour's building permit (Sweden)"><br><sub><b>Yttrande över bygglov: comment on a neighbour's building permit (Sweden)</b></sub><br><sub><code>se-bygglov-yttrande</code></sub></td>
 </tr>
 </table>
 

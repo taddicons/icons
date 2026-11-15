@@ -1,6 +1,6 @@
 # Travel
 
-<sub>Taddicons 2.2.0 · Documents & messages · 44 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 74 icons</sub>
 
 Bookings, hosts, plans and postcards.
 
@@ -64,6 +64,46 @@ Bookings, hosts, plans and postcards.
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/write-an-emergency-contact-sheet.svg" width="44" height="44" alt="Write an emergency contact sheet for a trip"><br><sub><b>Write an emergency contact sheet for a trip</b></sub><br><sub><code>write-an-emergency-contact-sheet</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-a-host-about-wifi-and-heating.svg" width="44" height="44" alt="Ask a host how wifi and heating work"><br><sub><b>Ask a host how wifi and heating work</b></sub><br><sub><code>ask-a-host-about-wifi-and-heating</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airline-family-seating-request.svg" width="44" height="44" alt="Ask an airline to seat your family together"><br><sub><b>Ask an airline to seat your family together</b></sub><br><sub><code>airline-family-seating-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airport-wheelchair-assistance-request.svg" width="44" height="44" alt="Ask for wheelchair help at the airport"><br><sub><b>Ask for wheelchair help at the airport</b></sub><br><sub><code>airport-wheelchair-assistance-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/doctor-letter-for-travel-medicines-request.svg" width="44" height="44" alt="Ask your doctor for a letter about travel medicines"><br><sub><b>Ask your doctor for a letter about travel medicines</b></sub><br><sub><code>doctor-letter-for-travel-medicines-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/train-bike-space-question.svg" width="44" height="44" alt="Ask a train company about taking your bike"><br><sub><b>Ask a train company about taking your bike</b></sub><br><sub><code>train-bike-space-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/cruise-shore-excursion-question.svg" width="44" height="44" alt="Ask a cruise line about a shore trip"><br><sub><b>Ask a cruise line about a shore trip</b></sub><br><sub><code>cruise-shore-excursion-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/travel-buddy-ground-rules-message.svg" width="44" height="44" alt="Agree a few ground rules with a travel friend"><br><sub><b>Agree a few ground rules with a travel friend</b></sub><br><sub><code>travel-buddy-ground-rules-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-passport-abroad-report.svg" width="44" height="44" alt="Report a lost passport while abroad"><br><sub><b>Report a lost passport while abroad</b></sub><br><sub><code>lost-passport-abroad-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/theft-abroad-police-statement.svg" width="44" height="44" alt="Write a short statement about a theft abroad"><br><sub><b>Write a short statement about a theft abroad</b></sub><br><sub><code>theft-abroad-police-statement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-parcel-hold-request.svg" width="44" height="44" alt="Ask a hotel to hold a parcel for you"><br><sub><b>Ask a hotel to hold a parcel for you</b></sub><br><sub><code>hotel-parcel-hold-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-trip-invoice-request.svg" width="44" height="44" alt="Ask for a proper invoice after a work trip"><br><sub><b>Ask for a proper invoice after a work trip</b></sub><br><sub><code>business-trip-invoice-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/homestay-family-introduction.svg" width="44" height="44" alt="Introduce yourself to your homestay family"><br><sub><b>Introduce yourself to your homestay family</b></sub><br><sub><code>homestay-family-introduction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tour-fitness-level-question.svg" width="44" height="44" alt="Ask a tour company how fit you need to be"><br><sub><b>Ask a tour company how fit you need to be</b></sub><br><sub><code>tour-fitness-level-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-abroad-application.svg" width="44" height="44" alt="Apply to volunteer on a project abroad"><br><sub><b>Apply to volunteer on a project abroad</b></sub><br><sub><code>volunteer-abroad-application</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ski-school-lessons-question.svg" width="44" height="44" alt="Ask a ski school about lessons"><br><sub><b>Ask a ski school about lessons</b></sub><br><sub><code>ski-school-lessons-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dive-centre-booking-question.svg" width="44" height="44" alt="Ask a dive centre about booking a dive"><br><sub><b>Ask a dive centre about booking a dive</b></sub><br><sub><code>dive-centre-booking-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/damaged-luggage-claim.svg" width="44" height="44" alt="Claim for luggage damaged on a flight"><br><sub><b>Claim for luggage damaged on a flight</b></sub><br><sub><code>damaged-luggage-claim</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/late-arrival-notice-to-host.svg" width="44" height="44" alt="Tell your host you will arrive late"><br><sub><b>Tell your host you will arrive late</b></sub><br><sub><code>late-arrival-notice-to-host</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rental-car-fine-admin-fee-query.svg" width="44" height="44" alt="Question a hire car fine or admin fee"><br><sub><b>Question a hire car fine or admin fee</b></sub><br><sub><code>rental-car-fine-admin-fee-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airline-musical-instrument-question.svg" width="44" height="44" alt="Ask an airline about flying with an instrument"><br><sub><b>Ask an airline about flying with an instrument</b></sub><br><sub><code>airline-musical-instrument-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/coach-missed-pickup-complaint.svg" width="44" height="44" alt="Complain that a coach or shuttle missed you"><br><sub><b>Complain that a coach or shuttle missed you</b></sub><br><sub><code>coach-missed-pickup-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-before-posting-trip-photos.svg" width="44" height="44" alt="Ask friends before you post trip photos"><br><sub><b>Ask friends before you post trip photos</b></sub><br><sub><code>ask-before-posting-trip-photos</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/campervan-hire-question.svg" width="44" height="44" alt="Ask a company about hiring a campervan"><br><sub><b>Ask a company about hiring a campervan</b></sub><br><sub><code>campervan-hire-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/airline-unaccompanied-minor-question.svg" width="44" height="44" alt="Ask an airline about a child flying alone"><br><sub><b>Ask an airline about a child flying alone</b></sub><br><sub><code>airline-unaccompanied-minor-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airline-pregnancy-travel-question.svg" width="44" height="44" alt="Ask an airline about flying while pregnant"><br><sub><b>Ask an airline about flying while pregnant</b></sub><br><sub><code>airline-pregnancy-travel-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-exchange-student-message.svg" width="44" height="44" alt="Welcome an exchange student to your home"><br><sub><b>Welcome an exchange student to your home</b></sub><br><sub><code>welcome-exchange-student-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retreat-booking-question.svg" width="44" height="44" alt="Ask about booking a wellness or quiet retreat"><br><sub><b>Ask about booking a wellness or quiet retreat</b></sub><br><sub><code>retreat-booking-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-ev-charging-question.svg" width="44" height="44" alt="Ask a hotel about charging an electric car"><br><sub><b>Ask a hotel about charging an electric car</b></sub><br><sub><code>hotel-ev-charging-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/boat-charter-question.svg" width="44" height="44" alt="Ask about chartering a boat for a day"><br><sub><b>Ask about chartering a boat for a day</b></sub><br><sub><code>boat-charter-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/language-school-enrolment-question.svg" width="44" height="44" alt="Ask a language school abroad about a course"><br><sub><b>Ask a language school abroad about a course</b></sub><br><sub><code>language-school-enrolment-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-host-to-book-a-taxi.svg" width="44" height="44" alt="Ask your host to book a taxi for you"><br><sub><b>Ask your host to book a taxi for you</b></sub><br><sub><code>ask-host-to-book-a-taxi</code></sub></td>
 </tr>
 </table>
 

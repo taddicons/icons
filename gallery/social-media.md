@@ -1,6 +1,6 @@
 # Social media
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Posts, replies, threads and captions for the networks, written for regular people, not influencers.
 
@@ -67,6 +67,22 @@ Posts, replies, threads and captions for the networks, written for regular peopl
 <td align="center" width="16%"><img src="../svg/mark/content-calendar-plan.svg" width="44" height="44" alt="Plan of posts for the month ahead"><br><sub><b>Plan of posts for the month ahead</b></sub><br><sub><code>content-calendar-plan</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/team-member-intro-post.svg" width="44" height="44" alt="Introduce a team member to your followers"><br><sub><b>Introduce a team member to your followers</b></sub><br><sub><code>team-member-intro-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/brand-deal-brief-questions.svg" width="44" height="44" alt="Ask a brand key questions before you agree a paid deal"><br><sub><b>Ask a brand key questions before you agree a paid deal</b></sub><br><sub><code>brand-deal-brief-questions</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/scam-report-to-network.svg" width="44" height="44" alt="Report a scam message or ad to the network"><br><sub><b>Report a scam message or ad to the network</b></sub><br><sub><code>scam-report-to-network</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/new-episode-announcement-post.svg" width="44" height="44" alt="Announce a new podcast or video episode"><br><sub><b>Announce a new podcast or video episode</b></sub><br><sub><code>new-episode-announcement-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/stolen-bike-post.svg" width="44" height="44" alt="Ask people nearby to look out for your stolen bike"><br><sub><b>Ask people nearby to look out for your stolen bike</b></sub><br><sub><code>stolen-bike-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-drive-post.svg" width="44" height="44" alt="Ask people to donate items for a local cause"><br><sub><b>Ask people to donate items for a local cause</b></sub><br><sub><code>item-drive-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/doxxing-removal-request.svg" width="44" height="44" alt="Ask a network to remove a post that shares your private details"><br><sub><b>Ask a network to remove a post that shares your private details</b></sub><br><sub><code>doxxing-removal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/support-thanks-post.svg" width="44" height="44" alt="Thank everyone who supported you through a hard time"><br><sub><b>Thank everyone who supported you through a hard time</b></sub><br><sub><code>support-thanks-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/recipe-share-post.svg" width="44" height="44" alt="Share a recipe you made with your followers"><br><sub><b>Share a recipe you made with your followers</b></sub><br><sub><code>recipe-share-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/book-thoughts-post.svg" width="44" height="44" alt="Share your thoughts on a book you just finished"><br><sub><b>Share your thoughts on a book you just finished</b></sub><br><sub><code>book-thoughts-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/creator-rate-card-text.svg" width="44" height="44" alt="Write the text for a creator rate card"><br><sub><b>Write the text for a creator rate card</b></sub><br><sub><code>creator-rate-card-text</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-challenge-post.svg" width="44" height="44" alt="Start a 30-day challenge with your followers"><br><sub><b>Start a 30-day challenge with your followers</b></sub><br><sub><code>community-challenge-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fan-art-feature-post.svg" width="44" height="44" alt="Share and credit a follower's fan art"><br><sub><b>Share and credit a follower's fan art</b></sub><br><sub><code>fan-art-feature-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/follower-question-roundup-post.svg" width="44" height="44" alt="Answer the top questions your followers asked"><br><sub><b>Answer the top questions your followers asked</b></sub><br><sub><code>follower-question-roundup-post</code></sub></td>
 </tr>
 </table>
 

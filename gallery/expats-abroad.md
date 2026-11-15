@@ -1,6 +1,6 @@
 # Living abroad and expats
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Papers, banks, schools, doctors, homes and people when you have moved to another country.
 
@@ -75,6 +75,19 @@ Papers, banks, schools, doctors, homes and people when you have moved to another
 <td align="center" width="16%"><img src="../svg/mark/holiday-greeting-home-from-abroad.svg" width="44" height="44" alt="Send holiday wishes home when you cannot be there"><br><sub><b>Send holiday wishes home when you cannot be there</b></sub><br><sub><code>holiday-greeting-home-from-abroad</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/relocation-support-thank-you.svg" width="44" height="44" alt="Thank an employer or relocation helper for the move"><br><sub><b>Thank an employer or relocation helper for the move</b></sub><br><sub><code>relocation-support-thank-you</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/cancel-contracts-before-moving-abroad.svg" width="44" height="44" alt="Cancel local services before you move abroad"><br><sub><b>Cancel local services before you move abroad</b></sub><br><sub><code>cancel-contracts-before-moving-abroad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-work-contract-in-your-language.svg" width="44" height="44" alt="Ask for your work contract in a language you can read"><br><sub><b>Ask for your work contract in a language you can read</b></sub><br><sub><code>ask-for-work-contract-in-your-language</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-home-bank-you-now-live-abroad.svg" width="44" height="44" alt="Tell your home bank you now live abroad"><br><sub><b>Tell your home bank you now live abroad</b></sub><br><sub><code>tell-home-bank-you-now-live-abroad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-old-doctor-to-send-records-abroad.svg" width="44" height="44" alt="Ask your old doctor to send your records abroad"><br><sub><b>Ask your old doctor to send your records abroad</b></sub><br><sub><code>ask-old-doctor-to-send-records-abroad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-about-rules-for-moving-a-pet-abroad.svg" width="44" height="44" alt="Ask about the rules for bringing a pet to a new country"><br><sub><b>Ask about the rules for bringing a pet to a new country</b></sub><br><sub><code>ask-about-rules-for-moving-a-pet-abroad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-friends-you-are-moving-back-home.svg" width="44" height="44" alt="Tell friends abroad you are moving back home"><br><sub><b>Tell friends abroad you are moving back home</b></sub><br><sub><code>tell-friends-you-are-moving-back-home</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-employer-what-relocation-package-covers.svg" width="44" height="44" alt="Ask your employer what the relocation package covers"><br><sub><b>Ask your employer what the relocation package covers</b></sub><br><sub><code>ask-employer-what-relocation-package-covers</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-insurer-if-cover-works-abroad.svg" width="44" height="44" alt="Ask your insurer if your cover still works when you live abroad"><br><sub><b>Ask your insurer if your cover still works when you live abroad</b></sub><br><sub><code>ask-insurer-if-cover-works-abroad</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-landlord-abroad-for-move-in-inventory.svg" width="44" height="44" alt="Ask a landlord abroad for a written inventory when you move in"><br><sub><b>Ask a landlord abroad for a written inventory when you move in</b></sub><br><sub><code>ask-landlord-abroad-for-move-in-inventory</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-colleagues-to-move-meetings-for-time-zone.svg" width="44" height="44" alt="Ask colleagues back home to move meetings for your time zone"><br><sub><b>Ask colleagues back home to move meetings for your time zone</b></sub><br><sub><code>ask-colleagues-to-move-meetings-for-time-zone</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Gaming and online communities
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Guild and clan notes, moderator messages, ban appeals, tournaments, streamer and fan posts, game refunds and parent questions about games.
 
@@ -75,6 +75,19 @@ Guild and clan notes, moderator messages, ban appeals, tournaments, streamer and
 <td align="center" width="16%"><img src="../svg/mark/talk-to-teen-about-game-spending.svg" width="44" height="44" alt="Talk with your teen about spending in games"><br><sub><b>Talk with your teen about spending in games</b></sub><br><sub><code>talk-to-teen-about-game-spending</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/community-apology-for-mistake.svg" width="44" height="44" alt="Apologise to your community for a mistake"><br><sub><b>Apologise to your community for a mistake</b></sub><br><sub><code>community-apology-for-mistake</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/game-server-maintenance-notice.svg" width="44" height="44" alt="Announce server downtime"><br><sub><b>Announce server downtime</b></sub><br><sub><code>game-server-maintenance-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-stream-announcement.svg" width="44" height="44" alt="Announce a charity stream to your community"><br><sub><b>Announce a charity stream to your community</b></sub><br><sub><code>charity-stream-announcement</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/regular-duo-partner-ask.svg" width="44" height="44" alt="Ask a player to be your regular duo partner"><br><sub><b>Ask a player to be your regular duo partner</b></sub><br><sub><code>regular-duo-partner-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/game-server-donation-thanks-post.svg" width="44" height="44" alt="Thank members who help pay for the game server"><br><sub><b>Thank members who help pay for the game server</b></sub><br><sub><code>game-server-donation-thanks-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/game-subscription-cancel-request.svg" width="44" height="44" alt="Ask a game company to cancel a subscription"><br><sub><b>Ask a game company to cancel a subscription</b></sub><br><sub><code>game-subscription-cancel-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/moderator-step-down-note.svg" width="44" height="44" alt="Step down as a moderator of an online community"><br><sub><b>Step down as a moderator of an online community</b></sub><br><sub><code>moderator-step-down-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-streamer-for-raid.svg" width="44" height="44" alt="Thank a streamer for raiding your channel"><br><sub><b>Thank a streamer for raiding your channel</b></sub><br><sub><code>thank-streamer-for-raid</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guild-inactive-member-check-in.svg" width="44" height="44" alt="Check in with an inactive guild member"><br><sub><b>Check in with an inactive guild member</b></sub><br><sub><code>guild-inactive-member-check-in</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/server-privacy-rules-change-notice.svg" width="44" height="44" alt="Tell members the server privacy rules have changed"><br><sub><b>Tell members the server privacy rules have changed</b></sub><br><sub><code>server-privacy-rules-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-member-of-the-month-post.svg" width="44" height="44" alt="Announce the community member of the month"><br><sub><b>Announce the community member of the month</b></sub><br><sub><code>community-member-of-the-month-post</code></sub></td>
 </tr>
 </table>
 

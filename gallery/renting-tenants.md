@@ -1,6 +1,6 @@
 # Renting as a tenant
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages for renters: problems at home, rent and deposits, moving in and out, flatmates and the building.
 
@@ -75,6 +75,19 @@ Letters and messages for renters: problems at home, rent and deposits, moving in
 <td align="center" width="16%"><img src="../svg/mark/tenant-quiet-neighbour-complaint.svg" width="44" height="44" alt="Write to a landlord about noisy neighbours"><br><sub><b>Write to a landlord about noisy neighbours</b></sub><br><sub><code>tenant-quiet-neighbour-complaint</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tenant-window-wont-close.svg" width="44" height="44" alt="Report a window or door that will not close"><br><sub><b>Report a window or door that will not close</b></sub><br><sub><code>tenant-window-wont-close</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tenant-bin-and-recycling-note.svg" width="44" height="44" alt="Remind housemates about bins and recycling"><br><sub><b>Remind housemates about bins and recycling</b></sub><br><sub><code>tenant-bin-and-recycling-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rent-electrical-fault-report.svg" width="44" height="44" alt="Report an electrical fault to your landlord"><br><sub><b>Report an electrical fault to your landlord</b></sub><br><sub><code>rent-electrical-fault-report</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rent-repair-visit-times.svg" width="44" height="44" alt="Offer times for a contractor to visit your rented home"><br><sub><b>Offer times for a contractor to visit your rented home</b></sub><br><sub><code>rent-repair-visit-times</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rent-change-payment-date.svg" width="44" height="44" alt="Ask to change the day you pay rent"><br><sub><b>Ask to change the day you pay rent</b></sub><br><sub><code>rent-change-payment-date</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rent-long-absence-notice.svg" width="44" height="44" alt="Tell your landlord you will be away for a long time"><br><sub><b>Tell your landlord you will be away for a long time</b></sub><br><sub><code>rent-long-absence-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rent-spare-key-request.svg" width="44" height="44" alt="Ask your landlord for a spare key"><br><sub><b>Ask your landlord for a spare key</b></sub><br><sub><code>rent-spare-key-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/energy-rating-certificate-request.svg" width="44" height="44" alt="Ask your landlord for the home's energy rating certificate"><br><sub><b>Ask your landlord for the home's energy rating certificate</b></sub><br><sub><code>energy-rating-certificate-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-landlord-to-allow-a-smart-meter.svg" width="44" height="44" alt="Ask your landlord's permission to have a smart meter fitted"><br><sub><b>Ask your landlord's permission to have a smart meter fitted</b></sub><br><sub><code>ask-landlord-to-allow-a-smart-meter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/move-out-keys-received-confirmation.svg" width="44" height="44" alt="Ask your landlord to confirm they received your keys at move-out"><br><sub><b>Ask your landlord to confirm they received your keys at move-out</b></sub><br><sub><code>move-out-keys-received-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-landlord-about-running-a-small-business-from-home.svg" width="44" height="44" alt="Ask your landlord if you can run a small business from your rented home"><br><sub><b>Ask your landlord if you can run a small business from your rented home</b></sub><br><sub><code>ask-landlord-about-running-a-small-business-from-home</code></sub></td>
 </tr>
 </table>
 

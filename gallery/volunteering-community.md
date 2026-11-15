@@ -1,6 +1,6 @@
 # Volunteering and community
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Recruiting and thanking volunteers, shift notes, food banks, mutual aid, charity runs, faith group logistics, clean-ups, neighbour help and committee papers.
 
@@ -67,6 +67,22 @@ Recruiting and thanking volunteers, shift notes, food banks, mutual aid, charity
 <td align="center" width="16%"><img src="../svg/mark/collection-tin-request.svg" width="44" height="44" alt="Ask a shop to hold a charity collection tin"><br><sub><b>Ask a shop to hold a charity collection tin</b></sub><br><sub><code>collection-tin-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/urgent-shift-cover-request.svg" width="44" height="44" alt="Ask volunteers to cover a shift at short notice"><br><sub><b>Ask volunteers to cover a shift at short notice</b></sub><br><sub><code>urgent-shift-cover-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/volunteer-milestone-congrats.svg" width="44" height="44" alt="Congratulate a volunteer on a long-service milestone"><br><sub><b>Congratulate a volunteer on a long-service milestone</b></sub><br><sub><code>volunteer-milestone-congrats</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-rota-availability-ask.svg" width="44" height="44" alt="Ask volunteers for their rota availability"><br><sub><b>Ask volunteers for their rota availability</b></sub><br><sub><code>volunteer-rota-availability-ask</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/community-garden-plot-rules.svg" width="44" height="44" alt="Share the rules for community garden plots"><br><sub><b>Share the rules for community garden plots</b></sub><br><sub><code>community-garden-plot-rules</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/litter-bin-request-to-council.svg" width="44" height="44" alt="Ask the council for a new litter bin"><br><sub><b>Ask the council for a new litter bin</b></sub><br><sub><code>litter-bin-request-to-council</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fundraiser-target-reached-post.svg" width="44" height="44" alt="Announce that a fundraiser hit its target"><br><sub><b>Announce that a fundraiser hit its target</b></sub><br><sub><code>fundraiser-target-reached-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-first-shift-details.svg" width="44" height="44" alt="Send a new volunteer their first shift details"><br><sub><b>Send a new volunteer their first shift details</b></sub><br><sub><code>volunteer-first-shift-details</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-leaving-thanks-letter.svg" width="44" height="44" alt="Thank a volunteer who is leaving"><br><sub><b>Thank a volunteer who is leaving</b></sub><br><sub><code>volunteer-leaving-thanks-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/borrowed-equipment-return-reminder.svg" width="44" height="44" alt="Remind someone to return borrowed group equipment"><br><sub><b>Remind someone to return borrowed group equipment</b></sub><br><sub><code>borrowed-equipment-return-reminder</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-data-use-notice.svg" width="44" height="44" alt="Tell volunteers how their details are used"><br><sub><b>Tell volunteers how their details are used</b></sub><br><sub><code>volunteer-data-use-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/skill-swap-post.svg" width="44" height="44" alt="Start a skill swap in your neighbourhood"><br><sub><b>Start a skill swap in your neighbourhood</b></sub><br><sub><code>skill-swap-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-event-insurance-enquiry.svg" width="44" height="44" alt="Ask about insurance cover for a community event"><br><sub><b>Ask about insurance cover for a community event</b></sub><br><sub><code>community-event-insurance-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-induction-checklist.svg" width="44" height="44" alt="Checklist for a new volunteer's first day"><br><sub><b>Checklist for a new volunteer's first day</b></sub><br><sub><code>volunteer-induction-checklist</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-volunteer-buddy-pairing-note.svg" width="44" height="44" alt="Pair a new volunteer with an experienced buddy"><br><sub><b>Pair a new volunteer with an experienced buddy</b></sub><br><sub><code>new-volunteer-buddy-pairing-note</code></sub></td>
 </tr>
 </table>
 

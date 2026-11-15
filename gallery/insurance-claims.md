@@ -1,6 +1,6 @@
 # Insurance and claims
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Claims, disputes, policy questions, renewals and cancelling, for car, home, travel, health and life cover.
 
@@ -75,6 +75,19 @@ Claims, disputes, policy questions, renewals and cancelling, for car, home, trav
 <td align="center" width="16%"><img src="../svg/mark/repair-direct-pay-authorisation.svg" width="44" height="44" alt="Ask your insurer to pay the repairer directly"><br><sub><b>Ask your insurer to pay the repairer directly</b></sub><br><sub><code>repair-direct-pay-authorisation</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/photo-evidence-cover-note.svg" width="44" height="44" alt="Send photos with your claim in an organised way"><br><sub><b>Send photos with your claim in an organised way</b></sub><br><sub><code>photo-evidence-cover-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/claim-handler-change-request.svg" width="44" height="44" alt="Ask for a different person to handle your claim"><br><sub><b>Ask for a different person to handle your claim</b></sub><br><sub><code>claim-handler-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-call-recording-request.svg" width="44" height="44" alt="Ask your insurer for a copy of a call recording about your claim"><br><sub><b>Ask your insurer for a copy of a call recording about your claim</b></sub><br><sub><code>claim-call-recording-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/emergency-repair-cost-notice.svg" width="44" height="44" alt="Tell your insurer you paid for an urgent repair before the claim was agreed"><br><sub><b>Tell your insurer you paid for an urgent repair before the claim was agreed</b></sub><br><sub><code>emergency-repair-cost-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-interim-payment-request.svg" width="44" height="44" alt="Ask your insurer for part of the payout while the claim is still open"><br><sub><b>Ask your insurer for part of the payout while the claim is still open</b></sub><br><sub><code>claim-interim-payment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-settlement-options-question.svg" width="44" height="44" alt="Ask whether your claim will be paid as cash, repair or replacement"><br><sub><b>Ask whether your claim will be paid as cash, repair or replacement</b></sub><br><sub><code>claim-settlement-options-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-decision-written-confirmation-request.svg" width="44" height="44" alt="Ask your insurer to confirm a phone decision about your claim in writing"><br><sub><b>Ask your insurer to confirm a phone decision about your claim in writing</b></sub><br><sub><code>claim-decision-written-confirmation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-accident-insurer-report.svg" width="44" height="44" alt="Tell your car insurer about an accident"><br><sub><b>Tell your car insurer about an accident</b></sub><br><sub><code>car-accident-insurer-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/policy-cooling-off-cancellation.svg" width="44" height="44" alt="Cancel a new insurance policy within the cooling-off period"><br><sub><b>Cancel a new insurance policy within the cooling-off period</b></sub><br><sub><code>policy-cooling-off-cancellation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/jewellery-valuation-request.svg" width="44" height="44" alt="Ask a jeweller for a valuation for insurance"><br><sub><b>Ask a jeweller for a valuation for insurance</b></sub><br><sub><code>jewellery-valuation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/unoccupied-home-insurer-notice.svg" width="44" height="44" alt="Tell your home insurer the house will be empty for a while"><br><sub><b>Tell your home insurer the house will be empty for a while</b></sub><br><sub><code>unoccupied-home-insurer-notice</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Banking, debt and credit
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages for your bank, for people you owe, for people who owe you, and for credit records.
 
@@ -75,6 +75,19 @@ Letters and messages for your bank, for people you owe, for people who owe you, 
 <td align="center" width="16%"><img src="../svg/mark/bank-support-needs-note.svg" width="44" height="44" alt="Tell your bank what support you need"><br><sub><b>Tell your bank what support you need</b></sub><br><sub><code>bank-support-needs-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/scam-payment-recovery-request.svg" width="44" height="44" alt="Report a scam payment and ask for help getting it back"><br><sub><b>Report a scam payment and ask for help getting it back</b></sub><br><sub><code>scam-payment-recovery-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/money-paid-in-by-mistake-report.svg" width="44" height="44" alt="Tell your bank money arrived in your account by mistake"><br><sub><b>Tell your bank money arrived in your account by mistake</b></sub><br><sub><code>money-paid-in-by-mistake-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/frozen-account-explanation-request.svg" width="44" height="44" alt="Ask your bank why your account has been frozen"><br><sub><b>Ask your bank why your account has been frozen</b></sub><br><sub><code>frozen-account-explanation-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/cash-deposit-missing-query.svg" width="44" height="44" alt="Ask your bank to trace a cash deposit not shown in your account"><br><sub><b>Ask your bank to trace a cash deposit not shown in your account</b></sub><br><sub><code>cash-deposit-missing-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guarantor-release-request.svg" width="44" height="44" alt="Ask a lender whether you can be released as a guarantor"><br><sub><b>Ask a lender whether you can be released as a guarantor</b></sub><br><sub><code>guarantor-release-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/debt-sold-proof-request.svg" width="44" height="44" alt="Ask a new company for proof after your debt was sold to them"><br><sub><b>Ask a new company for proof after your debt was sold to them</b></sub><br><sub><code>debt-sold-proof-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/card-declined-abroad-query.svg" width="44" height="44" alt="Ask your bank why your card was declined while abroad"><br><sub><b>Ask your bank why your card was declined while abroad</b></sub><br><sub><code>card-declined-abroad-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/recurring-card-payment-stop-request.svg" width="44" height="44" alt="Ask your bank to stop a recurring payment taken from your card"><br><sub><b>Ask your bank to stop a recurring payment taken from your card</b></sub><br><sub><code>recurring-card-payment-stop-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/credit-agreement-copy-request.svg" width="44" height="44" alt="Ask a lender for a copy of your credit agreement"><br><sub><b>Ask a lender for a copy of your credit agreement</b></sub><br><sub><code>credit-agreement-copy-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/bank-switch-problem-query.svg" width="44" height="44" alt="Raise a problem after switching your bank account"><br><sub><b>Raise a problem after switching your bank account</b></sub><br><sub><code>bank-switch-problem-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/joint-account-holder-add-request.svg" width="44" height="44" alt="Ask your bank to add a second person to your account"><br><sub><b>Ask your bank to add a second person to your account</b></sub><br><sub><code>joint-account-holder-add-request</code></sub></td>
 </tr>
 </table>
 

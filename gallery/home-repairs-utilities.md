@@ -1,6 +1,6 @@
 # Home repairs and utilities
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Utility accounts, outages, bills, contractors, warranty and planning matters for the home.
 
@@ -75,6 +75,19 @@ Utility accounts, outages, bills, contractors, warranty and planning matters for
 <td align="center" width="16%"><img src="../svg/mark/repair-time-window-request.svg" width="44" height="44" alt="Ask for a repair slot that fits your day"><br><sub><b>Ask for a repair slot that fits your day</b></sub><br><sub><code>repair-time-window-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/communal-light-broken-report.svg" width="44" height="44" alt="Report a broken light in a shared hallway or stairs"><br><sub><b>Report a broken light in a shared hallway or stairs</b></sub><br><sub><code>communal-light-broken-report</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/frozen-pipe-emergency-report.svg" width="44" height="44" alt="Report a frozen or burst pipe in an emergency"><br><sub><b>Report a frozen or burst pipe in an emergency</b></sub><br><sub><code>frozen-pipe-emergency-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-access-for-repair-request.svg" width="44" height="44" alt="Ask a neighbour for access to do a repair"><br><sub><b>Ask a neighbour for access to do a repair</b></sub><br><sub><code>neighbour-access-for-repair-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tradesperson-deposit-refund-request.svg" width="44" height="44" alt="Ask a tradesperson to return your deposit"><br><sub><b>Ask a tradesperson to return your deposit</b></sub><br><sub><code>tradesperson-deposit-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/appliance-repair-booking.svg" width="44" height="44" alt="Book a repair for a broken home appliance"><br><sub><b>Book a repair for a broken home appliance</b></sub><br><sub><code>appliance-repair-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/energy-insulation-survey-booking.svg" width="44" height="44" alt="Book a home energy or insulation survey"><br><sub><b>Book a home energy or insulation survey</b></sub><br><sub><code>energy-insulation-survey-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/locksmith-lock-change-booking.svg" width="44" height="44" alt="Book a locksmith to change your locks"><br><sub><b>Book a locksmith to change your locks</b></sub><br><sub><code>locksmith-lock-change-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/outside-drain-smell-report.svg" width="44" height="44" alt="Report a bad smell coming from an outside drain"><br><sub><b>Report a bad smell coming from an outside drain</b></sub><br><sub><code>outside-drain-smell-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tree-work-quote-request.svg" width="44" height="44" alt="Ask a tree surgeon for a quote to cut back a tree"><br><sub><b>Ask a tree surgeon for a quote to cut back a tree</b></sub><br><sub><code>tree-work-quote-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/credit-balance-refund-request.svg" width="44" height="44" alt="Ask an energy or water supplier to refund your credit balance"><br><sub><b>Ask an energy or water supplier to refund your credit balance</b></sub><br><sub><code>credit-balance-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wasp-nest-removal-booking.svg" width="44" height="44" alt="Book someone to remove a wasp nest at your home"><br><sub><b>Book someone to remove a wasp nest at your home</b></sub><br><sub><code>wasp-nest-removal-booking</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Small claims and everyday legal
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Plain letters and notes for everyday disputes: getting ready for small claims, settling, mediation, contracts and talking to a lawyer, with no legal advice.
 
@@ -67,6 +67,22 @@ Plain letters and notes for everyday disputes: getting ready for small claims, s
 <td align="center" width="16%"><img src="../svg/mark/settlement-first-offer.svg" width="44" height="44" alt="Make an offer to settle a dispute before it goes to court"><br><sub><b>Make an offer to settle a dispute before it goes to court</b></sub><br><sub><code>settlement-first-offer</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/hearing-day-checklist.svg" width="44" height="44" alt="Checklist of what to bring and do on your hearing day"><br><sub><b>Checklist of what to bring and do on your hearing day</b></sub><br><sub><code>hearing-day-checklist</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/claim-settled-receipt.svg" width="44" height="44" alt="Confirm in writing that a debt or claim has been paid in full"><br><sub><b>Confirm in writing that a debt or claim has been paid in full</b></sub><br><sub><code>claim-settled-receipt</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/final-payment-request-before-claim.svg" width="44" height="44" alt="Final request for payment before you start a small claim"><br><sub><b>Final request for payment before you start a small claim</b></sub><br><sub><code>final-payment-request-before-claim</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/claim-filed-notice.svg" width="44" height="44" alt="Tell the other side you have started a small claim"><br><sub><b>Tell the other side you have started a small claim</b></sub><br><sub><code>claim-filed-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/final-response-request.svg" width="44" height="44" alt="Ask a company for its final answer to your complaint"><br><sub><b>Ask a company for its final answer to your complaint</b></sub><br><sub><code>final-response-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/repair-quote-for-claim.svg" width="44" height="44" alt="Ask a repairer for a written quote to support your claim"><br><sub><b>Ask a repairer for a written quote to support your claim</b></sub><br><sub><code>repair-quote-for-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/evidence-exchange-request.svg" width="44" height="44" alt="Ask the other side to share their evidence before the hearing"><br><sub><b>Ask the other side to share their evidence before the hearing</b></sub><br><sub><code>evidence-exchange-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/agreed-facts-proposal.svg" width="44" height="44" alt="Suggest to the other side which facts you both agree on"><br><sub><b>Suggest to the other side which facts you both agree on</b></sub><br><sub><code>agreed-facts-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/settlement-offer-withdrawal.svg" width="44" height="44" alt="Withdraw an offer to settle that was not accepted"><br><sub><b>Withdraw an offer to settle that was not accepted</b></sub><br><sub><code>settlement-offer-withdrawal</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/dispute-hold-on-charges.svg" width="44" height="44" alt="Ask a company to pause charges while a dispute is open"><br><sub><b>Ask a company to pause charges while a dispute is open</b></sub><br><sub><code>dispute-hold-on-charges</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/court-papers-received-acknowledgement.svg" width="44" height="44" alt="Confirm you have received papers from the other side"><br><sub><b>Confirm you have received papers from the other side</b></sub><br><sub><code>court-papers-received-acknowledgement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/court-fee-help-cover-note.svg" width="44" height="44" alt="Cover note for a request for help with court fees"><br><sub><b>Cover note for a request for help with court fees</b></sub><br><sub><code>court-fee-help-cover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/independent-report-request.svg" width="44" height="44" alt="Ask an expert for a written report on a damaged item or job"><br><sub><b>Ask an expert for a written report on a damaged item or job</b></sub><br><sub><code>independent-report-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/court-order-copy-request.svg" width="44" height="44" alt="Ask the court for a copy of an order or judgment"><br><sub><b>Ask the court for a copy of an order or judgment</b></sub><br><sub><code>court-order-copy-request</code></sub></td>
 </tr>
 </table>
 

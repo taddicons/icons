@@ -1,6 +1,6 @@
 # Official letters, Portugal
 
-<sub>Taddicons 2.2.0 · Documents & messages · 72 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 72 icons</sub>
 
 The official letters people in Portugal most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities, school and neighbours, written in correct European Portuguese.
 

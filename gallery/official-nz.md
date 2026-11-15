@@ -1,6 +1,6 @@
 # Official letters, New Zealand
 
-<sub>Taddicons 2.2.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 73 icons</sub>
 
 The official letters people in New Zealand most often need: tenancy, work, tax and banks, insurance and ACC, consumer rights, authorities, family and neighbours, written in New Zealand English.
 

@@ -1,6 +1,6 @@
 # Press and public voice
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Talking to journalists, editors and the public: pitches, corrections, statements and letters to the editor.
 
@@ -75,6 +75,19 @@ Talking to journalists, editors and the public: pitches, corrections, statements
 <td align="center" width="16%"><img src="../svg/mark/own-correction-post.svg" width="44" height="44" alt="Post a correction to your own earlier post"><br><sub><b>Post a correction to your own earlier post</b></sub><br><sub><code>own-correction-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/follow-up-facts-to-reporter.svg" width="44" height="44" alt="Send a reporter more facts after your interview"><br><sub><b>Send a reporter more facts after your interview</b></sub><br><sub><code>follow-up-facts-to-reporter</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/school-news-for-local-paper.svg" width="44" height="44" alt="Send school news to the local paper"><br><sub><b>Send school news to the local paper</b></sub><br><sub><code>school-news-for-local-paper</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-photo-names-captions.svg" width="44" height="44" alt="Send a paper the names and captions for your photos"><br><sub><b>Send a paper the names and captions for your photos</b></sub><br><sub><code>press-photo-names-captions</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/press-fundraiser-coverage-pitch.svg" width="44" height="44" alt="Ask a paper to cover your fundraising appeal"><br><sub><b>Ask a paper to cover your fundraising appeal</b></sub><br><sub><code>press-fundraiser-coverage-pitch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-ask-when-story-runs.svg" width="44" height="44" alt="Ask a reporter when the story will run"><br><sub><b>Ask a reporter when the story will run</b></sub><br><sub><code>press-ask-when-story-runs</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-new-media-contact.svg" width="44" height="44" alt="Tell reporters you have a new media contact"><br><sub><b>Tell reporters you have a new media contact</b></sub><br><sub><code>press-new-media-contact</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-request-interview-copy.svg" width="44" height="44" alt="Ask a broadcaster for a copy of your interview"><br><sub><b>Ask a broadcaster for a copy of your interview</b></sub><br><sub><code>press-request-interview-copy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-appointment-news-release.svg" width="44" height="44" alt="News release announcing a new team member or appointment"><br><sub><b>News release announcing a new team member or appointment</b></sub><br><sub><code>new-appointment-news-release</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/anonymity-request-to-reporter.svg" width="44" height="44" alt="Ask a reporter not to name you in their story"><br><sub><b>Ask a reporter not to name you in their story</b></sub><br><sub><code>anonymity-request-to-reporter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/guest-column-pitch-newsletter.svg" width="44" height="44" alt="Pitch a guest column to a newsletter or community magazine"><br><sub><b>Pitch a guest column to a newsletter or community magazine</b></sub><br><sub><code>guest-column-pitch-newsletter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reporter-deadline-check.svg" width="44" height="44" alt="Check a reporter's deadline before you answer their questions"><br><sub><b>Check a reporter's deadline before you answer their questions</b></sub><br><sub><code>reporter-deadline-check</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Photographers, filmmakers and clients
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Briefs, quotes, shoot plans, permissions, delivery, revisions and festival entries for people who make photos and films and the people who hire them.
 
@@ -75,6 +75,19 @@ Briefs, quotes, shoot plans, permissions, delivery, revisions and festival entri
 <td align="center" width="16%"><img src="../svg/mark/client-referral-thank-you.svg" width="44" height="44" alt="Thank a client who recommended you"><br><sub><b>Thank a client who recommended you</b></sub><br><sub><code>client-referral-thank-you</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/video-interview-prep-note.svg" width="44" height="44" alt="Help a client get ready to be filmed"><br><sub><b>Help a client get ready to be filmed</b></sub><br><sub><code>video-interview-prep-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/photo-print-order-offer.svg" width="44" height="44" alt="Offer a client prints and products from their shoot"><br><sub><b>Offer a client prints and products from their shoot</b></sub><br><sub><code>photo-print-order-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/photo-gallery-closing-reminder.svg" width="44" height="44" alt="Remind a client their online gallery closes soon"><br><sub><b>Remind a client their online gallery closes soon</b></sub><br><sub><code>photo-gallery-closing-reminder</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/photo-second-shooter-brief.svg" width="44" height="44" alt="Brief a second shooter before an event"><br><sub><b>Brief a second shooter before an event</b></sub><br><sub><code>photo-second-shooter-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/photo-gear-rental-booking.svg" width="44" height="44" alt="Book camera gear from a rental shop"><br><sub><b>Book camera gear from a rental shop</b></sub><br><sub><code>photo-gear-rental-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/photo-mini-sessions-post.svg" width="44" height="44" alt="Announce seasonal mini sessions"><br><sub><b>Announce seasonal mini sessions</b></sub><br><sub><code>photo-mini-sessions-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/photo-print-order-confirm.svg" width="44" height="44" alt="Confirm a client's print order"><br><sub><b>Confirm a client's print order</b></sub><br><sub><code>photo-print-order-confirm</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/social-sharing-permission-ask.svg" width="44" height="44" alt="Ask a client if you may share their photos on social media"><br><sub><b>Ask a client if you may share their photos on social media</b></sub><br><sub><code>social-sharing-permission-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-photo-session-prep-note.svg" width="44" height="44" alt="Help a client get ready for a pet photo session"><br><sub><b>Help a client get ready for a pet photo session</b></sub><br><sub><code>pet-photo-session-prep-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/past-client-anniversary-session-offer.svg" width="44" height="44" alt="Offer a past client an anniversary photo session"><br><sub><b>Offer a past client an anniversary photo session</b></sub><br><sub><code>past-client-anniversary-session-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/newborn-session-prep-note.svg" width="44" height="44" alt="Help new parents get ready for a newborn photo session"><br><sub><b>Help new parents get ready for a newborn photo session</b></sub><br><sub><code>newborn-session-prep-note</code></sub></td>
 </tr>
 </table>
 

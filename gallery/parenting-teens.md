@@ -1,6 +1,6 @@
 # Parenting and teenagers
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes to and about teens: house rules, school, driving, jobs, hard talks, apologies, trust and consequences.
 
@@ -75,6 +75,19 @@ Notes to and about teens: house rules, school, driving, jobs, hard talks, apolog
 <td align="center" width="16%"><img src="../svg/mark/teen-explains-grounding-felt-unfair.svg" width="44" height="44" alt="Tell your parents calmly that a punishment feels unfair"><br><sub><b>Tell your parents calmly that a punishment feels unfair</b></sub><br><sub><code>teen-explains-grounding-felt-unfair</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/teen-asks-to-go-to-a-concert.svg" width="44" height="44" alt="Ask your parents to let you go to a concert with friends"><br><sub><b>Ask your parents to let you go to a concert with friends</b></sub><br><sub><code>teen-asks-to-go-to-a-concert</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-teen-to-join-family-dinner.svg" width="44" height="44" alt="Invite your teenager to eat with the family more often"><br><sub><b>Invite your teenager to eat with the family more often</b></sub><br><sub><code>ask-teen-to-join-family-dinner</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-tidy-room-request.svg" width="44" height="44" alt="Ask your teenager to tidy their room"><br><sub><b>Ask your teenager to tidy their room</b></sub><br><sub><code>teen-tidy-room-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/teen-asks-friends-over.svg" width="44" height="44" alt="Teenager asks to have friends over"><br><sub><b>Teenager asks to have friends over</b></sub><br><sub><code>teen-asks-friends-over</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-coach-check-in.svg" width="44" height="44" alt="Ask a coach how your teenager is doing"><br><sub><b>Ask a coach how your teenager is doing</b></sub><br><sub><code>teen-coach-check-in</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-spending-budget-plan.svg" width="44" height="44" alt="Set up a spending budget with your teenager"><br><sub><b>Set up a spending budget with your teenager</b></sub><br><sub><code>teen-spending-budget-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-family-trip-planning.svg" width="44" height="44" alt="Invite your teenager to help plan a family trip"><br><sub><b>Invite your teenager to help plan a family trip</b></sub><br><sub><code>teen-family-trip-planning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/family-car-rules-for-teen.svg" width="44" height="44" alt="Set rules for a teen driving the family car"><br><sub><b>Set rules for a teen driving the family car</b></sub><br><sub><code>family-car-rules-for-teen</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-sports-tryout-support-note.svg" width="44" height="44" alt="Encourage your teen before a sports trial"><br><sub><b>Encourage your teen before a sports trial</b></sub><br><sub><code>teen-sports-tryout-support-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/teen-shared-bathroom-rota.svg" width="44" height="44" alt="Set a morning bathroom rota for teens who share"><br><sub><b>Set a morning bathroom rota for teens who share</b></sub><br><sub><code>teen-shared-bathroom-rota</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-moving-out-for-university-letter.svg" width="44" height="44" alt="A letter to your teen as they leave for university"><br><sub><b>A letter to your teen as they leave for university</b></sub><br><sub><code>teen-moving-out-for-university-letter</code></sub></td>
 </tr>
 </table>
 

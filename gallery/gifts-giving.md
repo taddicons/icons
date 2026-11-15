@@ -1,6 +1,6 @@
 # Gifts and giving
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Notes to go with gifts, thank-yous, kind ways to say no or return a gift, group collections, work gifts and gifts to charity.
 
@@ -75,6 +75,19 @@ Notes to go with gifts, thank-yous, kind ways to say no or return a gift, group 
 <td align="center" width="16%"><img src="../svg/mark/tell-giver-gift-has-been-passed-on.svg" width="44" height="44" alt="Tell a giver you passed their gift on"><br><sub><b>Tell a giver you passed their gift on</b></sub><br><sub><code>tell-giver-gift-has-been-passed-on</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/welcome-gift-for-new-neighbour.svg" width="44" height="44" alt="Note with a welcome gift for a new neighbour"><br><sub><b>Note with a welcome gift for a new neighbour</b></sub><br><sub><code>welcome-gift-for-new-neighbour</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/colleague-leaving-gift-note.svg" width="44" height="44" alt="Note with a gift for a colleague who is leaving"><br><sub><b>Note with a gift for a colleague who is leaving</b></sub><br><sub><code>colleague-leaving-gift-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-baby-gift-note.svg" width="44" height="44" alt="Note to go with a gift for a new baby"><br><sub><b>Note to go with a gift for a new baby</b></sub><br><sub><code>new-baby-gift-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/retirement-gift-note.svg" width="44" height="44" alt="Note to go with a retirement gift"><br><sub><b>Note to go with a retirement gift</b></sub><br><sub><code>retirement-gift-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-job-gift-note.svg" width="44" height="44" alt="Note to go with a gift for someone starting a new job"><br><sub><b>Note to go with a gift for someone starting a new job</b></sub><br><sub><code>new-job-gift-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mentor-gift-note.svg" width="44" height="44" alt="Note to go with a thank-you gift for a mentor"><br><sub><b>Note to go with a thank-you gift for a mentor</b></sub><br><sub><code>mentor-gift-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/graduation-gift-note.svg" width="44" height="44" alt="Note to go with a graduation gift"><br><sub><b>Note to go with a graduation gift</b></sub><br><sub><code>graduation-gift-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-giver-for-gift-receipt.svg" width="44" height="44" alt="Ask the giver for a gift receipt to swap a size"><br><sub><b>Ask the giver for a gift receipt to swap a size</b></sub><br><sub><code>ask-giver-for-gift-receipt</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-shop-gift-never-arrived.svg" width="44" height="44" alt="Tell the shop a gift you sent never arrived"><br><sub><b>Tell the shop a gift you sent never arrived</b></sub><br><sub><code>tell-shop-gift-never-arrived</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/engagement-gift-note.svg" width="44" height="44" alt="Write a note to go with an engagement gift"><br><sub><b>Write a note to go with an engagement gift</b></sub><br><sub><code>engagement-gift-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/experience-gift-note.svg" width="44" height="44" alt="Write a note to go with an experience gift"><br><sub><b>Write a note to go with an experience gift</b></sub><br><sub><code>experience-gift-note</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Nonprofits and volunteering
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Charities, volunteers and community groups: asking for help, thanking and reporting.
 
@@ -75,6 +75,19 @@ Charities, volunteers and community groups: asking for help, thanking and report
 <td align="center" width="16%"><img src="../svg/mark/volunteer-training-invitation.svg" width="44" height="44" alt="Invite volunteers to a training session"><br><sub><b>Invite volunteers to a training session</b></sub><br><sub><code>volunteer-training-invitation</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/charity-anniversary-post.svg" width="44" height="44" alt="Post marking the charity's anniversary"><br><sub><b>Post marking the charity's anniversary</b></sub><br><sub><code>charity-anniversary-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/volunteer-conflict-gentle-note.svg" width="44" height="44" alt="Gentle note to two volunteers who are not getting on"><br><sub><b>Gentle note to two volunteers who are not getting on</b></sub><br><sub><code>volunteer-conflict-gentle-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-aid-declaration-reminder.svg" width="44" height="44" alt="Remind a UK donor to fill in a Gift Aid declaration"><br><sub><b>Remind a UK donor to fill in a Gift Aid declaration</b></sub><br><sub><code>gift-aid-declaration-reminder</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-hours-milestone-thanks.svg" width="44" height="44" alt="Thank a volunteer for reaching a milestone in hours given"><br><sub><b>Thank a volunteer for reaching a milestone in hours given</b></sub><br><sub><code>volunteer-hours-milestone-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/grant-deadline-extension-request.svg" width="44" height="44" alt="Ask a funder for more time to submit a grant report or application"><br><sub><b>Ask a funder for more time to submit a grant report or application</b></sub><br><sub><code>grant-deadline-extension-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/board-skills-audit-request.svg" width="44" height="44" alt="Ask trustees to fill in a board skills audit"><br><sub><b>Ask trustees to fill in a board skills audit</b></sub><br><sub><code>board-skills-audit-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/donor-details-update-request.svg" width="44" height="44" alt="Ask a supporter to check and update the details you hold about them"><br><sub><b>Ask a supporter to check and update the details you hold about them</b></sub><br><sub><code>donor-details-update-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-gift-in-memory-thanks.svg" width="44" height="44" alt="Thank a family for gifts given in memory of a loved one"><br><sub><b>Thank a family for gifts given in memory of a loved one</b></sub><br><sub><code>charity-gift-in-memory-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/donation-refund-request-reply.svg" width="44" height="44" alt="Reply to a donor who asks for a donation back"><br><sub><b>Reply to a donor who asks for a donation back</b></sub><br><sub><code>donation-refund-request-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/supporter-mailing-list-welcome.svg" width="44" height="44" alt="Welcome a new supporter to your charity mailing list"><br><sub><b>Welcome a new supporter to your charity mailing list</b></sub><br><sub><code>supporter-mailing-list-welcome</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/referral-to-partner-charity.svg" width="44" height="44" alt="Refer someone you support to a partner charity"><br><sub><b>Refer someone you support to a partner charity</b></sub><br><sub><code>referral-to-partner-charity</code></sub></td>
 </tr>
 </table>
 

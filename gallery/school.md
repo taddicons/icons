@@ -1,6 +1,6 @@
 # School and learning
 
-<sub>Taddicons 2.2.0 · Documents & messages · 44 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 74 icons</sub>
 
 For students, parents and teachers.
 
@@ -64,6 +64,46 @@ For students, parents and teachers.
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/school-carpool-ask-message.svg" width="44" height="44" alt="Ask other parents about a school carpool"><br><sub><b>Ask other parents about a school carpool</b></sub><br><sub><code>school-carpool-ask-message</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/leave-club-or-team-message.svg" width="44" height="44" alt="Tell a club or team you are leaving"><br><sub><b>Tell a club or team you are leaving</b></sub><br><sub><code>leave-club-or-team-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/term-time-holiday-request.svg" width="44" height="44" alt="Ask the school for time off during term"><br><sub><b>Ask the school for time off during term</b></sub><br><sub><code>term-time-holiday-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-pupil-intro-to-teacher.svg" width="44" height="44" alt="Introduce your child to a new teacher"><br><sub><b>Introduce your child to a new teacher</b></sub><br><sub><code>new-pupil-intro-to-teacher</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-council-campaign-speech.svg" width="44" height="44" alt="Student council campaign speech"><br><sub><b>Student council campaign speech</b></sub><br><sub><code>student-council-campaign-speech</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/financial-aid-appeal-letter.svg" width="44" height="44" alt="Ask a college to review your financial aid"><br><sub><b>Ask a college to review your financial aid</b></sub><br><sub><code>financial-aid-appeal-letter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/waitlist-continued-interest-letter.svg" width="44" height="44" alt="Tell a waitlist you are still interested"><br><sub><b>Tell a waitlist you are still interested</b></sub><br><sub><code>waitlist-continued-interest-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-performance-invitation.svg" width="44" height="44" alt="Invite family to a school play or concert"><br><sub><b>Invite family to a school play or concert</b></sub><br><sub><code>school-performance-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-fee-refund-request.svg" width="44" height="44" alt="Ask a school for a refund of fees"><br><sub><b>Ask a school for a refund of fees</b></sub><br><sub><code>school-fee-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lab-report.svg" width="44" height="44" alt="Science lab report"><br><sub><b>Science lab report</b></sub><br><sub><code>lab-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/child-wellbeing-concern-to-school.svg" width="44" height="44" alt="Tell the school you are worried about your child"><br><sub><b>Tell the school you are worried about your child</b></sub><br><sub><code>child-wellbeing-concern-to-school</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-university-offer.svg" width="44" height="44" alt="Turn down a university or college offer"><br><sub><b>Turn down a university or college offer</b></sub><br><sub><code>decline-university-offer</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/exam-remark-request.svg" width="44" height="44" alt="Ask for an exam to be re-marked"><br><sub><b>Ask for an exam to be re-marked</b></sub><br><sub><code>exam-remark-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/yearbook-message.svg" width="44" height="44" alt="Yearbook or leavers' book message"><br><sub><b>Yearbook or leavers' book message</b></sub><br><sub><code>yearbook-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/personal-tutor-check-in-email.svg" width="44" height="44" alt="Check in with your university personal tutor"><br><sub><b>Check in with your university personal tutor</b></sub><br><sub><code>personal-tutor-check-in-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-textbook-replacement-note.svg" width="44" height="44" alt="Tell school a textbook was lost or damaged"><br><sub><b>Tell school a textbook was lost or damaged</b></sub><br><sub><code>lost-textbook-replacement-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/return-to-school-after-illness-note.svg" width="44" height="44" alt="Plan your child's return after illness"><br><sub><b>Plan your child's return after illness</b></sub><br><sub><code>return-to-school-after-illness-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-debate-opening-speech.svg" width="44" height="44" alt="Opening speech for a class debate"><br><sub><b>Opening speech for a class debate</b></sub><br><sub><code>class-debate-opening-speech</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/science-fair-project-summary.svg" width="44" height="44" alt="Science fair project summary"><br><sub><b>Science fair project summary</b></sub><br><sub><code>science-fair-project-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/book-donation-offer-to-school.svg" width="44" height="44" alt="Offer to donate books to a school"><br><sub><b>Offer to donate books to a school</b></sub><br><sub><code>book-donation-offer-to-school</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/online-class-tech-problem-note.svg" width="44" height="44" alt="Tell a teacher a tech problem stopped your work"><br><sub><b>Tell a teacher a tech problem stopped your work</b></sub><br><sub><code>online-class-tech-problem-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thesis-defence-invitation.svg" width="44" height="44" alt="Invite people to your thesis defence"><br><sub><b>Invite people to your thesis defence</b></sub><br><sub><code>thesis-defence-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/apology-to-classmate-message.svg" width="44" height="44" alt="Say sorry to a classmate"><br><sub><b>Say sorry to a classmate</b></sub><br><sub><code>apology-to-classmate-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-party-contribution-ask.svg" width="44" height="44" alt="Ask parents to help with a class party"><br><sub><b>Ask parents to help with a class party</b></sub><br><sub><code>class-party-contribution-ask</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/exam-day-checklist-for-parents.svg" width="44" height="44" alt="Exam day checklist for parents"><br><sub><b>Exam day checklist for parents</b></sub><br><sub><code>exam-day-checklist-for-parents</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/late-to-school-note.svg" width="44" height="44" alt="Explain why your child was late to school"><br><sub><b>Explain why your child was late to school</b></sub><br><sub><code>late-to-school-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-photo-order-query.svg" width="44" height="44" alt="Ask about a school photo order"><br><sub><b>Ask about a school photo order</b></sub><br><sub><code>school-photo-order-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-experience-thank-you-letter.svg" width="44" height="44" alt="Thank an employer for work experience"><br><sub><b>Thank an employer for work experience</b></sub><br><sub><code>work-experience-thank-you-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-subject-choice-question.svg" width="44" height="44" alt="Ask the school about subject choices"><br><sub><b>Ask the school about subject choices</b></sub><br><sub><code>school-subject-choice-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-trip-thank-you-to-teacher.svg" width="44" height="44" alt="Thank a teacher for running a school trip"><br><sub><b>Thank a teacher for running a school trip</b></sub><br><sub><code>school-trip-thank-you-to-teacher</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/prefect-application-letter.svg" width="44" height="44" alt="Apply to be a prefect or school leader"><br><sub><b>Apply to be a prefect or school leader</b></sub><br><sub><code>prefect-application-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/after-school-club-session-cancelled.svg" width="44" height="44" alt="Tell parents an after-school club is cancelled"><br><sub><b>Tell parents an after-school club is cancelled</b></sub><br><sub><code>after-school-club-session-cancelled</code></sub></td>
 </tr>
 </table>
 

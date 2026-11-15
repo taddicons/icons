@@ -1,6 +1,6 @@
 # Mental health and support
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Gentle words for asking for help, checking in on others, therapy and work logistics, boundaries and recovery, without diagnosing anyone.
 
@@ -75,6 +75,19 @@ Gentle words for asking for help, checking in on others, therapy and work logist
 <td align="center" width="16%"><img src="../svg/mark/kind-letter-to-yourself-bad-day.svg" width="44" height="44" alt="A kind letter to yourself on a hard day"><br><sub><b>A kind letter to yourself on a hard day</b></sub><br><sub><code>kind-letter-to-yourself-bad-day</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/welcome-back-colleague-after-leave.svg" width="44" height="44" alt="Welcome a colleague back after time off for their health"><br><sub><b>Welcome a colleague back after time off for their health</b></sub><br><sub><code>welcome-back-colleague-after-leave</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-family-to-stop-pressuring-recovery.svg" width="44" height="44" alt="Ask family to stop pushing you to recover faster"><br><sub><b>Ask family to stop pushing you to recover faster</b></sub><br><sub><code>ask-family-to-stop-pressuring-recovery</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/therapy-waitlist-status-enquiry.svg" width="44" height="44" alt="Ask a talking therapy service where you are on the waiting list"><br><sub><b>Ask a talking therapy service where you are on the waiting list</b></sub><br><sub><code>therapy-waitlist-status-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/counsellor-confidentiality-question.svg" width="44" height="44" alt="Ask a counsellor what they keep private and when they would share"><br><sub><b>Ask a counsellor what they keep private and when they would share</b></sub><br><sub><code>counsellor-confidentiality-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/share-small-win-with-friend.svg" width="44" height="44" alt="Tell a supportive friend about a small win on a hard day"><br><sub><b>Tell a supportive friend about a small win on a hard day</b></sub><br><sub><code>share-small-win-with-friend</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mental-health-records-copy-request.svg" width="44" height="44" alt="Ask a clinic or doctor for a copy of your mental health records"><br><sub><b>Ask a clinic or doctor for a copy of your mental health records</b></sub><br><sub><code>mental-health-records-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-friend-you-started-therapy.svg" width="44" height="44" alt="Tell a close friend you have started therapy"><br><sub><b>Tell a close friend you have started therapy</b></sub><br><sub><code>tell-friend-you-started-therapy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/consent-to-share-notes-with-counsellor.svg" width="44" height="44" alt="Give your doctor permission to share notes with your counsellor"><br><sub><b>Give your doctor permission to share notes with your counsellor</b></sub><br><sub><code>consent-to-share-notes-with-counsellor</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-friend-for-a-walk-and-talk.svg" width="44" height="44" alt="Invite a friend for a walk when you need to talk"><br><sub><b>Invite a friend for a walk when you need to talk</b></sub><br><sub><code>invite-friend-for-a-walk-and-talk</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/support-group-first-visit-question.svg" width="44" height="44" alt="Ask a support group what to expect before your first visit"><br><sub><b>Ask a support group what to expect before your first visit</b></sub><br><sub><code>support-group-first-visit-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-partner-to-come-to-appointment.svg" width="44" height="44" alt="Ask your partner to come with you to a health appointment"><br><sub><b>Ask your partner to come with you to a health appointment</b></sub><br><sub><code>ask-partner-to-come-to-appointment</code></sub></td>
 </tr>
 </table>
 

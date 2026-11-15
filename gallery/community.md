@@ -1,6 +1,6 @@
 # Community and clubs
 
-<sub>Taddicons 2.2.0 · Documents & messages · 93 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 93 icons</sub>
 
 Clubs, teams, neighbours, volunteers and causes.
 

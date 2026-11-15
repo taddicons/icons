@@ -1,6 +1,6 @@
 # Health and care
 
-<sub>Taddicons 2.2.0 · Documents & messages · 46 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 76 icons</sub>
 
 Doctors, records, insurance and caring for someone.
 
@@ -66,6 +66,46 @@ Doctors, records, insurance and caring for someone.
 <td align="center" width="16%"><img src="../svg/mark/ask-to-postpone-a-procedure.svg" width="44" height="44" alt="Ask to move a planned procedure to a later date"><br><sub><b>Ask to move a planned procedure to a later date</b></sub><br><sub><code>ask-to-postpone-a-procedure</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-for-vaccination-record-for-school-or-travel.svg" width="44" height="44" alt="Ask a clinic for a copy of your vaccination record"><br><sub><b>Ask a clinic for a copy of your vaccination record</b></sub><br><sub><code>ask-for-vaccination-record-for-school-or-travel</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-where-you-are-on-a-waiting-list.svg" width="44" height="44" alt="Ask where you are on a waiting list"><br><sub><b>Ask where you are on a waiting list</b></sub><br><sub><code>ask-where-you-are-on-a-waiting-list</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-fitness-instructor-about-health-condition.svg" width="44" height="44" alt="Tell a fitness instructor about a health condition"><br><sub><b>Tell a fitness instructor about a health condition</b></sub><br><sub><code>tell-fitness-instructor-about-health-condition</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-pharmacy-for-weekly-pill-pack.svg" width="44" height="44" alt="Ask the pharmacy to pack medicines by day of the week"><br><sub><b>Ask the pharmacy to pack medicines by day of the week</b></sub><br><sub><code>ask-pharmacy-for-weekly-pill-pack</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-optician-for-prescription-copy.svg" width="44" height="44" alt="Ask the optician for a copy of your glasses prescription"><br><sub><b>Ask the optician for a copy of your glasses prescription</b></sub><br><sub><code>ask-optician-for-prescription-copy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/register-as-new-patient-at-clinic.svg" width="44" height="44" alt="Ask to register as a new patient at a clinic"><br><sub><b>Ask to register as a new patient at a clinic</b></sub><br><sub><code>register-as-new-patient-at-clinic</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-dentist-about-dental-anxiety.svg" width="44" height="44" alt="Tell the dentist you feel anxious about treatment"><br><sub><b>Tell the dentist you feel anxious about treatment</b></sub><br><sub><code>tell-dentist-about-dental-anxiety</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-clinic-for-text-reminders.svg" width="44" height="44" alt="Ask the clinic to send appointment reminders by text"><br><sub><b>Ask the clinic to send appointment reminders by text</b></sub><br><sub><code>ask-clinic-for-text-reminders</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-visitors-to-wait-while-recovering.svg" width="44" height="44" alt="Ask friends to wait before visiting while you recover"><br><sub><b>Ask friends to wait before visiting while you recover</b></sub><br><sub><code>ask-visitors-to-wait-while-recovering</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-coach-about-childs-health-need.svg" width="44" height="44" alt="Tell a sports coach about your child's health need"><br><sub><b>Tell a sports coach about your child's health need</b></sub><br><sub><code>tell-coach-about-childs-health-need</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/allow-relative-to-speak-to-clinic.svg" width="44" height="44" alt="Let the clinic talk to a relative about your care"><br><sub><b>Let the clinic talk to a relative about your care</b></sub><br><sub><code>allow-relative-to-speak-to-clinic</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-chaperone-at-appointment.svg" width="44" height="44" alt="Ask for a chaperone at a medical appointment"><br><sub><b>Ask for a chaperone at a medical appointment</b></sub><br><sub><code>ask-for-chaperone-at-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-help-with-health-forms.svg" width="44" height="44" alt="Ask a family member to help you fill in health forms"><br><sub><b>Ask a family member to help you fill in health forms</b></sub><br><sub><code>ask-for-help-with-health-forms</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/report-lost-prescription.svg" width="44" height="44" alt="Tell the clinic you have lost a prescription"><br><sub><b>Tell the clinic you have lost a prescription</b></sub><br><sub><code>report-lost-prescription</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-pharmacy-for-liquid-medicine.svg" width="44" height="44" alt="Ask the pharmacy if a medicine comes in a form easier to swallow"><br><sub><b>Ask the pharmacy if a medicine comes in a form easier to swallow</b></sub><br><sub><code>ask-pharmacy-for-liquid-medicine</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-pharmacy-about-returning-old-medicine.svg" width="44" height="44" alt="Ask the pharmacy how to return old or unused medicine"><br><sub><b>Ask the pharmacy how to return old or unused medicine</b></sub><br><sub><code>ask-pharmacy-about-returning-old-medicine</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/blood-donation-appointment-booking.svg" width="44" height="44" alt="Book or ask about a blood donation appointment"><br><sub><b>Book or ask about a blood donation appointment</b></sub><br><sub><code>blood-donation-appointment-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/questions-to-ask-at-appointment.svg" width="44" height="44" alt="List of questions to take to a doctor's appointment"><br><sub><b>List of questions to take to a doctor's appointment</b></sub><br><sub><code>questions-to-ask-at-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-hospital-ward-about-food-needs.svg" width="44" height="44" alt="Tell the hospital ward about your food needs"><br><sub><b>Tell the hospital ward about your food needs</b></sub><br><sub><code>ask-hospital-ward-about-food-needs</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-hospital-about-lost-belongings.svg" width="44" height="44" alt="Ask the hospital about belongings lost during a stay"><br><sub><b>Ask the hospital about belongings lost during a stay</b></sub><br><sub><code>ask-hospital-about-lost-belongings</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-change-doctor-within-practice.svg" width="44" height="44" alt="Ask to see a different doctor at the same practice"><br><sub><b>Ask to see a different doctor at the same practice</b></sub><br><sub><code>ask-to-change-doctor-within-practice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-clinic-for-online-account-access.svg" width="44" height="44" alt="Ask the clinic to set up your online patient account"><br><sub><b>Ask the clinic to set up your online patient account</b></sub><br><sub><code>ask-clinic-for-online-account-access</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-video-or-phone-appointment.svg" width="44" height="44" alt="Ask for a phone or video appointment instead of visiting"><br><sub><b>Ask for a phone or video appointment instead of visiting</b></sub><br><sub><code>ask-for-video-or-phone-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-doctor-about-medicine-from-another-clinic.svg" width="44" height="44" alt="Tell your doctor about medicine prescribed elsewhere"><br><sub><b>Tell your doctor about medicine prescribed elsewhere</b></sub><br><sub><code>tell-doctor-about-medicine-from-another-clinic</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-private-clinic-for-price-list.svg" width="44" height="44" alt="Ask a private clinic for prices before booking"><br><sub><b>Ask a private clinic for prices before booking</b></sub><br><sub><code>ask-private-clinic-for-price-list</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-hospital-about-parent-staying-overnight.svg" width="44" height="44" alt="Ask if a parent can stay overnight with a child in hospital"><br><sub><b>Ask if a parent can stay overnight with a child in hospital</b></sub><br><sub><code>ask-hospital-about-parent-staying-overnight</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-see-the-same-doctor-each-time.svg" width="44" height="44" alt="Ask to see the same doctor for ongoing care"><br><sub><b>Ask to see the same doctor for ongoing care</b></sub><br><sub><code>ask-to-see-the-same-doctor-each-time</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-work-about-ongoing-health-condition.svg" width="44" height="44" alt="Tell your manager about an ongoing health condition"><br><sub><b>Tell your manager about an ongoing health condition</b></sub><br><sub><code>tell-work-about-ongoing-health-condition</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-hearing-aid-repair.svg" width="44" height="44" alt="Ask for a hearing aid to be repaired or checked"><br><sub><b>Ask for a hearing aid to be repaired or checked</b></sub><br><sub><code>ask-for-hearing-aid-repair</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-optician-to-repair-glasses.svg" width="44" height="44" alt="Ask the optician to repair or adjust your glasses"><br><sub><b>Ask the optician to repair or adjust your glasses</b></sub><br><sub><code>ask-optician-to-repair-glasses</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-come-to-appointment.svg" width="44" height="44" alt="Ask a friend to come with you to a medical appointment"><br><sub><b>Ask a friend to come with you to a medical appointment</b></sub><br><sub><code>ask-friend-to-come-to-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-record-appointment-notes.svg" width="44" height="44" alt="Ask if you may record or take notes at an appointment"><br><sub><b>Ask if you may record or take notes at an appointment</b></sub><br><sub><code>ask-to-record-appointment-notes</code></sub></td>
 </tr>
 </table>
 

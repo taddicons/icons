@@ -1,6 +1,6 @@
 # Academia and research
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Students, supervisors and researchers: requests, extensions, appeals, applications and thanks.
 
@@ -75,6 +75,19 @@ Students, supervisors and researchers: requests, extensions, appeals, applicatio
 <td align="center" width="16%"><img src="../svg/mark/thank-teacher-after-course.svg" width="44" height="44" alt="Thank a teacher after a course ends"><br><sub><b>Thank a teacher after a course ends</b></sub><br><sub><code>thank-teacher-after-course</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/degree-certificate-copy-request.svg" width="44" height="44" alt="Ask for a copy of your degree certificate"><br><sub><b>Ask for a copy of your degree certificate</b></sub><br><sub><code>degree-certificate-copy-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/exchange-programme-enquiry.svg" width="44" height="44" alt="Ask about a study exchange abroad"><br><sub><b>Ask about a study exchange abroad</b></sub><br><sub><code>exchange-programme-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guest-lecture-invitation.svg" width="44" height="44" alt="Invite a guest speaker to give a lecture to your class"><br><sub><b>Invite a guest speaker to give a lecture to your class</b></sub><br><sub><code>guest-lecture-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/fieldwork-safety-plan-note.svg" width="44" height="44" alt="Fieldwork safety plan to share with your supervisor"><br><sub><b>Fieldwork safety plan to share with your supervisor</b></sub><br><sub><code>fieldwork-safety-plan-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thesis-defence-date-request.svg" width="44" height="44" alt="Ask your committee to agree a date for your thesis defence"><br><sub><b>Ask your committee to agree a date for your thesis defence</b></sub><br><sub><code>thesis-defence-date-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/session-chair-invitation.svg" width="44" height="44" alt="Invite a colleague to chair a session at your conference"><br><sub><b>Invite a colleague to chair a session at your conference</b></sub><br><sub><code>session-chair-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/visiting-scholar-application-email.svg" width="44" height="44" alt="Ask a department to host you as a visiting scholar"><br><sub><b>Ask a department to host you as a visiting scholar</b></sub><br><sub><code>visiting-scholar-application-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conference-talk-withdrawal.svg" width="44" height="44" alt="Withdraw your accepted talk from a conference"><br><sub><b>Withdraw your accepted talk from a conference</b></sub><br><sub><code>conference-talk-withdrawal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/library-book-purchase-request.svg" width="44" height="44" alt="Ask the university library to buy a book for your course or research"><br><sub><b>Ask the university library to buy a book for your course or research</b></sub><br><sub><code>library-book-purchase-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tutorial-group-welcome.svg" width="44" height="44" alt="Welcome a new tutorial or seminar group as their tutor"><br><sub><b>Welcome a new tutorial or seminar group as their tutor</b></sub><br><sub><code>tutorial-group-welcome</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/external-examiner-invitation.svg" width="44" height="44" alt="Invite an academic to be the external examiner for a thesis"><br><sub><b>Invite an academic to be the external examiner for a thesis</b></sub><br><sub><code>external-examiner-invitation</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Immigration and visas
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages for visa and residency applications, supporting documents, delays, appeals and settling into a new country.
 
@@ -75,6 +75,19 @@ Letters and messages for visa and residency applications, supporting documents, 
 <td align="center" width="16%"><img src="../svg/mark/interview-reschedule-medical.svg" width="44" height="44" alt="Ask to move an interview for a medical reason"><br><sub><b>Ask to move an interview for a medical reason</b></sub><br><sub><code>interview-reschedule-medical</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/permit-conditions-clarification.svg" width="44" height="44" alt="Ask what a condition on your permit means"><br><sub><b>Ask what a condition on your permit means</b></sub><br><sub><code>permit-conditions-clarification</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/border-officer-questions-prep.svg" width="44" height="44" alt="Write down your answers before a border check"><br><sub><b>Write down your answers before a border check</b></sub><br><sub><code>border-officer-questions-prep</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/visa-passport-return-request.svg" width="44" height="44" alt="Ask for your passport back while a visa application is open"><br><sub><b>Ask for your passport back while a visa application is open</b></sub><br><sub><code>visa-passport-return-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/immigration-file-copy-request.svg" width="44" height="44" alt="Ask for a copy of the records an immigration office holds about you"><br><sub><b>Ask for a copy of the records an immigration office holds about you</b></sub><br><sub><code>immigration-file-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/immigration-appointment-adjustment-request.svg" width="44" height="44" alt="Ask for help or changes at an immigration appointment because of a health need"><br><sub><b>Ask for help or changes at an immigration appointment because of a health need</b></sub><br><sub><code>immigration-appointment-adjustment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/immigration-adviser-fee-quote-request.svg" width="44" height="44" alt="Ask an immigration adviser for a written fee quote and scope of work"><br><sub><b>Ask an immigration adviser for a written fee quote and scope of work</b></sub><br><sub><code>immigration-adviser-fee-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/visa-application-receipt-check.svg" width="44" height="44" alt="Ask a visa office to confirm it received your posted application"><br><sub><b>Ask a visa office to confirm it received your posted application</b></sub><br><sub><code>visa-application-receipt-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/employer-sponsorship-question.svg" width="44" height="44" alt="Ask your employer whether they can sponsor a work visa"><br><sub><b>Ask your employer whether they can sponsor a work visa</b></sub><br><sub><code>employer-sponsorship-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/visa-medical-exam-booking.svg" width="44" height="44" alt="Book the medical exam needed for a visa application"><br><sub><b>Book the medical exam needed for a visa application</b></sub><br><sub><code>visa-medical-exam-booking</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/right-to-rent-check-reply.svg" width="44" height="44" alt="Reply to a landlord asking for your right-to-rent documents"><br><sub><b>Reply to a landlord asking for your right-to-rent documents</b></sub><br><sub><code>right-to-rent-check-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/experience-letter-for-visa-request.svg" width="44" height="44" alt="Ask a former employer for a work experience letter for a visa"><br><sub><b>Ask a former employer for a work experience letter for a visa</b></sub><br><sub><code>experience-letter-for-visa-request</code></sub></td>
 </tr>
 </table>
 

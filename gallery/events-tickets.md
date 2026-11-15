@@ -1,6 +1,6 @@
 # Events and tickets
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Organising, selling and attending events: tickets, venues, vendors, speakers and refunds.
 
@@ -75,6 +75,19 @@ Organising, selling and attending events: tickets, venues, vendors, speakers and
 <td align="center" width="16%"><img src="../svg/mark/event-ticket-giveaway-post.svg" width="44" height="44" alt="Run a ticket giveaway on social media"><br><sub><b>Run a ticket giveaway on social media</b></sub><br><sub><code>event-ticket-giveaway-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/event-countdown-post.svg" width="44" height="44" alt="Post a countdown to your event"><br><sub><b>Post a countdown to your event</b></sub><br><sub><code>event-countdown-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/event-photos-shared-post.svg" width="44" height="44" alt="Share photos after an event"><br><sub><b>Share photos after an event</b></sub><br><sub><code>event-photos-shared-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-ticket-resale-rules-notice.svg" width="44" height="44" alt="Explain the ticket resale rules for an event"><br><sub><b>Explain the ticket resale rules for an event</b></sub><br><sub><code>event-ticket-resale-rules-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/event-quiet-room-notice.svg" width="44" height="44" alt="Tell guests where the quiet room is at an event"><br><sub><b>Tell guests where the quiet room is at an event</b></sub><br><sub><code>event-quiet-room-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-ticket-upgrade-offer.svg" width="44" height="44" alt="Offer ticket holders an upgrade"><br><sub><b>Offer ticket holders an upgrade</b></sub><br><sub><code>event-ticket-upgrade-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-ticket-wrong-date-swap-request.svg" width="44" height="44" alt="Ask to swap a ticket booked for the wrong date"><br><sub><b>Ask to swap a ticket booked for the wrong date</b></sub><br><sub><code>event-ticket-wrong-date-swap-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-lost-child-meeting-point.svg" width="44" height="44" alt="Tell families where to meet if a child gets lost"><br><sub><b>Tell families where to meet if a child gets lost</b></sub><br><sub><code>event-lost-child-meeting-point</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-companion-ticket-request.svg" width="44" height="44" alt="Ask for a free companion ticket for your carer"><br><sub><b>Ask for a free companion ticket for your carer</b></sub><br><sub><code>event-companion-ticket-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-start-time-change-notice.svg" width="44" height="44" alt="Tell ticket holders the start time has changed"><br><sub><b>Tell ticket holders the start time has changed</b></sub><br><sub><code>event-start-time-change-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/event-booking-fee-refund-request.svg" width="44" height="44" alt="Ask for the booking fee back after a cancelled event"><br><sub><b>Ask for the booking fee back after a cancelled event</b></sub><br><sub><code>event-booking-fee-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-blocked-view-complaint.svg" width="44" height="44" alt="Complain that your view of the stage was blocked"><br><sub><b>Complain that your view of the stage was blocked</b></sub><br><sub><code>event-blocked-view-complaint</code></sub></td>
 </tr>
 </table>
 

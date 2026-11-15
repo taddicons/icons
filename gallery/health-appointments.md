@@ -1,6 +1,6 @@
 # Health appointments and care
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages to doctors, dentists, hospitals and clinics: booking, results, records, bills, access needs, thanks and complaints.
 
@@ -75,6 +75,19 @@ Letters and messages to doctors, dentists, hospitals and clinics: booking, resul
 <td align="center" width="16%"><img src="../svg/mark/ask-for-an-earlier-appointment-as-symptoms-worsen.svg" width="44" height="44" alt="Ask for an earlier visit because I feel worse"><br><sub><b>Ask for an earlier visit because I feel worse</b></sub><br><sub><code>ask-for-an-earlier-appointment-as-symptoms-worsen</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-for-a-nurse-visit-for-wound-dressing.svg" width="44" height="44" alt="Ask for a nurse to change a wound dressing"><br><sub><b>Ask for a nurse to change a wound dressing</b></sub><br><sub><code>ask-for-a-nurse-visit-for-wound-dressing</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-for-a-skin-check.svg" width="44" height="44" alt="Ask for a check of a mole or skin change"><br><sub><b>Ask for a check of a mole or skin change</b></sub><br><sub><code>ask-for-a-skin-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/phone-appointment-request.svg" width="44" height="44" alt="Ask for a phone appointment instead of a visit"><br><sub><b>Ask for a phone appointment instead of a visit</b></sub><br><sub><code>phone-appointment-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/confirm-appointment-attendance.svg" width="44" height="44" alt="Confirm you will attend your appointment"><br><sub><b>Confirm you will attend your appointment</b></sub><br><sub><code>confirm-appointment-attendance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-appointment-letter-request.svg" width="44" height="44" alt="Ask for a new copy of a lost appointment letter"><br><sub><b>Ask for a new copy of a lost appointment letter</b></sub><br><sub><code>lost-appointment-letter-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/start-or-end-of-day-appointment-request.svg" width="44" height="44" alt="Ask for an appointment at the start or end of the day"><br><sub><b>Ask for an appointment at the start or end of the day</b></sub><br><sub><code>start-or-end-of-day-appointment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/patient-education-class-request.svg" width="44" height="44" alt="Ask to join a patient education class"><br><sub><b>Ask to join a patient education class</b></sub><br><sub><code>patient-education-class-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cancel-a-clinic-appointment.svg" width="44" height="44" alt="Cancel a clinic appointment you cannot attend"><br><sub><b>Cancel a clinic appointment you cannot attend</b></sub><br><sub><code>cancel-a-clinic-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-copy-of-my-referral-letter.svg" width="44" height="44" alt="Ask for a copy of your referral letter"><br><sub><b>Ask for a copy of your referral letter</b></sub><br><sub><code>ask-for-a-copy-of-my-referral-letter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-blood-test-appointment.svg" width="44" height="44" alt="Ask for a blood test appointment"><br><sub><b>Ask for a blood test appointment</b></sub><br><sub><code>ask-for-a-blood-test-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-bring-a-support-person.svg" width="44" height="44" alt="Ask to bring a support person to your appointment"><br><sub><b>Ask to bring a support person to your appointment</b></sub><br><sub><code>ask-to-bring-a-support-person</code></sub></td>
 </tr>
 </table>
 

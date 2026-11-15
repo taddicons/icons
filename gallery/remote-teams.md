@@ -1,6 +1,6 @@
 # Remote work and team coordination
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Clear updates, handoffs, meeting notes and team habits for people who work apart from each other.
 
@@ -75,6 +75,19 @@ Clear updates, handoffs, meeting notes and team habits for people who work apart
 <td align="center" width="16%"><img src="../svg/mark/internet-outage-notice.svg" width="44" height="44" alt="Tell the team your internet is down"><br><sub><b>Tell the team your internet is down</b></sub><br><sub><code>internet-outage-notice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/onboarding-buddy-intro.svg" width="44" height="44" alt="Introduce a new hire to their buddy"><br><sub><b>Introduce a new hire to their buddy</b></sub><br><sub><code>onboarding-buddy-intro</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/workload-pushback-message.svg" width="44" height="44" alt="Push back kindly when your workload is too big"><br><sub><b>Push back kindly when your workload is too big</b></sub><br><sub><code>workload-pushback-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-core-hours-proposal.svg" width="44" height="44" alt="Propose shared core hours for the team"><br><sub><b>Propose shared core hours for the team</b></sub><br><sub><code>remote-core-hours-proposal</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/remote-time-off-calendar.svg" width="44" height="44" alt="Ask teammates to add their time off to the shared calendar"><br><sub><b>Ask teammates to add their time off to the shared calendar</b></sub><br><sub><code>remote-time-off-calendar</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-coworking-day-invite.svg" width="44" height="44" alt="Invite nearby teammates to a co-working day"><br><sub><b>Invite nearby teammates to a co-working day</b></sub><br><sub><code>remote-coworking-day-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-client-call-notes.svg" width="44" height="44" alt="Share notes from a client call with the team"><br><sub><b>Share notes from a client call with the team</b></sub><br><sub><code>remote-client-call-notes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-focus-time-plan.svg" width="44" height="44" alt="Share when you will be in focus time"><br><sub><b>Share when you will be in focus time</b></sub><br><sub><code>remote-focus-time-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/recorded-video-update-share.svg" width="44" height="44" alt="Share a recorded video update instead of a meeting"><br><sub><b>Share a recorded video update instead of a meeting</b></sub><br><sub><code>recorded-video-update-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-teammate-intro-post.svg" width="44" height="44" alt="Introduce a new teammate in the team channel"><br><sub><b>Introduce a new teammate in the team channel</b></sub><br><sub><code>new-teammate-intro-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/team-pulse-survey-invite.svg" width="44" height="44" alt="Invite your remote team to a short pulse survey"><br><sub><b>Invite your remote team to a short pulse survey</b></sub><br><sub><code>team-pulse-survey-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/plain-english-team-writing-guide.svg" width="44" height="44" alt="Plain English writing guide for a team across languages"><br><sub><b>Plain English writing guide for a team across languages</b></sub><br><sub><code>plain-english-team-writing-guide</code></sub></td>
 </tr>
 </table>
 

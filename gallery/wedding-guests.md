@@ -1,6 +1,6 @@
 # Wedding guests and bridal party
 
-<sub>Taddicons 2.2.0 · Documents & messages · 47 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
 
 Notes from the guest side of a wedding: replies, travel and stay questions, gifts, party planning, toasts and thank-yous.
 
@@ -67,6 +67,22 @@ Notes from the guest side of a wedding: replies, travel and stay questions, gift
 <td align="center" width="16%"><img src="../svg/mark/wedding-surprise-idea-check.svg" width="44" height="44" alt="Check a surprise idea for the wedding before you do it"><br><sub><b>Check a surprise idea for the wedding before you do it</b></sub><br><sub><code>wedding-surprise-idea-check</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/wedding-seating-request.svg" width="44" height="44" alt="Ask the couple about where you are seated"><br><sub><b>Ask the couple about where you are seated</b></sub><br><sub><code>wedding-seating-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/destination-wedding-tentative-reply.svg" width="44" height="44" alt="Tell the couple you need time to decide about a destination wedding"><br><sub><b>Tell the couple you need time to decide about a destination wedding</b></sub><br><sub><code>destination-wedding-tentative-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-ceremony-only-reply.svg" width="44" height="44" alt="Reply that you can come to the ceremony only"><br><sub><b>Reply that you can come to the ceremony only</b></sub><br><sub><code>wedding-ceremony-only-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-shuttle-time-question.svg" width="44" height="44" alt="Ask about the wedding shuttle bus times"><br><sub><b>Ask about the wedding shuttle bus times</b></sub><br><sub><code>wedding-shuttle-time-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-officiant-yes-reply.svg" width="44" height="44" alt="Say yes to officiating a friend's wedding"><br><sub><b>Say yes to officiating a friend's wedding</b></sub><br><sub><code>wedding-officiant-yes-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-rehearsal-attendance-reply.svg" width="44" height="44" alt="Reply about coming to the wedding rehearsal"><br><sub><b>Reply about coming to the wedding rehearsal</b></sub><br><sub><code>wedding-rehearsal-attendance-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-elopement-congrats.svg" width="44" height="44" alt="Congratulate a couple who eloped"><br><sub><b>Congratulate a couple who eloped</b></sub><br><sub><code>wedding-elopement-congrats</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-livestream-link-ask.svg" width="44" height="44" alt="Ask for the wedding livestream link"><br><sub><b>Ask for the wedding livestream link</b></sub><br><sub><code>wedding-livestream-link-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-speech-length-check.svg" width="44" height="44" alt="Check how long your wedding speech should be"><br><sub><b>Check how long your wedding speech should be</b></sub><br><sub><code>wedding-speech-length-check</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-room-block-cancel-note.svg" width="44" height="44" alt="Tell the couple you cancelled your room in their block"><br><sub><b>Tell the couple you cancelled your room in their block</b></sub><br><sub><code>wedding-room-block-cancel-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-custom-etiquette-question.svg" width="44" height="44" alt="Ask the couple about customs at their wedding"><br><sub><b>Ask the couple about customs at their wedding</b></sub><br><sub><code>wedding-custom-etiquette-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-afterparty-reply.svg" width="44" height="44" alt="Reply to an invitation to the wedding after-party"><br><sub><b>Reply to an invitation to the wedding after-party</b></sub><br><sub><code>wedding-afterparty-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-lift-offer-to-guests.svg" width="44" height="44" alt="Offer other guests a lift to the wedding"><br><sub><b>Offer other guests a lift to the wedding</b></sub><br><sub><code>wedding-lift-offer-to-guests</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-guest-meetup-before-ceremony.svg" width="44" height="44" alt="Suggest guests meet up before the ceremony"><br><sub><b>Suggest guests meet up before the ceremony</b></sub><br><sub><code>wedding-guest-meetup-before-ceremony</code></sub></td>
 </tr>
 </table>
 

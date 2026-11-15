@@ -1,6 +1,6 @@
 # Arts and publishing
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Writers, artists and musicians: submissions, queries, commissions, bios and thank-yous.
 
@@ -75,6 +75,19 @@ Writers, artists and musicians: submissions, queries, commissions, bios and than
 <td align="center" width="16%"><img src="../svg/mark/festival-performer-application.svg" width="44" height="44" alt="Apply to perform at a festival"><br><sub><b>Apply to perform at a festival</b></sub><br><sub><code>festival-performer-application</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/printer-quote-request-for-book.svg" width="44" height="44" alt="Ask a printer for a quote to print your book"><br><sub><b>Ask a printer for a quote to print your book</b></sub><br><sub><code>printer-quote-request-for-book</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/art-order-delay-apology.svg" width="44" height="44" alt="Apologise for a delay on an art order"><br><sub><b>Apologise for a delay on an art order</b></sub><br><sub><code>art-order-delay-apology</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rights-reversion-request.svg" width="44" height="44" alt="Ask your publisher to return the rights to your book"><br><sub><b>Ask your publisher to return the rights to your book</b></sub><br><sub><code>rights-reversion-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/illustration-brief.svg" width="44" height="44" alt="Brief an illustrator on artwork you are commissioning"><br><sub><b>Brief an illustrator on artwork you are commissioning</b></sub><br><sub><code>illustration-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/artwork-collection-after-exhibition.svg" width="44" height="44" alt="Arrange to collect your artwork after an exhibition ends"><br><sub><b>Arrange to collect your artwork after an exhibition ends</b></sub><br><sub><code>artwork-collection-after-exhibition</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/print-certificate-of-authenticity.svg" width="44" height="44" alt="Certificate of authenticity for a limited edition art print"><br><sub><b>Certificate of authenticity for a limited edition art print</b></sub><br><sub><code>print-certificate-of-authenticity</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/proofreader-booking-enquiry.svg" width="44" height="44" alt="Ask a proofreader if they can check your manuscript"><br><sub><b>Ask a proofreader if they can check your manuscript</b></sub><br><sub><code>proofreader-booking-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/theatre-audition-request.svg" width="44" height="44" alt="Ask a theatre company for an audition slot"><br><sub><b>Ask a theatre company for an audition slot</b></sub><br><sub><code>theatre-audition-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/exhibition-artwork-damage-report.svg" width="44" height="44" alt="Tell a gallery your artwork was damaged while in their care"><br><sub><b>Tell a gallery your artwork was damaged while in their care</b></sub><br><sub><code>exhibition-artwork-damage-report</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/play-script-submission.svg" width="44" height="44" alt="Send your play script to a theatre for consideration"><br><sub><b>Send your play script to a theatre for consideration</b></sub><br><sub><code>play-script-submission</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/review-copy-request.svg" width="44" height="44" alt="Ask a publisher for a review copy of a new book"><br><sub><b>Ask a publisher for a review copy of a new book</b></sub><br><sub><code>review-copy-request</code></sub></td>
 </tr>
 </table>
 

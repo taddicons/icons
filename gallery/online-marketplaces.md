@@ -1,6 +1,6 @@
 # Online shopping and marketplaces
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Messages for buying and selling on marketplaces: questions, offers, pickups, problems, feedback and scam reports.
 
@@ -75,6 +75,19 @@ Messages for buying and selling on marketplaces: questions, offers, pickups, pro
 <td align="center" width="16%"><img src="../svg/mark/thank-you-after-purchase.svg" width="44" height="44" alt="Thank a seller after a good sale"><br><sub><b>Thank a seller after a good sale</b></sub><br><sub><code>thank-you-after-purchase</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/item-no-longer-for-sale.svg" width="44" height="44" alt="Take down a listing and tell people why"><br><sub><b>Take down a listing and tell people why</b></sub><br><sub><code>item-no-longer-for-sale</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/courier-collection-arrangement.svg" width="44" height="44" alt="Arrange for a courier to collect a large item"><br><sub><b>Arrange for a courier to collect a large item</b></sub><br><sub><code>courier-collection-arrangement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/purchase-invoice-request-seller.svg" width="44" height="44" alt="Ask a marketplace seller for an invoice or receipt for your purchase"><br><sub><b>Ask a marketplace seller for an invoice or receipt for your purchase</b></sub><br><sub><code>purchase-invoice-request-seller</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/listing-photos-copied-report.svg" width="44" height="44" alt="Report a listing that uses your photos without permission"><br><sub><b>Report a listing that uses your photos without permission</b></sub><br><sub><code>listing-photos-copied-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/final-price-offer-message.svg" width="44" height="44" alt="Give a buyer your lowest price after some back and forth"><br><sub><b>Give a buyer your lowest price after some back and forth</b></sub><br><sub><code>final-price-offer-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/collection-lifting-help-note.svg" width="44" height="44" alt="Tell a buyer a large item needs two people to collect it"><br><sub><b>Tell a buyer a large item needs two people to collect it</b></sub><br><sub><code>collection-lifting-help-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-come-first-served-notice.svg" width="44" height="44" alt="Tell interested buyers the item goes to whoever collects first"><br><sub><b>Tell interested buyers the item goes to whoever collects first</b></sub><br><sub><code>first-come-first-served-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/buyer-feedback-reminder.svg" width="44" height="44" alt="Remind a buyer to leave feedback after a sale"><br><sub><b>Remind a buyer to leave feedback after a sale</b></sub><br><sub><code>buyer-feedback-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-reserved-for-someone-else.svg" width="44" height="44" alt="Tell an interested buyer the item is reserved for someone else"><br><sub><b>Tell an interested buyer the item is reserved for someone else</b></sub><br><sub><code>item-reserved-for-someone-else</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/collection-address-and-time-share.svg" width="44" height="44" alt="Send a buyer the collection address and time"><br><sub><b>Send a buyer the collection address and time</b></sub><br><sub><code>collection-address-and-time-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/listing-error-correction-to-buyer.svg" width="44" height="44" alt="Tell a buyer about a mistake in your listing before they pay"><br><sub><b>Tell a buyer about a mistake in your listing before they pay</b></sub><br><sub><code>listing-error-correction-to-buyer</code></sub></td>
 </tr>
 </table>
 

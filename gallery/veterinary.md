@@ -1,6 +1,6 @@
 # Veterinary care
 
-<sub>Taddicons 2.2.0 · Everyday life & health · 23 icons</sub>
+<sub>Taddicons 2.3.0 · Everyday life & health · 23 icons</sub>
 
 Care for pets and farm animals.
 

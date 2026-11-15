@@ -1,6 +1,6 @@
 # Money and bills
 
-<sub>Taddicons 2.2.0 · Documents & messages · 71 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 71 icons</sub>
 
 Invoices, reminders, payment plans, claims and money between friends.
 

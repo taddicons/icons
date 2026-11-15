@@ -1,6 +1,6 @@
 # Buying and selling a home
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Offers, viewings, agents, surveys, mortgages, moving dates, closing day and the welcome to the next owner.
 
@@ -75,6 +75,19 @@ Offers, viewings, agents, surveys, mortgages, moving dates, closing day and the 
 <td align="center" width="16%"><img src="../svg/mark/leasehold-questions-to-agent.svg" width="44" height="44" alt="Ask the agent about service charges and lease terms"><br><sub><b>Ask the agent about service charges and lease terms</b></sub><br><sub><code>leasehold-questions-to-agent</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-about-area-before-buying.svg" width="44" height="44" alt="Ask locals what the area is really like"><br><sub><b>Ask locals what the area is really like</b></sub><br><sub><code>ask-about-area-before-buying</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/buyer-pulling-out-with-reason.svg" width="44" height="44" alt="Tell the seller you cannot go ahead with the purchase"><br><sub><b>Tell the seller you cannot go ahead with the purchase</b></sub><br><sub><code>buyer-pulling-out-with-reason</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/deposit-receipt-confirmation-request.svg" width="44" height="44" alt="Ask your conveyancer to confirm your deposit arrived"><br><sub><b>Ask your conveyancer to confirm your deposit arrived</b></sub><br><sub><code>deposit-receipt-confirmation-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/thank-conveyancer-note.svg" width="44" height="44" alt="Thank your conveyancer after the sale or purchase"><br><sub><b>Thank your conveyancer after the sale or purchase</b></sub><br><sub><code>thank-conveyancer-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/past-works-permissions-question.svg" width="44" height="44" alt="Ask the seller about past building works and permissions"><br><sub><b>Ask the seller about past building works and permissions</b></sub><br><sub><code>past-works-permissions-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/low-mortgage-valuation-query.svg" width="44" height="44" alt="Ask your broker or lender about a low mortgage valuation"><br><sub><b>Ask your broker or lender about a low mortgage valuation</b></sub><br><sub><code>low-mortgage-valuation-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-owner-if-they-would-sell.svg" width="44" height="44" alt="Ask a home owner if they would think about selling"><br><sub><b>Ask a home owner if they would think about selling</b></sub><br><sub><code>ask-owner-if-they-would-sell</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-seller-for-running-costs.svg" width="44" height="44" alt="Ask a seller what the home costs to run each year"><br><sub><b>Ask a seller what the home costs to run each year</b></sub><br><sub><code>ask-seller-for-running-costs</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mortgage-offer-received-update.svg" width="44" height="44" alt="Tell the agent and your solicitor your mortgage offer has arrived"><br><sub><b>Tell the agent and your solicitor your mortgage offer has arrived</b></sub><br><sub><code>mortgage-offer-received-update</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-agent-for-recent-sold-prices.svg" width="44" height="44" alt="Ask an estate agent for recent sold prices nearby"><br><sub><b>Ask an estate agent for recent sold prices nearby</b></sub><br><sub><code>ask-agent-for-recent-sold-prices</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/exchange-date-confirmation-request.svg" width="44" height="44" alt="Ask your conveyancer to confirm the exchange and moving dates"><br><sub><b>Ask your conveyancer to confirm the exchange and moving dates</b></sub><br><sub><code>exchange-date-confirmation-request</code></sub></td>
 </tr>
 </table>
 

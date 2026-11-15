@@ -1,6 +1,6 @@
 # Customer support replies
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Clear, kind replies to customers: apologies, delays, refunds, outages, tough moments, help and goodbyes.
 
@@ -75,6 +75,19 @@ Clear, kind replies to customers: apologies, delays, refunds, outages, tough mom
 <td align="center" width="16%"><img src="../svg/mark/unhappy-review-follow-up.svg" width="44" height="44" alt="Follow up privately with an unhappy reviewer"><br><sub><b>Follow up privately with an unhappy reviewer</b></sub><br><sub><code>unhappy-review-follow-up</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ticket-closing-reply.svg" width="44" height="44" alt="Close a support ticket politely"><br><sub><b>Close a support ticket politely</b></sub><br><sub><code>ticket-closing-reply</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/scam-report-reply.svg" width="44" height="44" alt="Reply to a customer who reports a scam message"><br><sub><b>Reply to a customer who reports a scam message</b></sub><br><sub><code>scam-report-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/delivery-proof-reply.svg" width="44" height="44" alt="Reply when a customer says an order marked delivered never came"><br><sub><b>Reply when a customer says an order marked delivered never came</b></sub><br><sub><code>delivery-proof-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/invoice-copy-reply.svg" width="44" height="44" alt="Reply to a customer who needs a copy of their invoice"><br><sub><b>Reply to a customer who needs a copy of their invoice</b></sub><br><sub><code>invoice-copy-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/price-rise-question-reply.svg" width="44" height="44" alt="Reply to a customer asking why their price went up"><br><sub><b>Reply to a customer asking why their price went up</b></sub><br><sub><code>price-rise-question-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/discount-code-problem-reply.svg" width="44" height="44" alt="Reply to a customer whose discount code did not work"><br><sub><b>Reply to a customer whose discount code did not work</b></sub><br><sub><code>discount-code-problem-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/size-exchange-reply.svg" width="44" height="44" alt="Reply to a customer who wants to swap an item for another size"><br><sub><b>Reply to a customer who wants to swap an item for another size</b></sub><br><sub><code>size-exchange-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/manager-request-reply.svg" width="44" height="44" alt="Reply when a customer asks to speak to a manager"><br><sub><b>Reply when a customer asks to speak to a manager</b></sub><br><sub><code>manager-request-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hacked-account-support-reply.svg" width="44" height="44" alt="Reply to a customer who says their account was hacked"><br><sub><b>Reply to a customer who says their account was hacked</b></sub><br><sub><code>hacked-account-support-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/callback-booked-reply.svg" width="44" height="44" alt="Confirm a callback time to a customer"><br><sub><b>Confirm a callback time to a customer</b></sub><br><sub><code>callback-booked-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/duplicate-ticket-merged-reply.svg" width="44" height="44" alt="Tell a customer their duplicate requests were combined"><br><sub><b>Tell a customer their duplicate requests were combined</b></sub><br><sub><code>duplicate-ticket-merged-reply</code></sub></td>
 </tr>
 </table>
 

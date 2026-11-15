@@ -1,6 +1,6 @@
 # Accounts and tech
 
-<sub>Taddicons 2.2.0 · Documents & messages · 53 icons</sub>
+<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
 
 Getting back into accounts, fixing devices and asking a company what it holds about you.
 
@@ -75,6 +75,19 @@ Getting back into accounts, fixing devices and asking a company what it holds ab
 <td align="center" width="16%"><img src="../svg/mark/voice-assistant-recording-deletion-request.svg" width="44" height="44" alt="Ask a company to delete voice recordings"><br><sub><b>Ask a company to delete voice recordings</b></sub><br><sub><code>voice-assistant-recording-deletion-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/username-transfer-request.svg" width="44" height="44" alt="Ask someone to give up a username you need"><br><sub><b>Ask someone to give up a username you need</b></sub><br><sub><code>username-transfer-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/social-post-takedown-request.svg" width="44" height="44" alt="Ask a platform to remove a post about you"><br><sub><b>Ask a platform to remove a post about you</b></sub><br><sub><code>social-post-takedown-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/domain-transfer-code-request.svg" width="44" height="44" alt="Ask your domain provider for the code to move your domain"><br><sub><b>Ask your domain provider for the code to move your domain</b></sub><br><sub><code>domain-transfer-code-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/shared-folder-access-request.svg" width="44" height="44" alt="Ask a colleague for access to a shared folder or file"><br><sub><b>Ask a colleague for access to a shared folder or file</b></sub><br><sub><code>shared-folder-access-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/email-used-by-stranger-notice.svg" width="44" height="44" alt="Tell a company someone signed up with your email address"><br><sub><b>Tell a company someone signed up with your email address</b></sub><br><sub><code>email-used-by-stranger-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/saved-card-removal-request.svg" width="44" height="44" alt="Ask a company to delete your saved card details"><br><sub><b>Ask a company to delete your saved card details</b></sub><br><sub><code>saved-card-removal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-laptop-return-note.svg" width="44" height="44" alt="Note to IT when you return a work laptop or phone"><br><sub><b>Note to IT when you return a work laptop or phone</b></sub><br><sub><code>work-laptop-return-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-monitoring-data-question.svg" width="44" height="44" alt="Ask your employer what a work monitoring tool records about you"><br><sub><b>Ask your employer what a work monitoring tool records about you</b></sub><br><sub><code>work-monitoring-data-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ai-training-opt-out-request.svg" width="44" height="44" alt="Ask a company not to use your content or data to train AI models"><br><sub><b>Ask a company not to use your content or data to train AI models</b></sub><br><sub><code>ai-training-opt-out-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/people-search-removal-request.svg" width="44" height="44" alt="Ask a people-search website to remove your personal details"><br><sub><b>Ask a people-search website to remove your personal details</b></sub><br><sub><code>people-search-removal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/age-verification-error-appeal.svg" width="44" height="44" alt="Appeal when a platform wrongly blocks you after an age check"><br><sub><b>Appeal when a platform wrongly blocks you after an age check</b></sub><br><sub><code>age-verification-error-appeal</code></sub></td>
 </tr>
 </table>
 

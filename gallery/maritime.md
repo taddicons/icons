@@ -1,6 +1,6 @@
 # Maritime & rail
 
-<sub>Taddicons 2.2.0 · World & nature · 26 icons</sub>
+<sub>Taddicons 2.3.0 · World & nature · 26 icons</sub>
 
 Ships, harbours, navigation and the railway.
 
