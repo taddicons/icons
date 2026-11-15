@@ -1,6 +1,6 @@
 # Sports and clubs
 
-<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
 
 Teams, clubs and hobby groups: sign-ups, fixtures, fees, kit, coaches and club news.
 

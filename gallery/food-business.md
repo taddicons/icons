@@ -1,6 +1,6 @@
 # Restaurants, cafes and food business
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Orders, quotes, bookings, allergy information, staff messages, reviews and market stalls for people who feed others for a living.
 

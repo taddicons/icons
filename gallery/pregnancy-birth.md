@@ -1,6 +1,6 @@
 # Pregnancy and birth
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Announcements, midwife and hospital notes, birth plans, leave, showers, thank-yous, visitors, sensitive loss and fertility notes, and adoption and surrogacy logistics.
 

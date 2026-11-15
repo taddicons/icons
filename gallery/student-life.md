@@ -1,6 +1,6 @@
 # Student life
 
-<sub>Taddicons 2.3.0 · Documents & messages · 58 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 58 icons</sub>
 
 Everyday letters and messages for students: exams, grades, housing, roommates, internships, money, thesis work and clubs.
 

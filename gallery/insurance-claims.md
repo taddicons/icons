@@ -1,6 +1,6 @@
 # Insurance and claims
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Claims, disputes, policy questions, renewals and cancelling, for car, home, travel, health and life cover.
 

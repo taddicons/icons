@@ -1,6 +1,6 @@
 # Social posts
 
-<sub>Taddicons 2.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
 
 Posts with a picture for the networks you connected, written for regular people, not influencers.
 

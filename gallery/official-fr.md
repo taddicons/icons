@@ -1,6 +1,6 @@
 # Official letters, France
 
-<sub>Taddicons 2.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
 
 The official letters people in France most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities and data rights, family and neighbours, written in correct French.
 

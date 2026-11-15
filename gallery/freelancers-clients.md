@@ -1,6 +1,6 @@
 # Freelancers and clients
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Everything a freelancer writes to clients, from first enquiry and kickoff to scope, money, boundaries, handover and referrals.
 

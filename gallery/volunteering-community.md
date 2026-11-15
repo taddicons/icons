@@ -1,6 +1,6 @@
 # Volunteering and community
 
-<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
 
 Recruiting and thanking volunteers, shift notes, food banks, mutual aid, charity runs, faith group logistics, clean-ups, neighbour help and committee papers.
 

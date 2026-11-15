@@ -1,6 +1,6 @@
 # Languages and cultural exchange
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Notes for language partners, tutors, penpals, host families, study abroad, translators, cultural events and learning groups.
 

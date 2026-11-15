@@ -1,6 +1,6 @@
 # Gaming and online communities
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Guild and clan notes, moderator messages, ban appeals, tournaments, streamer and fan posts, game refunds and parent questions about games.
 

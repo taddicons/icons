@@ -1,6 +1,6 @@
 # Official letters, Spain
 
-<sub>Taddicons 2.3.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 73 icons</sub>
 
 The official letters people in Spain most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities, family and neighbours, written in correct Castilian Spanish.
 

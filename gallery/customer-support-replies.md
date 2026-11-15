@@ -1,6 +1,6 @@
 # Customer support replies
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Clear, kind replies to customers: apologies, delays, refunds, outages, tough moments, help and goodbyes.
 

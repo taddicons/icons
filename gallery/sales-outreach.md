@@ -1,6 +1,6 @@
 # Sales and marketing outreach
 
-<sub>Taddicons 2.3.0 · Documents & messages · 64 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 64 icons</sub>
 
 Cold and warm outreach, follow-ups, demos, proposals, price talks, renewals, partner pitches, events and customer proof.
 

@@ -1,6 +1,6 @@
 # Science & space
 
-<sub>Taddicons 2.3.0 · Science, sport & play · 107 icons</sub>
+<sub>Taddicons 0.3.0 · Science, sport & play · 107 icons</sub>
 
 Physics, chemistry, biology, earth and the stars.
 

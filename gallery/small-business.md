@@ -1,6 +1,6 @@
 # Small business
 
-<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
 
 Customers, suppliers and staff of a small business: quotes, invoices, policies and polite firmness.
 

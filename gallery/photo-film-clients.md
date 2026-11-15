@@ -1,6 +1,6 @@
 # Photographers, filmmakers and clients
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Briefs, quotes, shoot plans, permissions, delivery, revisions and festival entries for people who make photos and films and the people who hire them.
 

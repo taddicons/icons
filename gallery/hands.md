@@ -1,6 +1,6 @@
 # Hands & gestures
 
-<sub>Taddicons 2.3.0 · People & society · 61 icons</sub>
+<sub>Taddicons 0.3.0 · People & society · 61 icons</sub>
 
 Hands, signs and gestures.
 

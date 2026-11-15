@@ -1,6 +1,6 @@
 # Buying and selling a home
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Offers, viewings, agents, surveys, mortgages, moving dates, closing day and the welcome to the next owner.
 

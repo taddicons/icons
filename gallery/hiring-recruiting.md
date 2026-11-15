@@ -1,6 +1,6 @@
 # Hiring and recruiting
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Notes for both sides of a hire: job ads, outreach, interviews, offers, references, starting a job and moving inside a company.
 

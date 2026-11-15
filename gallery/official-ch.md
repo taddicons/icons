@@ -1,6 +1,6 @@
 # Official letters, Switzerland
 
-<sub>Taddicons 2.3.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 73 icons</sub>
 
 The official letters people in Switzerland most often need: tenancy, work, debt collection and tax, insurance, consumer rights, authorities, family and neighbours, written in correct Swiss standard German.
 

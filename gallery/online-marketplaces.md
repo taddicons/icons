@@ -1,6 +1,6 @@
 # Online shopping and marketplaces
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Messages for buying and selling on marketplaces: questions, offers, pickups, problems, feedback and scam reports.
 

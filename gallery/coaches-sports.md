@@ -1,6 +1,6 @@
 # Coaches and sports organisers
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Team lists, parent letters, travel and tournament plans, injuries, money, praise and hard talks for people who run a team or club.
 

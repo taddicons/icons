@@ -1,6 +1,6 @@
 # Small claims and everyday legal
 
-<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
 
 Plain letters and notes for everyday disputes: getting ready for small claims, settling, mediation, contracts and talking to a lawyer, with no legal advice.
 

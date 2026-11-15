@@ -1,6 +1,6 @@
 # Letters, numbers & punctuation
 
-<sub>Taddicons 2.3.0 · Interface · 110 icons</sub>
+<sub>Taddicons 0.3.0 · Interface · 110 icons</sub>
 
 A to Z, 0 to 9 and the marks between them.
 

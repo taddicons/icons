@@ -1,6 +1,6 @@
 # Parenting and teenagers
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Notes to and about teens: house rules, school, driving, jobs, hard talks, apologies, trust and consequences.
 

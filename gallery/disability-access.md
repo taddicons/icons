@@ -1,6 +1,6 @@
 # Disability and access
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Asking for what you need to take part, in plain words, with dignity and no jargon.
 

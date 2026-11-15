@@ -1,6 +1,6 @@
 # Dating and relationships
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Starting, deepening, repairing and ending relationships, with honesty and kindness.
 

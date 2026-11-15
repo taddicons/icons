@@ -1,6 +1,6 @@
 # Life events and speeches
 
-<sub>Taddicons 2.3.0 · Documents & messages · 64 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 64 icons</sub>
 
 Announcements, letters and the words for the big moments.
 

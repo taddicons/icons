@@ -1,6 +1,6 @@
 # Teachers and educators
 
-<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
 
 Notes to parents, newsletters, praise and concern notes, report comments, trip letters and the everyday writing of a classroom.
 

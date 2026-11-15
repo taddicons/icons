@@ -1,6 +1,6 @@
 # Hospitality and stays
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Hosting and staying: guests, rentals, restaurants, hotels and holiday homes.
 

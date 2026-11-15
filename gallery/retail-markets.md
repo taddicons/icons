@@ -1,6 +1,6 @@
 # Shops and market stalls
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Notes for shop owners and stallholders: sales, loyalty, apologies, suppliers, returns, fair applications and shop-local campaigns.
 

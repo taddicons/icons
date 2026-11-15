@@ -1,6 +1,6 @@
 # Travel
 
-<sub>Taddicons 2.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
 
 Bookings, hosts, plans and postcards.
 

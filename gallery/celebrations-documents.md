@@ -1,6 +1,6 @@
 # Celebrations of every culture
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Festivals, rites of passage and milestones from many cultures, written so anyone can send them to anyone.
 

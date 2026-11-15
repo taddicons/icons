@@ -1,6 +1,6 @@
 # School and learning
 
-<sub>Taddicons 2.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
 
 For students, parents and teachers.
 

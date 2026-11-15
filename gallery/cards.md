@@ -1,6 +1,6 @@
 # Cards and greetings
 
-<sub>Taddicons 2.3.0 · Documents & messages · 65 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 65 icons</sub>
 
 Designed digital cards for every occasion, sent as a link or printed.
 

@@ -1,6 +1,6 @@
 # Consumer rights and refunds
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages for getting your money or a fix when goods, deliveries, adverts or subscriptions go wrong, plus answers for small sellers.
 

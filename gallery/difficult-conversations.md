@@ -1,6 +1,6 @@
 # Apologies and difficult conversations
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Saying sorry, setting limits, giving bad news and mending things with the people who matter.
 

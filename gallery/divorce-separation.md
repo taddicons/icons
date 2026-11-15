@@ -1,6 +1,6 @@
 # Separation and divorce admin
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 The practical words for a separation: telling people, sharing money and homes, child schedules, professionals, records and calm messages to an ex.
 

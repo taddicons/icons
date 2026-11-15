@@ -1,6 +1,6 @@
 # Military and veterans
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and notes for deployed service members, their families and veterans, plus benefits, records, housing and remembrance.
 

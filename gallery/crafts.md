@@ -1,6 +1,6 @@
 # Sewing & crafts
 
-<sub>Taddicons 2.3.0 · Tools & trades · 31 icons</sub>
+<sub>Taddicons 0.3.0 · Tools & trades · 31 icons</sub>
 
 Sewing, knitting, paper, clay and handiwork.
 

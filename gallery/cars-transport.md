@@ -1,6 +1,6 @@
 # Cars and transport
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Buying, selling, repairing and insuring a vehicle, and getting around: garages, fines, trains, flights and rides.
 

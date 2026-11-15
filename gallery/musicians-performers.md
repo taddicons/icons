@@ -1,6 +1,6 @@
 # Musicians and performers
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Gigs, riders, band life, lessons, recitals, releases and the money side of making music.
 

@@ -1,6 +1,6 @@
 # Official letters, Belgium
 
-<sub>Taddicons 2.3.0 · Documents & messages · 71 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 71 icons</sub>
 
 The official letters people in Belgium most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities, family and neighbours, written in French as used in Wallonia and Brussels.
 

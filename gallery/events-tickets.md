@@ -1,6 +1,6 @@
 # Events and tickets
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Organising, selling and attending events: tickets, venues, vendors, speakers and refunds.
 

@@ -1,6 +1,6 @@
 # Accounts and tech
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Getting back into accounts, fixing devices and asking a company what it holds about you.
 

@@ -1,6 +1,6 @@
 # Health and care
 
-<sub>Taddicons 2.3.0 · Documents & messages · 76 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 76 icons</sub>
 
 Doctors, records, insurance and caring for someone.
 

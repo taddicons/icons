@@ -1,6 +1,6 @@
 # Interface & controls
 
-<sub>Taddicons 2.3.0 · Interface · 292 icons</sub>
+<sub>Taddicons 0.3.0 · Interface · 292 icons</sub>
 
 Menus, views, toggles, states, alerts and window chrome.
 

@@ -1,6 +1,6 @@
 # Emergencies and disasters
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Words for the worst days: checking on people, leaving home, claims, missing persons, asking for help, thanking those who came and rebuilding afterwards.
 

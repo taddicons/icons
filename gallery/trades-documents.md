@@ -1,6 +1,6 @@
 # Trades and home repairs
 
-<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
 
 Hiring, briefing and paying builders, plumbers, electricians and other trades, and what to do when it goes wrong.
 

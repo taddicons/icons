@@ -1,6 +1,6 @@
 # Renting as a tenant
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages for renters: problems at home, rent and deposits, moving in and out, flatmates and the building.
 

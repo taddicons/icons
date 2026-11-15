@@ -1,6 +1,6 @@
 # Health appointments and care
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Letters and messages to doctors, dentists, hospitals and clinics: booking, results, records, bills, access needs, thanks and complaints.
 

@@ -1,6 +1,6 @@
 # Home repairs and utilities
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Utility accounts, outages, bills, contractors, warranty and planning matters for the home.
 

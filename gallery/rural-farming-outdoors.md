@@ -1,6 +1,6 @@
 # Rural, farming and outdoors
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Notes for land, farm sales, animals, seasonal workers, permits, camping, trails, bad weather and country neighbours.
 

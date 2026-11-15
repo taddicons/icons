@@ -1,6 +1,6 @@
 # Wedding guests and bridal party
 
-<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
 
 Notes from the guest side of a wedding: replies, travel and stay questions, gifts, party planning, toasts and thank-yous.
 

@@ -1,6 +1,6 @@
 # Research and science collaboration
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Notes between researchers: sharing data and code, answering reviewers, grants, abstracts, ethics questions, credit and field work.
 

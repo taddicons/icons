@@ -1,6 +1,6 @@
 # Files & folders
 
-<sub>Taddicons 2.3.0 · Interface · 186 icons</sub>
+<sub>Taddicons 0.3.0 · Interface · 186 icons</sub>
 
 Files, folders, archives and storage.
 

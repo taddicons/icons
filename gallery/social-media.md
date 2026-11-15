@@ -1,6 +1,6 @@
 # Social media
 
-<sub>Taddicons 2.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
 
 Posts, replies, threads and captions for the networks, written for regular people, not influencers.
 

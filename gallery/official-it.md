@@ -1,6 +1,6 @@
 # Official letters, Italy
 
-<sub>Taddicons 2.3.0 · Documents & messages · 72 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 72 icons</sub>
 
 The official letters people in Italy most often need: tenancy, work, tax and banks, insurance and health, consumer rights, public offices, school and family, and neighbours, written in correct Italian.
 

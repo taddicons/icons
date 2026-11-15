@@ -1,6 +1,6 @@
 # Living abroad and expats
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Papers, banks, schools, doctors, homes and people when you have moved to another country.
 

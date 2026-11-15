@@ -1,6 +1,6 @@
 # Shapes & symbols
 
-<sub>Taddicons 2.3.0 · Interface · 54 icons</sub>
+<sub>Taddicons 0.3.0 · Interface · 54 icons</sub>
 
 Geometric shapes, solids, badges and common symbols.
 

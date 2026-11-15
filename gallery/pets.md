@@ -1,6 +1,6 @@
 # Pets
 
-<sub>Taddicons 2.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
 
 Vets, boarding, adoption, lost and found, and everything else for the animal at home.
 
