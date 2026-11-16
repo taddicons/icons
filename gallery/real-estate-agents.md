@@ -1,6 +1,6 @@
 # Real estate agents and brokers
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Messages an agent sends to owners, buyers and tenants, from first contact and viewings to offers, hard news and closing day.
 
@@ -88,6 +88,42 @@ Messages an agent sends to owners, buyers and tenants, from first contact and vi
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/contract-deadline-reminder-buyer.svg" width="44" height="44" alt="Remind a buyer about upcoming contract deadlines"><br><sub><b>Remind a buyer about upcoming contract deadlines</b></sub><br><sub><code>contract-deadline-reminder-buyer</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/agent-holiday-cover-intro.svg" width="44" height="44" alt="Introduce the colleague covering your clients while you are away"><br><sub><b>Introduce the colleague covering your clients while you are away</b></sub><br><sub><code>agent-holiday-cover-intro</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-buyer-id-check-request.svg" width="44" height="44" alt="Ask a buyer for identity documents before a sale goes ahead"><br><sub><b>Ask a buyer for identity documents before a sale goes ahead</b></sub><br><sub><code>rea-buyer-id-check-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-virtual-tour-invite.svg" width="44" height="44" alt="Invite a buyer to a live virtual tour of a home"><br><sub><b>Invite a buyer to a live virtual tour of a home</b></sub><br><sub><code>rea-virtual-tour-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-offer-accepted-next-steps.svg" width="44" height="44" alt="Tell a buyer their offer is accepted and what happens next"><br><sub><b>Tell a buyer their offer is accepted and what happens next</b></sub><br><sub><code>rea-offer-accepted-next-steps</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-rental-valuation-offer-to-landlord.svg" width="44" height="44" alt="Offer a landlord a free rental valuation"><br><sub><b>Offer a landlord a free rental valuation</b></sub><br><sub><code>rea-rental-valuation-offer-to-landlord</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rea-under-offer-other-buyers-note.svg" width="44" height="44" alt="Tell other interested buyers a home is now under offer"><br><sub><b>Tell other interested buyers a home is now under offer</b></sub><br><sub><code>rea-under-offer-other-buyers-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-agency-terms-summary-send.svg" width="44" height="44" alt="Send a seller a plain summary of your agency terms"><br><sub><b>Send a seller a plain summary of your agency terms</b></sub><br><sub><code>rea-agency-terms-summary-send</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-buyer-completion-keys-plan.svg" width="44" height="44" alt="Explain to a buyer how and when they will get the keys"><br><sub><b>Explain to a buyer how and when they will get the keys</b></sub><br><sub><code>rea-buyer-completion-keys-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-buyer-solicitor-details-request.svg" width="44" height="44" alt="Ask a buyer for their solicitor or conveyancer details"><br><sub><b>Ask a buyer for their solicitor or conveyancer details</b></sub><br><sub><code>rea-buyer-solicitor-details-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-mortgage-adviser-intro.svg" width="44" height="44" alt="Introduce a buyer to a mortgage adviser"><br><sub><b>Introduce a buyer to a mortgage adviser</b></sub><br><sub><code>rea-mortgage-adviser-intro</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-listing-photos-approval.svg" width="44" height="44" alt="Ask a seller to approve their listing photos"><br><sub><b>Ask a seller to approve their listing photos</b></sub><br><sub><code>rea-listing-photos-approval</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rea-floor-plan-visit-booking.svg" width="44" height="44" alt="Book a visit to measure for a floor plan"><br><sub><b>Book a visit to measure for a floor plan</b></sub><br><sub><code>rea-floor-plan-visit-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-energy-certificate-request.svg" width="44" height="44" alt="Ask a seller or landlord to arrange an energy certificate"><br><sub><b>Ask a seller or landlord to arrange an energy certificate</b></sub><br><sub><code>rea-energy-certificate-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-auction-day-guide-buyer.svg" width="44" height="44" alt="Guide a buyer through what happens on auction day"><br><sub><b>Guide a buyer through what happens on auction day</b></sub><br><sub><code>rea-auction-day-guide-buyer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-new-listing-match-alert.svg" width="44" height="44" alt="Tell a buyer about a new listing that fits their search"><br><sub><b>Tell a buyer about a new listing that fits their search</b></sub><br><sub><code>rea-new-listing-match-alert</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-sale-board-permission-ask.svg" width="44" height="44" alt="Ask a seller if you can put up a for sale board"><br><sub><b>Ask a seller if you can put up a for sale board</b></sub><br><sub><code>rea-sale-board-permission-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-property-withdrawn-confirm.svg" width="44" height="44" alt="Confirm a seller is taking their home off the market"><br><sub><b>Confirm a seller is taking their home off the market</b></sub><br><sub><code>rea-property-withdrawn-confirm</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rea-valuation-visit-follow-up.svg" width="44" height="44" alt="Follow up after a home valuation visit"><br><sub><b>Follow up after a home valuation visit</b></sub><br><sub><code>rea-valuation-visit-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-home-insurance-reminder-buyer.svg" width="44" height="44" alt="Remind a buyer to arrange home insurance before completion"><br><sub><b>Remind a buyer to arrange home insurance before completion</b></sub><br><sub><code>rea-home-insurance-reminder-buyer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-property-questionnaire-reminder.svg" width="44" height="44" alt="Remind a seller to return the property questionnaire"><br><sub><b>Remind a seller to return the property questionnaire</b></sub><br><sub><code>rea-property-questionnaire-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-viewing-no-show-follow-up.svg" width="44" height="44" alt="Follow up when a buyer misses a viewing"><br><sub><b>Follow up when a buyer misses a viewing</b></sub><br><sub><code>rea-viewing-no-show-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-new-build-site-visit-invite.svg" width="44" height="44" alt="Invite buyers to visit a new-build development"><br><sub><b>Invite buyers to visit a new-build development</b></sub><br><sub><code>rea-new-build-site-visit-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-chain-update-buyer.svg" width="44" height="44" alt="Update a buyer on the property chain"><br><sub><b>Update a buyer on the property chain</b></sub><br><sub><code>rea-chain-update-buyer</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rea-seller-moving-date-check.svg" width="44" height="44" alt="Check a seller's planned moving-out date before completion"><br><sub><b>Check a seller's planned moving-out date before completion</b></sub><br><sub><code>rea-seller-moving-date-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-open-house-visitor-details-notice.svg" width="44" height="44" alt="Notice telling open house visitors why their details are taken"><br><sub><b>Notice telling open house visitors why their details are taken</b></sub><br><sub><code>rea-open-house-visitor-details-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-buyer-survey-booking-reminder.svg" width="44" height="44" alt="Remind a buyer to book their survey or home inspection"><br><sub><b>Remind a buyer to book their survey or home inspection</b></sub><br><sub><code>rea-buyer-survey-booking-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-lender-valuer-access-request.svg" width="44" height="44" alt="Ask a seller to give the lender's valuer access to the home"><br><sub><b>Ask a seller to give the lender's valuer access to the home</b></sub><br><sub><code>rea-lender-valuer-access-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-open-house-neighbour-notice.svg" width="44" height="44" alt="Tell neighbours about an open house on their street"><br><sub><b>Tell neighbours about an open house on their street</b></sub><br><sub><code>rea-open-house-neighbour-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rea-video-viewing-recap-buyer.svg" width="44" height="44" alt="Send a buyer notes after a live video viewing"><br><sub><b>Send a buyer notes after a live video viewing</b></sub><br><sub><code>rea-video-viewing-recap-buyer</code></sub></td>
 </tr>
 </table>
 

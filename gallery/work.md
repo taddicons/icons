@@ -1,6 +1,6 @@
 # Work and jobs
 
-<sub>Taddicons 0.3.0 · Documents & messages · 65 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Applications, requests and messages at work.
 
@@ -91,6 +91,39 @@ Applications, requests and messages at work.
 <td align="center" width="16%"><img src="../svg/mark/sickness-absence-update.svg" width="44" height="44" alt="Update your employer during a longer sickness absence"><br><sub><b>Update your employer during a longer sickness absence</b></sub><br><sub><code>sickness-absence-update</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/new-job-announcement-post.svg" width="44" height="44" alt="Announce your new job on social media"><br><sub><b>Announce your new job on social media</b></sub><br><sub><code>new-job-announcement-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/workplace-parking-request.svg" width="44" height="44" alt="Ask for a parking space at work"><br><sub><b>Ask for a parking space at work</b></sub><br><sub><code>workplace-parking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/compressed-hours-request.svg" width="44" height="44" alt="Ask to work your full hours over fewer days"><br><sub><b>Ask to work your full hours over fewer days</b></sub><br><sub><code>compressed-hours-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/self-appraisal-summary.svg" width="44" height="44" alt="Write your self-review before a yearly appraisal"><br><sub><b>Write your self-review before a yearly appraisal</b></sub><br><sub><code>self-appraisal-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-phone-request.svg" width="44" height="44" alt="Ask your employer for a work phone"><br><sub><b>Ask your employer for a work phone</b></sub><br><sub><code>work-phone-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/handover-notes-before-leave.svg" width="44" height="44" alt="Send colleagues handover notes before you go on leave"><br><sub><b>Send colleagues handover notes before you go on leave</b></sub><br><sub><code>handover-notes-before-leave</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/desk-move-request.svg" width="44" height="44" alt="Ask your manager to move to a different desk"><br><sub><b>Ask your manager to move to a different desk</b></sub><br><sub><code>desk-move-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/standing-desk-request.svg" width="44" height="44" alt="Ask your employer for a standing desk"><br><sub><b>Ask your employer for a standing desk</b></sub><br><sub><code>standing-desk-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-lunch-organiser-note.svg" width="44" height="44" alt="Organise a team lunch and collect replies"><br><sub><b>Organise a team lunch and collect replies</b></sub><br><sub><code>team-lunch-organiser-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/new-starter-buddy-volunteer-offer.svg" width="44" height="44" alt="Offer to be a buddy for a new starter"><br><sub><b>Offer to be a buddy for a new starter</b></sub><br><sub><code>new-starter-buddy-volunteer-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/salary-advance-request.svg" width="44" height="44" alt="Salary advance request: ask your employer for part of your pay early"><br><sub><b>Salary advance request: ask your employer for part of your pay early</b></sub><br><sub><code>salary-advance-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/workplace-temperature-complaint.svg" width="44" height="44" alt="Workplace temperature complaint: raise a too hot or too cold workspace"><br><sub><b>Workplace temperature complaint: raise a too hot or too cold workspace</b></sub><br><sub><code>workplace-temperature-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lone-working-concern.svg" width="44" height="44" alt="Lone working concern: ask for safety steps when you work alone"><br><sub><b>Lone working concern: ask for safety steps when you work alone</b></sub><br><sub><code>lone-working-concern</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pension-contribution-change-request.svg" width="44" height="44" alt="Pension contribution change: ask payroll to raise or lower what you pay in"><br><sub><b>Pension contribution change: ask payroll to raise or lower what you pay in</b></sub><br><sub><code>pension-contribution-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pronoun-update-to-hr.svg" width="44" height="44" alt="Pronoun update to HR: ask for your pronouns to be updated on work records"><br><sub><b>Pronoun update to HR: ask for your pronouns to be updated on work records</b></sub><br><sub><code>pronoun-update-to-hr</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/mileage-claim-note.svg" width="44" height="44" alt="Mileage claim note: claim for business miles driven in your own car"><br><sub><b>Mileage claim note: claim for business miles driven in your own car</b></sub><br><sub><code>mileage-claim-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/project-delay-notice.svg" width="44" height="44" alt="Tell stakeholders a project will be late"><br><sub><b>Tell stakeholders a project will be late</b></sub><br><sub><code>project-delay-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decision-request-email.svg" width="44" height="44" alt="Ask a manager to make a decision by a date"><br><sub><b>Ask a manager to make a decision by a date</b></sub><br><sub><code>decision-request-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-wins-roundup-email.svg" width="44" height="44" alt="Share a roundup of your team's recent wins"><br><sub><b>Share a roundup of your team's recent wins</b></sub><br><sub><code>team-wins-roundup-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/interview-availability-reply.svg" width="44" height="44" alt="Reply to an interview invite with your availability"><br><sub><b>Reply to an interview invite with your availability</b></sub><br><sub><code>interview-availability-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/focus-time-calendar-note.svg" width="44" height="44" alt="Tell your team about your blocked focus time"><br><sub><b>Tell your team about your blocked focus time</b></sub><br><sub><code>focus-time-calendar-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/cross-team-help-request.svg" width="44" height="44" alt="Ask another team for help on a piece of work"><br><sub><b>Ask another team for help on a piece of work</b></sub><br><sub><code>cross-team-help-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/project-closure-email.svg" width="44" height="44" alt="Project closure email to the team"><br><sub><b>Project closure email to the team</b></sub><br><sub><code>project-closure-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/process-improvement-suggestion.svg" width="44" height="44" alt="Suggest an improvement to a work process"><br><sub><b>Suggest an improvement to a work process</b></sub><br><sub><code>process-improvement-suggestion</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/vendor-shortlist-recommendation.svg" width="44" height="44" alt="Recommend a supplier from your shortlist"><br><sub><b>Recommend a supplier from your shortlist</b></sub><br><sub><code>vendor-shortlist-recommendation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-decision-log-entry.svg" width="44" height="44" alt="Record a team decision in the decision log"><br><sub><b>Record a team decision in the decision log</b></sub><br><sub><code>work-decision-log-entry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-meeting-recording-notice.svg" width="44" height="44" alt="Tell attendees a work meeting will be recorded"><br><sub><b>Tell attendees a work meeting will be recorded</b></sub><br><sub><code>work-meeting-recording-notice</code></sub></td>
 </tr>
 </table>
 

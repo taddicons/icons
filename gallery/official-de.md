@@ -1,6 +1,6 @@
 # Official letters, Germany
 
-<sub>Taddicons 0.3.0 · Documents & messages · 72 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Germany most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities, family and neighbours, written in correct German.
 
@@ -100,6 +100,30 @@ The official letters people in Germany most often need: tenancy, work, tax and b
 <td align="center" width="16%"><img src="../svg/mark/de-schule-beurlaubung.svg" width="44" height="44" alt="Beurlaubung: ask the school to excuse a child in advance (Germany)"><br><sub><b>Beurlaubung: ask the school to excuse a child in advance (Germany)</b></sub><br><sub><code>de-schule-beurlaubung</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/de-hausordnung-beschwerde.svg" width="44" height="44" alt="Hausordnung: report a house-rules problem to the property manager (Germany)"><br><sub><b>Hausordnung: report a house-rules problem to the property manager (Germany)</b></sub><br><sub><code>de-hausordnung-beschwerde</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/de-einfahrt-zugeparkt.svg" width="44" height="44" alt="Einfahrt zugeparkt: ask a neighbour not to block your driveway (Germany)"><br><sub><b>Einfahrt zugeparkt: ask a neighbour not to block your driveway (Germany)</b></sub><br><sub><code>de-einfahrt-zugeparkt</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/de-balkonkraftwerk-zustimmung.svg" width="44" height="44" alt="Balkonkraftwerk: ask your landlord to approve a balcony solar unit (Germany)"><br><sub><b>Balkonkraftwerk: ask your landlord to approve a balcony solar unit (Germany)</b></sub><br><sub><code>de-balkonkraftwerk-zustimmung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-homeoffice-antrag.svg" width="44" height="44" alt="Antrag auf Homeoffice: ask your employer to work from home (Germany)"><br><sub><b>Antrag auf Homeoffice: ask your employer to work from home (Germany)</b></sub><br><sub><code>de-homeoffice-antrag</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-sondertilgung-anzeige.svg" width="44" height="44" alt="Sondertilgung: tell your bank about an extra loan repayment (Germany)"><br><sub><b>Sondertilgung: tell your bank about an extra loan repayment (Germany)</b></sub><br><sub><code>de-sondertilgung-anzeige</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-beitragsfreistellung.svg" width="44" height="44" alt="Beitragsfreistellung: pause premiums on an insurance policy (Germany)"><br><sub><b>Beitragsfreistellung: pause premiums on an insurance policy (Germany)</b></sub><br><sub><code>de-beitragsfreistellung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-zaehlerstand-korrektur.svg" width="44" height="44" alt="Zählerstand: send a meter reading and ask to correct an estimate (Germany)"><br><sub><b>Zählerstand: send a meter reading and ask to correct an estimate (Germany)</b></sub><br><sub><code>de-zaehlerstand-korrektur</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-bewohnerparkausweis-antrag.svg" width="44" height="44" alt="Bewohnerparkausweis: apply for a residents' parking permit (Germany)"><br><sub><b>Bewohnerparkausweis: apply for a residents' parking permit (Germany)</b></sub><br><sub><code>de-bewohnerparkausweis-antrag</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/de-kindergeld-veraenderungsmitteilung.svg" width="44" height="44" alt="Veränderungsmitteilung: tell the Familienkasse about a change (Germany)"><br><sub><b>Veränderungsmitteilung: tell the Familienkasse about a change (Germany)</b></sub><br><sub><code>de-kindergeld-veraenderungsmitteilung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-schule-gespraech-bitte.svg" width="44" height="44" alt="Gesprächsbitte: ask a teacher for a meeting about your child (Germany)"><br><sub><b>Gesprächsbitte: ask a teacher for a meeting about your child (Germany)</b></sub><br><sub><code>de-schule-gespraech-bitte</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-versicherungsschein-kopie.svg" width="44" height="44" alt="Versicherungsschein: ask the insurer for a policy copy (Germany)"><br><sub><b>Versicherungsschein: ask the insurer for a policy copy (Germany)</b></sub><br><sub><code>de-versicherungsschein-kopie</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-kontoauszuege-anforderung.svg" width="44" height="44" alt="Kontoauszüge: ask your bank for statement copies (Germany)"><br><sub><b>Kontoauszüge: ask your bank for statement copies (Germany)</b></sub><br><sub><code>de-kontoauszuege-anforderung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-urlaubsbescheinigung.svg" width="44" height="44" alt="Urlaubsbescheinigung: ask your former employer for it (Germany)"><br><sub><b>Urlaubsbescheinigung: ask your former employer for it (Germany)</b></sub><br><sub><code>de-urlaubsbescheinigung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-meldebescheinigung-antrag.svg" width="44" height="44" alt="Meldebescheinigung: ask the registry office for one by post (Germany)"><br><sub><b>Meldebescheinigung: ask the registry office for one by post (Germany)</b></sub><br><sub><code>de-meldebescheinigung-antrag</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/de-bildungsurlaub-antrag.svg" width="44" height="44" alt="Bildungsurlaub: apply to your employer for educational leave (Germany)"><br><sub><b>Bildungsurlaub: apply to your employer for educational leave (Germany)</b></sub><br><sub><code>de-bildungsurlaub-antrag</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-namensaenderung-mitteilung.svg" width="44" height="44" alt="Namensänderung: tell a bank or insurer about your new name (Germany)"><br><sub><b>Namensänderung: tell a bank or insurer about your new name (Germany)</b></sub><br><sub><code>de-namensaenderung-mitteilung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-schulbescheinigung-anforderung.svg" width="44" height="44" alt="Schulbescheinigung: ask the school for proof of attendance (Germany)"><br><sub><b>Schulbescheinigung: ask the school for proof of attendance (Germany)</b></sub><br><sub><code>de-schulbescheinigung-anforderung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-todesfall-bank-mitteilung.svg" width="44" height="44" alt="Todesfallmitteilung: tell a bank an account holder has died (Germany)"><br><sub><b>Todesfallmitteilung: tell a bank an account holder has died (Germany)</b></sub><br><sub><code>de-todesfall-bank-mitteilung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-werbewiderspruch.svg" width="44" height="44" alt="Werbewiderspruch: stop a company sending you advertising (Germany)"><br><sub><b>Werbewiderspruch: stop a company sending you advertising (Germany)</b></sub><br><sub><code>de-werbewiderspruch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/de-ueberstundenausgleich.svg" width="44" height="44" alt="Überstundenausgleich: ask for time off or pay for overtime (Germany)"><br><sub><b>Überstundenausgleich: ask for time off or pay for overtime (Germany)</b></sub><br><sub><code>de-ueberstundenausgleich</code></sub></td>
 </tr>
 </table>
 

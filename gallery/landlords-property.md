@@ -1,6 +1,6 @@
 # Being a landlord or property manager
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Letters and messages for landlords and property managers, from applicants and rent to repairs, notices, renewals and goodbyes.
 
@@ -88,6 +88,42 @@ Letters and messages for landlords and property managers, from applicants and re
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/tenant-lost-key-replacement-note.svg" width="44" height="44" alt="Reply to a tenant who has lost a key to the property"><br><sub><b>Reply to a tenant who has lost a key to the property</b></sub><br><sub><code>tenant-lost-key-replacement-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/communal-area-clear-out-notice.svg" width="44" height="44" alt="Ask residents to clear their things from shared hallways"><br><sub><b>Ask residents to clear their things from shared hallways</b></sub><br><sub><code>communal-area-clear-out-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-adaptation-request-reply.svg" width="44" height="44" alt="Reply to a tenant who asks to adapt the home"><br><sub><b>Reply to a tenant who asks to adapt the home</b></sub><br><sub><code>tenant-adaptation-request-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/access-refused-follow-up-note.svg" width="44" height="44" alt="Follow up after a tenant could not give access for a visit"><br><sub><b>Follow up after a tenant could not give access for a visit</b></sub><br><sub><code>access-refused-follow-up-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/annual-rent-statement.svg" width="44" height="44" alt="Yearly rent statement for a tenant"><br><sub><b>Yearly rent statement for a tenant</b></sub><br><sub><code>annual-rent-statement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/insurance-repair-update-to-tenant.svg" width="44" height="44" alt="Update a tenant on a repair covered by your insurance"><br><sub><b>Update a tenant on a repair covered by your insurance</b></sub><br><sub><code>insurance-repair-update-to-tenant</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/periodic-tenancy-continuation-note.svg" width="44" height="44" alt="Tell a tenant their tenancy carries on after the fixed term"><br><sub><b>Tell a tenant their tenancy carries on after the fixed term</b></sub><br><sub><code>periodic-tenancy-continuation-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/end-of-tenancy-cleaning-guide.svg" width="44" height="44" alt="End of tenancy cleaning guide for departing tenants"><br><sub><b>End of tenancy cleaning guide for departing tenants</b></sub><br><sub><code>end-of-tenancy-cleaning-guide</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/move-in-day-arrangements.svg" width="44" height="44" alt="Move-in day details for a new tenant"><br><sub><b>Move-in day details for a new tenant</b></sub><br><sub><code>move-in-day-arrangements</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/arrears-cleared-confirmation.svg" width="44" height="44" alt="Confirm to a tenant that their rent arrears are paid"><br><sub><b>Confirm to a tenant that their rent arrears are paid</b></sub><br><sub><code>arrears-cleared-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenants-how-to-report-repairs.svg" width="44" height="44" alt="Tell tenants how to report repairs"><br><sub><b>Tell tenants how to report repairs</b></sub><br><sub><code>tenants-how-to-report-repairs</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenants-air-home-prevent-damp.svg" width="44" height="44" alt="Remind tenants to air the home to prevent damp"><br><sub><b>Remind tenants to air the home to prevent damp</b></sub><br><sub><code>tenants-air-home-prevent-damp</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/confirm-tenant-notice-to-leave.svg" width="44" height="44" alt="Confirm a tenant's notice to leave"><br><sub><b>Confirm a tenant's notice to leave</b></sub><br><sub><code>confirm-tenant-notice-to-leave</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-agree-new-rent-payment-date.svg" width="44" height="44" alt="Ask a tenant to agree a new rent payment date"><br><sub><b>Ask a tenant to agree a new rent payment date</b></sub><br><sub><code>tenant-agree-new-rent-payment-date</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-early-report-thanks.svg" width="44" height="44" alt="Thank a tenant for reporting a problem early"><br><sub><b>Thank a tenant for reporting a problem early</b></sub><br><sub><code>tenant-early-report-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-heating-how-to-note.svg" width="44" height="44" alt="Explain how the heating and hot water work to tenants"><br><sub><b>Explain how the heating and hot water work to tenants</b></sub><br><sub><code>tenant-heating-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/early-surrender-request-reply.svg" width="44" height="44" alt="Reply to a tenant who asks to end the tenancy early"><br><sub><b>Reply to a tenant who asks to end the tenancy early</b></sub><br><sub><code>early-surrender-request-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/add-occupier-to-tenancy-reply.svg" width="44" height="44" alt="Reply to a tenant who wants a partner or friend to move in"><br><sub><b>Reply to a tenant who wants a partner or friend to move in</b></sub><br><sub><code>add-occupier-to-tenancy-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tenant-renewal-intentions-ask.svg" width="44" height="44" alt="Ask your tenant whether they plan to stay on"><br><sub><b>Ask your tenant whether they plan to stay on</b></sub><br><sub><code>tenant-renewal-intentions-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-ev-charger-request-reply.svg" width="44" height="44" alt="Reply to a tenant who asks to fit an electric car charger"><br><sub><b>Reply to a tenant who asks to fit an electric car charger</b></sub><br><sub><code>tenant-ev-charger-request-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-bike-storage-rules-note.svg" width="44" height="44" alt="Tell tenants how to use the shared bike store"><br><sub><b>Tell tenants how to use the shared bike store</b></sub><br><sub><code>tenant-bike-storage-rules-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/landlord-contact-hours-note.svg" width="44" height="44" alt="Tell tenants when to contact you and what to do in an emergency"><br><sub><b>Tell tenants when to contact you and what to do in an emergency</b></sub><br><sub><code>landlord-contact-hours-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guarantor-agreement-signing-request.svg" width="44" height="44" alt="Ask a tenant's guarantor to sign and return the guarantee"><br><sub><b>Ask a tenant's guarantor to sign and return the guarantee</b></sub><br><sub><code>guarantor-agreement-signing-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rent-change-query-reply.svg" width="44" height="44" alt="Reply to a tenant's questions about a rent change"><br><sub><b>Reply to a tenant's questions about a rent change</b></sub><br><sub><code>rent-change-query-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tenant-satisfaction-survey-request.svg" width="44" height="44" alt="Ask tenants to fill in a short satisfaction survey"><br><sub><b>Ask tenants to fill in a short satisfaction survey</b></sub><br><sub><code>tenant-satisfaction-survey-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/window-cleaning-visit-notice.svg" width="44" height="44" alt="Tell tenants when the window cleaners will visit"><br><sub><b>Tell tenants when the window cleaners will visit</b></sub><br><sub><code>window-cleaning-visit-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/electrical-safety-check-access-notice.svg" width="44" height="44" alt="Ask tenants for access for an electrical safety check"><br><sub><b>Ask tenants for access for an electrical safety check</b></sub><br><sub><code>electrical-safety-check-access-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-tree-surgeon-visit-notice.svg" width="44" height="44" alt="Tell tenants a tree surgeon will visit the garden"><br><sub><b>Tell tenants a tree surgeon will visit the garden</b></sub><br><sub><code>tenant-tree-surgeon-visit-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-holiday-absence-contact-ask.svg" width="44" height="44" alt="Ask tenants to tell you about long absences from the home"><br><sub><b>Ask tenants to tell you about long absences from the home</b></sub><br><sub><code>tenant-holiday-absence-contact-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenant-new-appliance-guide-note.svg" width="44" height="44" alt="Tell tenants about a new appliance and how to use it"><br><sub><b>Tell tenants about a new appliance and how to use it</b></sub><br><sub><code>tenant-new-appliance-guide-note</code></sub></td>
 </tr>
 </table>
 

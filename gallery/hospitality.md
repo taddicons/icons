@@ -1,6 +1,6 @@
 # Hospitality and stays
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Hosting and staying: guests, rentals, restaurants, hotels and holiday homes.
 
@@ -88,6 +88,42 @@ Hosting and staying: guests, rentals, restaurants, hotels and holiday homes.
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/restaurant-deposit-refund-request.svg" width="44" height="44" alt="Ask a restaurant to return a booking deposit"><br><sub><b>Ask a restaurant to return a booking deposit</b></sub><br><sub><code>restaurant-deposit-refund-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/hotel-company-invoice-request.svg" width="44" height="44" alt="Ask a hotel for an invoice in your company's name"><br><sub><b>Ask a hotel for an invoice in your company's name</b></sub><br><sub><code>hotel-company-invoice-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-security-camera-disclosure-note.svg" width="44" height="44" alt="Tell guests about outdoor security cameras at your rental"><br><sub><b>Tell guests about outdoor security cameras at your rental</b></sub><br><sub><code>host-security-camera-disclosure-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-long-stay-rate-request.svg" width="44" height="44" alt="Ask a hotel for a lower rate on a long stay"><br><sub><b>Ask a hotel for a lower rate on a long stay</b></sub><br><sub><code>hotel-long-stay-rate-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-conference-room-booking-request.svg" width="44" height="44" alt="Book a hotel meeting room for a workshop"><br><sub><b>Book a hotel meeting room for a workshop</b></sub><br><sub><code>hotel-conference-room-booking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-guest-id-check-request.svg" width="44" height="44" alt="Ask a guest for ID details before their stay"><br><sub><b>Ask a guest for ID details before their stay</b></sub><br><sub><code>host-guest-id-check-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/hotel-booking-name-correction.svg" width="44" height="44" alt="Ask a hotel to correct the name on your booking"><br><sub><b>Ask a hotel to correct the name on your booking</b></sub><br><sub><code>hotel-booking-name-correction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restaurant-gift-voucher-booking-question.svg" width="44" height="44" alt="Ask a restaurant how to book with a gift voucher"><br><sub><b>Ask a restaurant how to book with a gift voucher</b></sub><br><sub><code>restaurant-gift-voucher-booking-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-accessible-room-request.svg" width="44" height="44" alt="Ask a hotel for an accessible room before you arrive"><br><sub><b>Ask a hotel for an accessible room before you arrive</b></sub><br><sub><code>hotel-accessible-room-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-neighbour-about-rental-guests.svg" width="44" height="44" alt="Reply to a neighbour who complains about your rental guests"><br><sub><b>Reply to a neighbour who complains about your rental guests</b></sub><br><sub><code>reply-to-neighbour-about-rental-guests</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-keep-medicine-in-fridge.svg" width="44" height="44" alt="Ask a hotel to keep your medicine in a fridge"><br><sub><b>Ask a hotel to keep your medicine in a fridge</b></sub><br><sub><code>hotel-keep-medicine-in-fridge</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-late-night-arrival.svg" width="44" height="44" alt="Tell a host you will arrive late at night"><br><sub><b>Tell a host you will arrive late at night</b></sub><br><sub><code>host-late-night-arrival</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/guest-confirm-number-staying.svg" width="44" height="44" alt="Ask a guest to confirm how many people are staying"><br><sub><b>Ask a guest to confirm how many people are staying</b></sub><br><sub><code>guest-confirm-number-staying</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-public-transport-directions.svg" width="44" height="44" alt="Ask a host how to reach the home by public transport"><br><sub><b>Ask a host how to reach the home by public transport</b></sub><br><sub><code>host-public-transport-directions</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restaurant-bill-mistake-query.svg" width="44" height="44" alt="Ask a restaurant to check a mistake on your bill"><br><sub><b>Ask a restaurant to check a mistake on your bill</b></sub><br><sub><code>restaurant-bill-mistake-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-returning-guest-offer.svg" width="44" height="44" alt="Invite a past guest to stay with you again"><br><sub><b>Invite a past guest to stay with you again</b></sub><br><sub><code>host-returning-guest-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-hot-tub-rules-note.svg" width="44" height="44" alt="Explain the hot tub rules to holiday guests"><br><sub><b>Explain the hot tub rules to holiday guests</b></sub><br><sub><code>host-hot-tub-rules-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-bike-storage-question.svg" width="44" height="44" alt="Ask a hotel where you can keep your bikes overnight"><br><sub><b>Ask a hotel where you can keep your bikes overnight</b></sub><br><sub><code>hotel-bike-storage-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/host-road-closure-guest-update.svg" width="44" height="44" alt="Warn guests about a road closure before they arrive"><br><sub><b>Warn guests about a road closure before they arrive</b></sub><br><sub><code>host-road-closure-guest-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restaurant-dress-code-question.svg" width="44" height="44" alt="Ask a restaurant about its dress code before you go"><br><sub><b>Ask a restaurant about its dress code before you go</b></sub><br><sub><code>restaurant-dress-code-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-late-arrival-keep-room-request.svg" width="44" height="44" alt="Ask a hotel to hold your room for a late arrival"><br><sub><b>Ask a hotel to hold your room for a late arrival</b></sub><br><sub><code>hotel-late-arrival-keep-room-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-bill-overcharge-query.svg" width="44" height="44" alt="Query an overcharge on your hotel bill after checkout"><br><sub><b>Query an overcharge on your hotel bill after checkout</b></sub><br><sub><code>hotel-bill-overcharge-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restaurant-table-running-late-message.svg" width="44" height="44" alt="Tell a restaurant you are running late for your table"><br><sub><b>Tell a restaurant you are running late for your table</b></sub><br><sub><code>restaurant-table-running-late-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-welcome-food-allergy-check.svg" width="44" height="44" alt="Ask guests about allergies before leaving a welcome basket"><br><sub><b>Ask guests about allergies before leaving a welcome basket</b></sub><br><sub><code>host-welcome-food-allergy-check</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/host-energy-saving-note-for-guests.svg" width="44" height="44" alt="Ask holiday guests to help save energy during their stay"><br><sub><b>Ask holiday guests to help save energy during their stay</b></sub><br><sub><code>host-energy-saving-note-for-guests</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restaurant-quiet-table-request.svg" width="44" height="44" alt="Ask a restaurant for a quiet table"><br><sub><b>Ask a restaurant for a quiet table</b></sub><br><sub><code>restaurant-quiet-table-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-hold-parcel-before-arrival-request.svg" width="44" height="44" alt="Ask a hotel to hold a parcel that arrives before you do"><br><sub><b>Ask a hotel to hold a parcel that arrives before you do</b></sub><br><sub><code>hotel-hold-parcel-before-arrival-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-wake-up-call-request.svg" width="44" height="44" alt="Ask a hotel for a wake-up call"><br><sub><b>Ask a hotel for a wake-up call</b></sub><br><sub><code>hotel-wake-up-call-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/restaurant-wheelchair-access-question.svg" width="44" height="44" alt="Ask a restaurant about step-free access for a wheelchair"><br><sub><b>Ask a restaurant about step-free access for a wheelchair</b></sub><br><sub><code>restaurant-wheelchair-access-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-check-in-delay-apology.svg" width="44" height="44" alt="Apologise to a guest that their room is not ready yet"><br><sub><b>Apologise to a guest that their room is not ready yet</b></sub><br><sub><code>host-check-in-delay-apology</code></sub></td>
 </tr>
 </table>
 

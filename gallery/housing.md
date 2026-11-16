@@ -1,6 +1,6 @@
 # Home and renting
 
-<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Landlords, tenants, neighbours and moving.
 
@@ -104,6 +104,26 @@ Landlords, tenants, neighbours and moving.
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/home-search-brief-to-agent.svg" width="44" height="44" alt="Tell an agent what kind of home you are looking for"><br><sub><b>Tell an agent what kind of home you are looking for</b></sub><br><sub><code>home-search-brief-to-agent</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/bills-responsibility-question-landlord.svg" width="44" height="44" alt="Ask your landlord which bills you pay"><br><sub><b>Ask your landlord which bills you pay</b></sub><br><sub><code>bills-responsibility-question-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/own-renovation-neighbour-heads-up.svg" width="44" height="44" alt="Tell your neighbours about your home renovation"><br><sub><b>Tell your neighbours about your home renovation</b></sub><br><sub><code>own-renovation-neighbour-heads-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/flatmate-shared-purchase-proposal.svg" width="44" height="44" alt="Suggest buying something for the flat together"><br><sub><b>Suggest buying something for the flat together</b></sub><br><sub><code>flatmate-shared-purchase-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dishwasher-install-permission-landlord.svg" width="44" height="44" alt="Ask your landlord if you can install a dishwasher"><br><sub><b>Ask your landlord if you can install a dishwasher</b></sub><br><sub><code>dishwasher-install-permission-landlord</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/previous-owner-question-after-move.svg" width="44" height="44" alt="Ask the previous owner a question about your new home"><br><sub><b>Ask the previous owner a question about your new home</b></sub><br><sub><code>previous-owner-question-after-move</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/shared-garden-use-rota-neighbours.svg" width="44" height="44" alt="Suggest a rota for a shared garden with neighbours"><br><sub><b>Suggest a rota for a shared garden with neighbours</b></sub><br><sub><code>shared-garden-use-rota-neighbours</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/flatmate-quiet-hours-proposal.svg" width="44" height="44" alt="Suggest quiet hours to your flatmates"><br><sub><b>Suggest quiet hours to your flatmates</b></sub><br><sub><code>flatmate-quiet-hours-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/flatmate-shared-food-note.svg" width="44" height="44" alt="Agree how to share food and fridge space with flatmates"><br><sub><b>Agree how to share food and fridge space with flatmates</b></sub><br><sub><code>flatmate-shared-food-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/building-parcel-room-access-request.svg" width="44" height="44" alt="Ask the building manager for access to the parcel room"><br><sub><b>Ask the building manager for access to the parcel room</b></sub><br><sub><code>building-parcel-room-access-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tenancy-agreement-copy-request.svg" width="44" height="44" alt="Ask your landlord for a copy of your tenancy agreement"><br><sub><b>Ask your landlord for a copy of your tenancy agreement</b></sub><br><sub><code>tenancy-agreement-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-cat-garden-note.svg" width="44" height="44" alt="Ask a neighbour kindly about their cat in your garden"><br><sub><b>Ask a neighbour kindly about their cat in your garden</b></sub><br><sub><code>neighbour-cat-garden-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/communal-cleaning-not-done-report.svg" width="44" height="44" alt="Tell the building manager the shared areas have not been cleaned"><br><sub><b>Tell the building manager the shared areas have not been cleaned</b></sub><br><sub><code>communal-cleaning-not-done-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/flatmate-bills-share-reminder.svg" width="44" height="44" alt="Remind a flatmate to pay their share of the bills"><br><sub><b>Remind a flatmate to pay their share of the bills</b></sub><br><sub><code>flatmate-bills-share-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/book-building-lift-for-moving-day.svg" width="44" height="44" alt="Ask the building manager to reserve the lift for your moving day"><br><sub><b>Ask the building manager to reserve the lift for your moving day</b></sub><br><sub><code>book-building-lift-for-moving-day</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-building-manager-about-visitor-parking.svg" width="44" height="44" alt="Ask the building manager how visitor parking works"><br><sub><b>Ask the building manager how visitor parking works</b></sub><br><sub><code>ask-building-manager-about-visitor-parking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-building-manager-for-extra-key-fob.svg" width="44" height="44" alt="Ask the building manager for an extra entry fob"><br><sub><b>Ask the building manager for an extra entry fob</b></sub><br><sub><code>ask-building-manager-for-extra-key-fob</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/report-broken-communal-washing-machine.svg" width="44" height="44" alt="Report a broken washing machine in a shared laundry room"><br><sub><b>Report a broken washing machine in a shared laundry room</b></sub><br><sub><code>report-broken-communal-washing-machine</code></sub></td>
 </tr>
 </table>
 

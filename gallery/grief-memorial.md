@@ -1,6 +1,6 @@
 # Grief and memorial
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Words for loss and remembering: telling people, asking for help, and honouring someone.
 
@@ -88,6 +88,42 @@ Words for loss and remembering: telling people, asking for help, and honouring s
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/ask-manager-to-tell-team-about-loss.svg" width="44" height="44" alt="Ask your manager to tell the team about your loss"><br><sub><b>Ask your manager to tell the team about your loss</b></sub><br><sub><code>ask-manager-to-tell-team-about-loss</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-friends-not-to-post-about-death-yet.svg" width="44" height="44" alt="Ask friends not to post about the death yet"><br><sub><b>Ask friends not to post about the death yet</b></sub><br><sub><code>ask-friends-not-to-post-about-death-yet</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-cemetery-about-grave-care.svg" width="44" height="44" alt="Ask a cemetery about care and upkeep of a grave"><br><sub><b>Ask a cemetery about care and upkeep of a grave</b></sub><br><sub><code>ask-cemetery-about-grave-care</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/online-memorial-page-invite.svg" width="44" height="44" alt="Invite people to share memories on an online memorial page"><br><sub><b>Invite people to share memories on an online memorial page</b></sub><br><sub><code>online-memorial-page-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-online-community-of-death.svg" width="44" height="44" alt="Tell an online group or game community that a member has died"><br><sub><b>Tell an online group or game community that a member has died</b></sub><br><sub><code>tell-online-community-of-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-anniversary-check-in-after-loss.svg" width="44" height="44" alt="Reach out on a widowed friend's wedding anniversary"><br><sub><b>Reach out on a widowed friend's wedding anniversary</b></sub><br><sub><code>wedding-anniversary-check-in-after-loss</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/thank-funeral-director-after-service.svg" width="44" height="44" alt="Thank the funeral director after the service"><br><sub><b>Thank the funeral director after the service</b></sub><br><sub><code>thank-funeral-director-after-service</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-family-about-funeral-wishes.svg" width="44" height="44" alt="Ask family what they know of someone's funeral wishes"><br><sub><b>Ask family what they know of someone's funeral wishes</b></sub><br><sub><code>ask-family-about-funeral-wishes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-hospice-team-after-death.svg" width="44" height="44" alt="Thank the hospice team who cared for someone who died"><br><sub><b>Thank the hospice team who cared for someone who died</b></sub><br><sub><code>thank-hospice-team-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-employer-about-final-pay-after-death.svg" width="44" height="44" alt="Ask a former employer about final pay after a death"><br><sub><b>Ask a former employer about final pay after a death</b></sub><br><sub><code>ask-employer-about-final-pay-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/funeral-home-itemised-price-list.svg" width="44" height="44" alt="Ask a funeral home for an itemised price list"><br><sub><b>Ask a funeral home for an itemised price list</b></sub><br><sub><code>funeral-home-itemised-price-list</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/worship-place-memorial-service.svg" width="44" height="44" alt="Ask a place of worship to hold a memorial service"><br><sub><b>Ask a place of worship to hold a memorial service</b></sub><br><sub><code>worship-place-memorial-service</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/thank-colleagues-collection-loss.svg" width="44" height="44" alt="Thank colleagues for a collection after your loss"><br><sub><b>Thank colleagues for a collection after your loss</b></sub><br><sub><code>thank-colleagues-collection-loss</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinic-cancel-appointments-after-death.svg" width="44" height="44" alt="Ask a clinic to cancel the appointments of someone who died"><br><sub><b>Ask a clinic to cancel the appointments of someone who died</b></sub><br><sub><code>clinic-cancel-appointments-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-day-off-on-death-anniversary.svg" width="44" height="44" alt="Ask your manager for a day off on a loss anniversary"><br><sub><b>Ask your manager for a day off on a loss anniversary</b></sub><br><sub><code>ask-day-off-on-death-anniversary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/memorialise-social-media-account-request.svg" width="44" height="44" alt="Ask a social media site to memorialise or close an account after a death"><br><sub><b>Ask a social media site to memorialise or close an account after a death</b></sub><br><sub><code>memorialise-social-media-account-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/memory-recipe-book-request.svg" width="44" height="44" alt="Ask family to share recipes for a book in someone's memory"><br><sub><b>Ask family to share recipes for a book in someone's memory</b></sub><br><sub><code>memory-recipe-book-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-venue-to-host-a-wake.svg" width="44" height="44" alt="Ask a pub or venue to host a wake after a funeral"><br><sub><b>Ask a pub or venue to host a wake after a funeral</b></sub><br><sub><code>ask-venue-to-host-a-wake</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-friends-to-help-clear-a-home-after-death.svg" width="44" height="44" alt="Ask friends to help clear a loved one's home"><br><sub><b>Ask friends to help clear a loved one's home</b></sub><br><sub><code>ask-friends-to-help-clear-a-home-after-death</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/eulogy-colleague.svg" width="44" height="44" alt="Eulogy for a colleague"><br><sub><b>Eulogy for a colleague</b></sub><br><sub><code>eulogy-colleague</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/grief-natural-burial-question.svg" width="44" height="44" alt="Ask a funeral home about a natural burial"><br><sub><b>Ask a funeral home about a natural burial</b></sub><br><sub><code>grief-natural-burial-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/grief-pet-tribute-post.svg" width="44" height="44" alt="Tribute post for a pet who has died"><br><sub><b>Tribute post for a pet who has died</b></sub><br><sub><code>grief-pet-tribute-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/grief-funeral-flowers-order.svg" width="44" height="44" alt="Order funeral flowers from a florist"><br><sub><b>Order funeral flowers from a florist</b></sub><br><sub><code>grief-funeral-flowers-order</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/grief-bring-food-after-funeral.svg" width="44" height="44" alt="Ask family to bring food to the house after the funeral"><br><sub><b>Ask family to bring food to the house after the funeral</b></sub><br><sub><code>grief-bring-food-after-funeral</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/memorial-charity-walk-invitation.svg" width="44" height="44" alt="Invite people to a charity walk in memory of someone"><br><sub><b>Invite people to a charity walk in memory of someone</b></sub><br><sub><code>memorial-charity-walk-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-family-for-headstone-wording-ideas.svg" width="44" height="44" alt="Ask family for ideas for the words on a headstone"><br><sub><b>Ask family for ideas for the words on a headstone</b></sub><br><sub><code>ask-family-for-headstone-wording-ideas</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-sit-with-me-at-the-funeral.svg" width="44" height="44" alt="Ask a friend to sit with you at a funeral"><br><sub><b>Ask a friend to sit with you at a funeral</b></sub><br><sub><code>ask-friend-to-sit-with-me-at-the-funeral</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-crematorium-about-collecting-ashes.svg" width="44" height="44" alt="Ask a crematorium or funeral home when you can collect the ashes"><br><sub><b>Ask a crematorium or funeral home when you can collect the ashes</b></sub><br><sub><code>ask-crematorium-about-collecting-ashes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sympathy-for-loss-of-a-grandparent.svg" width="44" height="44" alt="Sympathy message when someone's grandparent has died"><br><sub><b>Sympathy message when someone's grandparent has died</b></sub><br><sub><code>sympathy-for-loss-of-a-grandparent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-guests-to-wear-bright-colours-at-funeral.svg" width="44" height="44" alt="Ask funeral guests to wear bright colours instead of black"><br><sub><b>Ask funeral guests to wear bright colours instead of black</b></sub><br><sub><code>ask-guests-to-wear-bright-colours-at-funeral</code></sub></td>
 </tr>
 </table>
 

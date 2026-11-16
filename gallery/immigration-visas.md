@@ -1,6 +1,6 @@
 # Immigration and visas
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Letters and messages for visa and residency applications, supporting documents, delays, appeals and settling into a new country.
 
@@ -88,6 +88,42 @@ Letters and messages for visa and residency applications, supporting documents, 
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/right-to-rent-check-reply.svg" width="44" height="44" alt="Reply to a landlord asking for your right-to-rent documents"><br><sub><b>Reply to a landlord asking for your right-to-rent documents</b></sub><br><sub><code>right-to-rent-check-reply</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/experience-letter-for-visa-request.svg" width="44" height="44" alt="Ask a former employer for a work experience letter for a visa"><br><sub><b>Ask a former employer for a work experience letter for a visa</b></sub><br><sub><code>experience-letter-for-visa-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/accommodation-proof-for-visa-request.svg" width="44" height="44" alt="Ask a hotel or host for a booking letter for your visa"><br><sub><b>Ask a hotel or host for a booking letter for your visa</b></sub><br><sub><code>accommodation-proof-for-visa-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/employer-leave-letter-for-visa-request.svg" width="44" height="44" alt="Ask your employer for a leave letter for a visitor visa"><br><sub><b>Ask your employer for a leave letter for a visitor visa</b></sub><br><sub><code>employer-leave-letter-for-visa-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/visa-fee-refund-request.svg" width="44" height="44" alt="Ask for a refund of a visa or immigration fee"><br><sub><b>Ask for a refund of a visa or immigration fee</b></sub><br><sub><code>visa-fee-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/immigration-adviser-case-update-request.svg" width="44" height="44" alt="Ask your immigration adviser for an update on your case"><br><sub><b>Ask your immigration adviser for an update on your case</b></sub><br><sub><code>immigration-adviser-case-update-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/adviser-authority-to-act-letter.svg" width="44" height="44" alt="Letter letting your immigration adviser act for you"><br><sub><b>Letter letting your immigration adviser act for you</b></sub><br><sub><code>adviser-authority-to-act-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/right-to-work-share-code-note.svg" width="44" height="44" alt="Send your right to work details to a new employer"><br><sub><b>Send your right to work details to a new employer</b></sub><br><sub><code>right-to-work-share-code-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/original-documents-return-request.svg" width="44" height="44" alt="Ask an immigration office to return your original papers"><br><sub><b>Ask an immigration office to return your original papers</b></sub><br><sub><code>original-documents-return-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/immigration-interview-attendance-confirmation.svg" width="44" height="44" alt="Confirm you will attend an immigration interview"><br><sub><b>Confirm you will attend an immigration interview</b></sub><br><sub><code>immigration-interview-attendance-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-letter-child-place-visa.svg" width="44" height="44" alt="Ask a school for a letter confirming your child's place for a visa"><br><sub><b>Ask a school for a letter confirming your child's place for a visa</b></sub><br><sub><code>school-letter-child-place-visa</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-character-reference-application.svg" width="44" height="44" alt="Ask a friend to write a character reference for an application"><br><sub><b>Ask a friend to write a character reference for an application</b></sub><br><sub><code>friend-character-reference-application</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/visa-office-update-passport-number.svg" width="44" height="44" alt="Ask the visa office to update your passport number"><br><sub><b>Ask the visa office to update your passport number</b></sub><br><sub><code>visa-office-update-passport-number</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/university-confirm-degree-visa.svg" width="44" height="44" alt="Ask a university to confirm your degree for a visa application"><br><sub><b>Ask a university to confirm your degree for a visa application</b></sub><br><sub><code>university-confirm-degree-visa</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/adviser-document-checklist-request.svg" width="44" height="44" alt="Ask your immigration adviser for a document checklist"><br><sub><b>Ask your immigration adviser for a document checklist</b></sub><br><sub><code>adviser-document-checklist-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/visa-wait-update-to-employer.svg" width="44" height="44" alt="Update your employer while you wait for a visa decision"><br><sub><b>Update your employer while you wait for a visa decision</b></sub><br><sub><code>visa-wait-update-to-employer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/visa-appointment-cancellation-note.svg" width="44" height="44" alt="Cancel a visa appointment you no longer need"><br><sub><b>Cancel a visa appointment you no longer need</b></sub><br><sub><code>visa-appointment-cancellation-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/residence-card-error-report.svg" width="44" height="44" alt="Report a mistake printed on your residence card"><br><sub><b>Report a mistake printed on your residence card</b></sub><br><sub><code>residence-card-error-report</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/visa-photo-resubmission-note.svg" width="44" height="44" alt="Send a new photo after a visa office rejected yours"><br><sub><b>Send a new photo after a visa office rejected yours</b></sub><br><sub><code>visa-photo-resubmission-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/visa-office-name-change-notice.svg" width="44" height="44" alt="Tell the immigration office your name has changed"><br><sub><b>Tell the immigration office your name has changed</b></sub><br><sub><code>visa-office-name-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/newborn-dependant-application-question.svg" width="44" height="44" alt="Ask an immigration adviser how to add a newborn to your visa"><br><sub><b>Ask an immigration adviser how to add a newborn to your visa</b></sub><br><sub><code>newborn-dependant-application-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/consular-registration-request.svg" width="44" height="44" alt="Register with your country's embassy while living abroad"><br><sub><b>Register with your country's embassy while living abroad</b></sub><br><sub><code>consular-registration-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/employer-visa-cost-repayment-query.svg" width="44" height="44" alt="Ask your employer whether you must repay visa costs if you leave"><br><sub><b>Ask your employer whether you must repay visa costs if you leave</b></sub><br><sub><code>employer-visa-cost-repayment-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/emergency-travel-document-request.svg" width="44" height="44" alt="Ask your embassy for an emergency travel document"><br><sub><b>Ask your embassy for an emergency travel document</b></sub><br><sub><code>emergency-travel-document-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/payslip-copies-for-visa-request.svg" width="44" height="44" alt="Ask your employer for payslip copies for a visa application"><br><sub><b>Ask your employer for payslip copies for a visa application</b></sub><br><sub><code>payslip-copies-for-visa-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-school-child-start-delayed-by-visa.svg" width="44" height="44" alt="Tell a school your child's start date is delayed by a visa decision"><br><sub><b>Tell a school your child's start date is delayed by a visa decision</b></sub><br><sub><code>tell-school-child-start-delayed-by-visa</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-family-back-home-to-send-documents.svg" width="44" height="44" alt="Ask family in your home country to collect and send documents"><br><sub><b>Ask family in your home country to collect and send documents</b></sub><br><sub><code>ask-family-back-home-to-send-documents</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-consulate-how-long-documents-stay-valid.svg" width="44" height="44" alt="Ask a consulate how recent your documents must be"><br><sub><b>Ask a consulate how recent your documents must be</b></sub><br><sub><code>ask-consulate-how-long-documents-stay-valid</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-bank-about-new-residence-permit.svg" width="44" height="44" alt="Send your bank your new residence permit details"><br><sub><b>Send your bank your new residence permit details</b></sub><br><sub><code>tell-bank-about-new-residence-permit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-employer-for-time-off-for-citizenship-ceremony.svg" width="44" height="44" alt="Ask your employer for time off for your citizenship ceremony"><br><sub><b>Ask your employer for time off for your citizenship ceremony</b></sub><br><sub><code>ask-employer-for-time-off-for-citizenship-ceremony</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Official letters, Sweden
 
-<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Sweden most often need: tenancy, work, tax and debts, insurance and health, consumer rights, authorities, school and neighbours, written in correct Swedish.
 
@@ -104,6 +104,26 @@ The official letters people in Sweden most often need: tenancy, work, tax and de
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/se-granne-staket-forslag.svg" width="44" height="44" alt="Gemensamt staket: propose a shared fence to a neighbour (Sweden)"><br><sub><b>Gemensamt staket: propose a shared fence to a neighbour (Sweden)</b></sub><br><sub><code>se-granne-staket-forslag</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/se-bygglov-yttrande.svg" width="44" height="44" alt="Yttrande över bygglov: comment on a neighbour's building permit (Sweden)"><br><sub><b>Yttrande över bygglov: comment on a neighbour's building permit (Sweden)</b></sub><br><sub><code>se-bygglov-yttrande</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-lagenhetsbyte-ansokan.svg" width="44" height="44" alt="Lägenhetsbyte: ask your landlord to approve an apartment swap (Sweden)"><br><sub><b>Lägenhetsbyte: ask your landlord to approve an apartment swap (Sweden)</b></sub><br><sub><code>se-lagenhetsbyte-ansokan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-kompledighet-ansokan.svg" width="44" height="44" alt="Kompledighet: ask to take time off in lieu of overtime (Sweden)"><br><sub><b>Kompledighet: ask to take time off in lieu of overtime (Sweden)</b></sub><br><sub><code>se-kompledighet-ansokan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-fullmakt-hamta-ut.svg" width="44" height="44" alt="Fullmakt: let someone collect a parcel or medicine for you (Sweden)"><br><sub><b>Fullmakt: let someone collect a parcel or medicine for you (Sweden)</b></sub><br><sub><code>se-fullmakt-hamta-ut</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-kontoutdrag-begaran.svg" width="44" height="44" alt="Kontoutdrag: ask your bank for account statements (Sweden)"><br><sub><b>Kontoutdrag: ask your bank for account statements (Sweden)</b></sub><br><sub><code>se-kontoutdrag-begaran</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/se-forsakring-andring.svg" width="44" height="44" alt="Ändring av försäkring: update your insurance cover (Sweden)"><br><sub><b>Ändring av försäkring: update your insurance cover (Sweden)</b></sub><br><sub><code>se-forsakring-andring</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-lonekonto-andring.svg" width="44" height="44" alt="Nytt lönekonto: give your employer a new salary account (Sweden)"><br><sub><b>Nytt lönekonto: give your employer a new salary account (Sweden)</b></sub><br><sub><code>se-lonekonto-andring</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-evenemang-aterbetalning.svg" width="44" height="44" alt="Återbetalning av biljett: ask for a refund for a cancelled event (Sweden)"><br><sub><b>Återbetalning av biljett: ask for a refund for a cancelled event (Sweden)</b></sub><br><sub><code>se-evenemang-aterbetalning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-renovering-hyresratt-tillstand.svg" width="44" height="44" alt="Tillstånd att renovera: ask the landlord before renovating a rental (Sweden)"><br><sub><b>Tillstånd att renovera: ask the landlord before renovating a rental (Sweden)</b></sub><br><sub><code>se-renovering-hyresratt-tillstand</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-skadehistorik-begaran.svg" width="44" height="44" alt="Skadehistorik: ask an insurer for your claims history (Sweden)"><br><sub><b>Skadehistorik: ask an insurer for your claims history (Sweden)</b></sub><br><sub><code>se-skadehistorik-begaran</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-samtal-mentor-begaran.svg" width="44" height="44" alt="Begäran om samtal: ask your child's teacher or mentor for a meeting (Sweden)"><br><sub><b>Begäran om samtal: ask your child's teacher or mentor for a meeting (Sweden)</b></sub><br><sub><code>se-samtal-mentor-begaran</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/se-lonespecifikation-begaran.svg" width="44" height="44" alt="Lönespecifikation: ask your employer for copies of pay slips (Sweden)"><br><sub><b>Lönespecifikation: ask your employer for copies of pay slips (Sweden)</b></sub><br><sub><code>se-lonespecifikation-begaran</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-stammoprotokoll-begaran.svg" width="44" height="44" alt="Stämmoprotokoll: ask the housing co-op for meeting minutes (Sweden)"><br><sub><b>Stämmoprotokoll: ask the housing co-op for meeting minutes (Sweden)</b></sub><br><sub><code>se-stammoprotokoll-begaran</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-reseforsakring-intyg.svg" width="44" height="44" alt="Reseförsäkringsintyg: ask your insurer for proof of travel cover (Sweden)"><br><sub><b>Reseförsäkringsintyg: ask your insurer for proof of travel cover (Sweden)</b></sub><br><sub><code>se-reseforsakring-intyg</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-tagforsening-ersattning.svg" width="44" height="44" alt="Förseningsersättning: claim compensation for a late train (Sweden)"><br><sub><b>Förseningsersättning: claim compensation for a late train (Sweden)</b></sub><br><sub><code>se-tagforsening-ersattning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-kreditkort-uppsagning.svg" width="44" height="44" alt="Uppsägning av kreditkort: cancel a credit card (Sweden)"><br><sub><b>Uppsägning av kreditkort: cancel a credit card (Sweden)</b></sub><br><sub><code>se-kreditkort-uppsagning</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/se-studieledighet-ansokan.svg" width="44" height="44" alt="Ansökan om studieledighet: ask for leave to study (Sweden)"><br><sub><b>Ansökan om studieledighet: ask for leave to study (Sweden)</b></sub><br><sub><code>se-studieledighet-ansokan</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Official letters, Austria
 
-<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Austria most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities, family and neighbours, written in correct Austrian German.
 
@@ -104,6 +104,26 @@ The official letters people in Austria most often need: tenancy, work, tax and b
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/at-nachbar-parkplatz.svg" width="44" height="44" alt="Parkplatz: ask a neighbour to stop using your parking space (Austria)"><br><sub><b>Parkplatz: ask a neighbour to stop using your parking space (Austria)</b></sub><br><sub><code>at-nachbar-parkplatz</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/at-bauarbeiten-ankuendigung.svg" width="44" height="44" alt="Bauarbeiten: tell neighbours about renovation work (Austria)"><br><sub><b>Bauarbeiten: tell neighbours about renovation work (Austria)</b></sub><br><sub><code>at-bauarbeiten-ankuendigung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-sonderurlaub-antrag.svg" width="44" height="44" alt="Antrag auf Sonderurlaub: ask for leave for a personal event (Austria)"><br><sub><b>Antrag auf Sonderurlaub: ask for leave for a personal event (Austria)</b></sub><br><sub><code>at-sonderurlaub-antrag</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-turnbefreiung.svg" width="44" height="44" alt="Befreiung vom Turnunterricht: excuse a pupil from PE (Austria)"><br><sub><b>Befreiung vom Turnunterricht: excuse a pupil from PE (Austria)</b></sub><br><sub><code>at-turnbefreiung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-zutritt-nachbargrund.svg" width="44" height="44" alt="Ersuchen um Zutritt: ask a neighbour access for repairs (Austria)"><br><sub><b>Ersuchen um Zutritt: ask a neighbour access for repairs (Austria)</b></sub><br><sub><code>at-zutritt-nachbargrund</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-polizzenkopie.svg" width="44" height="44" alt="Polizzenkopie anfordern: ask the insurer for a policy copy (Austria)"><br><sub><b>Polizzenkopie anfordern: ask the insurer for a policy copy (Austria)</b></sub><br><sub><code>at-polizzenkopie</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/at-vertragskopie-anforderung.svg" width="44" height="44" alt="Vertragskopie anfordern: ask a company for a contract copy (Austria)"><br><sub><b>Vertragskopie anfordern: ask a company for a contract copy (Austria)</b></sub><br><sub><code>at-vertragskopie-anforderung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-sprechstunde-bitte.svg" width="44" height="44" alt="Sprechstunde: ask a teacher for a meeting about your child (Austria)"><br><sub><b>Sprechstunde: ask a teacher for a meeting about your child (Austria)</b></sub><br><sub><code>at-sprechstunde-bitte</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-bewilligung-kostenuebernahme.svg" width="44" height="44" alt="Kostenübernahme: ask the insurer to approve treatment costs first (Austria)"><br><sub><b>Kostenübernahme: ask the insurer to approve treatment costs first (Austria)</b></sub><br><sub><code>at-bewilligung-kostenuebernahme</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-weiterbildung-ansuchen.svg" width="44" height="44" alt="Weiterbildung: ask your employer to support a course (Austria)"><br><sub><b>Weiterbildung: ask your employer to support a course (Austria)</b></sub><br><sub><code>at-weiterbildung-ansuchen</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-garagenplatz-kuendigung.svg" width="44" height="44" alt="Kündigung Garagenplatz: end the rental of a parking space (Austria)"><br><sub><b>Kündigung Garagenplatz: end the rental of a parking space (Austria)</b></sub><br><sub><code>at-garagenplatz-kuendigung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-kreditkarte-kuendigung.svg" width="44" height="44" alt="Kündigung Kreditkarte: cancel a credit card (Austria)"><br><sub><b>Kündigung Kreditkarte: cancel a credit card (Austria)</b></sub><br><sub><code>at-kreditkarte-kuendigung</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/at-meldebestaetigung-antrag.svg" width="44" height="44" alt="Meldebestätigung: ask the registration office for proof of address (Austria)"><br><sub><b>Meldebestätigung: ask the registration office for proof of address (Austria)</b></sub><br><sub><code>at-meldebestaetigung-antrag</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-arbeitszeitaufzeichnung-anforderung.svg" width="44" height="44" alt="Arbeitszeitaufzeichnungen: ask for your working time records (Austria)"><br><sub><b>Arbeitszeitaufzeichnungen: ask for your working time records (Austria)</b></sub><br><sub><code>at-arbeitszeitaufzeichnung-anforderung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-schluesselverlust-meldung.svg" width="44" height="44" alt="Schlüsselverlust: report a lost key to the property manager (Austria)"><br><sub><b>Schlüsselverlust: report a lost key to the property manager (Austria)</b></sub><br><sub><code>at-schluesselverlust-meldung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-todesfall-bank-mitteilung.svg" width="44" height="44" alt="Todesfallmitteilung: tell a bank an account holder has died (Austria)"><br><sub><b>Todesfallmitteilung: tell a bank an account holder has died (Austria)</b></sub><br><sub><code>at-todesfall-bank-mitteilung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-ueberstunden-abgeltung.svg" width="44" height="44" alt="Überstundenabgeltung: ask for pay or time off for overtime (Austria)"><br><sub><b>Überstundenabgeltung: ask for pay or time off for overtime (Austria)</b></sub><br><sub><code>at-ueberstunden-abgeltung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/at-hundeabgabe-abmeldung.svg" width="44" height="44" alt="Hundeabmeldung: deregister a dog for the dog tax (Austria)"><br><sub><b>Hundeabmeldung: deregister a dog for the dog tax (Austria)</b></sub><br><sub><code>at-hundeabgabe-abmeldung</code></sub></td>
 </tr>
 </table>
 

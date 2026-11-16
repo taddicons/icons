@@ -1,6 +1,6 @@
 # Volunteering and community
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Recruiting and thanking volunteers, shift notes, food banks, mutual aid, charity runs, faith group logistics, clean-ups, neighbour help and committee papers.
 
@@ -83,6 +83,47 @@ Recruiting and thanking volunteers, shift notes, food banks, mutual aid, charity
 <td align="center" width="16%"><img src="../svg/mark/community-event-insurance-enquiry.svg" width="44" height="44" alt="Ask about insurance cover for a community event"><br><sub><b>Ask about insurance cover for a community event</b></sub><br><sub><code>community-event-insurance-enquiry</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/volunteer-induction-checklist.svg" width="44" height="44" alt="Checklist for a new volunteer's first day"><br><sub><b>Checklist for a new volunteer's first day</b></sub><br><sub><code>volunteer-induction-checklist</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/new-volunteer-buddy-pairing-note.svg" width="44" height="44" alt="Pair a new volunteer with an experienced buddy"><br><sub><b>Pair a new volunteer with an experienced buddy</b></sub><br><sub><code>new-volunteer-buddy-pairing-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/group-signatory-change-letter.svg" width="44" height="44" alt="Ask the bank to change who can sign for your community group"><br><sub><b>Ask the bank to change who can sign for your community group</b></sub><br><sub><code>group-signatory-change-letter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/hall-booking-confirmation-to-hirer.svg" width="44" height="44" alt="Confirm a community hall booking to the person hiring it"><br><sub><b>Confirm a community hall booking to the person hiring it</b></sub><br><sub><code>hall-booking-confirmation-to-hirer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-group-constitution-vote-notice.svg" width="44" height="44" alt="Tell members about a vote to change your group's rules"><br><sub><b>Tell members about a vote to change your group's rules</b></sub><br><sub><code>community-group-constitution-vote-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-driver-insurance-reminder.svg" width="44" height="44" alt="Remind volunteer drivers to check their car insurance"><br><sub><b>Remind volunteer drivers to check their car insurance</b></sub><br><sub><code>volunteer-driver-insurance-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-skills-survey.svg" width="44" height="44" alt="Ask your volunteers which skills they can offer"><br><sub><b>Ask your volunteers which skills they can offer</b></sub><br><sub><code>volunteer-skills-survey</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/past-volunteer-return-invite.svg" width="44" height="44" alt="Invite a past volunteer to come back"><br><sub><b>Invite a past volunteer to come back</b></sub><br><sub><code>past-volunteer-return-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hall-key-holder-rota.svg" width="44" height="44" alt="Set up a key holder rota for your community hall"><br><sub><b>Set up a key holder rota for your community hall</b></sub><br><sub><code>hall-key-holder-rota</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/community-group-annual-report.svg" width="44" height="44" alt="Write a short yearly report for your community group"><br><sub><b>Write a short yearly report for your community group</b></sub><br><sub><code>community-group-annual-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/noticeboard-post-request.svg" width="44" height="44" alt="Ask to put a poster on a shop or library noticeboard"><br><sub><b>Ask to put a poster on a shop or library noticeboard</b></sub><br><sub><code>noticeboard-post-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hall-hirer-deposit-return-note.svg" width="44" height="44" alt="Tell a hall hirer about their deposit after the booking"><br><sub><b>Tell a hall hirer about their deposit after the booking</b></sub><br><sub><code>hall-hirer-deposit-return-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-shop-volunteer-enquiry.svg" width="44" height="44" alt="Ask a charity shop about volunteering"><br><sub><b>Ask a charity shop about volunteering</b></sub><br><sub><code>charity-shop-volunteer-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-collection-permit-request.svg" width="44" height="44" alt="Ask the council about a permit for a street collection"><br><sub><b>Ask the council about a permit for a street collection</b></sub><br><sub><code>charity-collection-permit-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/corporate-volunteer-day-request.svg" width="44" height="44" alt="Ask a local company to send staff for a volunteering day"><br><sub><b>Ask a local company to send staff for a volunteering day</b></sub><br><sub><code>corporate-volunteer-day-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/corporate-volunteer-day-thanks.svg" width="44" height="44" alt="Thank a company team after their volunteering day"><br><sub><b>Thank a company team after their volunteering day</b></sub><br><sub><code>corporate-volunteer-day-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-hours-confirmation-letter.svg" width="44" height="44" alt="Confirm a volunteer's hours for a school, award or job"><br><sub><b>Confirm a volunteer's hours for a school, award or job</b></sub><br><sub><code>volunteer-hours-confirmation-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-raffle-rules-notice.svg" width="44" height="44" alt="Post the rules for a community group raffle"><br><sub><b>Post the rules for a community group raffle</b></sub><br><sub><code>community-raffle-rules-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-garden-harvest-share-post.svg" width="44" height="44" alt="Invite neighbours to share the community garden harvest"><br><sub><b>Invite neighbours to share the community garden harvest</b></sub><br><sub><code>community-garden-harvest-share-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-emergency-contact-form.svg" width="44" height="44" alt="Volunteer emergency contact and needs form"><br><sub><b>Volunteer emergency contact and needs form</b></sub><br><sub><code>volunteer-emergency-contact-form</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-group-pause-notice.svg" width="44" height="44" alt="Tell members a community group is pausing its activities"><br><sub><b>Tell members a community group is pausing its activities</b></sub><br><sub><code>community-group-pause-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-driver-lift-request.svg" width="44" height="44" alt="Ask a volunteer driver scheme for a lift to an appointment"><br><sub><b>Ask a volunteer driver scheme for a lift to an appointment</b></sub><br><sub><code>volunteer-driver-lift-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/funder-grant-thank-you-letter.svg" width="44" height="44" alt="Thank a funder for a community grant"><br><sub><b>Thank a funder for a community grant</b></sub><br><sub><code>funder-grant-thank-you-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-training-evening-invite.svg" width="44" height="44" alt="Invite volunteers to a training evening"><br><sub><b>Invite volunteers to a training evening</b></sub><br><sub><code>volunteer-training-evening-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/workshop-host-ask-community.svg" width="44" height="44" alt="Ask a local person to run a workshop for your group"><br><sub><b>Ask a local person to run a workshop for your group</b></sub><br><sub><code>workshop-host-ask-community</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-no-show-check-in.svg" width="44" height="44" alt="Check in kindly with a volunteer who missed a shift"><br><sub><b>Check in kindly with a volunteer who missed a shift</b></sub><br><sub><code>volunteer-no-show-check-in</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-event-first-aid-cover-request.svg" width="44" height="44" alt="Ask for first aid cover at a community event"><br><sub><b>Ask for first aid cover at a community event</b></sub><br><sub><code>community-event-first-aid-cover-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/community-group-website-help-ask.svg" width="44" height="44" alt="Ask for a volunteer to help with the group website"><br><sub><b>Ask for a volunteer to help with the group website</b></sub><br><sub><code>community-group-website-help-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/defibrillator-training-invite.svg" width="44" height="44" alt="Invitation to a community defibrillator training session"><br><sub><b>Invitation to a community defibrillator training session</b></sub><br><sub><code>defibrillator-training-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-lone-shift-check-in-plan.svg" width="44" height="44" alt="Check-in plan for volunteers on solo shifts"><br><sub><b>Check-in plan for volunteers on solo shifts</b></sub><br><sub><code>volunteer-lone-shift-check-in-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-group-social-media-guidelines.svg" width="44" height="44" alt="Share simple social media rules for your community group"><br><sub><b>Share simple social media rules for your community group</b></sub><br><sub><code>community-group-social-media-guidelines</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/befriending-visit-pause-note.svg" width="44" height="44" alt="Tell the person you visit that you need a short break"><br><sub><b>Tell the person you visit that you need a short break</b></sub><br><sub><code>befriending-visit-pause-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-group-supporter-update.svg" width="44" height="44" alt="Send a short update to the people who support your group"><br><sub><b>Send a short update to the people who support your group</b></sub><br><sub><code>community-group-supporter-update</code></sub></td>
 </tr>
 </table>
 

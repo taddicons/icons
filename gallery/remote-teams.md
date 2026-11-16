@@ -1,6 +1,6 @@
 # Remote work and team coordination
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Clear updates, handoffs, meeting notes and team habits for people who work apart from each other.
 
@@ -88,6 +88,42 @@ Clear updates, handoffs, meeting notes and team habits for people who work apart
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/team-pulse-survey-invite.svg" width="44" height="44" alt="Invite your remote team to a short pulse survey"><br><sub><b>Invite your remote team to a short pulse survey</b></sub><br><sub><code>team-pulse-survey-invite</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/plain-english-team-writing-guide.svg" width="44" height="44" alt="Plain English writing guide for a team across languages"><br><sub><b>Plain English writing guide for a team across languages</b></sub><br><sub><code>plain-english-team-writing-guide</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-tool-access.svg" width="44" height="44" alt="Ask for access to a work tool or shared folder"><br><sub><b>Ask for access to a work tool or shared folder</b></sub><br><sub><code>ask-for-tool-access</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/office-day-plan-for-remote-team.svg" width="44" height="44" alt="Share the plan for an in-office day with a remote team"><br><sub><b>Share the plan for an in-office day with a remote team</b></sub><br><sub><code>office-day-plan-for-remote-team</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/phishing-awareness-reminder-for-team.svg" width="44" height="44" alt="Remind a remote team how to spot phishing messages"><br><sub><b>Remind a remote team how to spot phishing messages</b></sub><br><sub><code>phishing-awareness-reminder-for-team</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-from-abroad-request.svg" width="44" height="44" alt="Ask your employer to work from another country for a while"><br><sub><b>Ask your employer to work from another country for a while</b></sub><br><sub><code>work-from-abroad-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/remote-pairing-session-invite.svg" width="44" height="44" alt="Invite a remote teammate to a pairing session"><br><sub><b>Invite a remote teammate to a pairing session</b></sub><br><sub><code>remote-pairing-session-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-public-holidays-across-countries-note.svg" width="44" height="44" alt="Share upcoming public holidays across a spread-out team"><br><sub><b>Share upcoming public holidays across a spread-out team</b></sub><br><sub><code>remote-public-holidays-across-countries-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-meeting-to-async-proposal.svg" width="44" height="44" alt="Suggest replacing a regular meeting with a written update"><br><sub><b>Suggest replacing a regular meeting with a written update</b></sub><br><sub><code>remote-meeting-to-async-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-doc-cleanup-call.svg" width="44" height="44" alt="Ask a remote team to tidy up old shared documents"><br><sub><b>Ask a remote team to tidy up old shared documents</b></sub><br><sub><code>remote-doc-cleanup-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-lost-laptop-report.svg" width="44" height="44" alt="Report a lost or stolen work laptop"><br><sub><b>Report a lost or stolen work laptop</b></sub><br><sub><code>remote-lost-laptop-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-expense-claim-note.svg" width="44" height="44" alt="Send a remote work expense claim to your manager"><br><sub><b>Send a remote work expense claim to your manager</b></sub><br><sub><code>remote-expense-claim-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/quarterly-goals-share-post.svg" width="44" height="44" alt="Share the team's goals for the next quarter"><br><sub><b>Share the team's goals for the next quarter</b></sub><br><sub><code>quarterly-goals-share-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/meeting-captions-request.svg" width="44" height="44" alt="Ask for captions in team video calls"><br><sub><b>Ask for captions in team video calls</b></sub><br><sub><code>meeting-captions-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/meeting-note-taker-rotation.svg" width="44" height="44" alt="Set up a rotation for taking meeting notes"><br><sub><b>Set up a rotation for taking meeting notes</b></sub><br><sub><code>meeting-note-taker-rotation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/recurring-meeting-cancel-notice.svg" width="44" height="44" alt="Cancel a recurring team meeting"><br><sub><b>Cancel a recurring team meeting</b></sub><br><sub><code>recurring-meeting-cancel-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tool-licence-cleanup-request.svg" width="44" height="44" alt="Ask the team to give up unused software seats"><br><sub><b>Ask the team to give up unused software seats</b></sub><br><sub><code>tool-licence-cleanup-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-hire-equipment-delivery-note.svg" width="44" height="44" alt="Tell a new hire when their work equipment will arrive"><br><sub><b>Tell a new hire when their work equipment will arrive</b></sub><br><sub><code>new-hire-equipment-delivery-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/call-screenshot-sharing-ask.svg" width="44" height="44" alt="Ask teammates before sharing a video call screenshot"><br><sub><b>Ask teammates before sharing a video call screenshot</b></sub><br><sub><code>call-screenshot-sharing-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-tool-outage-workaround.svg" width="44" height="44" alt="Tell your remote team how to keep working while a tool is down"><br><sub><b>Tell your remote team how to keep working while a tool is down</b></sub><br><sub><code>remote-tool-outage-workaround</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-team-glossary-share.svg" width="44" height="44" alt="Share a list of team words and abbreviations with new remote teammates"><br><sub><b>Share a list of team words and abbreviations with new remote teammates</b></sub><br><sub><code>remote-team-glossary-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-lunch-and-learn-invite.svg" width="44" height="44" alt="Invite remote colleagues to a short online lunch-and-learn talk"><br><sub><b>Invite remote colleagues to a short online lunch-and-learn talk</b></sub><br><sub><code>remote-lunch-and-learn-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-team-photo-ask.svg" width="44" height="44" alt="Ask remote teammates for a photo and a short bio for the team page"><br><sub><b>Ask remote teammates for a photo and a short bio for the team page</b></sub><br><sub><code>remote-team-photo-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-team-reading-list-share.svg" width="44" height="44" alt="Share a short reading list with your remote team"><br><sub><b>Share a short reading list with your remote team</b></sub><br><sub><code>remote-team-reading-list-share</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/remote-cross-team-request-intake-note.svg" width="44" height="44" alt="Tell other teams how to send your remote team a request"><br><sub><b>Tell other teams how to send your remote team a request</b></sub><br><sub><code>remote-cross-team-request-intake-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-shared-drive-folder-structure-note.svg" width="44" height="44" alt="Explain how your team's shared drive folders are organised"><br><sub><b>Explain how your team's shared drive folders are organised</b></sub><br><sub><code>remote-shared-drive-folder-structure-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-home-desk-setup-tips.svg" width="44" height="44" alt="Share simple tips for a comfortable home desk setup"><br><sub><b>Share simple tips for a comfortable home desk setup</b></sub><br><sub><code>remote-home-desk-setup-tips</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-recording-consent-ask.svg" width="44" height="44" alt="Ask everyone on a call before you record it"><br><sub><b>Ask everyone on a call before you record it</b></sub><br><sub><code>remote-recording-consent-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-video-background-guidance.svg" width="44" height="44" alt="Share guidance on video call backgrounds for client calls"><br><sub><b>Share guidance on video call backgrounds for client calls</b></sub><br><sub><code>remote-video-background-guidance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-shared-chat-language-note.svg" width="44" height="44" alt="Ask a mixed-language team to use one shared language in group chat"><br><sub><b>Ask a mixed-language team to use one shared language in group chat</b></sub><br><sub><code>remote-shared-chat-language-note</code></sub></td>
 </tr>
 </table>
 

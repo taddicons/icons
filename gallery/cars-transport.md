@@ -1,6 +1,6 @@
 # Cars and transport
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Buying, selling, repairing and insuring a vehicle, and getting around: garages, fines, trains, flights and rides.
 
@@ -88,6 +88,42 @@ Buying, selling, repairing and insuring a vehicle, and getting around: garages, 
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/hire-car-damage-charge-dispute.svg" width="44" height="44" alt="Dispute a damage charge from a car hire company"><br><sub><b>Dispute a damage charge from a car hire company</b></sub><br><sub><code>hire-car-damage-charge-dispute</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/old-parts-return-request.svg" width="44" height="44" alt="Ask a garage to give you back the old parts they replaced"><br><sub><b>Ask a garage to give you back the old parts they replaced</b></sub><br><sub><code>old-parts-return-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/driving-instructor-change-request.svg" width="44" height="44" alt="Ask to change your driving instructor"><br><sub><b>Ask to change your driving instructor</b></sub><br><sub><code>driving-instructor-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ev-home-charger-quote-request.svg" width="44" height="44" alt="Ask for a quote to fit a home EV charger"><br><sub><b>Ask for a quote to fit a home EV charger</b></sub><br><sub><code>ev-home-charger-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cycle-to-work-buddy-ask.svg" width="44" height="44" alt="Ask a coworker to cycle to work together"><br><sub><b>Ask a coworker to cycle to work together</b></sub><br><sub><code>cycle-to-work-buddy-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reserved-train-seat-complaint.svg" width="44" height="44" alt="Complain that your reserved train seat was not available"><br><sub><b>Complain that your reserved train seat was not available</b></sub><br><sub><code>reserved-train-seat-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/car-alarm-going-off-note.svg" width="44" height="44" alt="Leave a note for a neighbour whose car alarm keeps going off"><br><sub><b>Leave a note for a neighbour whose car alarm keeps going off</b></sub><br><sub><code>car-alarm-going-off-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-charger-courtesy-note.svg" width="44" height="44" alt="Ask a driver to move their car from a shared electric charger"><br><sub><b>Ask a driver to move their car from a shared electric charger</b></sub><br><sub><code>shared-charger-courtesy-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/coach-hire-quote-request.svg" width="44" height="44" alt="Ask a coach company for a quote to hire a coach with a driver"><br><sub><b>Ask a coach company for a quote to hire a coach with a driver</b></sub><br><sub><code>coach-hire-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-sold-insurance-cancellation.svg" width="44" height="44" alt="Cancel your car insurance after selling the car"><br><sub><b>Cancel your car insurance after selling the car</b></sub><br><sub><code>car-sold-insurance-cancellation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tyre-fitting-booking-request.svg" width="44" height="44" alt="Book new tyres to be fitted at a garage"><br><sub><b>Book new tyres to be fitted at a garage</b></sub><br><sub><code>tyre-fitting-booking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-club-membership-cancel-request.svg" width="44" height="44" alt="Cancel your car club membership"><br><sub><b>Cancel your car club membership</b></sub><br><sub><code>car-club-membership-cancel-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/roof-box-borrow-ask.svg" width="44" height="44" alt="Ask to borrow a roof box or bike rack for a trip"><br><sub><b>Ask to borrow a roof box or bike rack for a trip</b></sub><br><sub><code>roof-box-borrow-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/jump-start-help-ask.svg" width="44" height="44" alt="Ask a neighbour to help jump-start your car"><br><sub><b>Ask a neighbour to help jump-start your car</b></sub><br><sub><code>jump-start-help-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-finance-settlement-figure-request.svg" width="44" height="44" alt="Ask for the settlement figure to pay off your car finance"><br><sub><b>Ask for the settlement figure to pay off your car finance</b></sub><br><sub><code>car-finance-settlement-figure-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/workplace-bike-parking-request.svg" width="44" height="44" alt="Ask your workplace for safe bike parking"><br><sub><b>Ask your workplace for safe bike parking</b></sub><br><sub><code>workplace-bike-parking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hire-car-deposit-release-request.svg" width="44" height="44" alt="Ask a car hire company to release your held deposit"><br><sub><b>Ask a car hire company to release your held deposit</b></sub><br><sub><code>hire-car-deposit-release-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-valet-booking-request.svg" width="44" height="44" alt="Book a car valet or deep clean"><br><sub><b>Book a car valet or deep clean</b></sub><br><sub><code>car-valet-booking-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/car-parts-order-delay-query.svg" width="44" height="44" alt="Ask a garage when parts for your car will arrive"><br><sub><b>Ask a garage when parts for your car will arrive</b></sub><br><sub><code>car-parts-order-delay-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-scratch-apology-note.svg" width="44" height="44" alt="Note after you scratch a parked car"><br><sub><b>Note after you scratch a parked car</b></sub><br><sub><code>car-scratch-apology-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bus-driver-conduct-complaint.svg" width="44" height="44" alt="Complaint to a bus company about a driver's conduct"><br><sub><b>Complaint to a bus company about a driver's conduct</b></sub><br><sub><code>bus-driver-conduct-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/used-car-inspection-booking.svg" width="44" height="44" alt="Book an independent check before buying a used car"><br><sub><b>Book an independent check before buying a used car</b></sub><br><sub><code>used-car-inspection-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wrong-fare-charged-query.svg" width="44" height="44" alt="Query a wrong fare charged for a bus or train trip"><br><sub><b>Query a wrong fare charged for a bus or train trip</b></sub><br><sub><code>wrong-fare-charged-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/driving-instructor-thank-you.svg" width="44" height="44" alt="Thank your driving instructor after you pass"><br><sub><b>Thank your driving instructor after you pass</b></sub><br><sub><code>driving-instructor-thank-you</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/driving-lesson-reschedule-request.svg" width="44" height="44" alt="Ask your driving instructor to move a lesson"><br><sub><b>Ask your driving instructor to move a lesson</b></sub><br><sub><code>driving-lesson-reschedule-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ev-charging-point-fault-report.svg" width="44" height="44" alt="Report a public electric car charging point that is not working"><br><sub><b>Report a public electric car charging point that is not working</b></sub><br><sub><code>ev-charging-point-fault-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/roadside-assistance-delay-complaint.svg" width="44" height="44" alt="Complain that roadside assistance took too long to arrive"><br><sub><b>Complain that roadside assistance took too long to arrive</b></sub><br><sub><code>roadside-assistance-delay-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-modification-insurer-notice.svg" width="44" height="44" alt="Tell your insurer about a change made to your car"><br><sub><b>Tell your insurer about a change made to your car</b></sub><br><sub><code>car-modification-insurer-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/practice-drive-supervisor-ask.svg" width="44" height="44" alt="Ask a family member to supervise your practice drives"><br><sub><b>Ask a family member to supervise your practice drives</b></sub><br><sub><code>practice-drive-supervisor-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/train-ticket-wrong-date-change-request.svg" width="44" height="44" alt="Ask to change a train ticket booked for the wrong date"><br><sub><b>Ask to change a train ticket booked for the wrong date</b></sub><br><sub><code>train-ticket-wrong-date-change-request</code></sub></td>
 </tr>
 </table>
 

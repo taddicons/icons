@@ -1,6 +1,6 @@
 # Communication
 
-<sub>Taddicons 0.3.0 · Interface · 108 icons</sub>
+<sub>Taddicons 0.3.1 · Interface · 108 icons</sub>
 
 Chat, mail, calls, contacts and announcements.
 

@@ -1,6 +1,6 @@
 # Neighbourhood and environment
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Neighbours, streets, councils and the local environment: asking, reporting and organising.
 
@@ -88,6 +88,42 @@ Neighbours, streets, councils and the local environment: asking, reporting and o
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/ask-neighbour-not-to-block-our-dropped-kerb.svg" width="44" height="44" alt="Ask a neighbour not to park across your dropped kerb"><br><sub><b>Ask a neighbour not to park across your dropped kerb</b></sub><br><sub><code>ask-neighbour-not-to-block-our-dropped-kerb</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-neighbours-to-shut-the-shared-gate.svg" width="44" height="44" alt="Remind neighbours to close the shared gate"><br><sub><b>Remind neighbours to close the shared gate</b></sub><br><sub><code>ask-neighbours-to-shut-the-shared-gate</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/start-a-babysitting-circle-with-neighbours.svg" width="44" height="44" alt="Start a babysitting swap circle with neighbours"><br><sub><b>Start a babysitting swap circle with neighbours</b></sub><br><sub><code>start-a-babysitting-circle-with-neighbours</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbour-for-ladder-access-for-repairs.svg" width="44" height="44" alt="Ask a neighbour to let you use their side for a ladder during repairs"><br><sub><b>Ask a neighbour to let you use their side for a ladder during repairs</b></sub><br><sub><code>ask-neighbour-for-ladder-access-for-repairs</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-neighbours-to-a-plant-swap.svg" width="44" height="44" alt="Invite neighbours to a plant and seed swap"><br><sub><b>Invite neighbours to a plant and seed swap</b></sub><br><sub><code>invite-neighbours-to-a-plant-swap</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-sympathy-note.svg" width="44" height="44" alt="Send a neighbour a short sympathy note after a loss"><br><sub><b>Send a neighbour a short sympathy note after a loss</b></sub><br><sub><code>neighbour-sympathy-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wildflower-verge-proposal.svg" width="44" height="44" alt="Propose turning a street verge into a wildflower patch"><br><sub><b>Propose turning a street verge into a wildflower patch</b></sub><br><sub><code>wildflower-verge-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/surplus-garden-produce-offer.svg" width="44" height="44" alt="Offer spare fruit and veg from your garden to neighbours"><br><sub><b>Offer spare fruit and veg from your garden to neighbours</b></sub><br><sub><code>surplus-garden-produce-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/street-car-club-interest-note.svg" width="44" height="44" alt="Ask neighbours if they would share a street car club"><br><sub><b>Ask neighbours if they would share a street car club</b></sub><br><sub><code>street-car-club-interest-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/quiet-hours-request-shift-worker.svg" width="44" height="44" alt="Ask neighbours for some daytime quiet while you work nights"><br><sub><b>Ask neighbours for some daytime quiet while you work nights</b></sub><br><sub><code>quiet-hours-request-shift-worker</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/street-tree-watering-rota.svg" width="44" height="44" alt="Set up a rota for neighbours to water young street trees"><br><sub><b>Set up a rota for neighbours to water young street trees</b></sub><br><sub><code>street-tree-watering-rota</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-council-for-a-dog-waste-bin.svg" width="44" height="44" alt="Ask the council to put a dog waste bin on your street"><br><sub><b>Ask the council to put a dog waste bin on your street</b></sub><br><sub><code>ask-council-for-a-dog-waste-bin</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/offer-to-share-garden-tools.svg" width="44" height="44" alt="Offer to share your garden tools with neighbours"><br><sub><b>Offer to share your garden tools with neighbours</b></sub><br><sub><code>offer-to-share-garden-tools</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bins-on-pavement-note.svg" width="44" height="44" alt="Ask neighbours to take their bins off the pavement after collection"><br><sub><b>Ask neighbours to take their bins off the pavement after collection</b></sub><br><sub><code>bins-on-pavement-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/building-site-early-noise-report.svg" width="44" height="44" alt="Report a building site making noise outside its working hours"><br><sub><b>Report a building site making noise outside its working hours</b></sub><br><sub><code>building-site-early-noise-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/party-wall-works-heads-up.svg" width="44" height="44" alt="Give your neighbour an early, friendly heads-up about planned shared-wall works"><br><sub><b>Give your neighbour an early, friendly heads-up about planned shared-wall works</b></sub><br><sub><code>party-wall-works-heads-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbourhood-skills-swap-post.svg" width="44" height="44" alt="Start a skills swap where neighbours trade help"><br><sub><b>Start a skills swap where neighbours trade help</b></sub><br><sub><code>neighbourhood-skills-swap-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-council-for-a-community-bench.svg" width="44" height="44" alt="Ask the council to put a bench on your street or in the park"><br><sub><b>Ask the council to put a bench on your street or in the park</b></sub><br><sub><code>ask-council-for-a-community-bench</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/bus-shelter-damage-report.svg" width="44" height="44" alt="Report a damaged bus shelter"><br><sub><b>Report a damaged bus shelter</b></sub><br><sub><code>bus-shelter-damage-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-loose-roof-tile-note.svg" width="44" height="44" alt="Tell a neighbour a roof tile on their house looks loose"><br><sub><b>Tell a neighbour a roof tile on their house looks loose</b></sub><br><sub><code>neighbour-loose-roof-tile-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/local-walking-group-invite.svg" width="44" height="44" alt="Invite neighbours to join a local walking group"><br><sub><b>Invite neighbours to join a local walking group</b></sub><br><sub><code>local-walking-group-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/doorstep-caller-warning-to-neighbours.svg" width="44" height="44" alt="Warn neighbours about an unexpected doorstep caller"><br><sub><b>Warn neighbours about an unexpected doorstep caller</b></sub><br><sub><code>doorstep-caller-warning-to-neighbours</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/street-festive-lights-plan.svg" width="44" height="44" alt="Suggest decorating the street with festive lights together"><br><sub><b>Suggest decorating the street with festive lights together</b></sub><br><sub><code>street-festive-lights-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-firework-heads-up.svg" width="44" height="44" alt="Let neighbours know you are setting off fireworks"><br><sub><b>Let neighbours know you are setting off fireworks</b></sub><br><sub><code>neighbour-firework-heads-up</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbour-to-move-car-for-a-delivery.svg" width="44" height="44" alt="Ask a neighbour to move their car for a big delivery"><br><sub><b>Ask a neighbour to move their car for a big delivery</b></sub><br><sub><code>ask-neighbour-to-move-car-for-a-delivery</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-neighbours-to-a-street-meeting.svg" width="44" height="44" alt="Invite neighbours to a meeting about a shared street issue"><br><sub><b>Invite neighbours to a meeting about a shared street issue</b></sub><br><sub><code>invite-neighbours-to-a-street-meeting</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/heads-up-about-removal-van-parking.svg" width="44" height="44" alt="Tell neighbours a removal van will need space on moving day"><br><sub><b>Tell neighbours a removal van will need space on moving day</b></sub><br><sub><code>heads-up-about-removal-van-parking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-bird-feeder-rats-note.svg" width="44" height="44" alt="Ask a neighbour to change their bird feeder because of rats"><br><sub><b>Ask a neighbour to change their bird feeder because of rats</b></sub><br><sub><code>neighbour-bird-feeder-rats-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hedgehog-gap-proposal-to-neighbours.svg" width="44" height="44" alt="Suggest neighbours cut small hedgehog gaps in garden fences"><br><sub><b>Suggest neighbours cut small hedgehog gaps in garden fences</b></sub><br><sub><code>hedgehog-gap-proposal-to-neighbours</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-new-baby-noise-heads-up.svg" width="44" height="44" alt="Let neighbours know a new baby may cry at night"><br><sub><b>Let neighbours know a new baby may cry at night</b></sub><br><sub><code>neighbour-new-baby-noise-heads-up</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Cards and greetings
 
-<sub>Taddicons 0.3.0 · Documents & messages · 65 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Designed digital cards for every occasion, sent as a link or printed.
 
@@ -91,6 +91,39 @@ Designed digital cards for every occasion, sent as a link or printed.
 <td align="center" width="16%"><img src="../svg/mark/siblings-day-card.svg" width="44" height="44" alt="Siblings Day card for a brother or sister"><br><sub><b>Siblings Day card for a brother or sister</b></sub><br><sub><code>siblings-day-card</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/bridal-shower-card.svg" width="44" height="44" alt="Card to give at a bridal shower"><br><sub><b>Card to give at a bridal shower</b></sub><br><sub><code>bridal-shower-card</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/nowruz-card.svg" width="44" height="44" alt="Nowruz card to wish someone a happy Persian New Year"><br><sub><b>Nowruz card to wish someone a happy Persian New Year</b></sub><br><sub><code>nowruz-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nurse-thank-you-card.svg" width="44" height="44" alt="Thank-you card for a nurse who cared for you"><br><sub><b>Thank-you card for a nurse who cared for you</b></sub><br><sub><code>nurse-thank-you-card</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pregnancy-loss-sympathy-card.svg" width="44" height="44" alt="Sympathy card for someone after a pregnancy loss"><br><sub><b>Sympathy card for someone after a pregnancy loss</b></sub><br><sub><code>pregnancy-loss-sympathy-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-thank-you-card.svg" width="44" height="44" alt="Card to thank a volunteer for their time"><br><sub><b>Card to thank a volunteer for their time</b></sub><br><sub><code>volunteer-thank-you-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-driver-card.svg" width="44" height="44" alt="Card for a new driver who passed their test"><br><sub><b>Card for a new driver who passed their test</b></sub><br><sub><code>new-driver-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-anniversary-card.svg" width="44" height="44" alt="Card for a colleague's work anniversary"><br><sub><b>Card for a colleague's work anniversary</b></sub><br><sub><code>work-anniversary-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-day-at-school-card.svg" width="44" height="44" alt="Card for a child starting school for the first time"><br><sub><b>Card for a child starting school for the first time</b></sub><br><sub><code>first-day-at-school-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holi-card.svg" width="44" height="44" alt="Card to wish someone a happy Holi"><br><sub><b>Card to wish someone a happy Holi</b></sub><br><sub><code>holi-card</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/kwanzaa-card.svg" width="44" height="44" alt="Card to wish someone a joyful Kwanzaa"><br><sub><b>Card to wish someone a joyful Kwanzaa</b></sub><br><sub><code>kwanzaa-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/end-of-treatment-card.svg" width="44" height="44" alt="End of treatment card: mark the last day of a long treatment"><br><sub><b>End of treatment card: mark the last day of a long treatment</b></sub><br><sub><code>end-of-treatment-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/black-belt-card.svg" width="44" height="44" alt="Black belt card: congratulate someone on a martial arts grading"><br><sub><b>Black belt card: congratulate someone on a martial arts grading</b></sub><br><sub><code>black-belt-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pen-pal-card.svg" width="44" height="44" alt="Pen pal card: send a friendly card to someone you write to"><br><sub><b>Pen pal card: send a friendly card to someone you write to</b></sub><br><sub><code>pen-pal-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/apprenticeship-complete-card.svg" width="44" height="44" alt="Apprenticeship complete card: celebrate a newly qualified trade"><br><sub><b>Apprenticeship complete card: celebrate a newly qualified trade</b></sub><br><sub><code>apprenticeship-complete-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/foster-placement-welcome-card.svg" width="44" height="44" alt="Foster welcome card: welcome a child or young person into a foster home"><br><sub><b>Foster welcome card: welcome a child or young person into a foster home</b></sub><br><sub><code>foster-placement-welcome-card</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/recital-congratulations-card.svg" width="44" height="44" alt="Recital congratulations card: well done after a music or dance show"><br><sub><b>Recital congratulations card: well done after a music or dance show</b></sub><br><sub><code>recital-congratulations-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-to-the-team-card.svg" width="44" height="44" alt="Welcome card for a new team member"><br><sub><b>Welcome card for a new team member</b></sub><br><sub><code>welcome-to-the-team-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/postal-worker-thank-you-card.svg" width="44" height="44" alt="Thank-you card for your postal worker"><br><sub><b>Thank-you card for your postal worker</b></sub><br><sub><code>postal-worker-thank-you-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bus-driver-thank-you-card.svg" width="44" height="44" alt="Thank-you card for a bus driver"><br><sub><b>Thank-you card for a bus driver</b></sub><br><sub><code>bus-driver-thank-you-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cleaner-thank-you-card.svg" width="44" height="44" alt="Thank-you card for a cleaner or housekeeper"><br><sub><b>Thank-you card for a cleaner or housekeeper</b></sub><br><sub><code>cleaner-thank-you-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/crossing-guard-thank-you-card.svg" width="44" height="44" alt="Thank-you card for a school crossing guard"><br><sub><b>Thank-you card for a school crossing guard</b></sub><br><sub><code>crossing-guard-thank-you-card</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/new-big-sibling-card.svg" width="44" height="44" alt="Card for a child who has just become a big brother or sister"><br><sub><b>Card for a child who has just become a big brother or sister</b></sub><br><sub><code>new-big-sibling-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/long-service-award-card.svg" width="44" height="44" alt="Card for a colleague marking many years of service"><br><sub><b>Card for a colleague marking many years of service</b></sub><br><sub><code>long-service-award-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-pay-day-card.svg" width="44" height="44" alt="Card for someone getting their first ever pay packet"><br><sub><b>Card for someone getting their first ever pay packet</b></sub><br><sub><code>first-pay-day-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/starting-university-card.svg" width="44" height="44" alt="Card for someone starting university"><br><sub><b>Card for someone starting university</b></sub><br><sub><code>starting-university-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/paramedic-thank-you-card.svg" width="44" height="44" alt="Thank-you card for paramedics or an ambulance crew"><br><sub><b>Thank-you card for paramedics or an ambulance crew</b></sub><br><sub><code>paramedic-thank-you-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/moving-into-care-home-card.svg" width="44" height="44" alt="Card for someone moving into a care home"><br><sub><b>Card for someone moving into a care home</b></sub><br><sub><code>moving-into-care-home-card</code></sub></td>
 </tr>
 </table>
 

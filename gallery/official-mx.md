@@ -1,6 +1,6 @@
 # Official letters, Mexico
 
-<sub>Taddicons 0.3.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Mexico most often need: tenancy, work, tax and banks, insurance and social security, consumer rights, authorities, family and neighbours, written in correct Mexican Spanish.
 
@@ -103,6 +103,27 @@ The official letters people in Mexico most often need: tenancy, work, tax and ba
 </tr>
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/mx-reporte-servicios-publicos.svg" width="44" height="44" alt="Reporte de alumbrado o bache: report a street fault (Mexico)"><br><sub><b>Reporte de alumbrado o bache: report a street fault (Mexico)</b></sub><br><sub><code>mx-reporte-servicios-publicos</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-solicitud-carta-recomendacion.svg" width="44" height="44" alt="Carta de recomendación: ask a former employer for a reference (Mexico)"><br><sub><b>Carta de recomendación: ask a former employer for a reference (Mexico)</b></sub><br><sub><code>mx-solicitud-carta-recomendacion</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-actualizacion-domicilio-banco.svg" width="44" height="44" alt="Actualización de domicilio: tell your bank your new address (Mexico)"><br><sub><b>Actualización de domicilio: tell your bank your new address (Mexico)</b></sub><br><sub><code>mx-actualizacion-domicilio-banco</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-cambio-turno-escolar.svg" width="44" height="44" alt="Cambio de turno: ask the school to move your child to another shift (Mexico)"><br><sub><b>Cambio de turno: ask the school to move your child to another shift (Mexico)</b></sub><br><sub><code>mx-cambio-turno-escolar</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-permiso-mascota-arrendador.svg" width="44" height="44" alt="Permiso para mascota: ask your landlord to allow a pet (Mexico)"><br><sub><b>Permiso para mascota: ask your landlord to allow a pet (Mexico)</b></sub><br><sub><code>mx-permiso-mascota-arrendador</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-aviso-obras-vecinos.svg" width="44" height="44" alt="Aviso de obra: tell your neighbours about building work (Mexico)"><br><sub><b>Aviso de obra: tell your neighbours about building work (Mexico)</b></sub><br><sub><code>mx-aviso-obras-vecinos</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/mx-solicitud-copia-poliza.svg" width="44" height="44" alt="Copia de póliza: ask the insurer for your policy and conditions (Mexico)"><br><sub><b>Copia de póliza: ask the insurer for your policy and conditions (Mexico)</b></sub><br><sub><code>mx-solicitud-copia-poliza</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-cambio-cuenta-nomina.svg" width="44" height="44" alt="Cambio de cuenta de nómina: give your employer a new salary account (Mexico)"><br><sub><b>Cambio de cuenta de nómina: give your employer a new salary account (Mexico)</b></sub><br><sub><code>mx-cambio-cuenta-nomina</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-reembolso-boleto-evento.svg" width="44" height="44" alt="Reembolso de boleto: ask for a refund for a cancelled event (Mexico)"><br><sub><b>Reembolso de boleto: ask for a refund for a cancelled event (Mexico)</b></sub><br><sub><code>mx-reembolso-boleto-evento</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-designacion-beneficiarios-seguro.svg" width="44" height="44" alt="Designación de beneficiarios: change life policy beneficiaries (Mexico)"><br><sub><b>Designación de beneficiarios: change life policy beneficiaries (Mexico)</b></sub><br><sub><code>mx-designacion-beneficiarios-seguro</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-entrega-inmueble-arrendado.svg" width="44" height="44" alt="Entrega del inmueble: set the move-out handover with the landlord (Mexico)"><br><sub><b>Entrega del inmueble: set the move-out handover with the landlord (Mexico)</b></sub><br><sub><code>mx-entrega-inmueble-arrendado</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-solicitud-poda-arbol.svg" width="44" height="44" alt="Solicitud de poda: ask the municipality to prune a street tree (Mexico)"><br><sub><b>Solicitud de poda: ask the municipality to prune a street tree (Mexico)</b></sub><br><sub><code>mx-solicitud-poda-arbol</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/mx-aviso-fallecimiento-banco.svg" width="44" height="44" alt="Aviso de fallecimiento: tell a bank an account holder has died (Mexico)"><br><sub><b>Aviso de fallecimiento: tell a bank an account holder has died (Mexico)</b></sub><br><sub><code>mx-aviso-fallecimiento-banco</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-convenio-pago-colegiatura.svg" width="44" height="44" alt="Convenio de pago: ask a private school for a tuition payment plan (Mexico)"><br><sub><b>Convenio de pago: ask a private school for a tuition payment plan (Mexico)</b></sub><br><sub><code>mx-convenio-pago-colegiatura</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-permiso-sin-goce-sueldo.svg" width="44" height="44" alt="Permiso sin goce de sueldo: ask your employer for unpaid leave (Mexico)"><br><sub><b>Permiso sin goce de sueldo: ask your employer for unpaid leave (Mexico)</b></sub><br><sub><code>mx-permiso-sin-goce-sueldo</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-reposos-lactancia.svg" width="44" height="44" alt="Reposos por lactancia: ask for breastfeeding breaks at work (Mexico)"><br><sub><b>Reposos por lactancia: ask for breastfeeding breaks at work (Mexico)</b></sub><br><sub><code>mx-reposos-lactancia</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-reclamacion-paqueteria.svg" width="44" height="44" alt="Reclamación a paquetería: claim for a lost or damaged parcel (Mexico)"><br><sub><b>Reclamación a paquetería: claim for a lost or damaged parcel (Mexico)</b></sub><br><sub><code>mx-reclamacion-paqueteria</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mx-reembolso-inscripcion.svg" width="44" height="44" alt="Reembolso de inscripción: ask a school to refund an enrolment fee (Mexico)"><br><sub><b>Reembolso de inscripción: ask a school to refund an enrolment fee (Mexico)</b></sub><br><sub><code>mx-reembolso-inscripcion</code></sub></td>
 </tr>
 </table>
 

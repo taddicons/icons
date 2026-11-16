@@ -1,6 +1,6 @@
 # Tech help for family and seniors
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes for asking for tech help, warning relatives about scams, explaining steps simply, reassuring nervous beginners and thanking the people who help.
 
@@ -83,6 +83,47 @@ Notes for asking for tech help, warning relatives about scams, explaining steps 
 <td align="center" width="16%"><img src="../svg/mark/medicine-reminder-setup-note.svg" width="44" height="44" alt="Help a relative set phone reminders for their tablets"><br><sub><b>Help a relative set phone reminders for their tablets</b></sub><br><sub><code>medicine-reminder-setup-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/smart-doorbell-explainer-note.svg" width="44" height="44" alt="Explain a new video doorbell to a relative"><br><sub><b>Explain a new video doorbell to a relative</b></sub><br><sub><code>smart-doorbell-explainer-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/contactless-payment-how-to-note.svg" width="44" height="44" alt="Explain how to pay by tapping a card"><br><sub><b>Explain how to pay by tapping a card</b></sub><br><sub><code>contactless-payment-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/call-blocking-how-to-note.svg" width="44" height="44" alt="Show a relative how to block unwanted calls on their phone"><br><sub><b>Show a relative how to block unwanted calls on their phone</b></sub><br><sub><code>call-blocking-how-to-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/scam-call-hang-up-script.svg" width="44" height="44" alt="Write a short script to say when a suspicious caller rings"><br><sub><b>Write a short script to say when a suspicious caller rings</b></sub><br><sub><code>scam-call-hang-up-script</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/phone-service-instead-of-online-request.svg" width="44" height="44" alt="Ask a company to deal with you by phone or post, not online"><br><sub><b>Ask a company to deal with you by phone or post, not online</b></sub><br><sub><code>phone-service-instead-of-online-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/parcel-tracking-how-to-note.svg" width="44" height="44" alt="Explain to a relative how to track a parcel"><br><sub><b>Explain to a relative how to track a parcel</b></sub><br><sub><code>parcel-tracking-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/voice-shopping-off-note.svg" width="44" height="44" alt="Explain how to turn off shopping by voice on a smart speaker"><br><sub><b>Explain how to turn off shopping by voice on a smart speaker</b></sub><br><sub><code>voice-shopping-off-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/printer-setup-help-request.svg" width="44" height="44" alt="Ask family to help you set up a new printer"><br><sub><b>Ask family to help you set up a new printer</b></sub><br><sub><code>printer-setup-help-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/email-attachment-how-to-note.svg" width="44" height="44" alt="Explain how to open a photo or file sent by email"><br><sub><b>Explain how to open a photo or file sent by email</b></sub><br><sub><code>email-attachment-how-to-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/bank-trusted-contact-request.svg" width="44" height="44" alt="Ask your bank to add a trusted contact to your account"><br><sub><b>Ask your bank to add a trusted contact to your account</b></sub><br><sub><code>bank-trusted-contact-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/phone-storage-full-help-note.svg" width="44" height="44" alt="Simple steps for when your phone says storage is full"><br><sub><b>Simple steps for when your phone says storage is full</b></sub><br><sub><code>phone-storage-full-help-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/magnifier-app-how-to-note.svg" width="44" height="44" alt="How to use your phone as a magnifying glass"><br><sub><b>How to use your phone as a magnifying glass</b></sub><br><sub><code>magnifier-app-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cancel-tech-help-visit-message.svg" width="44" height="44" alt="Cancel or move a tech help visit with a relative"><br><sub><b>Cancel or move a tech help visit with a relative</b></sub><br><sub><code>cancel-tech-help-visit-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-phone-what-to-do-note.svg" width="44" height="44" alt="What to do if you lose your phone, a simple note"><br><sub><b>What to do if you lose your phone, a simple note</b></sub><br><sub><code>lost-phone-what-to-do-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/smart-tv-catch-up-how-to-note.svg" width="44" height="44" alt="How to watch catch-up TV: a simple note for a relative"><br><sub><b>How to watch catch-up TV: a simple note for a relative</b></sub><br><sub><code>smart-tv-catch-up-how-to-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tv-subtitles-how-to-note.svg" width="44" height="44" alt="Turn on TV subtitles: steps for an older relative"><br><sub><b>Turn on TV subtitles: steps for an older relative</b></sub><br><sub><code>tv-subtitles-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/voice-typing-how-to-note.svg" width="44" height="44" alt="Type by talking: a voice typing note for a relative"><br><sub><b>Type by talking: a voice typing note for a relative</b></sub><br><sub><code>voice-typing-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-photo-album-invite-grandparent.svg" width="44" height="44" alt="Invite a grandparent to a shared family photo album"><br><sub><b>Invite a grandparent to a shared family photo album</b></sub><br><sub><code>shared-photo-album-invite-grandparent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/scam-alert-club-noticeboard-post.svg" width="44" height="44" alt="Scam going round: a warning post for an older people's club"><br><sub><b>Scam going round: a warning post for an older people's club</b></sub><br><sub><code>scam-alert-club-noticeboard-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/smartwatch-fall-alert-setup-note.svg" width="44" height="44" alt="Set up fall alerts on a smartwatch: a note for a parent"><br><sub><b>Set up fall alerts on a smartwatch: a note for a parent</b></sub><br><sub><code>smartwatch-fall-alert-setup-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-family-calendar-how-to-note.svg" width="44" height="44" alt="Use a shared family calendar: a how-to for a relative"><br><sub><b>Use a shared family calendar: a how-to for a relative</b></sub><br><sub><code>shared-family-calendar-how-to-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/remote-help-screen-share-how-to-note.svg" width="44" height="44" alt="Let family see your screen to help: a safe how-to note"><br><sub><b>Let family see your screen to help: a safe how-to note</b></sub><br><sub><code>remote-help-screen-share-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/junk-email-folder-how-to-note.svg" width="44" height="44" alt="Show a relative how to check the junk email folder"><br><sub><b>Show a relative how to check the junk email folder</b></sub><br><sub><code>junk-email-folder-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ringtone-volume-how-to-note.svg" width="44" height="44" alt="Help a relative make their phone ring louder"><br><sub><b>Help a relative make their phone ring louder</b></sub><br><sub><code>ringtone-volume-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/phone-ticket-show-how-to-note.svg" width="44" height="44" alt="Explain how to show a ticket on a phone"><br><sub><b>Explain how to show a ticket on a phone</b></sub><br><sub><code>phone-ticket-show-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/copy-and-paste-how-to-note.svg" width="44" height="44" alt="Teach a relative how to copy and paste on a phone"><br><sub><b>Teach a relative how to copy and paste on a phone</b></sub><br><sub><code>copy-and-paste-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/screenshot-how-to-note.svg" width="44" height="44" alt="Show a relative how to take a screenshot"><br><sub><b>Show a relative how to take a screenshot</b></sub><br><sub><code>screenshot-how-to-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/email-unsubscribe-how-to-note.svg" width="44" height="44" alt="How to unsubscribe from unwanted emails"><br><sub><b>How to unsubscribe from unwanted emails</b></sub><br><sub><code>email-unsubscribe-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/emergency-sos-setup-note.svg" width="44" height="44" alt="Set up emergency SOS on a phone"><br><sub><b>Set up emergency SOS on a phone</b></sub><br><sub><code>emergency-sos-setup-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/safe-app-download-how-to-note.svg" width="44" height="44" alt="How to download apps safely"><br><sub><b>How to download apps safely</b></sub><br><sub><code>safe-app-download-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/phone-alarm-clock-how-to-note.svg" width="44" height="44" alt="Show a relative how to set a phone alarm clock"><br><sub><b>Show a relative how to set a phone alarm clock</b></sub><br><sub><code>phone-alarm-clock-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/website-bookmark-how-to-note.svg" width="44" height="44" alt="Show a relative how to save a favourite website"><br><sub><b>Show a relative how to save a favourite website</b></sub><br><sub><code>website-bookmark-how-to-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/phone-torch-how-to-note.svg" width="44" height="44" alt="Show a relative how to turn on the phone torch"><br><sub><b>Show a relative how to turn on the phone torch</b></sub><br><sub><code>phone-torch-how-to-note</code></sub></td>
 </tr>
 </table>
 

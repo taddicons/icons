@@ -1,6 +1,6 @@
 # Academia and research
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Students, supervisors and researchers: requests, extensions, appeals, applications and thanks.
 
@@ -88,6 +88,42 @@ Students, supervisors and researchers: requests, extensions, appeals, applicatio
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/tutorial-group-welcome.svg" width="44" height="44" alt="Welcome a new tutorial or seminar group as their tutor"><br><sub><b>Welcome a new tutorial or seminar group as their tutor</b></sub><br><sub><code>tutorial-group-welcome</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/external-examiner-invitation.svg" width="44" height="44" alt="Invite an academic to be the external examiner for a thesis"><br><sub><b>Invite an academic to be the external examiner for a thesis</b></sub><br><sub><code>external-examiner-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/timetable-clash-report.svg" width="44" height="44" alt="Tell your department about a timetable clash"><br><sub><b>Tell your department about a timetable clash</b></sub><br><sub><code>timetable-clash-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/referee-letter-gentle-reminder.svg" width="44" height="44" alt="Remind a referee that your reference is due soon"><br><sub><b>Remind a referee that your reference is due soon</b></sub><br><sub><code>referee-letter-gentle-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conference-registration-refund-request.svg" width="44" height="44" alt="Ask for a refund of a conference registration fee"><br><sub><b>Ask for a refund of a conference registration fee</b></sub><br><sub><code>conference-registration-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-rep-feedback-summary.svg" width="44" height="44" alt="Share class feedback with staff as a student rep"><br><sub><b>Share class feedback with staff as a student rep</b></sub><br><sub><code>student-rep-feedback-summary</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/seminar-presentation-swap-request.svg" width="44" height="44" alt="Ask a classmate to swap seminar presentation slots"><br><sub><b>Ask a classmate to swap seminar presentation slots</b></sub><br><sub><code>seminar-presentation-swap-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lab-safety-training-request.svg" width="44" height="44" alt="Ask to book lab safety training before you start work"><br><sub><b>Ask to book lab safety training before you start work</b></sub><br><sub><code>lab-safety-training-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/research-assistant-application-email.svg" width="44" height="44" alt="Apply by email for a research assistant post"><br><sub><b>Apply by email for a research assistant post</b></sub><br><sub><code>research-assistant-application-email</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conference-visa-letter-request.svg" width="44" height="44" alt="Ask conference organisers for a letter to support your visa"><br><sub><b>Ask conference organisers for a letter to support your visa</b></sub><br><sub><code>conference-visa-letter-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lecture-notes-accessible-format-request.svg" width="44" height="44" alt="Ask for lecture materials in an accessible format"><br><sub><b>Ask for lecture materials in an accessible format</b></sub><br><sub><code>lecture-notes-accessible-format-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lab-booking-request.svg" width="44" height="44" alt="Book time on shared lab equipment"><br><sub><b>Book time on shared lab equipment</b></sub><br><sub><code>lab-booking-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/student-rep-election-statement.svg" width="44" height="44" alt="Write a short statement to stand as student rep"><br><sub><b>Write a short statement to stand as student rep</b></sub><br><sub><code>student-rep-election-statement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/coursework-feedback-clarification-request.svg" width="44" height="44" alt="Ask a tutor to explain the feedback on your coursework"><br><sub><b>Ask a tutor to explain the feedback on your coursework</b></sub><br><sub><code>coursework-feedback-clarification-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/referee-outcome-update.svg" width="44" height="44" alt="Tell your referee how your application turned out"><br><sub><b>Tell your referee how your application turned out</b></sub><br><sub><code>referee-outcome-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/stipend-payment-delay-query.svg" width="44" height="44" alt="Ask why your research stipend payment is late"><br><sub><b>Ask why your research stipend payment is late</b></sub><br><sub><code>stipend-payment-delay-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ethics-amendment-request.svg" width="44" height="44" alt="Ask the ethics committee to approve a change to your study"><br><sub><b>Ask the ethics committee to approve a change to your study</b></sub><br><sub><code>ethics-amendment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/research-software-purchase-request.svg" width="44" height="44" alt="Ask your department to buy software for your research"><br><sub><b>Ask your department to buy software for your research</b></sub><br><sub><code>research-software-purchase-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/lab-key-card-access-request.svg" width="44" height="44" alt="Ask for key card access to a lab or building"><br><sub><b>Ask for key card access to a lab or building</b></sub><br><sub><code>lab-key-card-access-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/exam-script-viewing-request.svg" width="44" height="44" alt="Ask to see your marked exam script"><br><sub><b>Ask to see your marked exam script</b></sub><br><sub><code>exam-script-viewing-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/academic-reading-group-invitation.svg" width="44" height="44" alt="Invite colleagues to join an academic reading group"><br><sub><b>Invite colleagues to join an academic reading group</b></sub><br><sub><code>academic-reading-group-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-sit-in-on-a-course.svg" width="44" height="44" alt="Ask a lecturer if you can sit in on their course"><br><sub><b>Ask a lecturer if you can sit in on their course</b></sub><br><sub><code>ask-to-sit-in-on-a-course</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thesis-printing-and-binding-question.svg" width="44" height="44" alt="Ask the graduate office about printing and binding your thesis"><br><sub><b>Ask the graduate office about printing and binding your thesis</b></sub><br><sub><code>thesis-printing-and-binding-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-author-for-copy-of-paper.svg" width="44" height="44" alt="Ask an author for a copy of their research paper"><br><sub><b>Ask an author for a copy of their research paper</b></sub><br><sub><code>ask-author-for-copy-of-paper</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/alumni-library-access-request.svg" width="44" height="44" alt="Ask your old university for library access as a graduate"><br><sub><b>Ask your old university for library access as a graduate</b></sub><br><sub><code>alumni-library-access-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teaching-assistant-hours-query.svg" width="44" height="44" alt="Ask about hours or pay for your teaching assistant work"><br><sub><b>Ask about hours or pay for your teaching assistant work</b></sub><br><sub><code>teaching-assistant-hours-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/research-data-deposit-note.svg" width="44" height="44" alt="Cover note when depositing research data in a repository"><br><sub><b>Cover note when depositing research data in a repository</b></sub><br><sub><code>research-data-deposit-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ai-tool-use-permission-question.svg" width="44" height="44" alt="Ask a tutor whether you may use AI tools on an assignment"><br><sub><b>Ask a tutor whether you may use AI tools on an assignment</b></sub><br><sub><code>ai-tool-use-permission-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/graduation-ceremony-guest-ticket-request.svg" width="44" height="44" alt="Ask for extra guest tickets for your graduation ceremony"><br><sub><b>Ask for extra guest tickets for your graduation ceremony</b></sub><br><sub><code>graduation-ceremony-guest-ticket-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dissertation-word-count-query.svg" width="44" height="44" alt="Ask what counts toward your dissertation word limit"><br><sub><b>Ask what counts toward your dissertation word limit</b></sub><br><sub><code>dissertation-word-count-query</code></sub></td>
 </tr>
 </table>
 

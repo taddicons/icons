@@ -1,6 +1,6 @@
 # Official letters, Ireland
 
-<sub>Taddicons 0.3.0 · Documents & messages · 72 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Ireland most often need: tenancy and the RTB, work and the WRC, tax and banks, insurance and health, consumer rights, FOI and data requests, school, family and neighbours, written in Irish English.
 
@@ -100,6 +100,30 @@ The official letters people in Ireland most often need: tenancy and the RTB, wor
 <td align="center" width="16%"><img src="../svg/mark/ie-hedge-trees-neighbour.svg" width="44" height="44" alt="Hedges and trees: ask a neighbour to cut back growth (Ireland)"><br><sub><b>Hedges and trees: ask a neighbour to cut back growth (Ireland)</b></sub><br><sub><code>ie-hedge-trees-neighbour</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ie-asb-council-report.svg" width="44" height="44" alt="Anti-social behaviour: report it to the council (Ireland)"><br><sub><b>Anti-social behaviour: report it to the council (Ireland)</b></sub><br><sub><code>ie-asb-council-report</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ie-driveway-neighbour.svg" width="44" height="44" alt="Blocked driveway: ask a neighbour to keep it clear (Ireland)"><br><sub><b>Blocked driveway: ask a neighbour to keep it clear (Ireland)</b></sub><br><sub><code>ie-driveway-neighbour</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ie-hap-landlord-request.svg" width="44" height="44" alt="HAP request: ask your landlord to accept Housing Assistance Payment (Ireland)"><br><sub><b>HAP request: ask your landlord to accept Housing Assistance Payment (Ireland)</b></sub><br><sub><code>ie-hap-landlord-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-housing-list-update.svg" width="44" height="44" alt="Housing list update: tell the council about a change in circumstances (Ireland)"><br><sub><b>Housing list update: tell the council about a change in circumstances (Ireland)</b></sub><br><sub><code>ie-housing-list-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-force-majeure-leave.svg" width="44" height="44" alt="Force majeure leave: confirm urgent leave for a family emergency (Ireland)"><br><sub><b>Force majeure leave: confirm urgent leave for a family emergency (Ireland)</b></sub><br><sub><code>ie-force-majeure-leave</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-bank-scam-recall.svg" width="44" height="44" alt="Scam payment report: ask your bank to recall money sent to a fraudster (Ireland)"><br><sub><b>Scam payment report: ask your bank to recall money sent to a fraudster (Ireland)</b></sub><br><sub><code>ie-bank-scam-recall</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-marketing-opt-out.svg" width="44" height="44" alt="Marketing opt-out: tell a business to stop calls, texts and emails (Ireland)"><br><sub><b>Marketing opt-out: tell a business to stop calls, texts and emails (Ireland)</b></sub><br><sub><code>ie-marketing-opt-out</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-travel-insurance-claim.svg" width="44" height="44" alt="Travel insurance claim: claim for cancellation, illness or lost bags (Ireland)"><br><sub><b>Travel insurance claim: claim for cancellation, illness or lost bags (Ireland)</b></sub><br><sub><code>ie-travel-insurance-claim</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ie-neighbour-smoke-complaint.svg" width="44" height="44" alt="Neighbour letter: ask a neighbour about smoke or burning waste (Ireland)"><br><sub><b>Neighbour letter: ask a neighbour about smoke or burning waste (Ireland)</b></sub><br><sub><code>ie-neighbour-smoke-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-payslip-query.svg" width="44" height="44" alt="Payslip query: ask your employer to explain or correct a payslip (Ireland)"><br><sub><b>Payslip query: ask your employer to explain or correct a payslip (Ireland)</b></sub><br><sub><code>ie-payslip-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-jury-service-excusal.svg" width="44" height="44" alt="Jury service: ask the County Registrar to excuse you (Ireland)"><br><sub><b>Jury service: ask the County Registrar to excuse you (Ireland)</b></sub><br><sub><code>ie-jury-service-excusal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-credit-limit-reduction.svg" width="44" height="44" alt="Credit limit: ask your bank to reduce your card limit (Ireland)"><br><sub><b>Credit limit: ask your bank to reduce your card limit (Ireland)</b></sub><br><sub><code>ie-credit-limit-reduction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-child-travel-consent.svg" width="44" height="44" alt="Travel consent: allow your child to travel abroad (Ireland)"><br><sub><b>Travel consent: allow your child to travel abroad (Ireland)</b></sub><br><sub><code>ie-child-travel-consent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-neighbour-works-notice.svg" width="44" height="44" alt="Building works: tell your neighbours about planned works (Ireland)"><br><sub><b>Building works: tell your neighbours about planned works (Ireland)</b></sub><br><sub><code>ie-neighbour-works-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ie-pay-rise-request.svg" width="44" height="44" alt="Pay rise request: ask your employer for a salary review (Ireland)"><br><sub><b>Pay rise request: ask your employer for a salary review (Ireland)</b></sub><br><sub><code>ie-pay-rise-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-rtb-registration-request.svg" width="44" height="44" alt="RTB registration: ask your landlord to confirm the registration (Ireland)"><br><sub><b>RTB registration: ask your landlord to confirm the registration (Ireland)</b></sub><br><sub><code>ie-rtb-registration-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-child-benefit-change.svg" width="44" height="44" alt="Child Benefit: report a change of circumstances (Ireland)"><br><sub><b>Child Benefit: report a change of circumstances (Ireland)</b></sub><br><sub><code>ie-child-benefit-change</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-remote-working-request.svg" width="44" height="44" alt="Remote working request: ask to work from home (Ireland)"><br><sub><b>Remote working request: ask to work from home (Ireland)</b></sub><br><sub><code>ie-remote-working-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-lpt-deferral-request.svg" width="44" height="44" alt="LPT deferral: ask Revenue to defer Local Property Tax (Ireland)"><br><sub><b>LPT deferral: ask Revenue to defer Local Property Tax (Ireland)</b></sub><br><sub><code>ie-lpt-deferral-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ie-school-transport-request.svg" width="44" height="44" alt="School transport: apply for a place on the school bus (Ireland)"><br><sub><b>School transport: apply for a place on the school bus (Ireland)</b></sub><br><sub><code>ie-school-transport-request</code></sub></td>
 </tr>
 </table>
 

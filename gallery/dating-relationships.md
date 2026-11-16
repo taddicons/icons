@@ -1,6 +1,6 @@
 # Dating and relationships
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Starting, deepening, repairing and ending relationships, with honesty and kindness.
 
@@ -88,6 +88,42 @@ Starting, deepening, repairing and ending relationships, with honesty and kindne
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/date-night-routine-suggestion.svg" width="44" height="44" alt="Suggest a regular date night to your partner"><br><sub><b>Suggest a regular date night to your partner</b></sub><br><sub><code>date-night-routine-suggestion</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-ex-to-delete-private-photos.svg" width="44" height="44" alt="Ask an ex-partner to delete private photos of you"><br><sub><b>Ask an ex-partner to delete private photos of you</b></sub><br><sub><code>ask-ex-to-delete-private-photos</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-new-partner-about-health-condition.svg" width="44" height="44" alt="Tell a new partner about a health condition"><br><sub><b>Tell a new partner about a health condition</b></sub><br><sub><code>tell-new-partner-about-health-condition</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-partner-for-reassurance.svg" width="44" height="44" alt="Ask your partner for reassurance"><br><sub><b>Ask your partner for reassurance</b></sub><br><sub><code>ask-partner-for-reassurance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/celebrate-partner-win-note.svg" width="44" height="44" alt="Celebrate your partner's big win"><br><sub><b>Celebrate your partner's big win</b></sub><br><sub><code>celebrate-partner-win-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-partner-to-take-turns-planning-dates.svg" width="44" height="44" alt="Ask your partner to take turns planning dates"><br><sub><b>Ask your partner to take turns planning dates</b></sub><br><sub><code>ask-partner-to-take-turns-planning-dates</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-new-partner-about-sexual-health-test.svg" width="44" height="44" alt="Ask a new partner about getting a sexual health test"><br><sub><b>Ask a new partner about getting a sexual health test</b></sub><br><sub><code>ask-new-partner-about-sexual-health-test</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-partner-about-your-debts.svg" width="44" height="44" alt="Tell your partner about debts you have"><br><sub><b>Tell your partner about debts you have</b></sub><br><sub><code>tell-partner-about-your-debts</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-ex-to-stay-friends.svg" width="44" height="44" alt="Ask an ex if you can stay friends"><br><sub><b>Ask an ex if you can stay friends</b></sub><br><sub><code>ask-ex-to-stay-friends</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/support-partner-after-job-loss.svg" width="44" height="44" alt="Support your partner after they lose their job"><br><sub><b>Support your partner after they lose their job</b></sub><br><sub><code>support-partner-after-job-loss</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dating-profile-feedback-ask.svg" width="44" height="44" alt="Ask a friend for honest feedback on your dating profile"><br><sub><b>Ask a friend for honest feedback on your dating profile</b></sub><br><sub><code>dating-profile-feedback-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-date-venue-suggestion.svg" width="44" height="44" alt="Suggest a place and time for a first date"><br><sub><b>Suggest a place and time for a first date</b></sub><br><sub><code>first-date-venue-suggestion</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/phone-habits-talk-with-partner.svg" width="44" height="44" alt="Talk to your partner about phone use when you are together"><br><sub><b>Talk to your partner about phone use when you are together</b></sub><br><sub><code>phone-habits-talk-with-partner</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/partner-birthday-plan-ask-their-friend.svg" width="44" height="44" alt="Ask your partner's friend to help plan their birthday"><br><sub><b>Ask your partner's friend to help plan their birthday</b></sub><br><sub><code>partner-birthday-plan-ask-their-friend</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-year-couple-goals-note.svg" width="44" height="44" alt="Share a few shared goals for the new year with your partner"><br><sub><b>Share a few shared goals for the new year with your partner</b></sub><br><sub><code>new-year-couple-goals-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-meet-their-friends.svg" width="44" height="44" alt="Ask your partner if you can meet their friends"><br><sub><b>Ask your partner if you can meet their friends</b></sub><br><sub><code>ask-to-meet-their-friends</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/relationship-check-in-invite.svg" width="44" height="44" alt="Invite your partner to a calm relationship check-in"><br><sub><b>Invite your partner to a calm relationship check-in</b></sub><br><sub><code>relationship-check-in-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/values-and-faith-conversation-opener.svg" width="44" height="44" alt="Start a gentle talk about values and faith with a new partner"><br><sub><b>Start a gentle talk about values and faith with a new partner</b></sub><br><sub><code>values-and-faith-conversation-opener</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/invite-partner-to-family-wedding.svg" width="44" height="44" alt="Invite your partner to a family wedding as your plus-one"><br><sub><b>Invite your partner to a family wedding as your plus-one</b></sub><br><sub><code>invite-partner-to-family-wedding</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/polite-unmatch-message.svg" width="44" height="44" alt="Kind message before you unmatch on a dating app"><br><sub><b>Kind message before you unmatch on a dating app</b></sub><br><sub><code>polite-unmatch-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-valentines-plan-ask.svg" width="44" height="44" alt="Ask a new partner about plans for your first Valentine's Day"><br><sub><b>Ask a new partner about plans for your first Valentine's Day</b></sub><br><sub><code>first-valentines-plan-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/support-partner-after-bereavement.svg" width="44" height="44" alt="Message to support your partner after a death in their family"><br><sub><b>Message to support your partner after a death in their family</b></sub><br><sub><code>support-partner-after-bereavement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/matchmaker-date-feedback.svg" width="44" height="44" alt="Give feedback to a matchmaker after a date"><br><sub><b>Give feedback to a matchmaker after a date</b></sub><br><sub><code>matchmaker-date-feedback</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/long-distance-visit-plan.svg" width="44" height="44" alt="Plan your next visit in a long-distance relationship"><br><sub><b>Plan your next visit in a long-distance relationship</b></sub><br><sub><code>long-distance-visit-plan</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ending-things-after-few-dates.svg" width="44" height="44" alt="Kindly end things after a few dates"><br><sub><b>Kindly end things after a few dates</b></sub><br><sub><code>ending-things-after-few-dates</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ex-at-same-event-heads-up.svg" width="44" height="44" alt="Let an ex know you will both be at the same event"><br><sub><b>Let an ex know you will both be at the same event</b></sub><br><sub><code>ex-at-same-event-heads-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-meeting-public-place-plan.svg" width="44" height="44" alt="Suggest a safe public plan for meeting a match for the first time"><br><sub><b>Suggest a safe public plan for meeting a match for the first time</b></sub><br><sub><code>first-meeting-public-place-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dating-costs-talk-opener.svg" width="44" height="44" alt="Start a talk about how you share costs on dates"><br><sub><b>Start a talk about how you share costs on dates</b></sub><br><sub><code>dating-costs-talk-opener</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cultural-holiday-invite-partner.svg" width="44" height="44" alt="Invite your partner to your family's cultural or religious holiday"><br><sub><b>Invite your partner to your family's cultural or religious holiday</b></sub><br><sub><code>cultural-holiday-invite-partner</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-partner-before-posting-about-us.svg" width="44" height="44" alt="Ask your partner what they are happy for you to post about you both"><br><sub><b>Ask your partner what they are happy for you to post about you both</b></sub><br><sub><code>ask-partner-before-posting-about-us</code></sub></td>
 </tr>
 </table>
 

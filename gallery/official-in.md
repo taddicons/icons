@@ -1,6 +1,6 @@
 # Official letters, India
 
-<sub>Taddicons 0.3.0 · Documents & messages · 71 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in India most often need: tenancy, work and provident fund, tax and banks, insurance, consumer complaints, RTI and government records, school and family, and neighbours, in correct Indian English.
 
@@ -99,6 +99,31 @@ The official letters people in India most often need: tenancy, work and providen
 <td align="center" width="16%"><img src="../svg/mark/in-legal-heir-certificate-request.svg" width="44" height="44" alt="Legal heir certificate: apply to the tahsildar after a death (India)"><br><sub><b>Legal heir certificate: apply to the tahsildar after a death (India)</b></sub><br><sub><code>in-legal-heir-certificate-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/in-neighbour-water-seepage.svg" width="44" height="44" alt="Seepage complaint: ask a neighbour to fix a leak into your flat (India)"><br><sub><b>Seepage complaint: ask a neighbour to fix a leak into your flat (India)</b></sub><br><sub><code>in-neighbour-water-seepage</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/in-society-parking-complaint.svg" width="44" height="44" alt="Parking complaint: complain to your housing society about parking (India)"><br><sub><b>Parking complaint: complain to your housing society about parking (India)</b></sub><br><sub><code>in-society-parking-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-ration-card-member-addition.svg" width="44" height="44" alt="Ration card application: add a family member's name (India)"><br><sub><b>Ration card application: add a family member's name (India)</b></sub><br><sub><code>in-ration-card-member-addition</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/in-electricity-name-transfer.svg" width="44" height="44" alt="Electricity connection: apply for a name change on the meter (India)"><br><sub><b>Electricity connection: apply for a name change on the meter (India)</b></sub><br><sub><code>in-electricity-name-transfer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-work-from-home-request.svg" width="44" height="44" alt="Work from home request: ask your manager for remote work (India)"><br><sub><b>Work from home request: ask your manager for remote work (India)</b></sub><br><sub><code>in-work-from-home-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-atm-failed-transaction-complaint.svg" width="44" height="44" alt="ATM complaint: amount debited but cash not dispensed (India)"><br><sub><b>ATM complaint: amount debited but cash not dispensed (India)</b></sub><br><sub><code>in-atm-failed-transaction-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-courier-lost-parcel-complaint.svg" width="44" height="44" alt="Courier complaint: parcel lost, damaged or not delivered (India)"><br><sub><b>Courier complaint: parcel lost, damaged or not delivered (India)</b></sub><br><sub><code>in-courier-lost-parcel-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-insurance-nominee-change.svg" width="44" height="44" alt="Nominee change: change the nominee on a life insurance policy (India)"><br><sub><b>Nominee change: change the nominee on a life insurance policy (India)</b></sub><br><sub><code>in-insurance-nominee-change</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-school-fee-concession-request.svg" width="44" height="44" alt="Fee concession request: ask the school for a fee waiver (India)"><br><sub><b>Fee concession request: ask the school for a fee waiver (India)</b></sub><br><sub><code>in-school-fee-concession-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/in-neighbour-construction-nuisance.svg" width="44" height="44" alt="Neighbour letter: dust, noise or debris from construction work (India)"><br><sub><b>Neighbour letter: dust, noise or debris from construction work (India)</b></sub><br><sub><code>in-neighbour-construction-nuisance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-salary-advance-request.svg" width="44" height="44" alt="Salary advance: ask your employer for an advance on salary (India)"><br><sub><b>Salary advance: ask your employer for an advance on salary (India)</b></sub><br><sub><code>in-salary-advance-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-debit-card-block-request.svg" width="44" height="44" alt="Card block: ask your bank to block a lost debit card (India)"><br><sub><b>Card block: ask your bank to block a lost debit card (India)</b></sub><br><sub><code>in-debit-card-block-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-policy-revival-request.svg" width="44" height="44" alt="Policy revival: ask your insurer to revive a lapsed policy (India)"><br><sub><b>Policy revival: ask your insurer to revive a lapsed policy (India)</b></sub><br><sub><code>in-policy-revival-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-school-bus-complaint.svg" width="44" height="44" alt="School bus: complain to the school about transport (India)"><br><sub><b>School bus: complain to the school about transport (India)</b></sub><br><sub><code>in-school-bus-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-gas-connection-transfer.svg" width="44" height="44" alt="Gas connection: ask to transfer an LPG or PNG connection (India)"><br><sub><b>Gas connection: ask to transfer an LPG or PNG connection (India)</b></sub><br><sub><code>in-gas-connection-transfer</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/in-maintenance-bill-dispute.svg" width="44" height="44" alt="Maintenance bill dispute: query your housing society's charges (India)"><br><sub><b>Maintenance bill dispute: query your housing society's charges (India)</b></sub><br><sub><code>in-maintenance-bill-dispute</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-job-transfer-request.svg" width="44" height="44" alt="Transfer request: ask your employer for a change of posting (India)"><br><sub><b>Transfer request: ask your employer for a change of posting (India)</b></sub><br><sub><code>in-job-transfer-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-bank-statement-request.svg" width="44" height="44" alt="Bank statement request: ask your branch for an account statement (India)"><br><sub><b>Bank statement request: ask your branch for an account statement (India)</b></sub><br><sub><code>in-bank-statement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-domicile-certificate-application.svg" width="44" height="44" alt="Domicile certificate: apply for a residence certificate (India)"><br><sub><b>Domicile certificate: apply for a residence certificate (India)</b></sub><br><sub><code>in-domicile-certificate-application</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-cheque-book-request.svg" width="44" height="44" alt="Cheque book request: ask your bank to issue a new cheque book (India)"><br><sub><b>Cheque book request: ask your bank to issue a new cheque book (India)</b></sub><br><sub><code>in-cheque-book-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/in-duplicate-policy-request.svg" width="44" height="44" alt="Duplicate policy: ask your insurer for a copy of a lost policy (India)"><br><sub><b>Duplicate policy: ask your insurer for a copy of a lost policy (India)</b></sub><br><sub><code>in-duplicate-policy-request</code></sub></td>
 </tr>
 </table>
 

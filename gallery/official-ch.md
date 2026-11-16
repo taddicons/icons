@@ -1,6 +1,6 @@
 # Official letters, Switzerland
 
-<sub>Taddicons 0.3.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Switzerland most often need: tenancy, work, debt collection and tax, insurance, consumer rights, authorities, family and neighbours, written in correct Swiss standard German.
 
@@ -103,6 +103,27 @@ The official letters people in Switzerland most often need: tenancy, work, debt 
 </tr>
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/ch-waschkueche-regelung.svg" width="44" height="44" alt="Waschküche: ask neighbours to keep the laundry schedule (Switzerland)"><br><sub><b>Waschküche: ask neighbours to keep the laundry schedule (Switzerland)</b></sub><br><sub><code>ch-waschkueche-regelung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-unbezahlter-urlaub.svg" width="44" height="44" alt="Gesuch um unbezahlten Urlaub: ask for unpaid leave (Switzerland)"><br><sub><b>Gesuch um unbezahlten Urlaub: ask for unpaid leave (Switzerland)</b></sub><br><sub><code>ch-unbezahlter-urlaub</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-dispens-sportunterricht.svg" width="44" height="44" alt="Dispensationsgesuch Sport: excuse a pupil from PE (Switzerland)"><br><sub><b>Dispensationsgesuch Sport: excuse a pupil from PE (Switzerland)</b></sub><br><sub><code>ch-dispens-sportunterricht</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-zutritt-nachbargrundstueck.svg" width="44" height="44" alt="Hammerschlagsrecht: ask a neighbour access for repairs (Switzerland)"><br><sub><b>Hammerschlagsrecht: ask a neighbour access for repairs (Switzerland)</b></sub><br><sub><code>ch-zutritt-nachbargrundstueck</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-policenkopie.svg" width="44" height="44" alt="Policenkopie anfordern: ask the insurer for a policy copy (Switzerland)"><br><sub><b>Policenkopie anfordern: ask the insurer for a policy copy (Switzerland)</b></sub><br><sub><code>ch-policenkopie</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-vertragskopie-anforderung.svg" width="44" height="44" alt="Vertragskopie anfordern: ask a company for a contract copy (Switzerland)"><br><sub><b>Vertragskopie anfordern: ask a company for a contract copy (Switzerland)</b></sub><br><sub><code>ch-vertragskopie-anforderung</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ch-steuerauszug-bank.svg" width="44" height="44" alt="Steuerauszug anfordern: ask the bank for a tax statement (Switzerland)"><br><sub><b>Steuerauszug anfordern: ask the bank for a tax statement (Switzerland)</b></sub><br><sub><code>ch-steuerauszug-bank</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-kostengutsprache-gesuch.svg" width="44" height="44" alt="Kostengutsprache: ask the health insurer to approve costs first (Switzerland)"><br><sub><b>Kostengutsprache: ask the health insurer to approve costs first (Switzerland)</b></sub><br><sub><code>ch-kostengutsprache-gesuch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-schule-gespraech.svg" width="44" height="44" alt="Elterngespräch: ask a teacher for a meeting about your child (Switzerland)"><br><sub><b>Elterngespräch: ask a teacher for a meeting about your child (Switzerland)</b></sub><br><sub><code>ch-schule-gespraech</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-weiterbildung-gesuch.svg" width="44" height="44" alt="Weiterbildungsgesuch: ask your employer to support a course (Switzerland)"><br><sub><b>Weiterbildungsgesuch: ask your employer to support a course (Switzerland)</b></sub><br><sub><code>ch-weiterbildung-gesuch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-parkplatz-kuendigung.svg" width="44" height="44" alt="Kündigung Parkplatz: end the rental of a parking space (Switzerland)"><br><sub><b>Kündigung Parkplatz: end the rental of a parking space (Switzerland)</b></sub><br><sub><code>ch-parkplatz-kuendigung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-kreditkarte-kuendigung.svg" width="44" height="44" alt="Kündigung Kreditkarte: cancel a credit card (Switzerland)"><br><sub><b>Kündigung Kreditkarte: cancel a credit card (Switzerland)</b></sub><br><sub><code>ch-kreditkarte-kuendigung</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ch-pensumreduktion-gesuch.svg" width="44" height="44" alt="Pensumreduktion: ask your employer to reduce your workload (Switzerland)"><br><sub><b>Pensumreduktion: ask your employer to reduce your workload (Switzerland)</b></sub><br><sub><code>ch-pensumreduktion-gesuch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-vorsorgeausweis-anforderung.svg" width="44" height="44" alt="Vorsorgeausweis: ask your pension fund for a benefits statement (Switzerland)"><br><sub><b>Vorsorgeausweis: ask your pension fund for a benefits statement (Switzerland)</b></sub><br><sub><code>ch-vorsorgeausweis-anforderung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-schluesselverlust-meldung.svg" width="44" height="44" alt="Schlüsselverlust: report a lost key to the landlord or Verwaltung (Switzerland)"><br><sub><b>Schlüsselverlust: report a lost key to the landlord or Verwaltung (Switzerland)</b></sub><br><sub><code>ch-schluesselverlust-meldung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-todesfall-bank-mitteilung.svg" width="44" height="44" alt="Todesfallmeldung: tell a bank an account holder has died (Switzerland)"><br><sub><b>Todesfallmeldung: tell a bank an account holder has died (Switzerland)</b></sub><br><sub><code>ch-todesfall-bank-mitteilung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-spesen-rueckerstattung.svg" width="44" height="44" alt="Spesenabrechnung: ask your employer to refund work expenses (Switzerland)"><br><sub><b>Spesenabrechnung: ask your employer to refund work expenses (Switzerland)</b></sub><br><sub><code>ch-spesen-rueckerstattung</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ch-nachbar-rauch-geruch.svg" width="44" height="44" alt="Rauch und Geruch: ask a neighbour about smoke or smells (Switzerland)"><br><sub><b>Rauch und Geruch: ask a neighbour about smoke or smells (Switzerland)</b></sub><br><sub><code>ch-nachbar-rauch-geruch</code></sub></td>
 </tr>
 </table>
 

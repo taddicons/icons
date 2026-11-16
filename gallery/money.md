@@ -1,6 +1,6 @@
 # Money and bills
 
-<sub>Taddicons 0.3.0 · Documents & messages · 71 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Invoices, reminders, payment plans, claims and money between friends.
 
@@ -99,6 +99,31 @@ Invoices, reminders, payment plans, claims and money between friends.
 <td align="center" width="16%"><img src="../svg/mark/thank-parents-for-money-help.svg" width="44" height="44" alt="Thank your parents for helping you with money"><br><sub><b>Thank your parents for helping you with money</b></sub><br><sub><code>thank-parents-for-money-help</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/cash-machine-error-claim.svg" width="44" height="44" alt="Tell your bank a cash machine did not give you your money"><br><sub><b>Tell your bank a cash machine did not give you your money</b></sub><br><sub><code>cash-machine-error-claim</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/child-first-bank-card-rules.svg" width="44" height="44" alt="Set simple rules for a child's first bank card"><br><sub><b>Set simple rules for a child's first bank card</b></sub><br><sub><code>child-first-bank-card-rules</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/no-spend-month-invite.svg" width="44" height="44" alt="Invite friends to join a no-spend month"><br><sub><b>Invite friends to join a no-spend month</b></sub><br><sub><code>no-spend-month-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/refund-to-closed-card-request.svg" width="44" height="44" alt="Ask for a refund another way because your card is closed"><br><sub><b>Ask for a refund another way because your card is closed</b></sub><br><sub><code>refund-to-closed-card-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pay-own-share-request.svg" width="44" height="44" alt="Ask a friend to let you pay your own share"><br><sub><b>Ask a friend to let you pay your own share</b></sub><br><sub><code>pay-own-share-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-costs-receipts-request.svg" width="44" height="44" alt="Ask a housemate for receipts for shared costs"><br><sub><b>Ask a housemate for receipts for shared costs</b></sub><br><sub><code>shared-costs-receipts-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cash-payment-option-request.svg" width="44" height="44" alt="Ask a business to keep accepting cash"><br><sub><b>Ask a business to keep accepting cash</b></sub><br><sub><code>cash-payment-option-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/family-subscriptions-cleanup-note.svg" width="44" height="44" alt="Ask the family to cancel subscriptions nobody uses"><br><sub><b>Ask the family to cancel subscriptions nobody uses</b></sub><br><sub><code>family-subscriptions-cleanup-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-monthly-gift-stop-note.svg" width="44" height="44" alt="Tell a charity you are stopping your monthly gift"><br><sub><b>Tell a charity you are stopping your monthly gift</b></sub><br><sub><code>charity-monthly-gift-stop-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/carer-shopping-budget-note.svg" width="44" height="44" alt="Agree a weekly shopping budget with someone who shops for you"><br><sub><b>Agree a weekly shopping budget with someone who shops for you</b></sub><br><sub><code>carer-shopping-budget-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/final-bill-after-move-request.svg" width="44" height="44" alt="Ask a provider for your final bill after you move out"><br><sub><b>Ask a provider for your final bill after you move out</b></sub><br><sub><code>final-bill-after-move-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-budget-limit-note-to-family.svg" width="44" height="44" alt="Suggest a spending limit for family gifts"><br><sub><b>Suggest a spending limit for family gifts</b></sub><br><sub><code>gift-budget-limit-note-to-family</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-pet-costs-agreement.svg" width="44" height="44" alt="Agree how to split the costs of a shared pet"><br><sub><b>Agree how to split the costs of a shared pet</b></sub><br><sub><code>shared-pet-costs-agreement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-trip-pull-out-cost-note.svg" width="44" height="44" alt="Tell friends you are pulling out of a trip and settle your share"><br><sub><b>Tell friends you are pulling out of a trip and settle your share</b></sub><br><sub><code>shared-trip-pull-out-cost-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/household-supplies-kitty-note.svg" width="44" height="44" alt="Set up a shared kitty for household supplies"><br><sub><b>Set up a shared kitty for household supplies</b></sub><br><sub><code>household-supplies-kitty-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/big-purchase-heads-up-to-partner.svg" width="44" height="44" alt="Talk to your partner before a big purchase from shared money"><br><sub><b>Talk to your partner before a big purchase from shared money</b></sub><br><sub><code>big-purchase-heads-up-to-partner</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bank-transfer-limit-change-request.svg" width="44" height="44" alt="Ask your bank to raise or lower your daily transfer limit"><br><sub><b>Ask your bank to raise or lower your daily transfer limit</b></sub><br><sub><code>bank-transfer-limit-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/family-emergency-fund-plan.svg" width="44" height="44" alt="Plan a family emergency fund and how you will use it"><br><sub><b>Plan a family emergency fund and how you will use it</b></sub><br><sub><code>family-emergency-fund-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bank-payment-returned-query.svg" width="44" height="44" alt="Ask your bank why a payment you sent came back"><br><sub><b>Ask your bank why a payment you sent came back</b></sub><br><sub><code>bank-payment-returned-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/group-trip-savings-pot-plan.svg" width="44" height="44" alt="Suggest friends save into a shared pot for a group trip"><br><sub><b>Suggest friends save into a shared pot for a group trip</b></sub><br><sub><code>group-trip-savings-pot-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-let-you-pay-your-share.svg" width="44" height="44" alt="Ask a friend who always pays to let you pay your share"><br><sub><b>Ask a friend who always pays to let you pay your share</b></sub><br><sub><code>ask-friend-to-let-you-pay-your-share</code></sub></td>
 </tr>
 </table>
 

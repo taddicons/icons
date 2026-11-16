@@ -1,6 +1,6 @@
 # Official letters, New Zealand
 
-<sub>Taddicons 0.3.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in New Zealand most often need: tenancy, work, tax and banks, insurance and ACC, consumer rights, authorities, family and neighbours, written in New Zealand English.
 
@@ -103,6 +103,27 @@ The official letters people in New Zealand most often need: tenancy, work, tax a
 </tr>
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/nz-shared-driveway.svg" width="44" height="44" alt="Shared driveway: raise a problem with a neighbour (New Zealand)"><br><sub><b>Shared driveway: raise a problem with a neighbour (New Zealand)</b></sub><br><sub><code>nz-shared-driveway</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-fixed-term-renewal-request.svg" width="44" height="44" alt="Fixed-term renewal: ask your landlord to extend your tenancy (New Zealand)"><br><sub><b>Fixed-term renewal: ask your landlord to extend your tenancy (New Zealand)</b></sub><br><sub><code>nz-fixed-term-renewal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-sick-leave-notice.svg" width="44" height="44" alt="Sick leave notice: tell your employer you are off sick (New Zealand)"><br><sub><b>Sick leave notice: tell your employer you are off sick (New Zealand)</b></sub><br><sub><code>nz-sick-leave-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-direct-debit-cancel.svg" width="44" height="44" alt="Cancel a direct debit: stop an automatic payment authority (New Zealand)"><br><sub><b>Cancel a direct debit: stop an automatic payment authority (New Zealand)</b></sub><br><sub><code>nz-direct-debit-cancel</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-child-medical-consent.svg" width="44" height="44" alt="Medical consent: let a carer take your child to the doctor (New Zealand)"><br><sub><b>Medical consent: let a carer take your child to the doctor (New Zealand)</b></sub><br><sub><code>nz-child-medical-consent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-insurance-cover-change.svg" width="44" height="44" alt="Change of cover: update your insurance policy details (New Zealand)"><br><sub><b>Change of cover: update your insurance policy details (New Zealand)</b></sub><br><sub><code>nz-insurance-cover-change</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/nz-neighbour-building-notice.svg" width="44" height="44" alt="Building work notice: tell your neighbours about work (New Zealand)"><br><sub><b>Building work notice: tell your neighbours about work (New Zealand)</b></sub><br><sub><code>nz-neighbour-building-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-jury-service-excusal.svg" width="44" height="44" alt="Jury service: ask to be excused or to defer (New Zealand)"><br><sub><b>Jury service: ask to be excused or to defer (New Zealand)</b></sub><br><sub><code>nz-jury-service-excusal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-child-travel-consent.svg" width="44" height="44" alt="Travel consent: allow your child to travel overseas (New Zealand)"><br><sub><b>Travel consent: allow your child to travel overseas (New Zealand)</b></sub><br><sub><code>nz-child-travel-consent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-credit-limit-reduction.svg" width="44" height="44" alt="Credit limit: ask your bank to lower your card limit (New Zealand)"><br><sub><b>Credit limit: ask your bank to lower your card limit (New Zealand)</b></sub><br><sub><code>nz-credit-limit-reduction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-rent-statement-request.svg" width="44" height="44" alt="Rent statement: ask your landlord for a record of rent paid (New Zealand)"><br><sub><b>Rent statement: ask your landlord for a record of rent paid (New Zealand)</b></sub><br><sub><code>nz-rent-statement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-unpaid-leave-request.svg" width="44" height="44" alt="Unpaid leave: ask your employer for leave without pay (New Zealand)"><br><sub><b>Unpaid leave: ask your employer for leave without pay (New Zealand)</b></sub><br><sub><code>nz-unpaid-leave-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/nz-training-request.svg" width="44" height="44" alt="Training request: ask your employer to support a course (New Zealand)"><br><sub><b>Training request: ask your employer to support a course (New Zealand)</b></sub><br><sub><code>nz-training-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-school-enrolment-request.svg" width="44" height="44" alt="School enrolment: ask a school for a place for your child (New Zealand)"><br><sub><b>School enrolment: ask a school for a place for your child (New Zealand)</b></sub><br><sub><code>nz-school-enrolment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-premium-increase-query.svg" width="44" height="44" alt="Premium increase: ask your insurer to explain a renewal price (New Zealand)"><br><sub><b>Premium increase: ask your insurer to explain a renewal price (New Zealand)</b></sub><br><sub><code>nz-premium-increase-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-sublet-consent-request.svg" width="44" height="44" alt="Sublet consent: ask your landlord to let you sublet (New Zealand)"><br><sub><b>Sublet consent: ask your landlord to let you sublet (New Zealand)</b></sub><br><sub><code>nz-sublet-consent-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-bereavement-leave-notice.svg" width="44" height="44" alt="Bereavement leave: tell your employer you need time off (New Zealand)"><br><sub><b>Bereavement leave: tell your employer you need time off (New Zealand)</b></sub><br><sub><code>nz-bereavement-leave-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nz-bank-fee-refund-request.svg" width="44" height="44" alt="Fee refund request: ask your bank to refund a fee (New Zealand)"><br><sub><b>Fee refund request: ask your bank to refund a fee (New Zealand)</b></sub><br><sub><code>nz-bank-fee-refund-request</code></sub></td>
 </tr>
 </table>
 

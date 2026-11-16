@@ -1,6 +1,6 @@
 # Online shopping and marketplaces
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Messages for buying and selling on marketplaces: questions, offers, pickups, problems, feedback and scam reports.
 
@@ -88,6 +88,42 @@ Messages for buying and selling on marketplaces: questions, offers, pickups, pro
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/collection-address-and-time-share.svg" width="44" height="44" alt="Send a buyer the collection address and time"><br><sub><b>Send a buyer the collection address and time</b></sub><br><sub><code>collection-address-and-time-share</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/listing-error-correction-to-buyer.svg" width="44" height="44" alt="Tell a buyer about a mistake in your listing before they pay"><br><sub><b>Tell a buyer about a mistake in your listing before they pay</b></sub><br><sub><code>listing-error-correction-to-buyer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-working-video-request.svg" width="44" height="44" alt="Ask a seller for a short video showing the item works"><br><sub><b>Ask a seller for a short video showing the item works</b></sub><br><sub><code>item-working-video-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/postage-instead-of-collection-request.svg" width="44" height="44" alt="Ask a seller to post an item instead of collection"><br><sub><b>Ask a seller to post an item instead of collection</b></sub><br><sub><code>postage-instead-of-collection-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/marketplace-account-suspension-appeal.svg" width="44" height="44" alt="Ask a marketplace to review a suspended selling account"><br><sub><b>Ask a marketplace to review a suspended selling account</b></sub><br><sub><code>marketplace-account-suspension-appeal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-collecting-for-me-note.svg" width="44" height="44" alt="Tell a seller a friend will collect the item for you"><br><sub><b>Tell a seller a friend will collect the item for you</b></sub><br><sub><code>friend-collecting-for-me-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/seller-away-notice.svg" width="44" height="44" alt="Tell buyers your shop is paused while you are away"><br><sub><b>Tell buyers your shop is paused while you are away</b></sub><br><sub><code>seller-away-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/marketplace-listing-writeup.svg" width="44" height="44" alt="Write a clear listing for an item you are selling"><br><sub><b>Write a clear listing for an item you are selling</b></sub><br><sub><code>marketplace-listing-writeup</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pay-on-platform-request.svg" width="44" height="44" alt="Ask a buyer to pay through the marketplace, not off-site"><br><sub><b>Ask a buyer to pay through the marketplace, not off-site</b></sub><br><sub><code>pay-on-platform-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/collection-only-notice.svg" width="44" height="44" alt="Tell buyers an item is for collection only"><br><sub><b>Tell buyers an item is for collection only</b></sub><br><sub><code>collection-only-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/international-shipping-request.svg" width="44" height="44" alt="Ask a seller whether they will post an item abroad"><br><sub><b>Ask a seller whether they will post an item abroad</b></sub><br><sub><code>international-shipping-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customs-fees-question.svg" width="44" height="44" alt="Ask a seller about customs fees and paperwork before you buy"><br><sub><b>Ask a seller about customs fees and paperwork before you buy</b></sub><br><sub><code>customs-fees-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/battery-item-postage-question.svg" width="44" height="44" alt="Ask how to post an item that contains a battery"><br><sub><b>Ask how to post an item that contains a battery</b></sub><br><sub><code>battery-item-postage-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-reporting-threshold-question.svg" width="44" height="44" alt="Ask a marketplace about the sales reports it shares with the tax office"><br><sub><b>Ask a marketplace about the sales reports it shares with the tax office</b></sub><br><sub><code>sales-reporting-threshold-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seller-no-show-at-collection.svg" width="44" height="44" alt="Message a seller who did not turn up for a collection"><br><sub><b>Message a seller who did not turn up for a collection</b></sub><br><sub><code>seller-no-show-at-collection</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hold-period-ended-notice.svg" width="44" height="44" alt="Tell a buyer the time you held an item for has run out"><br><sub><b>Tell a buyer the time you held an item for has run out</b></sub><br><sub><code>hold-period-ended-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-to-move-chat-off-platform.svg" width="44" height="44" alt="Politely say no when someone asks to move the chat or payment off the platform"><br><sub><b>Politely say no when someone asks to move the chat or payment off the platform</b></sub><br><sub><code>decline-to-move-chat-off-platform</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/original-box-and-accessories-question.svg" width="44" height="44" alt="Ask a seller if the original box, charger and accessories are included"><br><sub><b>Ask a seller if the original box, charger and accessories are included</b></sub><br><sub><code>original-box-and-accessories-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/listing-removed-appeal.svg" width="44" height="44" alt="Appeal when a marketplace removes one of your listings"><br><sub><b>Appeal when a marketplace removes one of your listings</b></sub><br><sub><code>listing-removed-appeal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-serial-number-request.svg" width="44" height="44" alt="Ask a seller for an item's serial number before you buy"><br><sub><b>Ask a seller for an item's serial number before you buy</b></sub><br><sub><code>item-serial-number-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mkt-tracked-postage-request.svg" width="44" height="44" alt="Ask a seller to send your item by tracked post"><br><sub><b>Ask a seller to send your item by tracked post</b></sub><br><sub><code>mkt-tracked-postage-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mkt-test-item-at-collection.svg" width="44" height="44" alt="Ask to test an item when you collect it"><br><sub><b>Ask to test an item when you collect it</b></sub><br><sub><code>mkt-test-item-at-collection</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mkt-item-care-tips-for-buyer.svg" width="44" height="44" alt="Share care and use tips with the buyer of your item"><br><sub><b>Share care and use tips with the buyer of your item</b></sub><br><sub><code>mkt-item-care-tips-for-buyer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mkt-send-as-gift-request.svg" width="44" height="44" alt="Ask a seller to send your item straight to someone as a gift"><br><sub><b>Ask a seller to send your item straight to someone as a gift</b></sub><br><sub><code>mkt-send-as-gift-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/postage-overcharge-refund-offer.svg" width="44" height="44" alt="Offer a buyer back the extra postage they paid"><br><sub><b>Offer a buyer back the extra postage they paid</b></sub><br><sub><code>postage-overcharge-refund-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/device-data-wipe-confirmation-ask.svg" width="44" height="44" alt="Ask a seller to confirm a used phone or laptop has been wiped"><br><sub><b>Ask a seller to confirm a used phone or laptop has been wiped</b></sub><br><sub><code>device-data-wipe-confirmation-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bulk-buy-trade-enquiry.svg" width="44" height="44" alt="Ask a seller about buying several items at a bulk price"><br><sub><b>Ask a seller about buying several items at a bulk price</b></sub><br><sub><code>bulk-buy-trade-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mkt-size-swap-request.svg" width="44" height="44" alt="Ask a seller to swap your item for a different size they listed"><br><sub><b>Ask a seller to swap your item for a different size they listed</b></sub><br><sub><code>mkt-size-swap-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mkt-local-drop-off-offer.svg" width="44" height="44" alt="Offer a buyer local drop-off for a small fee"><br><sub><b>Offer a buyer local drop-off for a small fee</b></sub><br><sub><code>mkt-local-drop-off-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mkt-private-sale-receipt.svg" width="44" height="44" alt="Simple receipt for an item you sold in person"><br><sub><b>Simple receipt for an item you sold in person</b></sub><br><sub><code>mkt-private-sale-receipt</code></sub></td>
 </tr>
 </table>
 

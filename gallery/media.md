@@ -1,6 +1,6 @@
 # Media & playback
 
-<sub>Taddicons 0.3.0 · Interface · 191 icons</sub>
+<sub>Taddicons 0.3.1 · Interface · 191 icons</sub>
 
 Playback, audio, music, photo, video and film.
 

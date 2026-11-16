@@ -1,6 +1,6 @@
 # Official letters, Australia
 
-<sub>Taddicons 0.3.0 · Documents & messages · 71 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Australia most often need: tenancy, work, tax and banks, insurance and benefits, consumer rights, authorities, school and neighbours, written in Australian English under state and federal law.
 
@@ -99,6 +99,31 @@ The official letters people in Australia most often need: tenancy, work, tax and
 <td align="center" width="16%"><img src="../svg/mark/au-school-exemption-request.svg" width="44" height="44" alt="Attendance exemption: ask the school to approve extended leave (Australia)"><br><sub><b>Attendance exemption: ask the school to approve extended leave (Australia)</b></sub><br><sub><code>au-school-exemption-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/au-neighbour-parking-complaint.svg" width="44" height="44" alt="Parking: ask a neighbour to stop blocking your driveway (Australia)"><br><sub><b>Parking: ask a neighbour to stop blocking your driveway (Australia)</b></sub><br><sub><code>au-neighbour-parking-complaint</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/au-neighbour-drainage-complaint.svg" width="44" height="44" alt="Drainage: ask a neighbour to fix stormwater run-off (Australia)"><br><sub><b>Drainage: ask a neighbour to fix stormwater run-off (Australia)</b></sub><br><sub><code>au-neighbour-drainage-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-lease-renewal-request.svg" width="44" height="44" alt="Lease renewal request: ask your landlord for a new fixed term (Australia)"><br><sub><b>Lease renewal request: ask your landlord for a new fixed term (Australia)</b></sub><br><sub><code>au-lease-renewal-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/au-council-footpath-repair.svg" width="44" height="44" alt="Council maintenance request: report a damaged footpath or road (Australia)"><br><sub><b>Council maintenance request: report a damaged footpath or road (Australia)</b></sub><br><sub><code>au-council-footpath-repair</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-separation-certificate-request.svg" width="44" height="44" alt="Employment Separation Certificate: ask a former employer for one (Australia)"><br><sub><b>Employment Separation Certificate: ask a former employer for one (Australia)</b></sub><br><sub><code>au-separation-certificate-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-scam-payment-recall.svg" width="44" height="44" alt="Scam payment report: ask your bank to recall money sent to a scammer (Australia)"><br><sub><b>Scam payment report: ask your bank to recall money sent to a scammer (Australia)</b></sub><br><sub><code>au-scam-payment-recall</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-marketing-opt-out.svg" width="44" height="44" alt="Marketing opt-out: tell a business to stop calls, texts and emails (Australia)"><br><sub><b>Marketing opt-out: tell a business to stop calls, texts and emails (Australia)</b></sub><br><sub><code>au-marketing-opt-out</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-insurance-cancel-refund.svg" width="44" height="44" alt="Policy cancellation: cancel an insurance policy and ask for a refund (Australia)"><br><sub><b>Policy cancellation: cancel an insurance policy and ask for a refund (Australia)</b></sub><br><sub><code>au-insurance-cancel-refund</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-aged-care-complaint.svg" width="44" height="44" alt="Aged care complaint: raise concerns about a parent's care (Australia)"><br><sub><b>Aged care complaint: raise concerns about a parent's care (Australia)</b></sub><br><sub><code>au-aged-care-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/au-neighbour-smoke-complaint.svg" width="44" height="44" alt="Neighbour letter: ask a neighbour about wood-heater or fire smoke (Australia)"><br><sub><b>Neighbour letter: ask a neighbour about wood-heater or fire smoke (Australia)</b></sub><br><sub><code>au-neighbour-smoke-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-rent-ledger-request.svg" width="44" height="44" alt="Rent ledger: ask your agent for a record of rent paid (Australia)"><br><sub><b>Rent ledger: ask your agent for a record of rent paid (Australia)</b></sub><br><sub><code>au-rent-ledger-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-employee-records-request.svg" width="44" height="44" alt="Employee records: ask to inspect your time and pay records (Australia)"><br><sub><b>Employee records: ask to inspect your time and pay records (Australia)</b></sub><br><sub><code>au-employee-records-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-credit-limit-reduction.svg" width="44" height="44" alt="Credit limit: ask your bank to lower your card limit (Australia)"><br><sub><b>Credit limit: ask your bank to lower your card limit (Australia)</b></sub><br><sub><code>au-credit-limit-reduction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-jury-service-excusal.svg" width="44" height="44" alt="Jury service: ask to be excused or to defer your service (Australia)"><br><sub><b>Jury service: ask to be excused or to defer your service (Australia)</b></sub><br><sub><code>au-jury-service-excusal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-child-travel-consent.svg" width="44" height="44" alt="Travel consent: allow your child to travel without you (Australia)"><br><sub><b>Travel consent: allow your child to travel without you (Australia)</b></sub><br><sub><code>au-child-travel-consent</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/au-pay-rise-request.svg" width="44" height="44" alt="Pay rise request: ask your employer for a pay review (Australia)"><br><sub><b>Pay rise request: ask your employer for a pay review (Australia)</b></sub><br><sub><code>au-pay-rise-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-teacher-meeting-request.svg" width="44" height="44" alt="Teacher meeting: ask your child's school for a parent meeting (Australia)"><br><sub><b>Teacher meeting: ask your child's school for a parent meeting (Australia)</b></sub><br><sub><code>au-teacher-meeting-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-name-change-notice.svg" width="44" height="44" alt="Name change notice: update your name with a bank or provider (Australia)"><br><sub><b>Name change notice: update your name with a bank or provider (Australia)</b></sub><br><sub><code>au-name-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-personal-leave-notice.svg" width="44" height="44" alt="Personal leave notice: tell your employer you are sick or caring (Australia)"><br><sub><b>Personal leave notice: tell your employer you are sick or caring (Australia)</b></sub><br><sub><code>au-personal-leave-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-sublet-request.svg" width="44" height="44" alt="Sublet request: ask your landlord's consent to sublet (Australia)"><br><sub><b>Sublet request: ask your landlord's consent to sublet (Australia)</b></sub><br><sub><code>au-sublet-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/au-claims-history-request.svg" width="44" height="44" alt="Claims history request: ask your insurer for your claims record (Australia)"><br><sub><b>Claims history request: ask your insurer for your claims record (Australia)</b></sub><br><sub><code>au-claims-history-request</code></sub></td>
 </tr>
 </table>
 

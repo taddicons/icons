@@ -1,6 +1,6 @@
 # Small business
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Customers, suppliers and staff of a small business: quotes, invoices, policies and polite firmness.
 
@@ -83,6 +83,47 @@ Customers, suppliers and staff of a small business: quotes, invoices, policies a
 <td align="center" width="16%"><img src="../svg/mark/seasonal-staff-wanted-post.svg" width="44" height="44" alt="Advertise seasonal or holiday jobs at your business"><br><sub><b>Advertise seasonal or holiday jobs at your business</b></sub><br><sub><code>seasonal-staff-wanted-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/booking-deposit-terms-reminder.svg" width="44" height="44" alt="Remind a customer of the deposit and cancellation terms"><br><sub><b>Remind a customer of the deposit and cancellation terms</b></sub><br><sub><code>booking-deposit-terms-reminder</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/local-delivery-area-notice.svg" width="44" height="44" alt="Tell customers where and when you deliver locally"><br><sub><b>Tell customers where and when you deliver locally</b></sub><br><sub><code>local-delivery-area-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/local-business-cross-promo-pitch.svg" width="44" height="44" alt="Suggest a joint promotion to a nearby business"><br><sub><b>Suggest a joint promotion to a nearby business</b></sub><br><sub><code>local-business-cross-promo-pitch</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/holiday-last-order-dates-notice.svg" width="44" height="44" alt="Tell customers the last order dates before the holidays"><br><sub><b>Tell customers the last order dates before the holidays</b></sub><br><sub><code>holiday-last-order-dates-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pop-up-shop-announcement.svg" width="44" height="44" alt="Announce your pop-up shop dates and place"><br><sub><b>Announce your pop-up shop dates and place</b></sub><br><sub><code>pop-up-shop-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-price-match-reply.svg" width="44" height="44" alt="Reply to a customer who asks you to match a lower price"><br><sub><b>Reply to a customer who asks you to match a lower price</b></sub><br><sub><code>customer-price-match-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-data-deletion-confirmation.svg" width="44" height="44" alt="Confirm to a customer that their data has been deleted"><br><sub><b>Confirm to a customer that their data has been deleted</b></sub><br><sub><code>customer-data-deletion-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-reference-request.svg" width="44" height="44" alt="Ask a supplier or client for a trade reference"><br><sub><b>Ask a supplier or client for a trade reference</b></sub><br><sub><code>trade-reference-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-account-close-notice.svg" width="44" height="44" alt="Tell a supplier you are closing your account"><br><sub><b>Tell a supplier you are closing your account</b></sub><br><sub><code>supplier-account-close-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/staff-tips-sharing-policy.svg" width="44" height="44" alt="Explain to staff how tips are shared"><br><sub><b>Explain to staff how tips are shared</b></sub><br><sub><code>staff-tips-sharing-policy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/returned-cheque-customer-notice.svg" width="44" height="44" alt="Tell a customer their cheque was returned unpaid"><br><sub><b>Tell a customer their cheque was returned unpaid</b></sub><br><sub><code>returned-cheque-customer-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-cctv-notice.svg" width="44" height="44" alt="Notice that your premises use CCTV cameras"><br><sub><b>Notice that your premises use CCTV cameras</b></sub><br><sub><code>business-cctv-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-sample-feedback-note.svg" width="44" height="44" alt="Give a supplier feedback on product samples"><br><sub><b>Give a supplier feedback on product samples</b></sub><br><sub><code>supplier-sample-feedback-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-payslip-error-reply.svg" width="44" height="44" alt="Reply to a staff member about a payslip mistake"><br><sub><b>Reply to a staff member about a payslip mistake</b></sub><br><sub><code>staff-payslip-error-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sale-or-return-terms-note.svg" width="44" height="44" alt="Set out sale-or-return terms for makers who stock your shop"><br><sub><b>Set out sale-or-return terms for makers who stock your shop</b></sub><br><sub><code>sale-or-return-terms-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/gift-voucher-terms-text.svg" width="44" height="44" alt="Write the terms printed on your gift vouchers"><br><sub><b>Write the terms printed on your gift vouchers</b></sub><br><sub><code>gift-voucher-terms-text</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-resignation-acknowledgement.svg" width="44" height="44" alt="Acknowledge a staff member's resignation in writing"><br><sub><b>Acknowledge a staff member's resignation in writing</b></sub><br><sub><code>staff-resignation-acknowledgement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-longer-payment-terms-request.svg" width="44" height="44" alt="Ask a supplier for longer payment terms"><br><sub><b>Ask a supplier for longer payment terms</b></sub><br><sub><code>supplier-longer-payment-terms-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-name-change-notice.svg" width="44" height="44" alt="Tell customers your business has a new name"><br><sub><b>Tell customers your business has a new name</b></sub><br><sub><code>business-name-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/website-price-error-notice.svg" width="44" height="44" alt="Tell customers about a price mistake on your website"><br><sub><b>Tell customers about a price mistake on your website</b></sub><br><sub><code>website-price-error-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/age-restricted-sales-notice.svg" width="44" height="44" alt="Explain your age check rules for restricted items"><br><sub><b>Explain your age check rules for restricted items</b></sub><br><sub><code>age-restricted-sales-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/customer-credit-balance-notice.svg" width="44" height="44" alt="Tell a customer they have credit on their account"><br><sub><b>Tell a customer they have credit on their account</b></sub><br><sub><code>customer-credit-balance-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-cancelled-booking-apology.svg" width="44" height="44" alt="Say sorry for cancelling a customer's booking"><br><sub><b>Say sorry for cancelling a customer's booking</b></sub><br><sub><code>business-cancelled-booking-apology</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-collection-point-change-notice.svg" width="44" height="44" alt="Tell customers the order collection point has moved"><br><sub><b>Tell customers the order collection point has moved</b></sub><br><sub><code>customer-collection-point-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/staff-parking-arrangements-note.svg" width="44" height="44" alt="Tell staff about new parking arrangements"><br><sub><b>Tell staff about new parking arrangements</b></sub><br><sub><code>staff-parking-arrangements-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-delivery-day-change-request.svg" width="44" height="44" alt="Ask a supplier to change your delivery day"><br><sub><b>Ask a supplier to change your delivery day</b></sub><br><sub><code>supplier-delivery-day-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-account-statement-cover-note.svg" width="44" height="44" alt="Send a trade customer their account statement"><br><sub><b>Send a trade customer their account statement</b></sub><br><sub><code>customer-account-statement-cover-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/business-supplier-onboarding-details-request.svg" width="44" height="44" alt="Ask a new supplier for the details you need to set them up"><br><sub><b>Ask a new supplier for the details you need to set them up</b></sub><br><sub><code>business-supplier-onboarding-details-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-shared-workspace-desk-enquiry.svg" width="44" height="44" alt="Ask a coworking space about renting a desk for your business"><br><sub><b>Ask a coworking space about renting a desk for your business</b></sub><br><sub><code>business-shared-workspace-desk-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-first-order-thank-you-note.svg" width="44" height="44" alt="Thank a customer for their first order with your business"><br><sub><b>Thank a customer for their first order with your business</b></sub><br><sub><code>business-first-order-thank-you-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-card-surcharge-notice.svg" width="44" height="44" alt="Tell customers about a fee for paying by card"><br><sub><b>Tell customers about a fee for paying by card</b></sub><br><sub><code>business-card-surcharge-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-customer-parking-notice.svg" width="44" height="44" alt="Tell customers where to park when they visit"><br><sub><b>Tell customers where to park when they visit</b></sub><br><sub><code>business-customer-parking-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/business-closing-early-notice.svg" width="44" height="44" alt="Tell customers you are closing early on one day"><br><sub><b>Tell customers you are closing early on one day</b></sub><br><sub><code>business-closing-early-notice</code></sub></td>
 </tr>
 </table>
 

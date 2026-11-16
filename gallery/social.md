@@ -1,6 +1,6 @@
 # Social posts
 
-<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Posts with a picture for the networks you connected, written for regular people, not influencers.
 
@@ -104,6 +104,26 @@ Posts with a picture for the networks you connected, written for regular people,
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/new-team-member-post.svg" width="44" height="44" alt="Welcome a new team member publicly"><br><sub><b>Welcome a new team member publicly</b></sub><br><sub><code>new-team-member-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/service-outage-post.svg" width="44" height="44" alt="Tell customers about a service outage"><br><sub><b>Tell customers about a service outage</b></sub><br><sub><code>service-outage-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fitness-goal-reached-post.svg" width="44" height="44" alt="Share that you reached a fitness goal"><br><sub><b>Share that you reached a fitness goal</b></sub><br><sub><code>fitness-goal-reached-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/contest-vote-ask-post.svg" width="44" height="44" alt="Ask friends to vote for you in a contest"><br><sub><b>Ask friends to vote for you in a contest</b></sub><br><sub><code>contest-vote-ask-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-car-post.svg" width="44" height="44" alt="Share that you bought your first car"><br><sub><b>Share that you bought your first car</b></sub><br><sub><code>first-car-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/citizenship-ceremony-post.svg" width="44" height="44" alt="Share the news of your citizenship ceremony"><br><sub><b>Share the news of your citizenship ceremony</b></sub><br><sub><code>citizenship-ceremony-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/new-skill-learned-post.svg" width="44" height="44" alt="Share a new skill you taught yourself"><br><sub><b>Share a new skill you taught yourself</b></sub><br><sub><code>new-skill-learned-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/little-free-library-launch-post.svg" width="44" height="44" alt="Announce a little free library on your street"><br><sub><b>Announce a little free library on your street</b></sub><br><sub><code>little-free-library-launch-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/open-garden-day-post.svg" width="44" height="44" alt="Invite neighbours to your open garden day"><br><sub><b>Invite neighbours to your open garden day</b></sub><br><sub><code>open-garden-day-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/allotment-first-harvest-post.svg" width="44" height="44" alt="Share your first harvest from the allotment"><br><sub><b>Share your first harvest from the allotment</b></sub><br><sub><code>allotment-first-harvest-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/repair-cafe-volunteers-thanks-post.svg" width="44" height="44" alt="Thank the volunteers after a repair cafe"><br><sub><b>Thank the volunteers after a repair cafe</b></sub><br><sub><code>repair-cafe-volunteers-thanks-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbourhood-swap-shop-post.svg" width="44" height="44" alt="Invite neighbours to a free clothes and toy swap"><br><sub><b>Invite neighbours to a free clothes and toy swap</b></sub><br><sub><code>neighbourhood-swap-shop-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/social-free-community-class-post.svg" width="44" height="44" alt="Post about a free class you are running for the community"><br><sub><b>Post about a free class you are running for the community</b></sub><br><sub><code>social-free-community-class-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/social-spare-tickets-offer-post.svg" width="44" height="44" alt="Offer spare event tickets to friends or neighbours"><br><sub><b>Offer spare event tickets to friends or neighbours</b></sub><br><sub><code>social-spare-tickets-offer-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/social-community-mural-call-post.svg" width="44" height="44" alt="Call for helpers and ideas for a community mural"><br><sub><b>Call for helpers and ideas for a community mural</b></sub><br><sub><code>social-community-mural-call-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/social-board-games-night-post.svg" width="44" height="44" alt="Post an invite to a local board games night"><br><sub><b>Post an invite to a local board games night</b></sub><br><sub><code>social-board-games-night-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/social-knitting-circle-start-post.svg" width="44" height="44" alt="Start a knitting and crafts circle in your area"><br><sub><b>Start a knitting and crafts circle in your area</b></sub><br><sub><code>social-knitting-circle-start-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/social-chess-meetup-post.svg" width="44" height="44" alt="Invite people to a casual chess meetup"><br><sub><b>Invite people to a casual chess meetup</b></sub><br><sub><code>social-chess-meetup-post</code></sub></td>
 </tr>
 </table>
 

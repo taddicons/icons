@@ -1,6 +1,6 @@
 # Rural, farming and outdoors
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes for land, farm sales, animals, seasonal workers, permits, camping, trails, bad weather and country neighbours.
 
@@ -88,6 +88,42 @@ Notes for land, farm sales, animals, seasonal workers, permits, camping, trails,
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/barn-hire-for-event-enquiry.svg" width="44" height="44" alt="Ask a farm about hiring a barn for an event"><br><sub><b>Ask a farm about hiring a barn for an event</b></sub><br><sub><code>barn-hire-for-event-enquiry</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/bee-swarm-neighbour-note.svg" width="44" height="44" alt="Let neighbours know about a swarm from your beehive"><br><sub><b>Let neighbours know about a swarm from your beehive</b></sub><br><sub><code>bee-swarm-neighbour-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/night-harvest-noise-notice.svg" width="44" height="44" alt="Warn neighbours about night-time harvest work and noise"><br><sub><b>Warn neighbours about night-time harvest work and noise</b></sub><br><sub><code>night-harvest-noise-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/livestock-worrying-report.svg" width="44" height="44" alt="Report a dog chasing or attacking livestock"><br><sub><b>Report a dog chasing or attacking livestock</b></sub><br><sub><code>livestock-worrying-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/firewood-sale-listing.svg" width="44" height="44" alt="List firewood or logs for sale"><br><sub><b>List firewood or logs for sale</b></sub><br><sub><code>firewood-sale-listing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tree-felling-neighbour-notice.svg" width="44" height="44" alt="Tell neighbours about planned tree felling"><br><sub><b>Tell neighbours about planned tree felling</b></sub><br><sub><code>tree-felling-neighbour-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rural-muck-spreading-neighbour-notice.svg" width="44" height="44" alt="Warn neighbours that you will be spreading manure on the fields"><br><sub><b>Warn neighbours that you will be spreading manure on the fields</b></sub><br><sub><code>rural-muck-spreading-neighbour-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-cattle-road-crossing-notice.svg" width="44" height="44" alt="Let neighbours know cattle will be moved along the road"><br><sub><b>Let neighbours know cattle will be moved along the road</b></sub><br><sub><code>rural-cattle-road-crossing-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-egg-box-return-ask.svg" width="44" height="44" alt="Ask customers to bring back egg boxes and jars"><br><sub><b>Ask customers to bring back egg boxes and jars</b></sub><br><sub><code>rural-egg-box-return-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-farm-volunteer-day-call.svg" width="44" height="44" alt="Invite volunteers to a work day on the farm"><br><sub><b>Invite volunteers to a work day on the farm</b></sub><br><sub><code>rural-farm-volunteer-day-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-sheep-shearing-booking.svg" width="44" height="44" alt="Book a shearer for your sheep"><br><sub><b>Book a shearer for your sheep</b></sub><br><sub><code>rural-sheep-shearing-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-stone-wall-damage-note.svg" width="44" height="44" alt="Tell a neighbour a shared stone wall has fallen down"><br><sub><b>Tell a neighbour a shared stone wall has fallen down</b></sub><br><sub><code>rural-stone-wall-damage-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rural-campsite-quiet-hours-sign.svg" width="44" height="44" alt="Quiet hours sign for a campsite"><br><sub><b>Quiet hours sign for a campsite</b></sub><br><sub><code>rural-campsite-quiet-hours-sign</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-horse-livery-enquiry.svg" width="44" height="44" alt="Ask a yard about livery for your horse"><br><sub><b>Ask a yard about livery for your horse</b></sub><br><sub><code>rural-horse-livery-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-wildlife-sighting-report.svg" width="44" height="44" alt="Report a wildlife sighting to a nature group"><br><sub><b>Report a wildlife sighting to a nature group</b></sub><br><sub><code>rural-wildlife-sighting-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-flood-warning-neighbour-message.svg" width="44" height="44" alt="Warn rural neighbours that flood water is rising"><br><sub><b>Warn rural neighbours that flood water is rising</b></sub><br><sub><code>rural-flood-warning-neighbour-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-soil-sample-test-booking.svg" width="44" height="44" alt="Book soil testing for your fields"><br><sub><b>Book soil testing for your fields</b></sub><br><sub><code>rural-soil-sample-test-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-farm-gate-code-message.svg" width="44" height="44" alt="Send a visitor directions and a gate code for your farm"><br><sub><b>Send a visitor directions and a gate code for your farm</b></sub><br><sub><code>rural-farm-gate-code-message</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rural-walkers-thanks-to-landowner.svg" width="44" height="44" alt="Thank a landowner for letting your walking group cross their land"><br><sub><b>Thank a landowner for letting your walking group cross their land</b></sub><br><sub><code>rural-walkers-thanks-to-landowner</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-farm-school-visit-offer.svg" width="44" height="44" alt="Offer a local school a class visit to your farm"><br><sub><b>Offer a local school a class visit to your farm</b></sub><br><sub><code>rural-farm-school-visit-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-bird-scarer-neighbour-notice.svg" width="44" height="44" alt="Tell neighbours you will use a bird scarer on your crops"><br><sub><b>Tell neighbours you will use a bird scarer on your crops</b></sub><br><sub><code>rural-bird-scarer-neighbour-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-shared-water-supply-outage-notice.svg" width="44" height="44" alt="Tell neighbours on a shared private water supply about an outage"><br><sub><b>Tell neighbours on a shared private water supply about an outage</b></sub><br><sub><code>rural-shared-water-supply-outage-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-country-show-entry-enquiry.svg" width="44" height="44" alt="Ask a country show about entering animals or produce"><br><sub><b>Ask a country show about entering animals or produce</b></sub><br><sub><code>rural-country-show-entry-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-farm-produce-offer-to-cafe.svg" width="44" height="44" alt="Offer your farm produce to a local cafe or restaurant"><br><sub><b>Offer your farm produce to a local cafe or restaurant</b></sub><br><sub><code>rural-farm-produce-offer-to-cafe</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rural-riders-on-farm-track-note.svg" width="44" height="44" alt="Note to horse riders about using your farm track"><br><sub><b>Note to horse riders about using your farm track</b></sub><br><sub><code>rural-riders-on-farm-track-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-poultry-sitter-ask.svg" width="44" height="44" alt="Ask someone to look after your hens while you are away"><br><sub><b>Ask someone to look after your hens while you are away</b></sub><br><sub><code>rural-poultry-sitter-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-livestock-transport-booking.svg" width="44" height="44" alt="Book a livestock haulier to move animals"><br><sub><b>Book a livestock haulier to move animals</b></sub><br><sub><code>rural-livestock-transport-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-photo-shoot-on-farm-request.svg" width="44" height="44" alt="Ask a farmer if you can take photos on their land"><br><sub><b>Ask a farmer if you can take photos on their land</b></sub><br><sub><code>rural-photo-shoot-on-farm-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-beehive-site-request.svg" width="44" height="44" alt="Ask a landowner for a spot to keep beehives"><br><sub><b>Ask a landowner for a spot to keep beehives</b></sub><br><sub><code>rural-beehive-site-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rural-hay-order-collection-reminder.svg" width="44" height="44" alt="Remind a buyer when to collect their hay order"><br><sub><b>Remind a buyer when to collect their hay order</b></sub><br><sub><code>rural-hay-order-collection-reminder</code></sub></td>
 </tr>
 </table>
 

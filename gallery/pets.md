@@ -1,6 +1,6 @@
 # Pets
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Vets, boarding, adoption, lost and found, and everything else for the animal at home.
 
@@ -88,6 +88,42 @@ Vets, boarding, adoption, lost and found, and everything else for the animal at 
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/neighbour-cat-coming-indoors-note.svg" width="44" height="44" alt="Ask a neighbour to help stop their cat coming into your home"><br><sub><b>Ask a neighbour to help stop their cat coming into your home</b></sub><br><sub><code>neighbour-cat-coming-indoors-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/pet-hydrotherapy-enquiry.svg" width="44" height="44" alt="Ask a hydrotherapy centre about sessions for your pet"><br><sub><b>Ask a hydrotherapy centre about sessions for your pet</b></sub><br><sub><code>pet-hydrotherapy-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cancel-pet-sitter-booking.svg" width="44" height="44" alt="Cancel a pet sitter booking"><br><sub><b>Cancel a pet sitter booking</b></sub><br><sub><code>cancel-pet-sitter-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dog-walker-key-handover-note.svg" width="44" height="44" alt="Arrange a key handover with a new dog walker"><br><sub><b>Arrange a key handover with a new dog walker</b></sub><br><sub><code>dog-walker-key-handover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/vet-repeat-prescription-request.svg" width="44" height="44" alt="Ask the vet for a repeat prescription for your pet"><br><sub><b>Ask the vet for a repeat prescription for your pet</b></sub><br><sub><code>vet-repeat-prescription-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-bring-dog-to-work.svg" width="44" height="44" alt="Ask your workplace if you may bring your dog to work"><br><sub><b>Ask your workplace if you may bring your dog to work</b></sub><br><sub><code>ask-to-bring-dog-to-work</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/vet-claim-form-request.svg" width="44" height="44" alt="Ask your vet to fill in a pet insurance claim form"><br><sub><b>Ask your vet to fill in a pet insurance claim form</b></sub><br><sub><code>vet-claim-form-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-pet-introduction-plan.svg" width="44" height="44" alt="Plan for introducing a new pet to the one you have"><br><sub><b>Plan for introducing a new pet to the one you have</b></sub><br><sub><code>new-pet-introduction-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dog-friendly-venue-question.svg" width="44" height="44" alt="Ask a cafe or venue if you can bring your dog"><br><sub><b>Ask a cafe or venue if you can bring your dog</b></sub><br><sub><code>dog-friendly-venue-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/senior-pet-care-notes.svg" width="44" height="44" alt="Care notes for an older pet, for a sitter or family"><br><sub><b>Care notes for an older pet, for a sitter or family</b></sub><br><sub><code>senior-pet-care-notes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-gotcha-day-post.svg" width="44" height="44" alt="Celebrate your pet's adoption anniversary"><br><sub><b>Celebrate your pet's adoption anniversary</b></sub><br><sub><code>pet-gotcha-day-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-sitter-vet-consent-note.svg" width="44" height="44" alt="Let your pet sitter take your pet to the vet"><br><sub><b>Let your pet sitter take your pet to the vet</b></sub><br><sub><code>pet-sitter-vet-consent-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pet-food-problem-report.svg" width="44" height="44" alt="Report a problem with pet food to the maker"><br><sub><b>Report a problem with pet food to the maker</b></sub><br><sub><code>pet-food-problem-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-cremation-request.svg" width="44" height="44" alt="Arrange your pet's cremation"><br><sub><b>Arrange your pet's cremation</b></sub><br><sub><code>pet-cremation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-ready-for-new-baby-plan.svg" width="44" height="44" alt="Plan to get your pet ready for a new baby"><br><sub><b>Plan to get your pet ready for a new baby</b></sub><br><sub><code>pet-ready-for-new-baby-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/livery-yard-enquiry.svg" width="44" height="44" alt="Ask a livery yard about a space for your horse"><br><sub><b>Ask a livery yard about a space for your horse</b></sub><br><sub><code>livery-yard-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/therapy-dog-visit-offer.svg" width="44" height="44" alt="Offer therapy dog visits to a care home or school"><br><sub><b>Offer therapy dog visits to a care home or school</b></sub><br><sub><code>therapy-dog-visit-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dog-walking-buddy-ask.svg" width="44" height="44" alt="Ask a neighbour to share dog walks"><br><sub><b>Ask a neighbour to share dog walks</b></sub><br><sub><code>dog-walking-buddy-ask</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pet-show-entry-enquiry.svg" width="44" height="44" alt="Ask about entering your pet in a show"><br><sub><b>Ask about entering your pet in a show</b></sub><br><sub><code>pet-show-entry-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-care-swap-ask.svg" width="44" height="44" alt="Ask a friend to swap pet care during holidays"><br><sub><b>Ask a friend to swap pet care during holidays</b></sub><br><sub><code>pet-care-swap-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-rescue-meet-and-greet-request.svg" width="44" height="44" alt="Ask a rescue to meet a pet before you apply"><br><sub><b>Ask a rescue to meet a pet before you apply</b></sub><br><sub><code>pet-rescue-meet-and-greet-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-dog-on-lead-request.svg" width="44" height="44" alt="Ask another owner to keep their dog on a lead"><br><sub><b>Ask another owner to keep their dog on a lead</b></sub><br><sub><code>pet-dog-on-lead-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-fireworks-night-plan.svg" width="44" height="44" alt="Fireworks night plan for a nervous pet"><br><sub><b>Fireworks night plan for a nervous pet</b></sub><br><sub><code>pet-fireworks-night-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-taxi-booking.svg" width="44" height="44" alt="Book a pet taxi for a trip to the vet or groomer"><br><sub><b>Book a pet taxi for a trip to the vet or groomer</b></sub><br><sub><code>pet-taxi-booking</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-neighbour-to-stop-feeding-our-cat.svg" width="44" height="44" alt="Kindly ask a neighbour to stop feeding your cat"><br><sub><b>Kindly ask a neighbour to stop feeding your cat</b></sub><br><sub><code>ask-neighbour-to-stop-feeding-our-cat</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-food-subscription-pause.svg" width="44" height="44" alt="Pause or change a pet food delivery subscription"><br><sub><b>Pause or change a pet food delivery subscription</b></sub><br><sub><code>pet-food-subscription-pause</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-pet-vet-registration-request.svg" width="44" height="44" alt="Register a new pet with a vet practice"><br><sub><b>Register a new pet with a vet practice</b></sub><br><sub><code>new-pet-vet-registration-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-sighting-report-to-owner.svg" width="44" height="44" alt="Tell an owner you think you have seen their missing pet"><br><sub><b>Tell an owner you think you have seen their missing pet</b></sub><br><sub><code>pet-sighting-report-to-owner</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rescue-adoption-fee-question.svg" width="44" height="44" alt="Ask a rescue what its adoption fee covers"><br><sub><b>Ask a rescue what its adoption fee covers</b></sub><br><sub><code>rescue-adoption-fee-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dog-walker-end-of-service-notice.svg" width="44" height="44" alt="Tell your dog walker you are ending their service"><br><sub><b>Tell your dog walker you are ending their service</b></sub><br><sub><code>dog-walker-end-of-service-notice</code></sub></td>
 </tr>
 </table>
 

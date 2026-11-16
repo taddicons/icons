@@ -1,6 +1,6 @@
 # Jobs and careers
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Everything between looking for work and leaving it: outreach, follow-ups, negotiation, references and moves.
 
@@ -88,6 +88,42 @@ Everything between looking for work and leaving it: outreach, follow-ups, negoti
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/remote-role-working-hours-question.svg" width="44" height="44" alt="Ask an employer which hours a remote role works across time zones"><br><sub><b>Ask an employer which hours a remote role works across time zones</b></sub><br><sub><code>remote-role-working-hours-question</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/conference-place-request.svg" width="44" height="44" alt="Ask your manager for time off to attend an industry event"><br><sub><b>Ask your manager for time off to attend an industry event</b></sub><br><sub><code>conference-place-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/buy-extra-holiday-request.svg" width="44" height="44" alt="Ask to buy extra days of annual leave"><br><sub><b>Ask to buy extra days of annual leave</b></sub><br><sub><code>buy-extra-holiday-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mentoring-programme-application.svg" width="44" height="44" alt="Apply to join your company's mentoring programme"><br><sub><b>Apply to join your company's mentoring programme</b></sub><br><sub><code>mentoring-programme-application</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pay-review-meeting-request.svg" width="44" height="44" alt="Ask your manager for a pay review meeting"><br><sub><b>Ask your manager for a pay review meeting</b></sub><br><sub><code>pay-review-meeting-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/professional-membership-fee-request.svg" width="44" height="44" alt="Ask your employer to pay a professional membership fee"><br><sub><b>Ask your employer to pay a professional membership fee</b></sub><br><sub><code>professional-membership-fee-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/take-home-task-extension-request.svg" width="44" height="44" alt="Ask a hiring team for more time on a take-home task"><br><sub><b>Ask a hiring team for more time on a take-home task</b></sub><br><sub><code>take-home-task-extension-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/career-coach-enquiry.svg" width="44" height="44" alt="Ask a career coach about sessions and fees"><br><sub><b>Ask a career coach about sessions and fees</b></sub><br><sub><code>career-coach-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/career-change-skills-summary.svg" width="44" height="44" alt="Summary of your skills for a change of career"><br><sub><b>Summary of your skills for a change of career</b></sub><br><sub><code>career-change-skills-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lunch-and-learn-talk-offer.svg" width="44" height="44" alt="Offer to give a lunch-and-learn talk at work"><br><sub><b>Offer to give a lunch-and-learn talk at work</b></sub><br><sub><code>lunch-and-learn-talk-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/employer-copy-employment-contract.svg" width="44" height="44" alt="Ask your employer for a copy of your employment contract"><br><sub><b>Ask your employer for a copy of your employment contract</b></sub><br><sub><code>employer-copy-employment-contract</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/employer-copy-training-records.svg" width="44" height="44" alt="Ask your employer for a copy of your training records"><br><sub><b>Ask your employer for a copy of your training records</b></sub><br><sub><code>employer-copy-training-records</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/employer-new-bank-details-pay.svg" width="44" height="44" alt="Give your employer new bank details for your pay"><br><sub><b>Give your employer new bank details for your pay</b></sub><br><sub><code>employer-new-bank-details-pay</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-employer-second-job.svg" width="44" height="44" alt="Tell your employer you have a second job"><br><sub><b>Tell your employer you have a second job</b></sub><br><sub><code>tell-employer-second-job</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-qualification-tell-manager.svg" width="44" height="44" alt="Tell your manager you passed a new qualification"><br><sub><b>Tell your manager you passed a new qualification</b></sub><br><sub><code>new-qualification-tell-manager</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/stretch-project-volunteer-note.svg" width="44" height="44" alt="Volunteer for a stretch project at work"><br><sub><b>Volunteer for a stretch project at work</b></sub><br><sub><code>stretch-project-volunteer-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ergonomic-assessment-request.svg" width="44" height="44" alt="Ask for a workstation check because of pain at your desk"><br><sub><b>Ask for a workstation check because of pain at your desk</b></sub><br><sub><code>ergonomic-assessment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/colleague-intro-chat-ask.svg" width="44" height="44" alt="Ask a colleague from another team for a short intro chat"><br><sub><b>Ask a colleague from another team for a short intro chat</b></sub><br><sub><code>colleague-intro-chat-ask</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/client-gift-declaration-note.svg" width="44" height="44" alt="Tell your manager about a gift you got from a client"><br><sub><b>Tell your manager about a gift you got from a client</b></sub><br><sub><code>client-gift-declaration-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sick-day-call-in-message.svg" width="44" height="44" alt="Tell your manager you are off sick today"><br><sub><b>Tell your manager you are off sick today</b></sub><br><sub><code>sick-day-call-in-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/career-goals-conversation-request.svg" width="44" height="44" alt="Ask your manager for a talk about your career goals"><br><sub><b>Ask your manager for a talk about your career goals</b></sub><br><sub><code>career-goals-conversation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reference-correction-request.svg" width="44" height="44" alt="Ask a former employer to correct a work reference"><br><sub><b>Ask a former employer to correct a work reference</b></sub><br><sub><code>reference-correction-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/public-holiday-swap-request.svg" width="44" height="44" alt="Ask to swap a public holiday for a religious or cultural day"><br><sub><b>Ask to swap a public holiday for a religious or cultural day</b></sub><br><sub><code>public-holiday-swap-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-mentee-introduction-note.svg" width="44" height="44" alt="Introduce yourself to a new mentor as their mentee"><br><sub><b>Introduce yourself to a new mentor as their mentee</b></sub><br><sub><code>new-mentee-introduction-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-manager-to-confirm-agreed-change-in-writing.svg" width="44" height="44" alt="Ask your manager to confirm an agreed change to your job in writing"><br><sub><b>Ask your manager to confirm an agreed change to your job in writing</b></sub><br><sub><code>ask-manager-to-confirm-agreed-change-in-writing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-work-from-another-country-for-a-few-weeks.svg" width="44" height="44" alt="Ask your employer if you can work from another country for a few weeks"><br><sub><b>Ask your employer if you can work from another country for a few weeks</b></sub><br><sub><code>ask-to-work-from-another-country-for-a-few-weeks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/employee-conflict-of-interest-declaration.svg" width="44" height="44" alt="Tell your employer about a possible conflict of interest"><br><sub><b>Tell your employer about a possible conflict of interest</b></sub><br><sub><code>employee-conflict-of-interest-declaration</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-quieter-workspace.svg" width="44" height="44" alt="Ask your manager for a quieter place to work"><br><sub><b>Ask your manager for a quieter place to work</b></sub><br><sub><code>ask-for-a-quieter-workspace</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-manager-for-regular-one-to-one.svg" width="44" height="44" alt="Ask your manager for regular one-to-one meetings"><br><sub><b>Ask your manager for regular one-to-one meetings</b></sub><br><sub><code>ask-manager-for-regular-one-to-one</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-employee-handbook-copy.svg" width="44" height="44" alt="Ask HR for a copy of the staff handbook and policies"><br><sub><b>Ask HR for a copy of the staff handbook and policies</b></sub><br><sub><code>ask-for-employee-handbook-copy</code></sub></td>
 </tr>
 </table>
 

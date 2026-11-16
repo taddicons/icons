@@ -1,6 +1,6 @@
 # Transport & vehicles
 
-<sub>Taddicons 0.3.0 · World & nature · 194 icons</sub>
+<sub>Taddicons 0.3.1 · World & nature · 194 icons</sub>
 
 Cars, bikes, buses, trains, planes and boats.
 

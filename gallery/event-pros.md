@@ -1,6 +1,6 @@
 # Event planning professionals
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Messages an event planner sends to clients, venues and vendors, from the first proposal to the post-event report.
 
@@ -88,6 +88,42 @@ Messages an event planner sends to clients, venues and vendors, from the first p
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/ep-guest-access-plan-to-venue.svg" width="44" height="44" alt="Send the venue the plan for guests' access needs"><br><sub><b>Send the venue the plan for guests' access needs</b></sub><br><sub><code>ep-guest-access-plan-to-venue</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ep-vendor-new-date-request.svg" width="44" height="44" alt="Ask a vendor to move to a new event date"><br><sub><b>Ask a vendor to move to a new event date</b></sub><br><sub><code>ep-vendor-new-date-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-client-final-walkthrough-invite.svg" width="44" height="44" alt="Invite a client to a final venue walkthrough before the event"><br><sub><b>Invite a client to a final venue walkthrough before the event</b></sub><br><sub><code>ep-client-final-walkthrough-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-vendor-running-late-check.svg" width="44" height="44" alt="Check in with a supplier who has not arrived on event day"><br><sub><b>Check in with a supplier who has not arrived on event day</b></sub><br><sub><code>ep-vendor-running-late-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-client-rebooking-offer.svg" width="44" height="44" alt="Offer a past client a date for next year's event"><br><sub><b>Offer a past client a date for next year's event</b></sub><br><sub><code>ep-client-rebooking-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-client-decision-timeline.svg" width="44" height="44" alt="Send a client the dates their event decisions are due"><br><sub><b>Send a client the dates their event decisions are due</b></sub><br><sub><code>ep-client-decision-timeline</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ep-venue-floor-plan-request.svg" width="44" height="44" alt="Ask a venue for floor plans and room measurements"><br><sub><b>Ask a venue for floor plans and room measurements</b></sub><br><sub><code>ep-venue-floor-plan-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-coach-transfer-booking-request.svg" width="44" height="44" alt="Book coaches to move guests between venues"><br><sub><b>Book coaches to move guests between venues</b></sub><br><sub><code>ep-coach-transfer-booking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-wrap-up-meeting-invite.svg" width="44" height="44" alt="Invite the client to a wrap-up meeting after the event"><br><sub><b>Invite the client to a wrap-up meeting after the event</b></sub><br><sub><code>ep-wrap-up-meeting-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-signage-print-brief.svg" width="44" height="44" alt="Brief a printer on event signs and banners"><br><sub><b>Brief a printer on event signs and banners</b></sub><br><sub><code>ep-signage-print-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-vendor-power-needs-request.svg" width="44" height="44" alt="Ask vendors for their power and equipment needs before an event"><br><sub><b>Ask vendors for their power and equipment needs before an event</b></sub><br><sub><code>ep-vendor-power-needs-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-client-music-choices-request.svg" width="44" height="44" alt="Ask a client for their music choices for the event"><br><sub><b>Ask a client for their music choices for the event</b></sub><br><sub><code>ep-client-music-choices-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ep-enquiry-date-not-available-reply.svg" width="44" height="44" alt="Reply to an enquiry when your date is already booked"><br><sub><b>Reply to an enquiry when your date is already booked</b></sub><br><sub><code>ep-enquiry-date-not-available-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-staff-dress-code-note.svg" width="44" height="44" alt="Tell event staff what to wear on the day"><br><sub><b>Tell event staff what to wear on the day</b></sub><br><sub><code>ep-staff-dress-code-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-speaker-tech-check-invite.svg" width="44" height="44" alt="Invite a speaker to a tech check before the event"><br><sub><b>Invite a speaker to a tech check before the event</b></sub><br><sub><code>ep-speaker-tech-check-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-client-date-hold-expiry-notice.svg" width="44" height="44" alt="Tell a client their provisional event date hold is ending"><br><sub><b>Tell a client their provisional event date hold is ending</b></sub><br><sub><code>ep-client-date-hold-expiry-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-first-aid-cover-booking.svg" width="44" height="44" alt="Book first aid cover for an event"><br><sub><b>Book first aid cover for an event</b></sub><br><sub><code>ep-first-aid-cover-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-waste-plan-to-vendors.svg" width="44" height="44" alt="Send vendors the waste and recycling plan for an event"><br><sub><b>Send vendors the waste and recycling plan for an event</b></sub><br><sub><code>ep-waste-plan-to-vendors</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ep-supplier-shortlist-to-client.svg" width="44" height="44" alt="Send a client a shortlist of suppliers to choose from"><br><sub><b>Send a client a shortlist of suppliers to choose from</b></sub><br><sub><code>ep-supplier-shortlist-to-client</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-client-one-month-check-in.svg" width="44" height="44" alt="Check in with a client one month before their event"><br><sub><b>Check in with a client one month before their event</b></sub><br><sub><code>ep-client-one-month-check-in</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-preferred-vendor-invite.svg" width="44" height="44" alt="Invite a supplier onto your preferred vendor list"><br><sub><b>Invite a supplier onto your preferred vendor list</b></sub><br><sub><code>ep-preferred-vendor-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-client-photo-use-permission.svg" width="44" height="44" alt="Ask a client for permission to use event photos in your portfolio"><br><sub><b>Ask a client for permission to use event photos in your portfolio</b></sub><br><sub><code>ep-client-photo-use-permission</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-venue-rate-negotiation.svg" width="44" height="44" alt="Ask a venue for a better rate for a booking"><br><sub><b>Ask a venue for a better rate for a booking</b></sub><br><sub><code>ep-venue-rate-negotiation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-client-speech-timing-note.svg" width="44" height="44" alt="Ask a client to keep speeches to the planned time"><br><sub><b>Ask a client to keep speeches to the planned time</b></sub><br><sub><code>ep-client-speech-timing-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ep-hotel-room-block-request.svg" width="44" height="44" alt="Ask a hotel to hold rooms for a client's event guests"><br><sub><b>Ask a hotel to hold rooms for a client's event guests</b></sub><br><sub><code>ep-hotel-room-block-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-incident-report-to-client.svg" width="44" height="44" alt="Tell a client about an incident at their event"><br><sub><b>Tell a client about an incident at their event</b></sub><br><sub><code>ep-incident-report-to-client</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-entertainer-set-brief.svg" width="44" height="44" alt="Brief an entertainer on their set at an event"><br><sub><b>Brief an entertainer on their set at an event</b></sub><br><sub><code>ep-entertainer-set-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-planning-call-recap.svg" width="44" height="44" alt="Recap a planning call with an event client"><br><sub><b>Recap a planning call with an event client</b></sub><br><sub><code>ep-planning-call-recap</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-photographer-delivery-chase.svg" width="44" height="44" alt="Chase an event photographer for photos that are late"><br><sub><b>Chase an event photographer for photos that are late</b></sub><br><sub><code>ep-photographer-delivery-chase</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ep-past-client-one-year-hello.svg" width="44" height="44" alt="Say hello to an event client one year after their event"><br><sub><b>Say hello to an event client one year after their event</b></sub><br><sub><code>ep-past-client-one-year-hello</code></sub></td>
 </tr>
 </table>
 

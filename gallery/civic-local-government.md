@@ -1,6 +1,6 @@
 # Civic and local government
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Letters, speeches and requests to councillors, councils, libraries, school boards and election helpers, so ordinary people can be heard where they live.
 
@@ -88,6 +88,42 @@ Letters, speeches and requests to councillors, councils, libraries, school board
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/hustings-invitation-to-candidates.svg" width="44" height="44" alt="Invite local election candidates to a public question meeting"><br><sub><b>Invite local election candidates to a public question meeting</b></sub><br><sub><code>hustings-invitation-to-candidates</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/road-sign-damage-report.svg" width="44" height="44" alt="Report a damaged, missing or hidden road sign to the council"><br><sub><b>Report a damaged, missing or hidden road sign to the council</b></sub><br><sub><code>road-sign-damage-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/blocked-footpath-report.svg" width="44" height="44" alt="Report a blocked public footpath"><br><sub><b>Report a blocked public footpath</b></sub><br><sub><code>blocked-footpath-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tree-protection-question-to-council.svg" width="44" height="44" alt="Ask the council if a tree is protected"><br><sub><b>Ask the council if a tree is protected</b></sub><br><sub><code>tree-protection-question-to-council</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/open-electoral-register-opt-out.svg" width="44" height="44" alt="Ask to be removed from the open electoral register"><br><sub><b>Ask to be removed from the open electoral register</b></sub><br><sub><code>open-electoral-register-opt-out</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-hall-hire-request.svg" width="44" height="44" alt="Ask to hire a community hall"><br><sub><b>Ask to hire a community hall</b></sub><br><sub><code>community-hall-hire-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/street-sweeping-request.svg" width="44" height="44" alt="Ask the council to sweep a dirty street"><br><sub><b>Ask the council to sweep a dirty street</b></sub><br><sub><code>street-sweeping-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/litter-pick-equipment-loan-request.svg" width="44" height="44" alt="Borrow litter-picking kit from the council for a clean-up"><br><sub><b>Borrow litter-picking kit from the council for a clean-up</b></sub><br><sub><code>litter-pick-equipment-loan-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/licence-application-comment.svg" width="44" height="44" alt="Comment on a nearby licence application to the council"><br><sub><b>Comment on a nearby licence application to the council</b></sub><br><sub><code>licence-application-comment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-noticeboard-repair-request.svg" width="44" height="44" alt="Ask for a broken community noticeboard to be fixed"><br><sub><b>Ask for a broken community noticeboard to be fixed</b></sub><br><sub><code>community-noticeboard-repair-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/library-meeting-room-booking-request.svg" width="44" height="44" alt="Book a meeting room at your public library"><br><sub><b>Book a meeting room at your public library</b></sub><br><sub><code>library-meeting-room-booking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/war-memorial-cleaning-request.svg" width="44" height="44" alt="Ask the council to clean or repair a war memorial"><br><sub><b>Ask the council to clean or repair a war memorial</b></sub><br><sub><code>war-memorial-cleaning-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/drinking-fountain-request.svg" width="44" height="44" alt="Ask the council for a public drinking fountain"><br><sub><b>Ask the council for a public drinking fountain</b></sub><br><sub><code>drinking-fountain-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/allotment-plot-handback-notice.svg" width="44" height="44" alt="Tell the council you are giving up your allotment plot"><br><sub><b>Tell the council you are giving up your allotment plot</b></sub><br><sub><code>allotment-plot-handback-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-garden-water-supply-request.svg" width="44" height="44" alt="Ask the council for a water supply at a community garden"><br><sub><b>Ask the council for a water supply at a community garden</b></sub><br><sub><code>community-garden-water-supply-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/street-light-too-bright-complaint.svg" width="44" height="44" alt="Tell the council a street light is shining into your home"><br><sub><b>Tell the council a street light is shining into your home</b></sub><br><sub><code>street-light-too-bright-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/abandoned-trolleys-report.svg" width="44" height="44" alt="Report abandoned shopping trolleys in your area"><br><sub><b>Report abandoned shopping trolleys in your area</b></sub><br><sub><code>abandoned-trolleys-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-centre-heating-fault-report.svg" width="44" height="44" alt="Report a heating fault at a council community centre"><br><sub><b>Report a heating fault at a council community centre</b></sub><br><sub><code>community-centre-heating-fault-report</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/bus-stop-timetable-display-report.svg" width="44" height="44" alt="Report a missing or broken timetable at a bus stop"><br><sub><b>Report a missing or broken timetable at a bus stop</b></sub><br><sub><code>bus-stop-timetable-display-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fallen-tree-report.svg" width="44" height="44" alt="Report a fallen tree or large branch to the council"><br><sub><b>Report a fallen tree or large branch to the council</b></sub><br><sub><code>fallen-tree-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/skate-park-request.svg" width="44" height="44" alt="Ask the council for a skate park or pump track"><br><sub><b>Ask the council for a skate park or pump track</b></sub><br><sub><code>skate-park-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/memorial-bench-plaque-request.svg" width="44" height="44" alt="Ask the council about a memorial bench or plaque"><br><sub><b>Ask the council about a memorial bench or plaque</b></sub><br><sub><code>memorial-bench-plaque-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pedestrian-crossing-timing-request.svg" width="44" height="44" alt="Ask for more crossing time at a pedestrian light"><br><sub><b>Ask for more crossing time at a pedestrian light</b></sub><br><sub><code>pedestrian-crossing-timing-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/outdoor-gym-equipment-request.svg" width="44" height="44" alt="Ask for outdoor gym equipment in a local park"><br><sub><b>Ask for outdoor gym equipment in a local park</b></sub><br><sub><code>outdoor-gym-equipment-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/dog-fouling-report.svg" width="44" height="44" alt="Report repeated dog fouling on a street or path to the council"><br><sub><b>Report repeated dog fouling on a street or path to the council</b></sub><br><sub><code>dog-fouling-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bus-route-change-feedback.svg" width="44" height="44" alt="Give the council or transport authority feedback on a bus route change"><br><sub><b>Give the council or transport authority feedback on a bus route change</b></sub><br><sub><code>bus-route-change-feedback</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/faded-road-markings-report.svg" width="44" height="44" alt="Report faded road markings or crossing lines to the council"><br><sub><b>Report faded road markings or crossing lines to the council</b></sub><br><sub><code>faded-road-markings-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/abandoned-bike-report.svg" width="44" height="44" alt="Report a bike left abandoned on a public rack"><br><sub><b>Report a bike left abandoned on a public rack</b></sub><br><sub><code>abandoned-bike-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/broken-bollard-report.svg" width="44" height="44" alt="Report a broken or missing bollard"><br><sub><b>Report a broken or missing bollard</b></sub><br><sub><code>broken-bollard-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/library-reading-aid-request.svg" width="44" height="44" alt="Ask your library for a magnifier or other reading aid"><br><sub><b>Ask your library for a magnifier or other reading aid</b></sub><br><sub><code>library-reading-aid-request</code></sub></td>
 </tr>
 </table>
 

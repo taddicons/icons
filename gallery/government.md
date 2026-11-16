@@ -1,6 +1,6 @@
 # Government and official
 
-<sub>Taddicons 0.3.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Authorities, appeals, permits and your representatives.
 
@@ -103,6 +103,27 @@ Authorities, appeals, permits and your representatives.
 </tr>
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/community-garden-site-request.svg" width="44" height="44" alt="Ask the local authority for land for a community garden"><br><sub><b>Ask the local authority for land for a community garden</b></sub><br><sub><code>community-garden-site-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/traffic-calming-request.svg" width="44" height="44" alt="Traffic calming request: ask the council to slow traffic on your street"><br><sub><b>Traffic calming request: ask the council to slow traffic on your street</b></sub><br><sub><code>traffic-calming-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bike-rack-installation-request.svg" width="44" height="44" alt="Bike rack request: ask for cycle parking in a public place"><br><sub><b>Bike rack request: ask for cycle parking in a public place</b></sub><br><sub><code>bike-rack-installation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/street-sign-replacement-request.svg" width="44" height="44" alt="Street sign replacement: report a missing, damaged or faded name sign"><br><sub><b>Street sign replacement: report a missing, damaged or faded name sign</b></sub><br><sub><code>street-sign-replacement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/public-defibrillator-installation-request.svg" width="44" height="44" alt="Public defibrillator request: ask for a defib in your area"><br><sub><b>Public defibrillator request: ask for a defib in your area</b></sub><br><sub><code>public-defibrillator-installation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/accessible-bus-stop-request.svg" width="44" height="44" alt="Accessible bus stop request: ask for a stop that everyone can use"><br><sub><b>Accessible bus stop request: ask for a stop that everyone can use</b></sub><br><sub><code>accessible-bus-stop-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/winter-gritting-request.svg" width="44" height="44" alt="Winter gritting request: ask for a road or path to be gritted"><br><sub><b>Winter gritting request: ask for a road or path to be gritted</b></sub><br><sub><code>winter-gritting-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gov-planning-decision-copy.svg" width="44" height="44" alt="Ask the council for a copy of a planning decision"><br><sub><b>Ask the council for a copy of a planning decision</b></sub><br><sub><code>gov-planning-decision-copy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gov-letters-by-email-request.svg" width="44" height="44" alt="Ask a public office to send letters by email instead of post"><br><sub><b>Ask a public office to send letters by email instead of post</b></sub><br><sub><code>gov-letters-by-email-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gov-fee-receipt-request.svg" width="44" height="44" alt="Ask a public office for a receipt for a fee you paid"><br><sub><b>Ask a public office for a receipt for a fee you paid</b></sub><br><sub><code>gov-fee-receipt-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gov-certified-document-copy.svg" width="44" height="44" alt="Ask a public office for a certified copy of a document"><br><sub><b>Ask a public office for a certified copy of a document</b></sub><br><sub><code>gov-certified-document-copy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gov-appointment-written-confirmation.svg" width="44" height="44" alt="Ask a government office to confirm your appointment in writing"><br><sub><b>Ask a government office to confirm your appointment in writing</b></sub><br><sub><code>gov-appointment-written-confirmation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/authorise-someone-to-speak-to-an-agency-for-me.svg" width="44" height="44" alt="Give someone permission to speak to an agency for you"><br><sub><b>Give someone permission to speak to an agency for you</b></sub><br><sub><code>authorise-someone-to-speak-to-an-agency-for-me</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/public-water-fountain-request.svg" width="44" height="44" alt="Ask the council to put in a public drinking water fountain"><br><sub><b>Ask the council to put in a public drinking water fountain</b></sub><br><sub><code>public-water-fountain-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/agency-case-file-copy-request.svg" width="44" height="44" alt="Ask an agency for a copy of your case file"><br><sub><b>Ask an agency for a copy of your case file</b></sub><br><sub><code>agency-case-file-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/replacement-bin-request.svg" width="44" height="44" alt="Ask the council for a new or replacement bin"><br><sub><b>Ask the council for a new or replacement bin</b></sub><br><sub><code>replacement-bin-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/criminal-record-certificate-request.svg" width="44" height="44" alt="Request a criminal record certificate for a job or visa"><br><sub><b>Request a criminal record certificate for a job or visa</b></sub><br><sub><code>criminal-record-certificate-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-award-letter-copy-request.svg" width="44" height="44" alt="Ask a benefits office for a letter confirming what you receive"><br><sub><b>Ask a benefits office for a letter confirming what you receive</b></sub><br><sub><code>benefit-award-letter-copy-request</code></sub></td>
 </tr>
 </table>
 

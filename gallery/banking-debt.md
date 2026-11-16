@@ -1,6 +1,6 @@
 # Banking, debt and credit
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Letters and messages for your bank, for people you owe, for people who owe you, and for credit records.
 
@@ -88,6 +88,42 @@ Letters and messages for your bank, for people you owe, for people who owe you, 
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/bank-switch-problem-query.svg" width="44" height="44" alt="Raise a problem after switching your bank account"><br><sub><b>Raise a problem after switching your bank account</b></sub><br><sub><code>bank-switch-problem-query</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/joint-account-holder-add-request.svg" width="44" height="44" alt="Ask your bank to add a second person to your account"><br><sub><b>Ask your bank to add a second person to your account</b></sub><br><sub><code>joint-account-holder-add-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/creditor-new-address-notice.svg" width="44" height="44" alt="Tell a creditor your new address"><br><sub><b>Tell a creditor your new address</b></sub><br><sub><code>creditor-new-address-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/income-and-spending-cover-note.svg" width="44" height="44" alt="Send a lender your income and spending statement"><br><sub><b>Send a lender your income and spending statement</b></sub><br><sub><code>income-and-spending-cover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gambling-payment-block-request.svg" width="44" height="44" alt="Ask your bank to block gambling payments"><br><sub><b>Ask your bank to block gambling payments</b></sub><br><sub><code>gambling-payment-block-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mortgage-rate-switch-enquiry.svg" width="44" height="44" alt="Ask your lender about switching your mortgage rate"><br><sub><b>Ask your lender about switching your mortgage rate</b></sub><br><sub><code>mortgage-rate-switch-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pay-later-missed-payment-note.svg" width="44" height="44" alt="Tell a pay-later provider you have missed or will miss a payment"><br><sub><b>Tell a pay-later provider you have missed or will miss a payment</b></sub><br><sub><code>pay-later-missed-payment-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/account-opening-refusal-query.svg" width="44" height="44" alt="Ask a bank to explain why it would not open your account"><br><sub><b>Ask a bank to explain why it would not open your account</b></sub><br><sub><code>account-opening-refusal-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/enforcement-agent-payment-plan-request.svg" width="44" height="44" alt="Ask an enforcement agent firm for a payment plan"><br><sub><b>Ask an enforcement agent firm for a payment plan</b></sub><br><sub><code>enforcement-agent-payment-plan-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/overpaid-loan-refund-request.svg" width="44" height="44" alt="Ask a lender to refund money you overpaid on a loan"><br><sub><b>Ask a lender to refund money you overpaid on a loan</b></sub><br><sub><code>overpaid-loan-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/interest-charge-breakdown-request.svg" width="44" height="44" alt="Ask your bank to explain an interest charge"><br><sub><b>Ask your bank to explain an interest charge</b></sub><br><sub><code>interest-charge-breakdown-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/loan-refusal-reason-request.svg" width="44" height="44" alt="Ask a lender for the main reasons a loan was refused"><br><sub><b>Ask a lender for the main reasons a loan was refused</b></sub><br><sub><code>loan-refusal-reason-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/standing-order-amount-change-request.svg" width="44" height="44" alt="Ask your bank to change the amount of a standing order"><br><sub><b>Ask your bank to change the amount of a standing order</b></sub><br><sub><code>standing-order-amount-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/card-spending-limit-change-request.svg" width="44" height="44" alt="Ask your bank to set or lower a card spending limit"><br><sub><b>Ask your bank to set or lower a card spending limit</b></sub><br><sub><code>card-spending-limit-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bank-charges-refund-request.svg" width="44" height="44" alt="Ask your bank to review and refund account charges"><br><sub><b>Ask your bank to review and refund account charges</b></sub><br><sub><code>bank-charges-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mortgage-redemption-statement-request.svg" width="44" height="44" alt="Ask your lender for a mortgage redemption statement"><br><sub><b>Ask your lender for a mortgage redemption statement</b></sub><br><sub><code>mortgage-redemption-statement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/payment-plan-review-request.svg" width="44" height="44" alt="Ask a creditor to review your payment plan after your income changed"><br><sub><b>Ask a creditor to review your payment plan after your income changed</b></sub><br><sub><code>payment-plan-review-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/foreign-transaction-fee-query.svg" width="44" height="44" alt="Ask your bank to explain a fee on a payment abroad"><br><sub><b>Ask your bank to explain a fee on a payment abroad</b></sub><br><sub><code>foreign-transaction-fee-query</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/safe-deposit-box-closure-request.svg" width="44" height="44" alt="Ask your bank to close your safe deposit box"><br><sub><b>Ask your bank to close your safe deposit box</b></sub><br><sub><code>safe-deposit-box-closure-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/account-closure-confirmation-request.svg" width="44" height="44" alt="Ask your bank for written proof that an account is closed"><br><sub><b>Ask your bank for written proof that an account is closed</b></sub><br><sub><code>account-closure-confirmation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/held-payment-explanation-request.svg" width="44" height="44" alt="Ask your bank why a payment is on hold"><br><sub><b>Ask your bank why a payment is on hold</b></sub><br><sub><code>held-payment-explanation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cheque-book-request.svg" width="44" height="44" alt="Ask your bank for a new cheque book"><br><sub><b>Ask your bank for a new cheque book</b></sub><br><sub><code>cheque-book-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/overdraft-removal-request.svg" width="44" height="44" alt="Ask your bank to remove or lower your overdraft"><br><sub><b>Ask your bank to remove or lower your overdraft</b></sub><br><sub><code>overdraft-removal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bank-account-type-change-request.svg" width="44" height="44" alt="Ask your bank to switch you to a basic or fee-free account"><br><sub><b>Ask your bank to switch you to a basic or fee-free account</b></sub><br><sub><code>bank-account-type-change-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/duplicate-direct-debit-payment-query.svg" width="44" height="44" alt="Ask your bank about a direct debit taken twice"><br><sub><b>Ask your bank about a direct debit taken twice</b></sub><br><sub><code>duplicate-direct-debit-payment-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bank-branch-closure-access-question.svg" width="44" height="44" alt="Ask your bank how to bank in person after a branch closes"><br><sub><b>Ask your bank how to bank in person after a branch closes</b></sub><br><sub><code>bank-branch-closure-access-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bank-statement-large-print-request.svg" width="44" height="44" alt="Ask your bank for statements in large print or another format"><br><sub><b>Ask your bank for statements in large print or another format</b></sub><br><sub><code>bank-statement-large-print-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bank-letters-in-another-language-request.svg" width="44" height="44" alt="Ask your bank to send letters in another language"><br><sub><b>Ask your bank to send letters in another language</b></sub><br><sub><code>bank-letters-in-another-language-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/suspicious-bank-call-check.svg" width="44" height="44" alt="Check with your bank whether a call from them was real"><br><sub><b>Check with your bank whether a call from them was real</b></sub><br><sub><code>suspicious-bank-call-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/stop-cheque-request.svg" width="44" height="44" alt="Ask your bank to stop a cheque you have written"><br><sub><b>Ask your bank to stop a cheque you have written</b></sub><br><sub><code>stop-cheque-request</code></sub></td>
 </tr>
 </table>
 

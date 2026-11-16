@@ -1,6 +1,6 @@
 # Sales and marketing outreach
 
-<sub>Taddicons 0.3.0 · Documents & messages · 64 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Cold and warm outreach, follow-ups, demos, proposals, price talks, renewals, partner pitches, events and customer proof.
 
@@ -90,6 +90,40 @@ Cold and warm outreach, follow-ups, demos, proposals, price talks, renewals, par
 <td align="center" width="16%"><img src="../svg/mark/sales-insight-post.svg" width="44" height="44" alt="Write a social post sharing a lesson from your customers"><br><sub><b>Write a social post sharing a lesson from your customers</b></sub><br><sub><code>sales-insight-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/customer-roundtable-invitation.svg" width="44" height="44" alt="Invite customers to a small roundtable dinner or event"><br><sub><b>Invite customers to a small roundtable dinner or event</b></sub><br><sub><code>customer-roundtable-invitation</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/product-sample-reply.svg" width="44" height="44" alt="Reply to a request for a product sample"><br><sub><b>Reply to a request for a product sample</b></sub><br><sub><code>product-sample-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-reference-call-request.svg" width="44" height="44" alt="Ask a happy customer to take a reference call"><br><sub><b>Ask a happy customer to take a reference call</b></sub><br><sub><code>sales-reference-call-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-missed-call-follow-up.svg" width="44" height="44" alt="Follow up when a prospect missed a booked sales call"><br><sub><b>Follow up when a prospect missed a booked sales call</b></sub><br><sub><code>sales-missed-call-follow-up</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sales-trial-extension-offer.svg" width="44" height="44" alt="Offer a prospect more time on their free trial"><br><sub><b>Offer a prospect more time on their free trial</b></sub><br><sub><code>sales-trial-extension-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-annual-plan-switch-offer.svg" width="44" height="44" alt="Offer a monthly customer a switch to a yearly plan"><br><sub><b>Offer a monthly customer a switch to a yearly plan</b></sub><br><sub><code>sales-annual-plan-switch-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-data-source-question-reply.svg" width="44" height="44" alt="Reply to a prospect who asks where you got their contact details"><br><sub><b>Reply to a prospect who asks where you got their contact details</b></sub><br><sub><code>sales-data-source-question-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-onboarding-call-booking.svg" width="44" height="44" alt="Invite a new customer to book their onboarding call"><br><sub><b>Invite a new customer to book their onboarding call</b></sub><br><sub><code>sales-onboarding-call-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-intro-thank-you-to-connector.svg" width="44" height="44" alt="Thank someone who introduced you to a potential customer"><br><sub><b>Thank someone who introduced you to a potential customer</b></sub><br><sub><code>sales-intro-thank-you-to-connector</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-customer-anniversary-thanks.svg" width="44" height="44" alt="Thank a customer on the anniversary of working together"><br><sub><b>Thank a customer on the anniversary of working together</b></sub><br><sub><code>sales-customer-anniversary-thanks</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sales-price-change-early-notice.svg" width="44" height="44" alt="Give a customer early notice of a price change"><br><sub><b>Give a customer early notice of a price change</b></sub><br><sub><code>sales-price-change-early-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-meeting-no-show-follow-up.svg" width="44" height="44" alt="Follow up after a prospect missed a sales meeting"><br><sub><b>Follow up after a prospect missed a sales meeting</b></sub><br><sub><code>sales-meeting-no-show-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-partner-customer-intro.svg" width="44" height="44" alt="Introduce a partner company to one of your customers"><br><sub><b>Introduce a partner company to one of your customers</b></sub><br><sub><code>sales-partner-customer-intro</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-next-quarter-follow-up.svg" width="44" height="44" alt="Follow up when a prospect asked you to wait until next quarter"><br><sub><b>Follow up when a prospect asked you to wait until next quarter</b></sub><br><sub><code>sales-next-quarter-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-contact-left-company-outreach.svg" width="44" height="44" alt="Reach out after your main contact leaves a customer"><br><sub><b>Reach out after your main contact leaves a customer</b></sub><br><sub><code>sales-contact-left-company-outreach</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-feature-gap-reply.svg" width="44" height="44" alt="Reply when a prospect asks for a feature you do not have"><br><sub><b>Reply when a prospect asks for a feature you do not have</b></sub><br><sub><code>sales-feature-gap-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sales-handover-to-support-note.svg" width="44" height="44" alt="Hand a new customer over to the support team"><br><sub><b>Hand a new customer over to the support team</b></sub><br><sub><code>sales-handover-to-support-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-mutual-action-plan-share.svg" width="44" height="44" alt="Share a joint plan of steps and dates with a buyer"><br><sub><b>Share a joint plan of steps and dates with a buyer</b></sub><br><sub><code>sales-mutual-action-plan-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-budget-timing-question.svg" width="44" height="44" alt="Ask a prospect when their budget is set and who approves it"><br><sub><b>Ask a prospect when their budget is set and who approves it</b></sub><br><sub><code>sales-budget-timing-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-payment-terms-request-reply.svg" width="44" height="44" alt="Reply to a customer who asks for longer payment terms"><br><sub><b>Reply to a customer who asks for longer payment terms</b></sub><br><sub><code>sales-payment-terms-request-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-roadmap-preview-invite.svg" width="44" height="44" alt="Invite key customers to an early look at your product roadmap"><br><sub><b>Invite key customers to an early look at your product roadmap</b></sub><br><sub><code>sales-roadmap-preview-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-year-end-client-thanks.svg" width="44" height="44" alt="Thank your clients at the end of the year"><br><sub><b>Thank your clients at the end of the year</b></sub><br><sub><code>sales-year-end-client-thanks</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sales-free-audit-offer.svg" width="44" height="44" alt="Offer a prospect a free review of their current setup"><br><sub><b>Offer a prospect a free review of their current setup</b></sub><br><sub><code>sales-free-audit-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-implementation-timeline-note.svg" width="44" height="44" alt="Share a setup timeline with a new customer after signing"><br><sub><b>Share a setup timeline with a new customer after signing</b></sub><br><sub><code>sales-implementation-timeline-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-customer-site-visit-request.svg" width="44" height="44" alt="Ask a customer if you can visit their site in person"><br><sub><b>Ask a customer if you can visit their site in person</b></sub><br><sub><code>sales-customer-site-visit-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-opt-out-confirmation.svg" width="44" height="44" alt="Confirm to a contact that you will stop sending them sales emails"><br><sub><b>Confirm to a contact that you will stop sending them sales emails</b></sub><br><sub><code>sales-opt-out-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-tender-deadline-extension-request.svg" width="44" height="44" alt="Ask a buyer for more time to answer a tender"><br><sub><b>Ask a buyer for more time to answer a tender</b></sub><br><sub><code>sales-tender-deadline-extension-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sales-pilot-success-criteria-note.svg" width="44" height="44" alt="Agree how you will judge a trial with a buyer"><br><sub><b>Agree how you will judge a trial with a buyer</b></sub><br><sub><code>sales-pilot-success-criteria-note</code></sub></td>
 </tr>
 </table>
 

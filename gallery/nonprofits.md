@@ -1,6 +1,6 @@
 # Nonprofits and volunteering
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Charities, volunteers and community groups: asking for help, thanking and reporting.
 
@@ -88,6 +88,42 @@ Charities, volunteers and community groups: asking for help, thanking and report
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/supporter-mailing-list-welcome.svg" width="44" height="44" alt="Welcome a new supporter to your charity mailing list"><br><sub><b>Welcome a new supporter to your charity mailing list</b></sub><br><sub><code>supporter-mailing-list-welcome</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/referral-to-partner-charity.svg" width="44" height="44" alt="Refer someone you support to a partner charity"><br><sub><b>Refer someone you support to a partner charity</b></sub><br><sub><code>referral-to-partner-charity</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-event-ticket-confirmation.svg" width="44" height="44" alt="Confirm a ticket booking for a charity fundraising event"><br><sub><b>Confirm a ticket booking for a charity fundraising event</b></sub><br><sub><code>charity-event-ticket-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trustee-apologies-for-absence.svg" width="44" height="44" alt="Send apologies for missing a trustee or board meeting"><br><sub><b>Send apologies for missing a trustee or board meeting</b></sub><br><sub><code>trustee-apologies-for-absence</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pro-bono-skills-request.svg" width="44" height="44" alt="Ask a professional to give their skills to a charity for free"><br><sub><b>Ask a professional to give their skills to a charity for free</b></sub><br><sub><code>pro-bono-skills-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-role-change-offer.svg" width="44" height="44" alt="Offer a volunteer a new or different role"><br><sub><b>Offer a volunteer a new or different role</b></sub><br><sub><code>volunteer-role-change-offer</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/charity-rebrand-announcement.svg" width="44" height="44" alt="Tell supporters your charity has a new name and look"><br><sub><b>Tell supporters your charity has a new name and look</b></sub><br><sub><code>charity-rebrand-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-sponsorship-package-offer.svg" width="44" height="44" alt="Offer a local business a sponsorship package for a charity event"><br><sub><b>Offer a local business a sponsorship package for a charity event</b></sub><br><sub><code>event-sponsorship-package-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/community-consultation-invitation.svg" width="44" height="44" alt="Invite the community to help shape a charity's new service"><br><sub><b>Invite the community to help shape a charity's new service</b></sub><br><sub><code>community-consultation-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supporter-contact-preferences-check.svg" width="44" height="44" alt="Ask supporters how they want to hear from your charity"><br><sub><b>Ask supporters how they want to hear from your charity</b></sub><br><sub><code>supporter-contact-preferences-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supporter-data-request-acknowledgement.svg" width="44" height="44" alt="Acknowledge a supporter's request for a copy of their personal data"><br><sub><b>Acknowledge a supporter's request for a copy of their personal data</b></sub><br><sub><code>supporter-data-request-acknowledgement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/raffle-rules-notice.svg" width="44" height="44" alt="Share the rules for a charity raffle before tickets go on sale"><br><sub><b>Share the rules for a charity raffle before tickets go on sale</b></sub><br><sub><code>raffle-rules-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trustee-conflict-of-interest-declaration.svg" width="44" height="44" alt="Declare a conflict of interest to your charity board"><br><sub><b>Declare a conflict of interest to your charity board</b></sub><br><sub><code>trustee-conflict-of-interest-declaration</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/grant-rejection-feedback-request.svg" width="44" height="44" alt="Ask a funder for feedback after a grant application is turned down"><br><sub><b>Ask a funder for feedback after a grant application is turned down</b></sub><br><sub><code>grant-rejection-feedback-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteers-week-thank-you-post.svg" width="44" height="44" alt="Thank all your volunteers during volunteers' week"><br><sub><b>Thank all your volunteers during volunteers' week</b></sub><br><sub><code>volunteers-week-thank-you-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-helpline-hours-change-notice.svg" width="44" height="44" alt="Tell supporters and service users that your helpline hours are changing"><br><sub><b>Tell supporters and service users that your helpline hours are changing</b></sub><br><sub><code>charity-helpline-hours-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/beneficiary-feedback-survey-invite.svg" width="44" height="44" alt="Invite the people you support to give feedback on your service"><br><sub><b>Invite the people you support to give feedback on your service</b></sub><br><sub><code>beneficiary-feedback-survey-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-open-day-invitation.svg" width="44" height="44" alt="Invite the local community to your charity's open day"><br><sub><b>Invite the local community to your charity's open day</b></sub><br><sub><code>charity-open-day-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-data-retention-notice.svg" width="44" height="44" alt="Tell former volunteers how long you keep their details"><br><sub><b>Tell former volunteers how long you keep their details</b></sub><br><sub><code>volunteer-data-retention-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/grant-award-acceptance-letter.svg" width="44" height="44" alt="Accept a grant and confirm the next steps"><br><sub><b>Accept a grant and confirm the next steps</b></sub><br><sub><code>grant-award-acceptance-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trustee-welcome-letter.svg" width="44" height="44" alt="Welcome a new trustee to the board"><br><sub><b>Welcome a new trustee to the board</b></sub><br><sub><code>trustee-welcome-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-service-waiting-list-update.svg" width="44" height="44" alt="Update people waiting for a charity's service"><br><sub><b>Update people waiting for a charity's service</b></sub><br><sub><code>charity-service-waiting-list-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/street-collection-permit-request.svg" width="44" height="44" alt="Ask the council for a permit to collect money on the street"><br><sub><b>Ask the council for a permit to collect money on the street</b></sub><br><sub><code>street-collection-permit-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-driver-insurance-check-note.svg" width="44" height="44" alt="Ask volunteer drivers to check their car insurance"><br><sub><b>Ask volunteer drivers to check their car insurance</b></sub><br><sub><code>volunteer-driver-insurance-check-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/board-papers-send-note.svg" width="44" height="44" alt="Send trustees the papers ahead of a board meeting"><br><sub><b>Send trustees the papers ahead of a board meeting</b></sub><br><sub><code>board-papers-send-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-of-the-year-nominations-call.svg" width="44" height="44" alt="Ask supporters to nominate a volunteer of the year"><br><sub><b>Ask supporters to nominate a volunteer of the year</b></sub><br><sub><code>volunteer-of-the-year-nominations-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-service-closing-notice.svg" width="44" height="44" alt="Tell service users a charity service is closing and where to get help"><br><sub><b>Tell service users a charity service is closing and where to get help</b></sub><br><sub><code>charity-service-closing-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/donated-goods-decline-note.svg" width="44" height="44" alt="Kindly decline donated items your charity cannot use"><br><sub><b>Kindly decline donated items your charity cannot use</b></sub><br><sub><code>donated-goods-decline-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/board-chair-handover-note.svg" width="44" height="44" alt="Handover note from the outgoing chair to the new chair of the board"><br><sub><b>Handover note from the outgoing chair to the new chair of the board</b></sub><br><sub><code>board-chair-handover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/volunteer-role-closing-notice.svg" width="44" height="44" alt="Tell volunteers a role is closing and thank them"><br><sub><b>Tell volunteers a role is closing and thank them</b></sub><br><sub><code>volunteer-role-closing-notice</code></sub></td>
 </tr>
 </table>
 

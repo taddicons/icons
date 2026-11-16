@@ -1,6 +1,6 @@
 # Maps & travel
 
-<sub>Taddicons 0.3.0 · World & nature · 102 icons</sub>
+<sub>Taddicons 0.3.1 · World & nature · 102 icons</sub>
 
 Maps, pins, navigation, luggage and hotels.
 

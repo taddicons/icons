@@ -1,6 +1,6 @@
 # Life events and speeches
 
-<sub>Taddicons 0.3.0 · Documents & messages · 64 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Announcements, letters and the words for the big moments.
 
@@ -90,6 +90,40 @@ Announcements, letters and the words for the big moments.
 <td align="center" width="16%"><img src="../svg/mark/vow-renewal-vows.svg" width="44" height="44" alt="Write the vows for renewing your wedding vows"><br><sub><b>Write the vows for renewing your wedding vows</b></sub><br><sub><code>vow-renewal-vows</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/family-recipe-book-foreword.svg" width="44" height="44" alt="Write the foreword for a family recipe book"><br><sub><b>Write the foreword for a family recipe book</b></sub><br><sub><code>family-recipe-book-foreword</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/baptism-speech.svg" width="44" height="44" alt="Give a short speech at a christening or baptism party"><br><sub><b>Give a short speech at a christening or baptism party</b></sub><br><sub><code>baptism-speech</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-godchild.svg" width="44" height="44" alt="A letter to your godchild on a milestone day"><br><sub><b>A letter to your godchild on a milestone day</b></sub><br><sub><code>letter-to-godchild</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/care-move-letter-to-parent.svg" width="44" height="44" alt="Write to a parent about moving into a care home"><br><sub><b>Write to a parent about moving into a care home</b></sub><br><sub><code>care-move-letter-to-parent</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-partner-working-away.svg" width="44" height="44" alt="A letter to a partner who works away from home"><br><sub><b>A letter to a partner who works away from home</b></sub><br><sub><code>letter-to-partner-working-away</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-child-on-wedding-day.svg" width="44" height="44" alt="A letter to your child on their wedding day"><br><sub><b>A letter to your child on their wedding day</b></sub><br><sub><code>letter-to-child-on-wedding-day</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/family-reunion-welcome-speech.svg" width="44" height="44" alt="Give a short welcome speech at a family reunion"><br><sub><b>Give a short welcome speech at a family reunion</b></sub><br><sub><code>family-reunion-welcome-speech</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-adult-child-becoming-a-parent.svg" width="44" height="44" alt="Write to your grown-up child as they become a parent"><br><sub><b>Write to your grown-up child as they become a parent</b></sub><br><sub><code>letter-to-adult-child-becoming-a-parent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-grandparent.svg" width="44" height="44" alt="Write a loving letter to your grandparent"><br><sub><b>Write a loving letter to your grandparent</b></sub><br><sub><code>letter-to-grandparent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friends-leaving-party-speech.svg" width="44" height="44" alt="Give a speech at a friend's leaving party"><br><sub><b>Give a speech at a friend's leaving party</b></sub><br><sub><code>friends-leaving-party-speech</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-parent-on-retirement.svg" width="44" height="44" alt="Letter to your parent as they retire"><br><sub><b>Letter to your parent as they retire</b></sub><br><sub><code>letter-to-parent-on-retirement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-step-parent-letter.svg" width="44" height="44" alt="Thank a step-parent for being there for you"><br><sub><b>Thank a step-parent for being there for you</b></sub><br><sub><code>thank-step-parent-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-partner-after-a-hard-year.svg" width="44" height="44" alt="Letter to your partner after a hard year together"><br><sub><b>Letter to your partner after a hard year together</b></sub><br><sub><code>letter-to-partner-after-a-hard-year</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-relative-baby-named-after-them.svg" width="44" height="44" alt="Tell a relative your baby is named after them"><br><sub><b>Tell a relative your baby is named after them</b></sub><br><sub><code>tell-relative-baby-named-after-them</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-friend-on-their-wedding-day.svg" width="44" height="44" alt="Letter to a close friend on their wedding day"><br><sub><b>Letter to a close friend on their wedding day</b></sub><br><sub><code>letter-to-friend-on-their-wedding-day</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-a-childhood-teacher-years-later.svg" width="44" height="44" alt="Thank a teacher from your childhood, years later"><br><sub><b>Thank a teacher from your childhood, years later</b></sub><br><sub><code>thank-a-childhood-teacher-years-later</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-child-on-graduation.svg" width="44" height="44" alt="Letter to your child on their graduation day"><br><sub><b>Letter to your child on their graduation day</b></sub><br><sub><code>letter-to-child-on-graduation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-friend-moving-abroad.svg" width="44" height="44" alt="Letter to a friend who is moving abroad"><br><sub><b>Letter to a friend who is moving abroad</b></sub><br><sub><code>letter-to-friend-moving-abroad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-foster-child-leaving-care.svg" width="44" height="44" alt="Letter to a foster child as they leave your home"><br><sub><b>Letter to a foster child as they leave your home</b></sub><br><sub><code>letter-to-foster-child-leaving-care</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/family-home-farewell-letter.svg" width="44" height="44" alt="Goodbye letter to the family home you are leaving"><br><sub><b>Goodbye letter to the family home you are leaving</b></sub><br><sub><code>family-home-farewell-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-sibling-on-becoming-a-parent.svg" width="44" height="44" alt="Letter to your brother or sister as they become a parent"><br><sub><b>Letter to your brother or sister as they become a parent</b></sub><br><sub><code>letter-to-sibling-on-becoming-a-parent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-friend-after-their-divorce.svg" width="44" height="44" alt="Letter to a friend going through a divorce"><br><sub><b>Letter to a friend going through a divorce</b></sub><br><sub><code>letter-to-friend-after-their-divorce</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-stepparent-on-wedding-day.svg" width="44" height="44" alt="Letter to your new stepparent on their wedding day"><br><sub><b>Letter to your new stepparent on their wedding day</b></sub><br><sub><code>letter-to-stepparent-on-wedding-day</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-parent-living-with-dementia.svg" width="44" height="44" alt="Gentle letter to a parent who is living with dementia"><br><sub><b>Gentle letter to a parent who is living with dementia</b></sub><br><sub><code>letter-to-parent-living-with-dementia</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-friend-before-big-surgery.svg" width="44" height="44" alt="Letter of support to a friend before a big operation"><br><sub><b>Letter of support to a friend before a big operation</b></sub><br><sub><code>letter-to-friend-before-big-surgery</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-best-friend-on-milestone-birthday.svg" width="44" height="44" alt="Letter to your best friend on a milestone birthday"><br><sub><b>Letter to your best friend on a milestone birthday</b></sub><br><sub><code>letter-to-best-friend-on-milestone-birthday</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/letter-to-parents-thanking-for-childhood.svg" width="44" height="44" alt="Letter thanking your parents for the childhood they gave you"><br><sub><b>Letter thanking your parents for the childhood they gave you</b></sub><br><sub><code>letter-to-parents-thanking-for-childhood</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/housewarming-toast.svg" width="44" height="44" alt="Short toast at a friend's housewarming party"><br><sub><b>Short toast at a friend's housewarming party</b></sub><br><sub><code>housewarming-toast</code></sub></td>
 </tr>
 </table>
 

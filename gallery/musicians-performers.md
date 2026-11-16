@@ -1,6 +1,6 @@
 # Musicians and performers
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Gigs, riders, band life, lessons, recitals, releases and the money side of making music.
 
@@ -88,6 +88,42 @@ Gigs, riders, band life, lessons, recitals, releases and the money side of makin
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/gig-filming-permission-request.svg" width="44" height="44" alt="Ask a venue for permission to film your gig"><br><sub><b>Ask a venue for permission to film your gig</b></sub><br><sub><code>gig-filming-permission-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/music-exam-entry-note.svg" width="44" height="44" alt="Tell a student and parent about an upcoming music exam entry"><br><sub><b>Tell a student and parent about an upcoming music exam entry</b></sub><br><sub><code>music-exam-entry-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/music-lesson-term-dates-note.svg" width="44" height="44" alt="Send students the music lesson dates for the term"><br><sub><b>Send students the music lesson dates for the term</b></sub><br><sub><code>music-lesson-term-dates-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/performance-agreement-summary.svg" width="44" height="44" alt="Confirm the terms of a booked performance in writing"><br><sub><b>Confirm the terms of a booked performance in writing</b></sub><br><sub><code>performance-agreement-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tour-dates-announcement-post.svg" width="44" height="44" alt="Announce your tour dates on social media"><br><sub><b>Announce your tour dates on social media</b></sub><br><sub><code>tour-dates-announcement-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/band-practice-space-enquiry.svg" width="44" height="44" alt="Ask about renting a rehearsal room for your band"><br><sub><b>Ask about renting a rehearsal room for your band</b></sub><br><sub><code>band-practice-space-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/dep-musician-request.svg" width="44" height="44" alt="Ask a stand-in musician to cover a gig for you"><br><sub><b>Ask a stand-in musician to cover a gig for you</b></sub><br><sub><code>dep-musician-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/concert-outfit-note-for-performers.svg" width="44" height="44" alt="Tell performers what to wear for a concert"><br><sub><b>Tell performers what to wear for a concert</b></sub><br><sub><code>concert-outfit-note-for-performers</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/album-launch-party-invitation.svg" width="44" height="44" alt="Invite fans and friends to your album launch"><br><sub><b>Invite fans and friends to your album launch</b></sub><br><sub><code>album-launch-party-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tour-van-hire-enquiry.svg" width="44" height="44" alt="Ask about hiring a van for a band tour"><br><sub><b>Ask about hiring a van for a band tour</b></sub><br><sub><code>tour-van-hire-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-venue-for-band-guest-list.svg" width="44" height="44" alt="Ask a venue how many guest list places your band gets"><br><sub><b>Ask a venue how many guest list places your band gets</b></sub><br><sub><code>ask-venue-for-band-guest-list</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/instrument-insurance-quote-request.svg" width="44" height="44" alt="Ask for an insurance quote for your musical instruments"><br><sub><b>Ask for an insurance quote for your musical instruments</b></sub><br><sub><code>instrument-insurance-quote-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-conductor-for-a-reference.svg" width="44" height="44" alt="Ask your conductor or music director for a reference"><br><sub><b>Ask your conductor or music director for a reference</b></sub><br><sub><code>ask-conductor-for-a-reference</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-join-a-local-orchestra.svg" width="44" height="44" alt="Ask a local amateur orchestra whether you can join"><br><sub><b>Ask a local amateur orchestra whether you can join</b></sub><br><sub><code>ask-to-join-a-local-orchestra</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-the-crew-after-a-show.svg" width="44" height="44" alt="Thank the crew and technicians after a show"><br><sub><b>Thank the crew and technicians after a show</b></sub><br><sub><code>thank-the-crew-after-a-show</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/open-mic-night-signup-post.svg" width="44" height="44" alt="Post inviting performers to sign up for an open mic night"><br><sub><b>Post inviting performers to sign up for an open mic night</b></sub><br><sub><code>open-mic-night-signup-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rehearsal-noise-heads-up-to-neighbours.svg" width="44" height="44" alt="Let neighbours know about band rehearsals at your home"><br><sub><b>Let neighbours know about band rehearsals at your home</b></sub><br><sub><code>rehearsal-noise-heads-up-to-neighbours</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-photographer-to-use-gig-photos.svg" width="44" height="44" alt="Ask a photographer for permission to use their photos of your gig"><br><sub><b>Ask a photographer for permission to use their photos of your gig</b></sub><br><sub><code>ask-photographer-to-use-gig-photos</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/studio-booking-cancellation.svg" width="44" height="44" alt="Cancel or move a recording studio booking"><br><sub><b>Cancel or move a recording studio booking</b></sub><br><sub><code>studio-booking-cancellation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/music-video-location-request.svg" width="44" height="44" alt="Ask to film a music video at a location"><br><sub><b>Ask to film a music video at a location</b></sub><br><sub><code>music-video-location-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remix-permission-request.svg" width="44" height="44" alt="Ask an artist for permission to release a remix"><br><sub><b>Ask an artist for permission to release a remix</b></sub><br><sub><code>remix-permission-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/song-use-in-video-request-reply.svg" width="44" height="44" alt="Reply to someone who wants to use your song in a video"><br><sub><b>Reply to someone who wants to use your song in a video</b></sub><br><sub><code>song-use-in-video-request-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/concert-programme-notes.svg" width="44" height="44" alt="Write programme notes for a concert"><br><sub><b>Write programme notes for a concert</b></sub><br><sub><code>concert-programme-notes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-backline-request.svg" width="44" height="44" alt="Ask other bands to share drums and amps at a gig"><br><sub><b>Ask other bands to share drums and amps at a gig</b></sub><br><sub><code>shared-backline-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/left-gear-at-venue-enquiry.svg" width="44" height="44" alt="Ask a venue if they found gear you left behind after a gig"><br><sub><b>Ask a venue if they found gear you left behind after a gig</b></sub><br><sub><code>left-gear-at-venue-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/songwriting-split-agreement-note.svg" width="44" height="44" alt="Write down how a song's writing credit is split between co-writers"><br><sub><b>Write down how a song's writing credit is split between co-writers</b></sub><br><sub><code>songwriting-split-agreement-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-venue-for-desk-recording.svg" width="44" height="44" alt="Ask a venue's sound engineer for a recording of your set"><br><sub><b>Ask a venue's sound engineer for a recording of your set</b></sub><br><sub><code>ask-venue-for-desk-recording</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/accompanist-booking-request.svg" width="44" height="44" alt="Ask a pianist to accompany you at a performance or exam"><br><sub><b>Ask a pianist to accompany you at a performance or exam</b></sub><br><sub><code>accompanist-booking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/page-turner-request.svg" width="44" height="44" alt="Ask someone to turn pages for you at a concert"><br><sub><b>Ask someone to turn pages for you at a concert</b></sub><br><sub><code>page-turner-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rehearsal-recording-share-with-band.svg" width="44" height="44" alt="Share a rehearsal recording with your band for practice"><br><sub><b>Share a rehearsal recording with your band for practice</b></sub><br><sub><code>rehearsal-recording-share-with-band</code></sub></td>
 </tr>
 </table>
 

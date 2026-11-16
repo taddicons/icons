@@ -1,6 +1,6 @@
 # Official letters, United States
 
-<sub>Taddicons 0.3.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in the United States most often need: tenancy, work, credit and debt, insurance and health, consumer rights, tax and government, school and neighbours, written in American English with state variation noted.
 
@@ -103,6 +103,27 @@ The official letters people in the United States most often need: tenancy, work,
 </tr>
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/us-neighbor-fence-project-notice.svg" width="44" height="44" alt="Fence Project Notice: tell a neighbor about a new boundary fence (United States)"><br><sub><b>Fence Project Notice: tell a neighbor about a new boundary fence (United States)</b></sub><br><sub><code>us-neighbor-fence-project-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-add-occupant-request.svg" width="44" height="44" alt="Add an occupant: ask your landlord to approve a roommate (United States)"><br><sub><b>Add an occupant: ask your landlord to approve a roommate (United States)</b></sub><br><sub><code>us-add-occupant-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-jury-duty-notice.svg" width="44" height="44" alt="Jury duty notice: tell your employer you were summoned (United States)"><br><sub><b>Jury duty notice: tell your employer you were summoned (United States)</b></sub><br><sub><code>us-jury-duty-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-credit-card-closure.svg" width="44" height="44" alt="Credit card closure: close a credit card account (United States)"><br><sub><b>Credit card closure: close a credit card account (United States)</b></sub><br><sub><code>us-credit-card-closure</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-teacher-conference-request.svg" width="44" height="44" alt="Teacher conference: ask to meet your child's teacher (United States)"><br><sub><b>Teacher conference: ask to meet your child's teacher (United States)</b></sub><br><sub><code>us-teacher-conference-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-city-service-request.svg" width="44" height="44" alt="City service request: report a pothole, streetlight or hazard (United States)"><br><sub><b>City service request: report a pothole, streetlight or hazard (United States)</b></sub><br><sub><code>us-city-service-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/us-add-driver-auto-policy.svg" width="44" height="44" alt="Add a driver: add someone to your auto insurance policy (United States)"><br><sub><b>Add a driver: add someone to your auto insurance policy (United States)</b></sub><br><sub><code>us-add-driver-auto-policy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-loan-payoff-request.svg" width="44" height="44" alt="Payoff Letter Request: ask your lender for a payoff statement (United States)"><br><sub><b>Payoff Letter Request: ask your lender for a payoff statement (United States)</b></sub><br><sub><code>us-loan-payoff-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-pet-permission-request.svg" width="44" height="44" alt="Pet Permission Request: ask your landlord to allow a pet (United States)"><br><sub><b>Pet Permission Request: ask your landlord to allow a pet (United States)</b></sub><br><sub><code>us-pet-permission-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-remote-work-request.svg" width="44" height="44" alt="Remote Work Request: ask to work from home (United States)"><br><sub><b>Remote Work Request: ask to work from home (United States)</b></sub><br><sub><code>us-remote-work-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-gifted-evaluation-request.svg" width="44" height="44" alt="Gifted Evaluation Request: ask the school to assess your child (United States)"><br><sub><b>Gifted Evaluation Request: ask the school to assess your child (United States)</b></sub><br><sub><code>us-gifted-evaluation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-jury-duty-postponement.svg" width="44" height="44" alt="Jury Duty Postponement: ask the court to defer or excuse you (United States)"><br><sub><b>Jury Duty Postponement: ask the court to defer or excuse you (United States)</b></sub><br><sub><code>us-jury-duty-postponement</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/us-rent-payment-plan.svg" width="44" height="44" alt="Rent payment plan: propose paying back rent in installments (United States)"><br><sub><b>Rent payment plan: propose paying back rent in installments (United States)</b></sub><br><sub><code>us-rent-payment-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-bank-fee-refund-request.svg" width="44" height="44" alt="Bank fee refund: ask your bank to reverse overdraft fees (United States)"><br><sub><b>Bank fee refund: ask your bank to reverse overdraft fees (United States)</b></sub><br><sub><code>us-bank-fee-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-school-withdrawal-notice.svg" width="44" height="44" alt="School withdrawal: tell the school your child is leaving (United States)"><br><sub><b>School withdrawal: tell the school your child is leaving (United States)</b></sub><br><sub><code>us-school-withdrawal-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-bereavement-leave-request.svg" width="44" height="44" alt="Bereavement leave request: ask for time off after a death (United States)"><br><sub><b>Bereavement leave request: ask for time off after a death (United States)</b></sub><br><sub><code>us-bereavement-leave-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-neighbor-drainage-complaint.svg" width="44" height="44" alt="Drainage letter: ask a neighbor to stop runoff onto your yard (United States)"><br><sub><b>Drainage letter: ask a neighbor to stop runoff onto your yard (United States)</b></sub><br><sub><code>us-neighbor-drainage-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/us-loss-history-request.svg" width="44" height="44" alt="Loss history request: ask your insurer for your claims record (United States)"><br><sub><b>Loss history request: ask your insurer for your claims record (United States)</b></sub><br><sub><code>us-loss-history-request</code></sub></td>
 </tr>
 </table>
 

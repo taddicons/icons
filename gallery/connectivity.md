@@ -1,6 +1,6 @@
 # Network & cloud
 
-<sub>Taddicons 0.3.0 · Interface · 82 icons</sub>
+<sub>Taddicons 0.3.1 · Interface · 82 icons</sub>
 
 Wi-Fi, signal, cloud, servers, databases and links.
 

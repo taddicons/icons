@@ -1,6 +1,6 @@
 # Health and care
 
-<sub>Taddicons 0.3.0 · Documents & messages · 76 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Doctors, records, insurance and caring for someone.
 
@@ -106,6 +106,24 @@ Doctors, records, insurance and caring for someone.
 <td align="center" width="16%"><img src="../svg/mark/ask-optician-to-repair-glasses.svg" width="44" height="44" alt="Ask the optician to repair or adjust your glasses"><br><sub><b>Ask the optician to repair or adjust your glasses</b></sub><br><sub><code>ask-optician-to-repair-glasses</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-friend-to-come-to-appointment.svg" width="44" height="44" alt="Ask a friend to come with you to a medical appointment"><br><sub><b>Ask a friend to come with you to a medical appointment</b></sub><br><sub><code>ask-friend-to-come-to-appointment</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-to-record-appointment-notes.svg" width="44" height="44" alt="Ask if you may record or take notes at an appointment"><br><sub><b>Ask if you may record or take notes at an appointment</b></sub><br><sub><code>ask-to-record-appointment-notes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/urgent-dental-appointment-request.svg" width="44" height="44" alt="Ask a dentist for an urgent appointment for tooth pain"><br><sub><b>Ask a dentist for an urgent appointment for tooth pain</b></sub><br><sub><code>urgent-dental-appointment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-clinic-to-send-letters-by-email.svg" width="44" height="44" alt="Ask a clinic to send your letters by email"><br><sub><b>Ask a clinic to send your letters by email</b></sub><br><sub><code>ask-clinic-to-send-letters-by-email</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-pharmacy-for-easy-open-lids.svg" width="44" height="44" alt="Ask a pharmacy for medicine bottles with easy-open lids"><br><sub><b>Ask a pharmacy for medicine bottles with easy-open lids</b></sub><br><sub><code>ask-pharmacy-for-easy-open-lids</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-clinic-what-to-bring-to-first-appointment.svg" width="44" height="44" alt="Ask a clinic what to bring to your first appointment"><br><sub><b>Ask a clinic what to bring to your first appointment</b></sub><br><sub><code>ask-clinic-what-to-bring-to-first-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-clinic-for-fasting-instructions-before-test.svg" width="44" height="44" alt="Ask a clinic whether you need to fast before a test"><br><sub><b>Ask a clinic whether you need to fast before a test</b></sub><br><sub><code>ask-clinic-for-fasting-instructions-before-test</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/home-test-kit-help-request.svg" width="44" height="44" alt="Ask for help using a home test kit"><br><sub><b>Ask for help using a home test kit</b></sub><br><sub><code>home-test-kit-help-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-hospital-about-parking-for-regular-visits.svg" width="44" height="44" alt="Ask a hospital about parking for regular treatment visits"><br><sub><b>Ask a hospital about parking for regular treatment visits</b></sub><br><sub><code>ask-hospital-about-parking-for-regular-visits</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-private-clinic-to-send-report-to-your-doctor.svg" width="44" height="44" alt="Ask a private clinic to send a treatment report to your doctor"><br><sub><b>Ask a private clinic to send a treatment report to your doctor</b></sub><br><sub><code>ask-private-clinic-to-send-report-to-your-doctor</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-pharmacist-about-medicine-interactions.svg" width="44" height="44" alt="Ask a pharmacist if your medicines are safe to take together"><br><sub><b>Ask a pharmacist if your medicines are safe to take together</b></sub><br><sub><code>ask-pharmacist-about-medicine-interactions</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-pharmacy-for-extra-supply-before-travel.svg" width="44" height="44" alt="Ask for an extra supply of medicine before a long trip"><br><sub><b>Ask for an extra supply of medicine before a long trip</b></sub><br><sub><code>ask-pharmacy-for-extra-supply-before-travel</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-clinic-to-pause-reminders-while-abroad.svg" width="44" height="44" alt="Ask your clinic to pause reminders while you live abroad for a while"><br><sub><b>Ask your clinic to pause reminders while you live abroad for a while</b></sub><br><sub><code>ask-clinic-to-pause-reminders-while-abroad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-pharmacy-for-medicine-leaflet-in-another-language.svg" width="44" height="44" alt="Ask a pharmacy for a medicine leaflet in another language"><br><sub><b>Ask a pharmacy for a medicine leaflet in another language</b></sub><br><sub><code>ask-pharmacy-for-medicine-leaflet-in-another-language</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-pharmacy-about-medicine-ingredients-for-diet.svg" width="44" height="44" alt="Ask a pharmacy whether a medicine suits your diet or faith"><br><sub><b>Ask a pharmacy whether a medicine suits your diet or faith</b></sub><br><sub><code>ask-pharmacy-about-medicine-ingredients-for-diet</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-pharmacy-for-a-sharps-bin.svg" width="44" height="44" alt="Ask a pharmacy for a sharps bin for used needles"><br><sub><b>Ask a pharmacy for a sharps bin for used needles</b></sub><br><sub><code>ask-pharmacy-for-a-sharps-bin</code></sub></td>
 </tr>
 </table>
 

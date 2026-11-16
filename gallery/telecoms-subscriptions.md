@@ -1,6 +1,6 @@
 # Phone, internet and subscriptions
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Plans, roaming, bills, outages, number porting, streaming and gym memberships, free trials, price rises, data privacy and moving home services.
 
@@ -83,6 +83,47 @@ Plans, roaming, bills, outages, number porting, streaming and gym memberships, f
 <td align="center" width="16%"><img src="../svg/mark/tv-box-return-confirmation-request.svg" width="44" height="44" alt="Ask a provider to confirm they got your returned TV box"><br><sub><b>Ask a provider to confirm they got your returned TV box</b></sub><br><sub><code>tv-box-return-confirmation-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/premium-rate-charges-block-request.svg" width="44" height="44" alt="Ask your phone provider to block premium rate charges"><br><sub><b>Ask your phone provider to block premium rate charges</b></sub><br><sub><code>premium-rate-charges-block-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/international-calls-add-on-request.svg" width="44" height="44" alt="Ask to add cheaper calls abroad to your plan"><br><sub><b>Ask to add cheaper calls abroad to your plan</b></sub><br><sub><code>international-calls-add-on-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-discount-plan-request.svg" width="44" height="44" alt="Ask your phone or broadband provider about a student discount"><br><sub><b>Ask your phone or broadband provider about a student discount</b></sub><br><sub><code>student-discount-plan-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/family-plan-add-line-request.svg" width="44" height="44" alt="Ask to add a new line to your family phone plan"><br><sub><b>Ask to add a new line to your family phone plan</b></sub><br><sub><code>family-plan-add-line-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/spam-text-report-to-network.svg" width="44" height="44" alt="Report a spam or scam text to your mobile network"><br><sub><b>Report a spam or scam text to your mobile network</b></sub><br><sub><code>spam-text-report-to-network</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/handset-trade-in-value-dispute.svg" width="44" height="44" alt="Challenge a lower trade-in value for your old phone"><br><sub><b>Challenge a lower trade-in value for your old phone</b></sub><br><sub><code>handset-trade-in-value-dispute</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/duplicate-subscription-charge-refund.svg" width="44" height="44" alt="Ask for a refund when a subscription charged you twice"><br><sub><b>Ask for a refund when a subscription charged you twice</b></sub><br><sub><code>duplicate-subscription-charge-refund</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/phone-insurance-cancel-request.svg" width="44" height="44" alt="Cancel phone insurance you no longer want"><br><sub><b>Cancel phone insurance you no longer want</b></sub><br><sub><code>phone-insurance-cancel-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/data-rollover-question.svg" width="44" height="44" alt="Ask whether unused mobile data rolls over to next month"><br><sub><b>Ask whether unused mobile data rolls over to next month</b></sub><br><sub><code>data-rollover-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/family-plan-itemised-bill-request.svg" width="44" height="44" alt="Ask for a bill that shows each line on a family plan"><br><sub><b>Ask for a bill that shows each line on a family plan</b></sub><br><sub><code>family-plan-itemised-bill-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/paper-bill-fee-query.svg" width="44" height="44" alt="Question a fee for getting paper bills"><br><sub><b>Question a fee for getting paper bills</b></sub><br><sub><code>paper-bill-fee-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/provider-data-breach-question.svg" width="44" height="44" alt="Ask your provider what a data breach means for your account"><br><sub><b>Ask your provider what a data breach means for your account</b></sub><br><sub><code>provider-data-breach-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/satellite-dish-removal-request.svg" width="44" height="44" alt="Ask a TV provider to remove an old satellite dish"><br><sub><b>Ask a TV provider to remove an old satellite dish</b></sub><br><sub><code>satellite-dish-removal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/content-filter-change-request.svg" width="44" height="44" alt="Ask your mobile provider to change the content filter"><br><sub><b>Ask your mobile provider to change the content filter</b></sub><br><sub><code>content-filter-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/promised-callback-missed-complaint.svg" width="44" height="44" alt="Complain that a promised callback from your provider never came"><br><sub><b>Complain that a promised callback from your provider never came</b></sub><br><sub><code>promised-callback-missed-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/provider-sales-call-recording-request.svg" width="44" height="44" alt="Ask your provider for the recording of a sales call"><br><sub><b>Ask your provider for the recording of a sales call</b></sub><br><sub><code>provider-sales-call-recording-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/landline-only-price-review-request.svg" width="44" height="44" alt="Ask for a fair price review as a landline-only customer"><br><sub><b>Ask for a fair price review as a landline-only customer</b></sub><br><sub><code>landline-only-price-review-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bill-wrong-address-correction-request.svg" width="44" height="44" alt="Ask a provider to fix the address on your bills and account"><br><sub><b>Ask a provider to fix the address on your bills and account</b></sub><br><sub><code>bill-wrong-address-correction-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/full-fibre-availability-enquiry.svg" width="44" height="44" alt="Ask when full fibre broadband will reach your home"><br><sub><b>Ask when full fibre broadband will reach your home</b></sub><br><sub><code>full-fibre-availability-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-subscription-cancel-request.svg" width="44" height="44" alt="Cancel a gift subscription so it does not renew"><br><sub><b>Cancel a gift subscription so it does not renew</b></sub><br><sub><code>gift-subscription-cancel-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/annual-to-monthly-plan-switch-request.svg" width="44" height="44" alt="Ask to switch a subscription from yearly to monthly billing"><br><sub><b>Ask to switch a subscription from yearly to monthly billing</b></sub><br><sub><code>annual-to-monthly-plan-switch-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/digital-landline-switchover-question.svg" width="44" height="44" alt="Questions to ask before your landline moves to a digital line"><br><sub><b>Questions to ask before your landline moves to a digital line</b></sub><br><sub><code>digital-landline-switchover-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/priority-fault-repair-request.svg" width="44" height="44" alt="Ask for a faster repair because you rely on your line"><br><sub><b>Ask for a faster repair because you rely on your line</b></sub><br><sub><code>priority-fault-repair-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cancellation-written-confirmation-request.svg" width="44" height="44" alt="Ask a provider to confirm your cancellation in writing"><br><sub><b>Ask a provider to confirm your cancellation in writing</b></sub><br><sub><code>cancellation-written-confirmation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/end-of-contract-notice-missing-complaint.svg" width="44" height="44" alt="Complain that you were not told your contract was ending"><br><sub><b>Complain that you were not told your contract was ending</b></sub><br><sub><code>end-of-contract-notice-missing-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fair-use-policy-question.svg" width="44" height="44" alt="Ask your provider how their fair use limit applies to you"><br><sub><b>Ask your provider how their fair use limit applies to you</b></sub><br><sub><code>fair-use-policy-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ex-directory-listing-request.svg" width="44" height="44" alt="Ask to keep your number out of the phone directory"><br><sub><b>Ask to keep your number out of the phone directory</b></sub><br><sub><code>ex-directory-listing-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/streaming-household-sharing-question.svg" width="44" height="44" alt="Ask a streaming service about household sharing rules"><br><sub><b>Ask a streaming service about household sharing rules</b></sub><br><sub><code>streaming-household-sharing-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/child-first-phone-plan-enquiry.svg" width="44" height="44" alt="Enquiry about a first phone plan for a child"><br><sub><b>Enquiry about a first phone plan for a child</b></sub><br><sub><code>child-first-phone-plan-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/missed-phone-bill-payment-reply.svg" width="44" height="44" alt="Reply after a missed phone bill payment"><br><sub><b>Reply after a missed phone bill payment</b></sub><br><sub><code>missed-phone-bill-payment-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/past-bills-copy-request.svg" width="44" height="44" alt="Ask your provider for copies of past bills"><br><sub><b>Ask your provider for copies of past bills</b></sub><br><sub><code>past-bills-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/broadband-tv-bundle-split-request.svg" width="44" height="44" alt="Ask to split a broadband and TV bundle"><br><sub><b>Ask to split a broadband and TV bundle</b></sub><br><sub><code>broadband-tv-bundle-split-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/anonymous-calls-block-request.svg" width="44" height="44" alt="Ask your phone provider to block withheld-number calls"><br><sub><b>Ask your phone provider to block withheld-number calls</b></sub><br><sub><code>anonymous-calls-block-request</code></sub></td>
 </tr>
 </table>
 

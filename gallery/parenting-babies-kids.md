@@ -1,6 +1,6 @@
 # Parenting babies and kids
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes for sitters, nurseries, teachers, doctors and other parents about the small children in your care, plus house rules and handover logistics.
 
@@ -88,6 +88,42 @@ Notes for sitters, nurseries, teachers, doctors and other parents about the smal
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/nursery-invoice-query.svg" width="44" height="44" alt="Query a charge on your nursery or childcare invoice"><br><sub><b>Query a charge on your nursery or childcare invoice</b></sub><br><sub><code>nursery-invoice-query</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tooth-fairy-letter.svg" width="44" height="44" alt="A tooth fairy letter for your child"><br><sub><b>A tooth fairy letter for your child</b></sub><br><sub><code>tooth-fairy-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/child-medicine-permission-for-carer.svg" width="44" height="44" alt="Give a carer written permission to give your child medicine"><br><sub><b>Give a carer written permission to give your child medicine</b></sub><br><sub><code>child-medicine-permission-for-carer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decline-a-playdate-invite-kindly.svg" width="44" height="44" alt="Say no kindly to a playdate invitation"><br><sub><b>Say no kindly to a playdate invitation</b></sub><br><sub><code>decline-a-playdate-invite-kindly</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-visiting-childs-parent-about-allergies.svg" width="44" height="44" alt="Ask a visiting child's parent about allergies and food"><br><sub><b>Ask a visiting child's parent about allergies and food</b></sub><br><sub><code>ask-visiting-childs-parent-about-allergies</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-new-glasses-note-for-carers.svg" width="44" height="44" alt="Tell carers or nursery your child has new glasses"><br><sub><b>Tell carers or nursery your child has new glasses</b></sub><br><sub><code>kids-new-glasses-note-for-carers</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/nursery-place-acceptance.svg" width="44" height="44" alt="Accept a nursery place offered for your child"><br><sub><b>Accept a nursery place offered for your child</b></sub><br><sub><code>nursery-place-acceptance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/night-feed-help-ask.svg" width="44" height="44" alt="Ask a family member to help with night feeds for a week"><br><sub><b>Ask a family member to help with night feeds for a week</b></sub><br><sub><code>night-feed-help-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/childminder-settling-visit-questions.svg" width="44" height="44" alt="Questions to ask at a childminder settling-in visit"><br><sub><b>Questions to ask at a childminder settling-in visit</b></sub><br><sub><code>childminder-settling-visit-questions</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-classmate-parent-intro.svg" width="44" height="44" alt="Say hello to the parent of your child's new classmate"><br><sub><b>Say hello to the parent of your child's new classmate</b></sub><br><sub><code>new-classmate-parent-intro</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/funded-childcare-hours-question.svg" width="44" height="44" alt="Ask a nursery how government-funded childcare hours work there"><br><sub><b>Ask a nursery how government-funded childcare hours work there</b></sub><br><sub><code>funded-childcare-hours-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/night-time-wetting-note-for-carers.svg" width="44" height="44" alt="Let a carer or sleepover host know quietly that your child may wet the bed"><br><sub><b>Let a carer or sleepover host know quietly that your child may wet the bed</b></sub><br><sub><code>night-time-wetting-note-for-carers</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/outgrown-toys-giveaway-post.svg" width="44" height="44" alt="Post that you are giving away toys your children have outgrown"><br><sub><b>Post that you are giving away toys your children have outgrown</b></sub><br><sub><code>outgrown-toys-giveaway-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/baby-product-recall-question.svg" width="44" height="44" alt="Ask a retailer whether a baby product you bought has been recalled"><br><sub><b>Ask a retailer whether a baby product you bought has been recalled</b></sub><br><sub><code>baby-product-recall-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nursery-photo-consent-reply.svg" width="44" height="44" alt="Reply to your nursery about photo and video consent for your child"><br><sub><b>Reply to your nursery about photo and video consent for your child</b></sub><br><sub><code>nursery-photo-consent-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/keeping-in-touch-day-request.svg" width="44" height="44" alt="Ask your employer for a keeping-in-touch day during parental leave"><br><sub><b>Ask your employer for a keeping-in-touch day during parental leave</b></sub><br><sub><code>keeping-in-touch-day-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-seat-fitting-check-booking.svg" width="44" height="44" alt="Book a car seat fitting check before your baby arrives"><br><sub><b>Book a car seat fitting check before your baby arrives</b></sub><br><sub><code>car-seat-fitting-check-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/baby-first-holiday-packing-list.svg" width="44" height="44" alt="Packing list for your baby's first holiday"><br><sub><b>Packing list for your baby's first holiday</b></sub><br><sub><code>baby-first-holiday-packing-list</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-relatives-for-experience-gifts-not-toys.svg" width="44" height="44" alt="Ask relatives to give your child experiences instead of more toys"><br><sub><b>Ask relatives to give your child experiences instead of more toys</b></sub><br><sub><code>ask-relatives-for-experience-gifts-not-toys</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-first-school-day-letter.svg" width="44" height="44" alt="Letter to your child before their first day at school"><br><sub><b>Letter to your child before their first day at school</b></sub><br><sub><code>kids-first-school-day-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-nervous-child-dentist-note.svg" width="44" height="44" alt="Tell the dentist your child is nervous before a visit"><br><sub><b>Tell the dentist your child is nervous before a visit</b></sub><br><sub><code>kids-nervous-child-dentist-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-grandparent-care-notes.svg" width="44" height="44" alt="Routine notes for grandparents looking after the kids"><br><sub><b>Routine notes for grandparents looking after the kids</b></sub><br><sub><code>kids-grandparent-care-notes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-party-small-gifts-note.svg" width="44" height="44" alt="Ask party guests to keep gifts small or skip them"><br><sub><b>Ask party guests to keep gifts small or skip them</b></sub><br><sub><code>kids-party-small-gifts-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-toddler-group-first-visit-question.svg" width="44" height="44" alt="Ask a toddler group about coming for the first time"><br><sub><b>Ask a toddler group about coming for the first time</b></sub><br><sub><code>kids-toddler-group-first-visit-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-nursery-about-nap-time-change.svg" width="44" height="44" alt="Ask nursery to change your child's nap time or length"><br><sub><b>Ask nursery to change your child's nap time or length</b></sub><br><sub><code>ask-nursery-about-nap-time-change</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-holiday-club-booking-enquiry.svg" width="44" height="44" alt="Ask a holiday club about places, times and what to bring"><br><sub><b>Ask a holiday club about places, times and what to bring</b></sub><br><sub><code>kids-holiday-club-booking-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kids-first-haircut-booking.svg" width="44" height="44" alt="Book a child's first haircut and ask for a calm, patient visit"><br><sub><b>Book a child's first haircut and ask for a calm, patient visit</b></sub><br><sub><code>kids-first-haircut-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/grandparents-safe-sleep-rules-note.svg" width="44" height="44" alt="Share your baby's sleep rules with grandparents before they babysit"><br><sub><b>Share your baby's sleep rules with grandparents before they babysit</b></sub><br><sub><code>grandparents-safe-sleep-rules-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/baby-first-dentist-visit-booking.svg" width="44" height="44" alt="Book your baby's or toddler's first dentist visit"><br><sub><b>Book your baby's or toddler's first dentist visit</b></sub><br><sub><code>baby-first-dentist-visit-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/baby-class-trial-enquiry.svg" width="44" height="44" alt="Ask a baby or toddler class about a trial session"><br><sub><b>Ask a baby or toddler class about a trial session</b></sub><br><sub><code>baby-class-trial-enquiry</code></sub></td>
 </tr>
 </table>
 

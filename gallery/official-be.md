@@ -1,6 +1,6 @@
 # Official letters, Belgium
 
-<sub>Taddicons 0.3.0 · Documents & messages · 71 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Belgium most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities, family and neighbours, written in French as used in Wallonia and Brussels.
 
@@ -99,6 +99,31 @@ The official letters people in Belgium most often need: tenancy, work, tax and b
 <td align="center" width="16%"><img src="../svg/mark/be-attestation-frequentation-scolaire.svg" width="44" height="44" alt="Attestation de fréquentation: ask for a school certificate (Belgium)"><br><sub><b>Attestation de fréquentation: ask for a school certificate (Belgium)</b></sub><br><sub><code>be-attestation-frequentation-scolaire</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/be-elagage-arbre-voisin.svg" width="44" height="44" alt="Élagage: ask a neighbour to cut back overhanging branches (Belgium)"><br><sub><b>Élagage: ask a neighbour to cut back overhanging branches (Belgium)</b></sub><br><sub><code>be-elagage-arbre-voisin</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/be-information-travaux-voisins.svg" width="44" height="44" alt="Travaux: tell neighbours about upcoming works (Belgium)"><br><sub><b>Travaux: tell neighbours about upcoming works (Belgium)</b></sub><br><sub><code>be-information-travaux-voisins</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-ajout-colocataire.svg" width="44" height="44" alt="Ajout d'un colocataire: ask your landlord to add a flatmate (Belgium)"><br><sub><b>Ajout d'un colocataire: ask your landlord to add a flatmate (Belgium)</b></sub><br><sub><code>be-ajout-colocataire</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/be-demande-formation.svg" width="44" height="44" alt="Demande de formation: ask your employer for training (Belgium)"><br><sub><b>Demande de formation: ask your employer for training (Belgium)</b></sub><br><sub><code>be-demande-formation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-remboursement-anticipe-credit.svg" width="44" height="44" alt="Remboursement anticipé: repay a loan early (Belgium)"><br><sub><b>Remboursement anticipé: repay a loan early (Belgium)</b></sub><br><sub><code>be-remboursement-anticipe-credit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-modification-contrat-assurance.svg" width="44" height="44" alt="Modification de contrat: change the cover of an insurance policy (Belgium)"><br><sub><b>Modification de contrat: change the cover of an insurance policy (Belgium)</b></sub><br><sub><code>be-modification-contrat-assurance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-remboursement-evenement-annule.svg" width="44" height="44" alt="Événement annulé: ask a refund for a cancelled event ticket (Belgium)"><br><sub><b>Événement annulé: ask a refund for a cancelled event ticket (Belgium)</b></sub><br><sub><code>be-remboursement-evenement-annule</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-occupation-voirie-demenagement.svg" width="44" height="44" alt="Occupation de voirie: reserve street space for a move (Belgium)"><br><sub><b>Occupation de voirie: reserve street space for a move (Belgium)</b></sub><br><sub><code>be-occupation-voirie-demenagement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-repas-scolaire-regime.svg" width="44" height="44" alt="Régime alimentaire: ask the school for adapted meals (Belgium)"><br><sub><b>Régime alimentaire: ask the school for adapted meals (Belgium)</b></sub><br><sub><code>be-repas-scolaire-regime</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/be-mitoyennete-travaux-cloture.svg" width="44" height="44" alt="Clôture mitoyenne: propose shared fence works to a neighbour (Belgium)"><br><sub><b>Clôture mitoyenne: propose shared fence works to a neighbour (Belgium)</b></sub><br><sub><code>be-mitoyennete-travaux-cloture</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-quittance-loyer.svg" width="44" height="44" alt="Quittance de loyer: ask your landlord for rent receipts (Belgium)"><br><sub><b>Quittance de loyer: ask your landlord for rent receipts (Belgium)</b></sub><br><sub><code>be-quittance-loyer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-attestation-vacances.svg" width="44" height="44" alt="Attestation de vacances: ask your former employer for it (Belgium)"><br><sub><b>Attestation de vacances: ask your former employer for it (Belgium)</b></sub><br><sub><code>be-attestation-vacances</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-copie-police-assurance.svg" width="44" height="44" alt="Copie de police: ask the insurer for a copy of your policy (Belgium)"><br><sub><b>Copie de police: ask the insurer for a copy of your policy (Belgium)</b></sub><br><sub><code>be-copie-police-assurance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-demande-extraits-compte.svg" width="44" height="44" alt="Extraits de compte: ask your bank for statements (Belgium)"><br><sub><b>Extraits de compte: ask your bank for statements (Belgium)</b></sub><br><sub><code>be-demande-extraits-compte</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-voisin-acces-garage.svg" width="44" height="44" alt="Accès garage bloqué: ask a neighbour to keep your driveway free (Belgium)"><br><sub><b>Accès garage bloqué: ask a neighbour to keep your driveway free (Belgium)</b></sub><br><sub><code>be-voisin-acces-garage</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/be-composition-menage.svg" width="44" height="44" alt="Composition de ménage: ask the commune for a household certificate (Belgium)"><br><sub><b>Composition de ménage: ask the commune for a household certificate (Belgium)</b></sub><br><sub><code>be-composition-menage</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-demande-augmentation-salaire.svg" width="44" height="44" alt="Augmentation de salaire: ask your employer for a pay rise (Belgium)"><br><sub><b>Augmentation de salaire: ask your employer for a pay rise (Belgium)</b></sub><br><sub><code>be-demande-augmentation-salaire</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-refus-photos-ecole.svg" width="44" height="44" alt="Droit à l'image: refuse or withdraw consent for school photos (Belgium)"><br><sub><b>Droit à l'image: refuse or withdraw consent for school photos (Belgium)</b></sub><br><sub><code>be-refus-photos-ecole</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-deces-notification-banque.svg" width="44" height="44" alt="Avis de décès: tell a bank that an account holder has died (Belgium)"><br><sub><b>Avis de décès: tell a bank that an account holder has died (Belgium)</b></sub><br><sub><code>be-deces-notification-banque</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-remboursement-frais-transport.svg" width="44" height="44" alt="Frais de déplacement: ask your employer to pay commuting costs (Belgium)"><br><sub><b>Frais de déplacement: ask your employer to pay commuting costs (Belgium)</b></sub><br><sub><code>be-remboursement-frais-transport</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/be-peb-certificat-demande.svg" width="44" height="44" alt="Certificat PEB: ask a landlord for the energy certificate (Belgium)"><br><sub><b>Certificat PEB: ask a landlord for the energy certificate (Belgium)</b></sub><br><sub><code>be-peb-certificat-demande</code></sub></td>
 </tr>
 </table>
 

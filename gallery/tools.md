@@ -1,6 +1,6 @@
 # Tools & construction
 
-<sub>Taddicons 0.3.0 · Tools & trades · 110 icons</sub>
+<sub>Taddicons 0.3.1 · Tools & trades · 110 icons</sub>
 
 Hand tools, power tools, safety and building sites.
 

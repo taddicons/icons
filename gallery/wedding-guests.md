@@ -1,6 +1,6 @@
 # Wedding guests and bridal party
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes from the guest side of a wedding: replies, travel and stay questions, gifts, party planning, toasts and thank-yous.
 
@@ -83,6 +83,47 @@ Notes from the guest side of a wedding: replies, travel and stay questions, gift
 <td align="center" width="16%"><img src="../svg/mark/wedding-afterparty-reply.svg" width="44" height="44" alt="Reply to an invitation to the wedding after-party"><br><sub><b>Reply to an invitation to the wedding after-party</b></sub><br><sub><code>wedding-afterparty-reply</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/wedding-lift-offer-to-guests.svg" width="44" height="44" alt="Offer other guests a lift to the wedding"><br><sub><b>Offer other guests a lift to the wedding</b></sub><br><sub><code>wedding-lift-offer-to-guests</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/wedding-guest-meetup-before-ceremony.svg" width="44" height="44" alt="Suggest guests meet up before the ceremony"><br><sub><b>Suggest guests meet up before the ceremony</b></sub><br><sub><code>wedding-guest-meetup-before-ceremony</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-gift-delayed-note.svg" width="44" height="44" alt="Tell the couple your wedding gift is on its way"><br><sub><b>Tell the couple your wedding gift is on its way</b></sub><br><sub><code>wedding-gift-delayed-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-photos-of-us-ask.svg" width="44" height="44" alt="Ask the couple for any wedding photos with you in them"><br><sub><b>Ask the couple for any wedding photos with you in them</b></sub><br><sub><code>wedding-photos-of-us-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-invite-address-update.svg" width="44" height="44" alt="Give the couple your new address before invitations go out"><br><sub><b>Give the couple your new address before invitations go out</b></sub><br><sub><code>wedding-invite-address-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-guest-leave-early-note.svg" width="44" height="44" alt="Let the couple know you need to leave the wedding early"><br><sub><b>Let the couple know you need to leave the wedding early</b></sub><br><sub><code>wedding-guest-leave-early-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-plus-one-name-confirmation.svg" width="44" height="44" alt="Tell the couple the name of your plus-one"><br><sub><b>Tell the couple the name of your plus-one</b></sub><br><sub><code>wedding-plus-one-name-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-guest-spare-room-offer.svg" width="44" height="44" alt="Offer a spare room to another wedding guest"><br><sub><b>Offer a spare room to another wedding guest</b></sub><br><sub><code>wedding-guest-spare-room-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-card-message-to-couple.svg" width="44" height="44" alt="Write a message in a wedding card for the couple"><br><sub><b>Write a message in a wedding card for the couple</b></sub><br><sub><code>wedding-card-message-to-couple</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-guest-late-arrival-note.svg" width="44" height="44" alt="Tell the couple you will arrive after the ceremony starts"><br><sub><b>Tell the couple you will arrive after the ceremony starts</b></sub><br><sub><code>wedding-guest-late-arrival-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-last-minute-illness-note.svg" width="44" height="44" alt="Tell the couple you are too ill to come on the day"><br><sub><b>Tell the couple you are too ill to come on the day</b></sub><br><sub><code>wedding-last-minute-illness-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-performance-offer.svg" width="44" height="44" alt="Offer to sing or play music at a friend's wedding"><br><sub><b>Offer to sing or play music at a friend's wedding</b></sub><br><sub><code>wedding-performance-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-memory-book-page.svg" width="44" height="44" alt="Write a page for the couple's wedding memory book"><br><sub><b>Write a page for the couple's wedding memory book</b></sub><br><sub><code>wedding-memory-book-page</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-congrats-to-couple-parents.svg" width="44" height="44" alt="Congratulate the parents of the couple after the wedding"><br><sub><b>Congratulate the parents of the couple after the wedding</b></sub><br><sub><code>wedding-congrats-to-couple-parents</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-nursing-baby-ask.svg" width="44" height="44" alt="Ask a couple if you can bring your nursing baby to their wedding"><br><sub><b>Ask a couple if you can bring your nursing baby to their wedding</b></sub><br><sub><code>wedding-nursing-baby-ask</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-visa-letter-ask-couple.svg" width="44" height="44" alt="Ask the couple for an invitation letter for your visa"><br><sub><b>Ask the couple for an invitation letter for your visa</b></sub><br><sub><code>wedding-visa-letter-ask-couple</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-guest-grieving-attend-note.svg" width="44" height="44" alt="Tell the couple you are coming while grieving and may leave early"><br><sub><b>Tell the couple you are coming while grieving and may leave early</b></sub><br><sub><code>wedding-guest-grieving-attend-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-vendor-contact-ask.svg" width="44" height="44" alt="Ask a newly married couple who their wedding supplier was"><br><sub><b>Ask a newly married couple who their wedding supplier was</b></sub><br><sub><code>wedding-vendor-contact-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/vow-renewal-congrats-message.svg" width="44" height="44" alt="Congratulate a couple on renewing their vows"><br><sub><b>Congratulate a couple on renewing their vows</b></sub><br><sub><code>vow-renewal-congrats-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/honeymoon-send-off-message.svg" width="44" height="44" alt="Wish a couple a happy honeymoon as they leave"><br><sub><b>Wish a couple a happy honeymoon as they leave</b></sub><br><sub><code>honeymoon-send-off-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-no-plus-one-understood-reply.svg" width="44" height="44" alt="Reply kindly when your wedding invite has no plus-one"><br><sub><b>Reply kindly when your wedding invite has no plus-one</b></sub><br><sub><code>wedding-no-plus-one-understood-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-assistance-dog-note.svg" width="44" height="44" alt="Let the couple know you will bring your assistance dog"><br><sub><b>Let the couple know you will bring your assistance dog</b></sub><br><sub><code>wedding-assistance-dog-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-partner-cannot-attend-note.svg" width="44" height="44" alt="Tell the couple your partner cannot come to the wedding"><br><sub><b>Tell the couple your partner cannot come to the wedding</b></sub><br><sub><code>wedding-partner-cannot-attend-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-two-on-same-day-note.svg" width="44" height="44" alt="Tell a couple you have two weddings on the same day"><br><sub><b>Tell a couple you have two weddings on the same day</b></sub><br><sub><code>wedding-two-on-same-day-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-thank-you-card-received-reply.svg" width="44" height="44" alt="Reply to a couple's wedding thank-you card"><br><sub><b>Reply to a couple's wedding thank-you card</b></sub><br><sub><code>wedding-thank-you-card-received-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-supplier-recommendation-to-couple.svg" width="44" height="44" alt="Recommend a wedding supplier to an engaged couple"><br><sub><b>Recommend a wedding supplier to an engaged couple</b></sub><br><sub><code>wedding-supplier-recommendation-to-couple</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-alcohol-free-drinks-ask.svg" width="44" height="44" alt="Ask the couple about alcohol-free drinks at the wedding"><br><sub><b>Ask the couple about alcohol-free drinks at the wedding</b></sub><br><sub><code>wedding-alcohol-free-drinks-ask</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-plus-one-briefing-message.svg" width="44" height="44" alt="Brief your plus-one before a wedding"><br><sub><b>Brief your plus-one before a wedding</b></sub><br><sub><code>wedding-plus-one-briefing-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-rsvp-website-problem-note.svg" width="44" height="44" alt="Tell the couple the RSVP website did not work"><br><sub><b>Tell the couple the RSVP website did not work</b></sub><br><sub><code>wedding-rsvp-website-problem-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-evening-only-invite-reply.svg" width="44" height="44" alt="Reply to an evening-only wedding invitation"><br><sub><b>Reply to an evening-only wedding invitation</b></sub><br><sub><code>wedding-evening-only-invite-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-decline-travel-costs.svg" width="44" height="44" alt="Decline a far-away wedding because of travel costs"><br><sub><b>Decline a far-away wedding because of travel costs</b></sub><br><sub><code>wedding-decline-travel-costs</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-back-from-honeymoon-message.svg" width="44" height="44" alt="Welcome friends home from their honeymoon"><br><sub><b>Welcome friends home from their honeymoon</b></sub><br><sub><code>welcome-back-from-honeymoon-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-guest-sensory-needs-ask.svg" width="44" height="44" alt="Ask the couple about a quiet space for sensory needs"><br><sub><b>Ask the couple about a quiet space for sensory needs</b></sub><br><sub><code>wedding-guest-sensory-needs-ask</code></sub></td>
 </tr>
 </table>
 

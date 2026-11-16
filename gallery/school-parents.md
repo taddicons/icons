@@ -1,6 +1,6 @@
 # School and parents
 
-<sub>Taddicons 0.3.0 · Documents & messages · 64 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes between families and schools: bullying, support, meetings, trips, uniforms, appeals, moves and class parent messages.
 
@@ -90,6 +90,40 @@ Notes between families and schools: bullying, support, meetings, trips, uniforms
 <td align="center" width="16%"><img src="../svg/mark/school-screening-results-follow-up.svg" width="44" height="44" alt="Follow up on your child's school eye, hearing or health check"><br><sub><b>Follow up on your child's school eye, hearing or health check</b></sub><br><sub><code>school-screening-results-follow-up</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/school-contact-details-update.svg" width="44" height="44" alt="Update the school with your new address, phone or email"><br><sub><b>Update the school with your new address, phone or email</b></sub><br><sub><code>school-contact-details-update</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/school-payment-refund-request.svg" width="44" height="44" alt="Ask the school to refund a payment for a trip or club"><br><sub><b>Ask the school to refund a payment for a trip or club</b></sub><br><sub><code>school-payment-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-photo-consent-withdrawal.svg" width="44" height="44" alt="Withdraw consent for the school to use photos of your child"><br><sub><b>Withdraw consent for the school to use photos of your child</b></sub><br><sub><code>school-photo-consent-withdrawal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-homework-app-access-help.svg" width="44" height="44" alt="Ask the school for help logging into the homework app"><br><sub><b>Ask the school for help logging into the homework app</b></sub><br><sub><code>school-homework-app-access-help</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/school-both-parents-updates-request.svg" width="44" height="44" alt="Ask the school to send updates to both separated parents"><br><sub><b>Ask the school to send updates to both separated parents</b></sub><br><sub><code>school-both-parents-updates-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-early-pickup-notice.svg" width="44" height="44" alt="Tell the school you will collect your child early"><br><sub><b>Tell the school you will collect your child early</b></sub><br><sub><code>school-early-pickup-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-homework-extension-request.svg" width="44" height="44" alt="Ask a teacher for more time on your child's homework"><br><sub><b>Ask a teacher for more time on your child's homework</b></sub><br><sub><code>school-homework-extension-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-reading-volunteer-offer.svg" width="44" height="44" alt="Offer to volunteer as a reading helper at your child's school"><br><sub><b>Offer to volunteer as a reading helper at your child's school</b></sub><br><sub><code>school-reading-volunteer-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-class-assembly-thanks.svg" width="44" height="44" alt="Thank a teacher after your child's class assembly"><br><sub><b>Thank a teacher after your child's class assembly</b></sub><br><sub><code>school-class-assembly-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-parent-workshop-request.svg" width="44" height="44" alt="Ask the school to run a workshop for parents"><br><sub><b>Ask the school to run a workshop for parents</b></sub><br><sub><code>school-parent-workshop-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/school-appointment-absence-note.svg" width="44" height="44" alt="Tell school your child will miss lessons for an appointment"><br><sub><b>Tell school your child will miss lessons for an appointment</b></sub><br><sub><code>school-appointment-absence-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-new-club-idea-proposal.svg" width="44" height="44" alt="Suggest a new after-school club to the school"><br><sub><b>Suggest a new after-school club to the school</b></sub><br><sub><code>school-new-club-idea-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-tired-child-heads-up.svg" width="44" height="44" alt="Let the teacher know your child had a bad night"><br><sub><b>Let the teacher know your child had a bad night</b></sub><br><sub><code>school-tired-child-heads-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-trip-helper-offer.svg" width="44" height="44" alt="Offer to help as a parent helper on a school trip"><br><sub><b>Offer to help as a parent helper on a school trip</b></sub><br><sub><code>school-trip-helper-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-home-achievement-share.svg" width="44" height="44" alt="Share your child's achievement outside school with the teacher"><br><sub><b>Share your child's achievement outside school with the teacher</b></sub><br><sub><code>school-home-achievement-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-child-name-change-notice.svg" width="44" height="44" alt="Tell school about a change to your child's name"><br><sub><b>Tell school about a change to your child's name</b></sub><br><sub><code>school-child-name-change-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/school-lunchtime-eating-concern.svg" width="44" height="44" alt="Ask school about your child not eating at lunchtime"><br><sub><b>Ask school about your child not eating at lunchtime</b></sub><br><sub><code>school-lunchtime-eating-concern</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-wrong-coat-swap-message.svg" width="44" height="44" alt="Message class parents when your child came home with someone else's coat"><br><sub><b>Message class parents when your child came home with someone else's coat</b></sub><br><sub><code>school-wrong-coat-swap-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-house-move-heads-up.svg" width="44" height="44" alt="Tell your child's teacher your family is moving house"><br><sub><b>Tell your child's teacher your family is moving house</b></sub><br><sub><code>school-house-move-heads-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-walking-bus-volunteer-call.svg" width="44" height="44" alt="Ask parents to volunteer for a walking bus to school"><br><sub><b>Ask parents to volunteer for a walking bus to school</b></sub><br><sub><code>school-walking-bus-volunteer-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-class-nut-free-reminder.svg" width="44" height="44" alt="Remind class parents about a nut-free rule for a child with an allergy"><br><sub><b>Remind class parents about a nut-free rule for a child with an allergy</b></sub><br><sub><code>school-class-nut-free-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-policy-consultation-reply.svg" width="44" height="44" alt="Reply to your child's school about a policy it is consulting on"><br><sub><b>Reply to your child's school about a policy it is consulting on</b></sub><br><sub><code>school-policy-consultation-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/school-sibling-place-enquiry.svg" width="44" height="44" alt="Ask a school how to apply for a place for a younger sibling"><br><sub><b>Ask a school how to apply for a place for a younger sibling</b></sub><br><sub><code>school-sibling-place-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-parents-evening-interpreter-request.svg" width="44" height="44" alt="Ask the school for an interpreter at parents' evening"><br><sub><b>Ask the school for an interpreter at parents' evening</b></sub><br><sub><code>school-parents-evening-interpreter-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-child-hearing-aid-note.svg" width="44" height="44" alt="Tell the teacher your child has started wearing hearing aids"><br><sub><b>Tell the teacher your child has started wearing hearing aids</b></sub><br><sub><code>school-child-hearing-aid-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-left-handed-child-note.svg" width="44" height="44" alt="Tell the teacher your child is left-handed"><br><sub><b>Tell the teacher your child is left-handed</b></sub><br><sub><code>school-left-handed-child-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-spare-allergy-pen-note.svg" width="44" height="44" alt="Send the school a spare allergy pen with its expiry date"><br><sub><b>Send the school a spare allergy pen with its expiry date</b></sub><br><sub><code>school-spare-allergy-pen-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-show-and-tell-item-note.svg" width="44" height="44" alt="Tell the teacher what your child is bringing for show and tell"><br><sub><b>Tell the teacher what your child is bringing for show and tell</b></sub><br><sub><code>school-show-and-tell-item-note</code></sub></td>
 </tr>
 </table>
 

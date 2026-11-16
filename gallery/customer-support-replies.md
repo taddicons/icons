@@ -1,6 +1,6 @@
 # Customer support replies
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Clear, kind replies to customers: apologies, delays, refunds, outages, tough moments, help and goodbyes.
 
@@ -88,6 +88,42 @@ Clear, kind replies to customers: apologies, delays, refunds, outages, tough mom
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/callback-booked-reply.svg" width="44" height="44" alt="Confirm a callback time to a customer"><br><sub><b>Confirm a callback time to a customer</b></sub><br><sub><code>callback-booked-reply</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/duplicate-ticket-merged-reply.svg" width="44" height="44" alt="Tell a customer their duplicate requests were combined"><br><sub><b>Tell a customer their duplicate requests were combined</b></sub><br><sub><code>duplicate-ticket-merged-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/account-deletion-confirmed-reply.svg" width="44" height="44" alt="Confirm to a customer that their account is deleted"><br><sub><b>Confirm to a customer that their account is deleted</b></sub><br><sub><code>account-deletion-confirmed-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/out-of-stock-order-cancelled-reply.svg" width="44" height="44" alt="Tell a customer we cancelled their order because it is out of stock"><br><sub><b>Tell a customer we cancelled their order because it is out of stock</b></sub><br><sub><code>out-of-stock-order-cancelled-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pre-sale-question-reply.svg" width="44" height="44" alt="Answer a customer question before they buy"><br><sub><b>Answer a customer question before they buy</b></sub><br><sub><code>pre-sale-question-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/other-language-customer-reply.svg" width="44" height="44" alt="Reply to a customer who writes in another language"><br><sub><b>Reply to a customer who writes in another language</b></sub><br><sub><code>other-language-customer-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/payment-dispute-response-to-customer.svg" width="44" height="44" alt="Reply to a customer who has disputed a card payment"><br><sub><b>Reply to a customer who has disputed a card payment</b></sub><br><sub><code>payment-dispute-response-to-customer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/password-reset-not-arriving-reply.svg" width="44" height="44" alt="Help a customer whose password reset email has not arrived"><br><sub><b>Help a customer whose password reset email has not arrived</b></sub><br><sub><code>password-reset-not-arriving-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/address-verification-needed-reply.svg" width="44" height="44" alt="Ask a customer to confirm their delivery address before shipping"><br><sub><b>Ask a customer to confirm their delivery address before shipping</b></sub><br><sub><code>address-verification-needed-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pre-order-delay-reply.svg" width="44" height="44" alt="Tell a customer their pre-order will ship later than planned"><br><sub><b>Tell a customer their pre-order will ship later than planned</b></sub><br><sub><code>pre-order-delay-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/delivered-to-neighbour-reply.svg" width="44" height="44" alt="Tell a customer their parcel was left with a neighbour"><br><sub><b>Tell a customer their parcel was left with a neighbour</b></sub><br><sub><code>delivered-to-neighbour-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invoice-details-change-reply.svg" width="44" height="44" alt="Reply to a customer who wants details changed on an invoice"><br><sub><b>Reply to a customer who wants details changed on an invoice</b></sub><br><sub><code>invoice-details-change-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/gift-card-balance-reply.svg" width="44" height="44" alt="Reply to a customer asking about their gift card balance"><br><sub><b>Reply to a customer asking about their gift card balance</b></sub><br><sub><code>gift-card-balance-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/appointment-change-confirmed-reply.svg" width="44" height="44" alt="Confirm a customer's appointment has been changed"><br><sub><b>Confirm a customer's appointment has been changed</b></sub><br><sub><code>appointment-change-confirmed-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/delivery-reattempt-booked-reply.svg" width="44" height="44" alt="Confirm to a customer that a new delivery attempt is booked"><br><sub><b>Confirm to a customer that a new delivery attempt is booked</b></sub><br><sub><code>delivery-reattempt-booked-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/price-adjustment-approved-reply.svg" width="44" height="44" alt="Tell a customer their price adjustment has been approved"><br><sub><b>Tell a customer their price adjustment has been approved</b></sub><br><sub><code>price-adjustment-approved-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/installation-visit-confirmed-reply.svg" width="44" height="44" alt="Confirm an installation visit to a customer"><br><sub><b>Confirm an installation visit to a customer</b></sub><br><sub><code>installation-visit-confirmed-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/product-care-instructions-reply.svg" width="44" height="44" alt="Reply to a customer with care instructions for a product"><br><sub><b>Reply to a customer with care instructions for a product</b></sub><br><sub><code>product-care-instructions-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/account-suspension-notice-reply.svg" width="44" height="44" alt="Tell a customer why their account was suspended and what to do next"><br><sub><b>Tell a customer why their account was suspended and what to do next</b></sub><br><sub><code>account-suspension-notice-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/refund-processing-time-reply.svg" width="44" height="44" alt="Reply when a customer asks where their refund is"><br><sub><b>Reply when a customer asks where their refund is</b></sub><br><sub><code>refund-processing-time-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-hours-auto-reply.svg" width="44" height="44" alt="Support auto-reply for holiday opening hours"><br><sub><b>Support auto-reply for holiday opening hours</b></sub><br><sub><code>holiday-hours-auto-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/split-shipment-reply.svg" width="44" height="44" alt="Explain to a customer that their order ships in parts"><br><sub><b>Explain to a customer that their order ships in parts</b></sub><br><sub><code>split-shipment-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/renewal-charge-question-reply.svg" width="44" height="44" alt="Reply to a customer surprised by a renewal charge"><br><sub><b>Reply to a customer surprised by a renewal charge</b></sub><br><sub><code>renewal-charge-question-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/product-discontinued-reply.svg" width="44" height="44" alt="Tell a customer a product has been discontinued"><br><sub><b>Tell a customer a product has been discontinued</b></sub><br><sub><code>product-discontinued-reply</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/account-locked-reply.svg" width="44" height="44" alt="Reply to a customer whose account has been locked"><br><sub><b>Reply to a customer whose account has been locked</b></sub><br><sub><code>account-locked-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bulk-order-enquiry-reply.svg" width="44" height="44" alt="Reply to a customer asking about a large or bulk order"><br><sub><b>Reply to a customer asking about a large or bulk order</b></sub><br><sub><code>bulk-order-enquiry-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-message-missing-apology-reply.svg" width="44" height="44" alt="Apologise to a customer when a gift message was left out"><br><sub><b>Apologise to a customer when a gift message was left out</b></sub><br><sub><code>gift-message-missing-apology-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/order-already-shipped-cancel-reply.svg" width="44" height="44" alt="Reply when an order has already shipped and cannot be cancelled"><br><sub><b>Reply when an order has already shipped and cannot be cancelled</b></sub><br><sub><code>order-already-shipped-cancel-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/loyalty-points-added-reply.svg" width="44" height="44" alt="Confirm that missing loyalty points have been added"><br><sub><b>Confirm that missing loyalty points have been added</b></sub><br><sub><code>loyalty-points-added-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/out-of-warranty-options-reply.svg" width="44" height="44" alt="Reply when a product is out of warranty and offer the options"><br><sub><b>Reply when a product is out of warranty and offer the options</b></sub><br><sub><code>out-of-warranty-options-reply</code></sub></td>
 </tr>
 </table>
 

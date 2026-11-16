@@ -1,6 +1,6 @@
 # Faith and ceremonies
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Messages for religious and cultural ceremonies of every tradition, written with respect and without assuming one.
 
@@ -88,6 +88,42 @@ Messages for religious and cultural ceremonies of every tradition, written with 
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/ask-faith-leader-to-visit-sick-relative.svg" width="44" height="44" alt="Ask a faith leader to visit a sick relative"><br><sub><b>Ask a faith leader to visit a sick relative</b></sub><br><sub><code>ask-faith-leader-to-visit-sick-relative</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/thank-faith-community-for-meals.svg" width="44" height="44" alt="Thank your faith community for bringing meals"><br><sub><b>Thank your faith community for bringing meals</b></sub><br><sub><code>thank-faith-community-for-meals</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-godparents-after-christening.svg" width="44" height="44" alt="Thank godparents after a christening or baptism"><br><sub><b>Thank godparents after a christening or baptism</b></sub><br><sub><code>thank-godparents-after-christening</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/harvest-festival-donation-appeal.svg" width="44" height="44" alt="Ask your congregation for harvest food bank donations"><br><sub><b>Ask your congregation for harvest food bank donations</b></sub><br><sub><code>harvest-festival-donation-appeal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/baby-dedication-invitation.svg" width="44" height="44" alt="Invite family and friends to a baby dedication"><br><sub><b>Invite family and friends to a baby dedication</b></sub><br><sub><code>baby-dedication-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-guests-after-religious-ceremony.svg" width="44" height="44" alt="Thank guests for coming to your family's religious ceremony"><br><sub><b>Thank guests for coming to your family's religious ceremony</b></sub><br><sub><code>thank-guests-after-religious-ceremony</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/vow-renewal-faith-invite.svg" width="44" height="44" alt="Invite guests to a vow renewal at your place of worship"><br><sub><b>Invite guests to a vow renewal at your place of worship</b></sub><br><sub><code>vow-renewal-faith-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/faith-ceremony-access-needs-request.svg" width="44" height="44" alt="Ask a place of worship about access needs for a ceremony"><br><sub><b>Ask a place of worship about access needs for a ceremony</b></sub><br><sub><code>faith-ceremony-access-needs-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reply-to-religious-ceremony-invite.svg" width="44" height="44" alt="Reply to an invitation to a religious ceremony"><br><sub><b>Reply to an invitation to a religious ceremony</b></sub><br><sub><code>reply-to-religious-ceremony-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-festival-volunteers.svg" width="44" height="44" alt="Thank volunteers after a festival celebration"><br><sub><b>Thank volunteers after a festival celebration</b></sub><br><sub><code>thank-festival-volunteers</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-faith-community-for-lifts-to-services.svg" width="44" height="44" alt="Ask your faith community for lifts to services"><br><sub><b>Ask your faith community for lifts to services</b></sub><br><sub><code>ask-faith-community-for-lifts-to-services</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-faith-leader-for-letter-of-good-standing.svg" width="44" height="44" alt="Ask your faith leader for a letter of good standing"><br><sub><b>Ask your faith leader for a letter of good standing</b></sub><br><sub><code>ask-faith-leader-for-letter-of-good-standing</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-reserved-family-seats-at-service.svg" width="44" height="44" alt="Ask to reserve seats for your family at a special service"><br><sub><b>Ask to reserve seats for your family at a special service</b></sub><br><sub><code>ask-for-reserved-family-seats-at-service</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/service-time-change-notice.svg" width="44" height="44" alt="Let the congregation know that service times are changing"><br><sub><b>Let the congregation know that service times are changing</b></sub><br><sub><code>service-time-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-host-about-prayer-times-during-visit.svg" width="44" height="44" alt="Tell your host about your prayer times during a visit"><br><sub><b>Tell your host about your prayer times during a visit</b></sub><br><sub><code>tell-host-about-prayer-times-during-visit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ordination-service-invitation.svg" width="44" height="44" alt="Invite family and friends to an ordination service"><br><sub><b>Invite family and friends to an ordination service</b></sub><br><sub><code>ordination-service-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/house-blessing-invitation.svg" width="44" height="44" alt="Invite family and friends to a house blessing"><br><sub><b>Invite family and friends to a house blessing</b></sub><br><sub><code>house-blessing-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-home-pilgrim-message.svg" width="44" height="44" alt="Welcome someone home from a pilgrimage"><br><sub><b>Welcome someone home from a pilgrimage</b></sub><br><sub><code>welcome-home-pilgrim-message</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/place-of-worship-open-day-invitation.svg" width="44" height="44" alt="Invite neighbours to an open day at your place of worship"><br><sub><b>Invite neighbours to an open day at your place of worship</b></sub><br><sub><code>place-of-worship-open-day-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-give-reading-at-ceremony.svg" width="44" height="44" alt="Ask a friend to give a reading at your faith ceremony"><br><sub><b>Ask a friend to give a reading at your faith ceremony</b></sub><br><sub><code>ask-friend-to-give-reading-at-ceremony</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-about-joining-a-faith-community.svg" width="44" height="44" alt="Ask a place of worship how to join their community"><br><sub><b>Ask a place of worship how to join their community</b></sub><br><sub><code>ask-about-joining-a-faith-community</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-place-of-worship-to-livestream-ceremony.svg" width="44" height="44" alt="Ask a place of worship to livestream your ceremony for distant family"><br><sub><b>Ask a place of worship to livestream your ceremony for distant family</b></sub><br><sub><code>ask-place-of-worship-to-livestream-ceremony</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-elder-relative-to-say-blessing.svg" width="44" height="44" alt="Ask an elder relative to say a blessing at a family gathering"><br><sub><b>Ask an elder relative to say a blessing at a family gathering</b></sub><br><sub><code>ask-elder-relative-to-say-blessing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/festival-open-house-invite.svg" width="44" height="44" alt="Invite neighbours to an open house for your faith festival"><br><sub><b>Invite neighbours to an open house for your faith festival</b></sub><br><sub><code>festival-open-house-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/guide-for-guests-new-to-a-ceremony.svg" width="44" height="44" alt="Write a short guide for guests new to your ceremony"><br><sub><b>Write a short guide for guests new to your ceremony</b></sub><br><sub><code>guide-for-guests-new-to-a-ceremony</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/yom-kippur-easy-fast-message.svg" width="44" height="44" alt="Wish someone an easy fast for Yom Kippur"><br><sub><b>Wish someone an easy fast for Yom Kippur</b></sub><br><sub><code>yom-kippur-easy-fast-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ganesh-chaturthi-greeting.svg" width="44" height="44" alt="Send a Ganesh Chaturthi greeting"><br><sub><b>Send a Ganesh Chaturthi greeting</b></sub><br><sub><code>ganesh-chaturthi-greeting</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-friends-to-a-sukkot-meal.svg" width="44" height="44" alt="Invite friends to a meal in your sukkah for Sukkot"><br><sub><b>Invite friends to a meal in your sukkah for Sukkot</b></sub><br><sub><code>invite-friends-to-a-sukkot-meal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-place-of-worship-about-ceremony-fees.svg" width="44" height="44" alt="Ask a place of worship about dates and fees for a ceremony"><br><sub><b>Ask a place of worship about dates and fees for a ceremony</b></sub><br><sub><code>ask-place-of-worship-about-ceremony-fees</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-host-what-to-wear-to-a-ceremony.svg" width="44" height="44" alt="Ask the host what to wear to a religious ceremony you are invited to"><br><sub><b>Ask the host what to wear to a religious ceremony you are invited to</b></sub><br><sub><code>ask-host-what-to-wear-to-a-ceremony</code></sub></td>
 </tr>
 </table>
 

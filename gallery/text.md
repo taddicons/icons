@@ -1,6 +1,6 @@
 # Text & editing
 
-<sub>Taddicons 0.3.0 · Interface · 104 icons</sub>
+<sub>Taddicons 0.3.1 · Interface · 104 icons</sub>
 
 Formatting, alignment, lists, headings and writing tools.
 

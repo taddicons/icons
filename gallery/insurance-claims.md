@@ -1,6 +1,6 @@
 # Insurance and claims
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Claims, disputes, policy questions, renewals and cancelling, for car, home, travel, health and life cover.
 
@@ -88,6 +88,42 @@ Claims, disputes, policy questions, renewals and cancelling, for car, home, trav
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/jewellery-valuation-request.svg" width="44" height="44" alt="Ask a jeweller for a valuation for insurance"><br><sub><b>Ask a jeweller for a valuation for insurance</b></sub><br><sub><code>jewellery-valuation-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/unoccupied-home-insurer-notice.svg" width="44" height="44" alt="Tell your home insurer the house will be empty for a while"><br><sub><b>Tell your home insurer the house will be empty for a while</b></sub><br><sub><code>unoccupied-home-insurer-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fire-damage-insurance-claim.svg" width="44" height="44" alt="Tell your home insurer about fire damage"><br><sub><b>Tell your home insurer about fire damage</b></sub><br><sub><code>fire-damage-insurance-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/alternative-accommodation-claim-request.svg" width="44" height="44" alt="Ask your insurer to cover a place to stay during repairs"><br><sub><b>Ask your insurer to cover a place to stay during repairs</b></sub><br><sub><code>alternative-accommodation-claim-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/income-protection-claim-letter.svg" width="44" height="44" alt="Start an income protection claim"><br><sub><b>Start an income protection claim</b></sub><br><sub><code>income-protection-claim-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/missing-receipts-explanation-note.svg" width="44" height="44" alt="Explain to an insurer why you do not have receipts"><br><sub><b>Explain to an insurer why you do not have receipts</b></sub><br><sub><code>missing-receipts-explanation-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/car-hire-excess-refund-claim.svg" width="44" height="44" alt="Claim back a car hire excess from your excess insurer"><br><sub><b>Claim back a car hire excess from your excess insurer</b></sub><br><sub><code>car-hire-excess-refund-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-repairer-choice-question.svg" width="44" height="44" alt="Ask your insurer if you can use your own repairer"><br><sub><b>Ask your insurer if you can use your own repairer</b></sub><br><sub><code>claim-repairer-choice-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-payment-breakdown-request.svg" width="44" height="44" alt="Ask your insurer how your claim payment was worked out"><br><sub><b>Ask your insurer how your claim payment was worked out</b></sub><br><sub><code>claim-payment-breakdown-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/other-policy-disclosure-note.svg" width="44" height="44" alt="Tell your insurer you have another policy covering the same loss"><br><sub><b>Tell your insurer you have another policy covering the same loss</b></sub><br><sub><code>other-policy-disclosure-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/insurer-send-assessor.svg" width="44" height="44" alt="Ask your insurer to send an assessor to see the damage"><br><sub><b>Ask your insurer to send an assessor to see the damage</b></sub><br><sub><code>insurer-send-assessor</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-freezer-food-power-cut.svg" width="44" height="44" alt="Claim for food spoiled in a freezer after a power cut"><br><sub><b>Claim for food spoiled in a freezer after a power cut</b></sub><br><sub><code>claim-freezer-food-power-cut</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/claim-accidental-damage-laptop.svg" width="44" height="44" alt="Claim for accidental damage to a laptop"><br><sub><b>Claim for accidental damage to a laptop</b></sub><br><sub><code>claim-accidental-damage-laptop</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-boiler-home-emergency-cover.svg" width="44" height="44" alt="Claim on home emergency cover for a broken boiler"><br><sub><b>Claim on home emergency cover for a broken boiler</b></sub><br><sub><code>claim-boiler-home-emergency-cover</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-file-copy-request-insurer.svg" width="44" height="44" alt="Ask your insurer for a copy of your claim file"><br><sub><b>Ask your insurer for a copy of your claim file</b></sub><br><sub><code>claim-file-copy-request-insurer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/non-fault-claim-record-request.svg" width="44" height="44" alt="Ask your insurer to record a claim as not your fault"><br><sub><b>Ask your insurer to record a claim as not your fault</b></sub><br><sub><code>non-fault-claim-record-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/appliance-warranty-plan-claim.svg" width="44" height="44" alt="Make a claim on an appliance care plan"><br><sub><b>Make a claim on an appliance care plan</b></sub><br><sub><code>appliance-warranty-plan-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-insurance-driving-abroad-question.svg" width="44" height="44" alt="Ask your car insurer about cover for driving abroad"><br><sub><b>Ask your car insurer about cover for driving abroad</b></sub><br><sub><code>car-insurance-driving-abroad-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/loss-adjuster-visit-reschedule.svg" width="44" height="44" alt="Move a loss adjuster's visit to another day"><br><sub><b>Move a loss adjuster's visit to another day</b></sub><br><sub><code>loss-adjuster-visit-reschedule</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pet-insurance-pre-authorisation-request.svg" width="44" height="44" alt="Ask your pet insurer to approve treatment before it happens"><br><sub><b>Ask your pet insurer to approve treatment before it happens</b></sub><br><sub><code>pet-insurance-pre-authorisation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/subsidence-claim-notice.svg" width="44" height="44" alt="Tell your home insurer about possible subsidence"><br><sub><b>Tell your home insurer about possible subsidence</b></sub><br><sub><code>subsidence-claim-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/like-for-like-replacement-request.svg" width="44" height="44" alt="Ask your insurer for a like-for-like replacement"><br><sub><b>Ask your insurer for a like-for-like replacement</b></sub><br><sub><code>like-for-like-replacement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-damaged-item-disposal-question.svg" width="44" height="44" alt="Ask your insurer before throwing away damaged items"><br><sub><b>Ask your insurer before throwing away damaged items</b></sub><br><sub><code>claim-damaged-item-disposal-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/insurer-moving-home-notice.svg" width="44" height="44" alt="Tell your insurer you are moving home"><br><sub><b>Tell your insurer you are moving home</b></sub><br><sub><code>insurer-moving-home-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-insurer-about-new-locks-or-alarm.svg" width="44" height="44" alt="Tell your home insurer about new locks or a new alarm"><br><sub><b>Tell your home insurer about new locks or a new alarm</b></sub><br><sub><code>tell-insurer-about-new-locks-or-alarm</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-glasses-insurance-claim.svg" width="44" height="44" alt="Make an insurance claim for lost or broken glasses"><br><sub><b>Make an insurance claim for lost or broken glasses</b></sub><br><sub><code>lost-glasses-insurance-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-insurer-you-work-from-home.svg" width="44" height="44" alt="Tell your home insurer that you now work from home"><br><sub><b>Tell your home insurer that you now work from home</b></sub><br><sub><code>tell-insurer-you-work-from-home</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-insurer-about-planned-home-renovation.svg" width="44" height="44" alt="Tell your home insurer about building work you are planning"><br><sub><b>Tell your home insurer about building work you are planning</b></sub><br><sub><code>tell-insurer-about-planned-home-renovation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-for-stolen-parcel-on-home-insurance.svg" width="44" height="44" alt="Claim for a parcel stolen from your doorstep"><br><sub><b>Claim for a parcel stolen from your doorstep</b></sub><br><sub><code>claim-for-stolen-parcel-on-home-insurance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remove-driver-from-policy-request.svg" width="44" height="44" alt="Ask your car insurer to remove a named driver"><br><sub><b>Ask your car insurer to remove a named driver</b></sub><br><sub><code>remove-driver-from-policy-request</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Trades and home repairs
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Hiring, briefing and paying builders, plumbers, electricians and other trades, and what to do when it goes wrong.
 
@@ -83,6 +83,47 @@ Hiring, briefing and paying builders, plumbers, electricians and other trades, a
 <td align="center" width="16%"><img src="../svg/mark/materials-delivery-slot-request.svg" width="44" height="44" alt="Arrange a delivery slot for building materials"><br><sub><b>Arrange a delivery slot for building materials</b></sub><br><sub><code>materials-delivery-slot-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/past-client-reference-ask.svg" width="44" height="44" alt="Ask a past client to give a reference for your trade work"><br><sub><b>Ask a past client to give a reference for your trade work</b></sub><br><sub><code>past-client-reference-ask</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/job-photos-use-permission.svg" width="44" height="44" alt="Ask a customer if you can use photos of their job"><br><sub><b>Ask a customer if you can use photos of their job</b></sub><br><sub><code>job-photos-use-permission</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retention-payment-release-request.svg" width="44" height="44" alt="Ask a client to release the retention held back on a job"><br><sub><b>Ask a client to release the retention held back on a job</b></sub><br><sub><code>retention-payment-release-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/material-samples-request.svg" width="44" height="44" alt="Ask a supplier or tradesperson for material samples"><br><sub><b>Ask a supplier or tradesperson for material samples</b></sub><br><sub><code>material-samples-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/annual-service-reminder-client.svg" width="44" height="44" alt="Remind a past client that their yearly service is due"><br><sub><b>Remind a past client that their yearly service is due</b></sub><br><sub><code>annual-service-reminder-client</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/weather-delay-reschedule-note.svg" width="44" height="44" alt="Tell a client outdoor work is moved because of the weather"><br><sub><b>Tell a client outdoor work is moved because of the weather</b></sub><br><sub><code>weather-delay-reschedule-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-aftercare-instructions-request.svg" width="44" height="44" alt="Ask a tradesperson how to look after new work"><br><sub><b>Ask a tradesperson how to look after new work</b></sub><br><sub><code>trade-aftercare-instructions-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-quote-decline-note.svg" width="44" height="44" alt="Turn down a quote from a tradesperson politely"><br><sub><b>Turn down a quote from a tradesperson politely</b></sub><br><sub><code>trade-quote-decline-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-utility-shutoff-question.svg" width="44" height="44" alt="Ask when water, gas or power will be off during a job"><br><sub><b>Ask when water, gas or power will be off during a job</b></sub><br><sub><code>trade-utility-shutoff-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trade-intro-to-friend.svg" width="44" height="44" alt="Introduce a tradesperson you trust to a friend"><br><sub><b>Introduce a tradesperson you trust to a friend</b></sub><br><sub><code>trade-intro-to-friend</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/neighbour-works-noise-notice.svg" width="44" height="44" alt="Let neighbours know about noisy building work"><br><sub><b>Let neighbours know about noisy building work</b></sub><br><sub><code>neighbour-works-noise-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/house-key-return-confirmation.svg" width="44" height="44" alt="Confirm a tradesperson has returned your house key"><br><sub><b>Confirm a tradesperson has returned your house key</b></sub><br><sub><code>house-key-return-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/worker-kitchen-toilet-use-note.svg" width="44" height="44" alt="Tell workers which toilet and kitchen they can use"><br><sub><b>Tell workers which toilet and kitchen they can use</b></sub><br><sub><code>worker-kitchen-toilet-use-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/scaffolding-neighbour-access-request.svg" width="44" height="44" alt="Ask a neighbour to allow scaffolding on their side"><br><sub><b>Ask a neighbour to allow scaffolding on their side</b></sub><br><sub><code>scaffolding-neighbour-access-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-quote-follow-up-to-client.svg" width="44" height="44" alt="Tradesperson follow-up on a quote you sent a client"><br><sub><b>Tradesperson follow-up on a quote you sent a client</b></sub><br><sub><code>trade-quote-follow-up-to-client</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trade-overdue-invoice-reminder.svg" width="44" height="44" alt="Tradesperson reminder to a client about an overdue invoice"><br><sub><b>Tradesperson reminder to a client about an overdue invoice</b></sub><br><sub><code>trade-overdue-invoice-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-material-price-change-notice.svg" width="44" height="44" alt="Tell a client that material prices have changed before a job"><br><sub><b>Tell a client that material prices have changed before a job</b></sub><br><sub><code>trade-material-price-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-holiday-closure-notice.svg" width="44" height="44" alt="Tell regular clients your trade business is closed for a holiday"><br><sub><b>Tell regular clients your trade business is closed for a holiday</b></sub><br><sub><code>trade-holiday-closure-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-new-business-launch-post.svg" width="44" height="44" alt="Announce your new trade business on social media"><br><sub><b>Announce your new trade business on social media</b></sub><br><sub><code>trade-new-business-launch-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-referral-thank-you.svg" width="44" height="44" alt="Tradesperson thank-you to a client who recommended you"><br><sub><b>Tradesperson thank-you to a client who recommended you</b></sub><br><sub><code>trade-referral-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-sick-day-reschedule-note.svg" width="44" height="44" alt="Tradesperson note: off sick, need to move your visit"><br><sub><b>Tradesperson note: off sick, need to move your visit</b></sub><br><sub><code>trade-sick-day-reschedule-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trade-call-out-fee-notice.svg" width="44" height="44" alt="Explain your call-out fee to a client before a visit"><br><sub><b>Explain your call-out fee to a client before a visit</b></sub><br><sub><code>trade-call-out-fee-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tree-surgeon-quote-request.svg" width="44" height="44" alt="Ask a tree surgeon for a quote"><br><sub><b>Ask a tree surgeon for a quote</b></sub><br><sub><code>tree-surgeon-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fence-repair-quote-request.svg" width="44" height="44" alt="Ask a fencer for a fence repair quote"><br><sub><b>Ask a fencer for a fence repair quote</b></sub><br><sub><code>fence-repair-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kitchen-fitting-quote-request.svg" width="44" height="44" alt="Ask a kitchen fitter for a fitting quote"><br><sub><b>Ask a kitchen fitter for a fitting quote</b></sub><br><sub><code>kitchen-fitting-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-follow-up-satisfaction-check.svg" width="44" height="44" alt="Check in with a client after finishing a job"><br><sub><b>Check in with a client after finishing a job</b></sub><br><sub><code>trade-follow-up-satisfaction-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-payment-method-question.svg" width="44" height="44" alt="Ask a tradesperson how they would like to be paid"><br><sub><b>Ask a tradesperson how they would like to be paid</b></sub><br><sub><code>trade-payment-method-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trade-apprentice-on-site-notice.svg" width="44" height="44" alt="Let a client know an apprentice will be on site"><br><sub><b>Let a client know an apprentice will be on site</b></sub><br><sub><code>trade-apprentice-on-site-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-out-of-hours-contact-note.svg" width="44" height="44" alt="Out-of-hours contact details for a client"><br><sub><b>Out-of-hours contact details for a client</b></sub><br><sub><code>trade-out-of-hours-contact-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-room-clearing-request.svg" width="44" height="44" alt="Ask a client to clear the room before work starts"><br><sub><b>Ask a client to clear the room before work starts</b></sub><br><sub><code>trade-room-clearing-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bathroom-fitting-quote-request.svg" width="44" height="44" alt="Ask a fitter to quote for a new bathroom"><br><sub><b>Ask a fitter to quote for a new bathroom</b></sub><br><sub><code>bathroom-fitting-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/loft-insulation-quote-request.svg" width="44" height="44" alt="Ask an installer to quote for loft insulation"><br><sub><b>Ask an installer to quote for loft insulation</b></sub><br><sub><code>loft-insulation-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/landscaping-design-visit-request.svg" width="44" height="44" alt="Ask a landscaper to visit and plan your garden"><br><sub><b>Ask a landscaper to visit and plan your garden</b></sub><br><sub><code>landscaping-design-visit-request</code></sub></td>
 </tr>
 </table>
 

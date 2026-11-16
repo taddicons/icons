@@ -1,6 +1,6 @@
 # Taxes and benefits
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Letters and messages for tax offices, accountants, self-employed records, benefits, pensions and child support.
 
@@ -83,6 +83,47 @@ Letters and messages for tax offices, accountants, self-employed records, benefi
 <td align="center" width="16%"><img src="../svg/mark/benefit-letter-explanation-request.svg" width="44" height="44" alt="Ask the benefits office to explain a letter in plain words"><br><sub><b>Ask the benefits office to explain a letter in plain words</b></sub><br><sub><code>benefit-letter-explanation-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tax-refund-bank-details-update.svg" width="44" height="44" alt="Give the tax office new bank details for a refund"><br><sub><b>Give the tax office new bank details for a refund</b></sub><br><sub><code>tax-refund-bank-details-update</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/tax-office-call-back-request.svg" width="44" height="44" alt="Ask the tax office to call you back"><br><sub><b>Ask the tax office to call you back</b></sub><br><sub><code>tax-office-call-back-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-return-amendment-note.svg" width="44" height="44" alt="Tell the tax office you need to correct a tax return you sent"><br><sub><b>Tell the tax office you need to correct a tax return you sent</b></sub><br><sub><code>tax-return-amendment-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tax-income-proof-request.svg" width="44" height="44" alt="Ask the tax office for proof of your income"><br><sub><b>Ask the tax office for proof of your income</b></sub><br><sub><code>tax-income-proof-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-payment-wrong-reference-note.svg" width="44" height="44" alt="Tell the tax office you paid with the wrong reference"><br><sub><b>Tell the tax office you paid with the wrong reference</b></sub><br><sub><code>tax-payment-wrong-reference-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-office-delay-complaint.svg" width="44" height="44" alt="Complain to the tax office about a long delay"><br><sub><b>Complain to the tax office about a long delay</b></sub><br><sub><code>tax-office-delay-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-appointee-request.svg" width="44" height="44" alt="Ask to manage benefits for someone who cannot manage them"><br><sub><b>Ask to manage benefits for someone who cannot manage them</b></sub><br><sub><code>benefit-appointee-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-office-call-notes.svg" width="44" height="44" alt="Write down a phone call with the tax office"><br><sub><b>Write down a phone call with the tax office</b></sub><br><sub><code>tax-office-call-notes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-allowance-share-question.svg" width="44" height="44" alt="Ask whether you can share a tax allowance with your partner"><br><sub><b>Ask whether you can share a tax allowance with your partner</b></sub><br><sub><code>tax-allowance-share-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/benefit-medical-evidence-request.svg" width="44" height="44" alt="Ask your doctor for evidence to support a benefit claim"><br><sub><b>Ask your doctor for evidence to support a benefit claim</b></sub><br><sub><code>benefit-medical-evidence-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-scam-message-report.svg" width="44" height="44" alt="Report a fake message claiming to be from the tax office"><br><sub><b>Report a fake message claiming to be from the tax office</b></sub><br><sub><code>tax-scam-message-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-bank-account-change-request.svg" width="44" height="44" alt="Ask for benefit payments to go to a new bank account"><br><sub><b>Ask for benefit payments to go to a new bank account</b></sub><br><sub><code>benefit-bank-account-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-records-keeping-checklist.svg" width="44" height="44" alt="Checklist of tax records to keep through the year"><br><sub><b>Checklist of tax records to keep through the year</b></sub><br><sub><code>tax-records-keeping-checklist</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-letter-wrong-name-correction.svg" width="44" height="44" alt="Ask the tax office to correct your name on their records"><br><sub><b>Ask the tax office to correct your name on their records</b></sub><br><sub><code>tax-letter-wrong-name-correction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-residency-certificate-request.svg" width="44" height="44" alt="Ask the tax office for a certificate of tax residence"><br><sub><b>Ask the tax office for a certificate of tax residence</b></sub><br><sub><code>tax-residency-certificate-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/benefit-claim-withdrawal-note.svg" width="44" height="44" alt="Withdraw a benefit claim in writing"><br><sub><b>Withdraw a benefit claim in writing</b></sub><br><sub><code>benefit-claim-withdrawal-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rental-income-tax-question.svg" width="44" height="44" alt="Ask the tax office how to report rental income"><br><sub><b>Ask the tax office how to report rental income</b></sub><br><sub><code>rental-income-tax-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-tax-reference-request.svg" width="44" height="44" alt="Ask the tax office for a tax reference number you have lost"><br><sub><b>Ask the tax office for a tax reference number you have lost</b></sub><br><sub><code>lost-tax-reference-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/employer-tax-form-correction-request.svg" width="44" height="44" alt="Ask your employer to correct a mistake on your tax form"><br><sub><b>Ask your employer to correct a mistake on your tax form</b></sub><br><sub><code>employer-tax-form-correction-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/online-selling-income-tax-question.svg" width="44" height="44" alt="Ask whether money from selling online must be reported for tax"><br><sub><b>Ask whether money from selling online must be reported for tax</b></sub><br><sub><code>online-selling-income-tax-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/savings-interest-tax-question.svg" width="44" height="44" alt="Ask the tax office about tax on savings interest"><br><sub><b>Ask the tax office about tax on savings interest</b></sub><br><sub><code>savings-interest-tax-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/money-gift-tax-question.svg" width="44" height="44" alt="Ask the tax office whether a large money gift needs reporting"><br><sub><b>Ask the tax office whether a large money gift needs reporting</b></sub><br><sub><code>money-gift-tax-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-assessment-travel-cost-claim.svg" width="44" height="44" alt="Claim back travel costs for a benefit assessment"><br><sub><b>Claim back travel costs for a benefit assessment</b></sub><br><sub><code>benefit-assessment-travel-cost-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/foreign-income-tax-question.svg" width="44" height="44" alt="Ask an accountant about tax on income from abroad"><br><sub><b>Ask an accountant about tax on income from abroad</b></sub><br><sub><code>foreign-income-tax-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/crypto-gains-tax-question.svg" width="44" height="44" alt="Ask an accountant about tax on crypto sales"><br><sub><b>Ask an accountant about tax on crypto sales</b></sub><br><sub><code>crypto-gains-tax-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-assessment-recording-request.svg" width="44" height="44" alt="Ask to have your benefit assessment recorded"><br><sub><b>Ask to have your benefit assessment recorded</b></sub><br><sub><code>benefit-assessment-recording-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-letter-not-received-note.svg" width="44" height="44" alt="Tell the tax office you did not receive their letter"><br><sub><b>Tell the tax office you did not receive their letter</b></sub><br><sub><code>tax-letter-not-received-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tax-bill-instalment-request.svg" width="44" height="44" alt="Request to pay a tax bill in instalments"><br><sub><b>Request to pay a tax bill in instalments</b></sub><br><sub><code>tax-bill-instalment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-marriage-name-change-notice.svg" width="44" height="44" alt="Tell the tax office about a name change after marriage"><br><sub><b>Tell the tax office about a name change after marriage</b></sub><br><sub><code>tax-marriage-name-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-hospital-stay-notice.svg" width="44" height="44" alt="Tell the benefits office about a hospital stay"><br><sub><b>Tell the benefits office about a hospital stay</b></sub><br><sub><code>benefit-hospital-stay-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tax-office-death-notice.svg" width="44" height="44" alt="Tell the tax office that someone has died"><br><sub><b>Tell the tax office that someone has died</b></sub><br><sub><code>tax-office-death-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/benefit-review-form-extension-request.svg" width="44" height="44" alt="Ask for more time to return a benefit review form"><br><sub><b>Ask for more time to return a benefit review form</b></sub><br><sub><code>benefit-review-form-extension-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pension-contribution-tax-relief-question.svg" width="44" height="44" alt="Ask if you get tax relief on pension payments"><br><sub><b>Ask if you get tax relief on pension payments</b></sub><br><sub><code>pension-contribution-tax-relief-question</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Consumer rights and refunds
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Letters and messages for getting your money or a fix when goods, deliveries, adverts or subscriptions go wrong, plus answers for small sellers.
 
@@ -88,6 +88,42 @@ Letters and messages for getting your money or a fix when goods, deliveries, adv
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/return-postage-refund-request.svg" width="44" height="44" alt="Ask a seller to refund the postage you paid to return a faulty item"><br><sub><b>Ask a seller to refund the postage you paid to return a faulty item</b></sub><br><sub><code>return-postage-refund-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/faulty-item-collection-request.svg" width="44" height="44" alt="Ask a seller to collect a large faulty item from your home"><br><sub><b>Ask a seller to collect a large faulty item from your home</b></sub><br><sub><code>faulty-item-collection-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-arrived-after-refund-note.svg" width="44" height="44" alt="Tell a seller your order arrived after a refund"><br><sub><b>Tell a seller your order arrived after a refund</b></sub><br><sub><code>item-arrived-after-refund-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/paused-subscription-charge-complaint.svg" width="44" height="44" alt="Complain about a charge during a paused subscription"><br><sub><b>Complain about a charge during a paused subscription</b></sub><br><sub><code>paused-subscription-charge-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/promo-code-not-applied-request.svg" width="44" height="44" alt="Ask for a discount code that was not applied"><br><sub><b>Ask for a discount code that was not applied</b></sub><br><sub><code>promo-code-not-applied-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/unsafe-delivery-spot-complaint.svg" width="44" height="44" alt="Complain about a parcel left in an unsafe place"><br><sub><b>Complain about a parcel left in an unsafe place</b></sub><br><sub><code>unsafe-delivery-spot-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/gym-charge-after-cancel-refund.svg" width="44" height="44" alt="Ask a gym to refund a charge taken after you cancelled"><br><sub><b>Ask a gym to refund a charge taken after you cancelled</b></sub><br><sub><code>gym-charge-after-cancel-refund</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/second-replacement-also-faulty-refund.svg" width="44" height="44" alt="Ask for a refund when the replacement is faulty too"><br><sub><b>Ask for a refund when the replacement is faulty too</b></sub><br><sub><code>second-replacement-also-faulty-refund</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-receipt-exchange-request.svg" width="44" height="44" alt="Ask a shop to exchange a gift with a gift receipt"><br><sub><b>Ask a shop to exchange a gift with a gift receipt</b></sub><br><sub><code>gift-receipt-exchange-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/deposit-back-for-returned-hire-item.svg" width="44" height="44" alt="Ask for your deposit back after returning a hired item"><br><sub><b>Ask for your deposit back after returning a hired item</b></sub><br><sub><code>deposit-back-for-returned-hire-item</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/laundry-lost-item-claim.svg" width="44" height="44" alt="Claim for an item a laundry service lost"><br><sub><b>Claim for an item a laundry service lost</b></sub><br><sub><code>laundry-lost-item-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/vending-machine-refund-request.svg" width="44" height="44" alt="Ask for a refund when a vending machine took your money"><br><sub><b>Ask for a refund when a vending machine took your money</b></sub><br><sub><code>vending-machine-refund-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/print-order-quality-refund-request.svg" width="44" height="44" alt="Ask a print shop to reprint or refund a poor print order"><br><sub><b>Ask a print shop to reprint or refund a poor print order</b></sub><br><sub><code>print-order-quality-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-wash-damage-claim.svg" width="44" height="44" alt="Claim for damage caused at a car wash"><br><sub><b>Claim for damage caused at a car wash</b></sub><br><sub><code>car-wash-damage-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/annual-membership-pro-rata-refund-request.svg" width="44" height="44" alt="Ask for part of an annual membership fee back after cancelling"><br><sub><b>Ask for part of an annual membership fee back after cancelling</b></sub><br><sub><code>annual-membership-pro-rata-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/obstructed-view-seat-refund-request.svg" width="44" height="44" alt="Ask for a refund when your seat had a blocked view"><br><sub><b>Ask for a refund when your seat had a blocked view</b></sub><br><sub><code>obstructed-view-seat-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/food-delivery-very-late-refund-request.svg" width="44" height="44" alt="Ask for money back when a food delivery came very late"><br><sub><b>Ask for money back when a food delivery came very late</b></sub><br><sub><code>food-delivery-very-late-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/venue-change-ticket-refund-request.svg" width="44" height="44" alt="Ask for a ticket refund after an event moved to a new venue"><br><sub><b>Ask for a ticket refund after an event moved to a new venue</b></sub><br><sub><code>venue-change-ticket-refund-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/faulty-hire-equipment-refund-request.svg" width="44" height="44" alt="Ask for a refund when hired equipment did not work"><br><sub><b>Ask for a refund when hired equipment did not work</b></sub><br><sub><code>faulty-hire-equipment-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hotel-early-checkout-refund-request.svg" width="44" height="44" alt="Ask a hotel to refund nights after an early check-out"><br><sub><b>Ask a hotel to refund nights after an early check-out</b></sub><br><sub><code>hotel-early-checkout-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/postponed-event-refund-request.svg" width="44" height="44" alt="Ask for a refund when an event is postponed"><br><sub><b>Ask for a refund when an event is postponed</b></sub><br><sub><code>postponed-event-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/weather-cancelled-activity-refund-request.svg" width="44" height="44" alt="Ask for a refund when bad weather cancels a booked activity"><br><sub><b>Ask for a refund when bad weather cancels a booked activity</b></sub><br><sub><code>weather-cancelled-activity-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/unused-prepaid-sessions-refund-request.svg" width="44" height="44" alt="Ask for money back for unused prepaid sessions"><br><sub><b>Ask for money back for unused prepaid sessions</b></sub><br><sub><code>unused-prepaid-sessions-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cinema-screening-fault-refund-request.svg" width="44" height="44" alt="Ask a cinema for a refund after a faulty screening"><br><sub><b>Ask a cinema for a refund after a faulty screening</b></sub><br><sub><code>cinema-screening-fault-refund-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/refund-currency-difference-query.svg" width="44" height="44" alt="Ask why a refund was less than you paid after currency conversion"><br><sub><b>Ask why a refund was less than you paid after currency conversion</b></sub><br><sub><code>refund-currency-difference-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/refund-for-unused-add-on-request.svg" width="44" height="44" alt="Ask for a refund for an add-on you paid for but could not use"><br><sub><b>Ask for a refund for an add-on you paid for but could not use</b></sub><br><sub><code>refund-for-unused-add-on-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/refund-for-missing-bundle-item-request.svg" width="44" height="44" alt="Ask for a part refund when one item from a bundle never came"><br><sub><b>Ask for a part refund when one item from a bundle never came</b></sub><br><sub><code>refund-for-missing-bundle-item-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/closed-attraction-refund-request.svg" width="44" height="44" alt="Ask for a refund when an attraction was closed on your visit"><br><sub><b>Ask for a refund when an attraction was closed on your visit</b></sub><br><sub><code>closed-attraction-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/treatment-cut-short-refund-request.svg" width="44" height="44" alt="Ask for a partial refund when a spa or salon treatment was cut short"><br><sub><b>Ask for a partial refund when a spa or salon treatment was cut short</b></sub><br><sub><code>treatment-cut-short-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tickets-never-arrived-refund-request.svg" width="44" height="44" alt="Ask for a refund when event tickets never arrived"><br><sub><b>Ask for a refund when event tickets never arrived</b></sub><br><sub><code>tickets-never-arrived-refund-request</code></sub></td>
 </tr>
 </table>
 

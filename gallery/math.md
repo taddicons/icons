@@ -1,6 +1,6 @@
 # Math
 
-<sub>Taddicons 0.3.0 · Interface · 54 icons</sub>
+<sub>Taddicons 0.3.1 · Interface · 54 icons</sub>
 
 Operators, functions, geometry and set notation.
 

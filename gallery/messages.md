@@ -1,6 +1,6 @@
 # Everyday messages
 
-<sub>Taddicons 0.3.0 · Documents & messages · 65 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Quick notes, replies and emails for the day-to-day.
 
@@ -91,6 +91,39 @@ Quick notes, replies and emails for the day-to-day.
 <td align="center" width="16%"><img src="../svg/mark/wish-someone-good-luck.svg" width="44" height="44" alt="Wish someone good luck before something important"><br><sub><b>Wish someone good luck before something important</b></sub><br><sub><code>wish-someone-good-luck</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/belated-birthday-message.svg" width="44" height="44" alt="Send a birthday message after you missed the day"><br><sub><b>Send a birthday message after you missed the day</b></sub><br><sub><code>belated-birthday-message</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/on-my-way-message.svg" width="44" height="44" alt="Let someone know you are on your way"><br><sub><b>Let someone know you are on your way</b></sub><br><sub><code>on-my-way-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/settle-up-after-group-meal.svg" width="44" height="44" alt="Ask friends to pay their share after a group meal"><br><sub><b>Ask friends to pay their share after a group meal</b></sub><br><sub><code>settle-up-after-group-meal</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-something-back.svg" width="44" height="44" alt="Ask someone to give back something you lent them"><br><sub><b>Ask someone to give back something you lent them</b></sub><br><sub><code>ask-for-something-back</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-event-photos.svg" width="44" height="44" alt="Ask someone to share the photos they took at an event"><br><sub><b>Ask someone to share the photos they took at an event</b></sub><br><sub><code>ask-for-event-photos</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/offer-practical-help.svg" width="44" height="44" alt="Offer someone practical help after hard news"><br><sub><b>Offer someone practical help after hard news</b></sub><br><sub><code>offer-practical-help</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-your-number-message.svg" width="44" height="44" alt="Tell someone you lost their number and ask for it again"><br><sub><b>Tell someone you lost their number and ask for it again</b></sub><br><sub><code>lost-your-number-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/return-a-missed-call-message.svg" width="44" height="44" alt="Reply by text to a call you missed"><br><sub><b>Reply by text to a call you missed</b></sub><br><sub><code>return-a-missed-call-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/send-your-address-for-a-visit.svg" width="44" height="44" alt="Send your address and how to find you before a visit"><br><sub><b>Send your address and how to find you before a visit</b></sub><br><sub><code>send-your-address-for-a-visit</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-photo-of-something.svg" width="44" height="44" alt="Ask someone to send you a photo of something"><br><sub><b>Ask someone to send you a photo of something</b></sub><br><sub><code>ask-for-a-photo-of-something</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-call-back.svg" width="44" height="44" alt="Ask for a call back: ask someone to phone you when they can"><br><sub><b>Ask for a call back: ask someone to phone you when they can</b></sub><br><sub><code>ask-for-a-call-back</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/share-your-travel-plans.svg" width="44" height="44" alt="Share your travel plans: tell someone where you will be and when"><br><sub><b>Share your travel plans: tell someone where you will be and when</b></sub><br><sub><code>share-your-travel-plans</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/suggest-another-meeting-place.svg" width="44" height="44" alt="Suggest another meeting place: offer a new spot for plans you made"><br><sub><b>Suggest another meeting place: offer a new spot for plans you made</b></sub><br><sub><code>suggest-another-meeting-place</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/save-me-a-seat-message.svg" width="44" height="44" alt="Save me a seat: ask someone to keep a place for you"><br><sub><b>Save me a seat: ask someone to keep a place for you</b></sub><br><sub><code>save-me-a-seat-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/running-early-message.svg" width="44" height="44" alt="Running early message: let someone know you will arrive ahead of time"><br><sub><b>Running early message: let someone know you will arrive ahead of time</b></sub><br><sub><code>running-early-message</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/you-left-something-here-message.svg" width="44" height="44" alt="You left something here: tell someone they left an item behind"><br><sub><b>You left something here: tell someone they left an item behind</b></sub><br><sub><code>you-left-something-here-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-number-notice-message.svg" width="44" height="44" alt="Tell people you have a new phone number"><br><sub><b>Tell people you have a new phone number</b></sub><br><sub><code>new-number-notice-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/confirm-call-time-zone.svg" width="44" height="44" alt="Confirm a call time when you are in different time zones"><br><sub><b>Confirm a call time when you are in different time zones</b></sub><br><sub><code>confirm-call-time-zone</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/send-directions-to-your-place.svg" width="44" height="44" alt="Send someone directions to your home"><br><sub><b>Send someone directions to your home</b></sub><br><sub><code>send-directions-to-your-place</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-someone-to-keep-it-private.svg" width="44" height="44" alt="Ask someone to keep your news to themselves for now"><br><sub><b>Ask someone to keep your news to themselves for now</b></sub><br><sub><code>ask-someone-to-keep-it-private</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-talk-in-person-instead.svg" width="44" height="44" alt="Ask to talk face to face instead of by message"><br><sub><b>Ask to talk face to face instead of by message</b></sub><br><sub><code>ask-to-talk-in-person-instead</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-group-for-a-headcount.svg" width="44" height="44" alt="Ask a group chat who is coming so you can get numbers"><br><sub><b>Ask a group chat who is coming so you can get numbers</b></sub><br><sub><code>ask-group-for-a-headcount</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/check-your-spam-folder-message.svg" width="44" height="44" alt="Let someone know your email may have gone to their spam folder"><br><sub><b>Let someone know your email may have gone to their spam folder</b></sub><br><sub><code>check-your-spam-folder-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-group-to-reply-in-one-thread.svg" width="44" height="44" alt="Ask a busy group chat to keep replies on one topic in a thread"><br><sub><b>Ask a busy group chat to keep replies on one topic in a thread</b></sub><br><sub><code>ask-group-to-reply-in-one-thread</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-text-instead-of-call.svg" width="44" height="44" alt="Ask someone to text you instead of calling"><br><sub><b>Ask someone to text you instead of calling</b></sub><br><sub><code>ask-to-text-instead-of-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-about-parking-before-a-visit.svg" width="44" height="44" alt="Ask where to park before you visit someone"><br><sub><b>Ask where to park before you visit someone</b></sub><br><sub><code>ask-about-parking-before-a-visit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-someone-you-are-waiting-outside.svg" width="44" height="44" alt="Let someone know you are waiting outside"><br><sub><b>Let someone know you are waiting outside</b></sub><br><sub><code>tell-someone-you-are-waiting-outside</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Celebrations of every culture
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Festivals, rites of passage and milestones from many cultures, written so anyone can send them to anyone.
 
@@ -88,6 +88,42 @@ Festivals, rites of passage and milestones from many cultures, written so anyone
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/halloween-party-invite.svg" width="44" height="44" alt="Invite friends or kids to a Halloween costume party"><br><sub><b>Invite friends or kids to a Halloween costume party</b></sub><br><sub><code>halloween-party-invite</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/independence-day-cookout-invite.svg" width="44" height="44" alt="Invite friends to a national day cookout or barbecue"><br><sub><b>Invite friends to a national day cookout or barbecue</b></sub><br><sub><code>independence-day-cookout-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/chuseok-greeting-message.svg" width="44" height="44" alt="Send a Chuseok greeting"><br><sub><b>Send a Chuseok greeting</b></sub><br><sub><code>chuseok-greeting-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/purim-celebration-invite.svg" width="44" height="44" alt="Invite friends to a Purim celebration"><br><sub><b>Invite friends to a Purim celebration</b></sub><br><sub><code>purim-celebration-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/half-birthday-note-for-child.svg" width="44" height="44" alt="Write a half-birthday note for your child"><br><sub><b>Write a half-birthday note for your child</b></sub><br><sub><code>half-birthday-note-for-child</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mortgage-free-celebration-invite.svg" width="44" height="44" alt="Invite friends to celebrate paying off your home"><br><sub><b>Invite friends to celebrate paying off your home</b></sub><br><sub><code>mortgage-free-celebration-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/rosh-hashanah-greeting-message.svg" width="44" height="44" alt="Send a Rosh Hashanah greeting to friends or family"><br><sub><b>Send a Rosh Hashanah greeting to friends or family</b></sub><br><sub><code>rosh-hashanah-greeting-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/exam-results-celebration-message.svg" width="44" height="44" alt="Celebrate someone's exam results with a message"><br><sub><b>Celebrate someone's exam results with a message</b></sub><br><sub><code>exam-results-celebration-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/galentines-brunch-invite.svg" width="44" height="44" alt="Invite your friends to a Galentine's brunch"><br><sub><b>Invite your friends to a Galentine's brunch</b></sub><br><sub><code>galentines-brunch-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lohri-bonfire-invite.svg" width="44" height="44" alt="Invite friends and family to a Lohri bonfire evening"><br><sub><b>Invite friends and family to a Lohri bonfire evening</b></sub><br><sub><code>lohri-bonfire-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/christmas-eve-open-house-invite.svg" width="44" height="44" alt="Invite friends and neighbours to a Christmas Eve open house"><br><sub><b>Invite friends and neighbours to a Christmas Eve open house</b></sub><br><sub><code>christmas-eve-open-house-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thanksgiving-dinner-invite.svg" width="44" height="44" alt="Invite people to Thanksgiving dinner"><br><sub><b>Invite people to Thanksgiving dinner</b></sub><br><sub><code>thanksgiving-dinner-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/prom-send-off-message.svg" width="44" height="44" alt="Send a teenager good wishes on prom night"><br><sub><b>Send a teenager good wishes on prom night</b></sub><br><sub><code>prom-send-off-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-name-celebration-message.svg" width="44" height="44" alt="Celebrate a friend's new name"><br><sub><b>Celebrate a friend's new name</b></sub><br><sub><code>new-name-celebration-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/birthday-video-montage-ask.svg" width="44" height="44" alt="Ask friends to send short clips for a birthday video"><br><sub><b>Ask friends to send short clips for a birthday video</b></sub><br><sub><code>birthday-video-montage-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-you-to-party-helpers.svg" width="44" height="44" alt="Thank the people who helped you run a party"><br><sub><b>Thank the people who helped you run a party</b></sub><br><sub><code>thank-you-to-party-helpers</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/party-entertainer-booking-enquiry.svg" width="44" height="44" alt="Ask about booking an entertainer for a party"><br><sub><b>Ask about booking an entertainer for a party</b></sub><br><sub><code>party-entertainer-booking-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-give-a-toast.svg" width="44" height="44" alt="Ask a friend to give a short toast at your celebration"><br><sub><b>Ask a friend to give a short toast at your celebration</b></sub><br><sub><code>ask-friend-to-give-a-toast</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/party-guest-list-help-ask.svg" width="44" height="44" alt="Ask a close friend to help with a guest list for a party"><br><sub><b>Ask a close friend to help with a guest list for a party</b></sub><br><sub><code>party-guest-list-help-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/party-photos-sharing-message.svg" width="44" height="44" alt="Share the photos with guests after a party"><br><sub><b>Share the photos with guests after a party</b></sub><br><sub><code>party-photos-sharing-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/party-cancelled-notice.svg" width="44" height="44" alt="Tell guests a party is cancelled or postponed"><br><sub><b>Tell guests a party is cancelled or postponed</b></sub><br><sub><code>party-cancelled-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/party-venue-thank-you.svg" width="44" height="44" alt="Thank a venue after your celebration"><br><sub><b>Thank a venue after your celebration</b></sub><br><sub><code>party-venue-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/birthday-plans-vote-message.svg" width="44" height="44" alt="Ask friends to vote on birthday plans"><br><sub><b>Ask friends to vote on birthday plans</b></sub><br><sub><code>birthday-plans-vote-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/party-noise-heads-up-to-neighbours.svg" width="44" height="44" alt="Warn neighbours about a party at your home"><br><sub><b>Warn neighbours about a party at your home</b></sub><br><sub><code>party-noise-heads-up-to-neighbours</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/surprise-party-keep-it-secret-note.svg" width="44" height="44" alt="Remind guests to keep a surprise party secret"><br><sub><b>Remind guests to keep a surprise party secret</b></sub><br><sub><code>surprise-party-keep-it-secret-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/graduation-party-toast.svg" width="44" height="44" alt="Short toast at a graduation party"><br><sub><b>Short toast at a graduation party</b></sub><br><sub><code>graduation-party-toast</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/birthday-roast-speech.svg" width="44" height="44" alt="Light-hearted roast speech for a friend's birthday"><br><sub><b>Light-hearted roast speech for a friend's birthday</b></sub><br><sub><code>birthday-roast-speech</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/milestone-birthday-weekend-away-invite.svg" width="44" height="44" alt="Invite friends to a weekend away for a milestone birthday"><br><sub><b>Invite friends to a weekend away for a milestone birthday</b></sub><br><sub><code>milestone-birthday-weekend-away-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/festival-meal-invite-to-neighbours.svg" width="44" height="44" alt="Invite neighbours to share your festival meal"><br><sub><b>Invite neighbours to share your festival meal</b></sub><br><sub><code>festival-meal-invite-to-neighbours</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/party-running-order-for-helpers.svg" width="44" height="44" alt="Share the party timings and jobs with your helpers"><br><sub><b>Share the party timings and jobs with your helpers</b></sub><br><sub><code>party-running-order-for-helpers</code></sub></td>
 </tr>
 </table>
 

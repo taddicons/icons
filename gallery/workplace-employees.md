@@ -1,6 +1,6 @@
 # Workplace for employees
 
-<sub>Taddicons 0.3.0 · Documents & messages · 58 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Time off, pay problems, concerns and complaints, redundancy, and everyday notes to your boss and your colleagues.
 
@@ -82,6 +82,48 @@ Time off, pay problems, concerns and complaints, redundancy, and everyday notes 
 <td align="center" width="16%"><img src="../svg/mark/leaving-date-confirmation-request.svg" width="44" height="44" alt="Ask your employer to confirm your last working day"><br><sub><b>Ask your employer to confirm your last working day</b></sub><br><sub><code>leaving-date-confirmation-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/work-device-return-note.svg" width="44" height="44" alt="Arrange to hand back a work laptop or phone"><br><sub><b>Arrange to hand back a work laptop or phone</b></sub><br><sub><code>work-device-return-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/rest-break-question.svg" width="44" height="44" alt="Ask about breaks during long shifts"><br><sub><b>Ask about breaks during long shifts</b></sub><br><sub><code>rest-break-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/training-course-funding-request.svg" width="44" height="44" alt="Ask your employer to pay for a training course"><br><sub><b>Ask your employer to pay for a training course</b></sub><br><sub><code>training-course-funding-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/annual-leave-carry-over-request.svg" width="44" height="44" alt="Ask to carry unused holiday into next year"><br><sub><b>Ask to carry unused holiday into next year</b></sub><br><sub><code>annual-leave-carry-over-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/payslip-deduction-question.svg" width="44" height="44" alt="Ask payroll to explain a deduction on your payslip"><br><sub><b>Ask payroll to explain a deduction on your payslip</b></sub><br><sub><code>payslip-deduction-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/return-to-work-catch-up-request.svg" width="44" height="44" alt="Ask for a catch-up meeting before you return from long leave"><br><sub><b>Ask for a catch-up meeting before you return from long leave</b></sub><br><sub><code>return-to-work-catch-up-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/employee-data-copy-request.svg" width="44" height="44" alt="Ask your employer for a copy of the personal data they hold about you"><br><sub><b>Ask your employer for a copy of the personal data they hold about you</b></sub><br><sub><code>employee-data-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/acting-up-pay-question.svg" width="44" height="44" alt="Ask about extra pay for covering a more senior role"><br><sub><b>Ask about extra pay for covering a more senior role</b></sub><br><sub><code>acting-up-pay-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/leave-handover-note.svg" width="44" height="44" alt="Hand over your work before you go on leave"><br><sub><b>Hand over your work before you go on leave</b></sub><br><sub><code>leave-handover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/home-working-equipment-request.svg" width="44" height="44" alt="Ask your employer for equipment to work from home"><br><sub><b>Ask your employer for equipment to work from home</b></sub><br><sub><code>home-working-equipment-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/work-conference-attendance-request.svg" width="44" height="44" alt="Ask your manager if you can attend a work conference"><br><sub><b>Ask your manager if you can attend a work conference</b></sub><br><sub><code>work-conference-attendance-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-desk-move-request.svg" width="44" height="44" alt="Ask to move to a different desk or work area"><br><sub><b>Ask to move to a different desk or work area</b></sub><br><sub><code>work-desk-move-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-first-aider-volunteer-offer.svg" width="44" height="44" alt="Offer to become a first aider at work"><br><sub><b>Offer to become a first aider at work</b></sub><br><sub><code>work-first-aider-volunteer-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-team-lunch-plan-note.svg" width="44" height="44" alt="Plan a team lunch and ask about food needs"><br><sub><b>Plan a team lunch and ask about food needs</b></sub><br><sub><code>work-team-lunch-plan-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-overtime-availability-note.svg" width="44" height="44" alt="Tell your manager when you can and cannot do overtime"><br><sub><b>Tell your manager when you can and cannot do overtime</b></sub><br><sub><code>work-overtime-availability-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-cycle-scheme-question.svg" width="44" height="44" alt="Ask HR how the cycle to work scheme works"><br><sub><b>Ask HR how the cycle to work scheme works</b></sub><br><sub><code>work-cycle-scheme-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/work-name-change-hr-notice.svg" width="44" height="44" alt="Tell HR you have changed your name"><br><sub><b>Tell HR you have changed your name</b></sub><br><sub><code>work-name-change-hr-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-quiet-room-request.svg" width="44" height="44" alt="Ask your employer for a quiet room at work"><br><sub><b>Ask your employer for a quiet room at work</b></sub><br><sub><code>work-quiet-room-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-training-completion-note.svg" width="44" height="44" alt="Tell your manager you have finished a training course"><br><sub><b>Tell your manager you have finished a training course</b></sub><br><sub><code>work-training-completion-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-holiday-swap-with-colleague-request.svg" width="44" height="44" alt="Ask your manager to approve a holiday swap with a colleague"><br><sub><b>Ask your manager to approve a holiday swap with a colleague</b></sub><br><sub><code>work-holiday-swap-with-colleague-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-office-days-pattern-request.svg" width="44" height="44" alt="Ask to change which days you work in the office"><br><sub><b>Ask to change which days you work in the office</b></sub><br><sub><code>work-office-days-pattern-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-charity-collection-note.svg" width="44" height="44" alt="Invite colleagues to give to a charity collection"><br><sub><b>Invite colleagues to give to a charity collection</b></sub><br><sub><code>work-charity-collection-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/work-new-starter-buddy-offer.svg" width="44" height="44" alt="Offer to be a work buddy for a new colleague"><br><sub><b>Offer to be a work buddy for a new colleague</b></sub><br><sub><code>work-new-starter-buddy-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/menopause-support-request.svg" width="44" height="44" alt="Ask your employer for support with menopause symptoms"><br><sub><b>Ask your employer for support with menopause symptoms</b></sub><br><sub><code>menopause-support-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/meeting-companion-request.svg" width="44" height="44" alt="Ask to bring a companion to a formal work meeting"><br><sub><b>Ask to bring a companion to a formal work meeting</b></sub><br><sub><code>meeting-companion-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pay-range-information-request.svg" width="44" height="44" alt="Ask your employer for the pay range for your role"><br><sub><b>Ask your employer for the pay range for your role</b></sub><br><sub><code>pay-range-information-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/breastfeeding-at-work-request.svg" width="44" height="44" alt="Ask for time and a private space to express milk at work"><br><sub><b>Ask for time and a private space to express milk at work</b></sub><br><sub><code>breastfeeding-at-work-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/employee-referral-note.svg" width="44" height="44" alt="Refer a friend for a job at your company"><br><sub><b>Refer a friend for a job at your company</b></sub><br><sub><code>employee-referral-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/reservist-training-leave-notice.svg" width="44" height="44" alt="Tell your employer about reservist training leave"><br><sub><b>Tell your employer about reservist training leave</b></sub><br><sub><code>reservist-training-leave-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/public-duties-time-off-request.svg" width="44" height="44" alt="Request time off for public duties"><br><sub><b>Request time off for public duties</b></sub><br><sub><code>public-duties-time-off-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/salary-overpayment-repayment-plan.svg" width="44" height="44" alt="Propose a plan to repay a salary overpayment"><br><sub><b>Propose a plan to repay a salary overpayment</b></sub><br><sub><code>salary-overpayment-repayment-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-uniform-replacement-request.svg" width="44" height="44" alt="Ask your employer to replace a worn work uniform"><br><sub><b>Ask your employer to replace a worn work uniform</b></sub><br><sub><code>work-uniform-replacement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/travel-disruption-home-working-note.svg" width="44" height="44" alt="Ask to work from home during travel disruption"><br><sub><b>Ask to work from home during travel disruption</b></sub><br><sub><code>travel-disruption-home-working-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/work-locker-request.svg" width="44" height="44" alt="Ask for a locker at work"><br><sub><b>Ask for a locker at work</b></sub><br><sub><code>work-locker-request</code></sub></td>
 </tr>
 </table>
 

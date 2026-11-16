@@ -1,6 +1,6 @@
 # Official letters, Italy
 
-<sub>Taddicons 0.3.0 · Documents & messages · 72 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Italy most often need: tenancy, work, tax and banks, insurance and health, consumer rights, public offices, school and family, and neighbours, written in correct Italian.
 
@@ -100,6 +100,30 @@ The official letters people in Italy most often need: tenancy, work, tax and ban
 <td align="center" width="16%"><img src="../svg/mark/it-potatura-alberi-vicino.svg" width="44" height="44" alt="Richiesta di potatura: ask a neighbour to cut back trees (Italy)"><br><sub><b>Richiesta di potatura: ask a neighbour to cut back trees (Italy)</b></sub><br><sub><code>it-potatura-alberi-vicino</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/it-infiltrazioni-vicino.svg" width="44" height="44" alt="Segnalazione di infiltrazioni: report a water leak from a neighbour (Italy)"><br><sub><b>Segnalazione di infiltrazioni: report a water leak from a neighbour (Italy)</b></sub><br><sub><code>it-infiltrazioni-vicino</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/it-sosta-passo-carrabile.svg" width="44" height="44" alt="Sosta davanti al passo carrabile: ask a neighbour to stop blocking (Italy)"><br><sub><b>Sosta davanti al passo carrabile: ask a neighbour to stop blocking (Italy)</b></sub><br><sub><code>it-sosta-passo-carrabile</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/it-richiesta-aspettativa.svg" width="44" height="44" alt="Richiesta di aspettativa: ask for unpaid leave (Italy)"><br><sub><b>Richiesta di aspettativa: ask for unpaid leave (Italy)</b></sub><br><sub><code>it-richiesta-aspettativa</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-richiesta-animale-domestico.svg" width="44" height="44" alt="Richiesta animale domestico: ask the landlord to keep a pet (Italy)"><br><sub><b>Richiesta animale domestico: ask the landlord to keep a pet (Italy)</b></sub><br><sub><code>it-richiesta-animale-domestico</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-richiesta-estratto-conto.svg" width="44" height="44" alt="Richiesta estratti conto: ask the bank for account statements (Italy)"><br><sub><b>Richiesta estratti conto: ask the bank for account statements (Italy)</b></sub><br><sub><code>it-richiesta-estratto-conto</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-esonero-educazione-fisica.svg" width="44" height="44" alt="Esonero educazione fisica: excuse a pupil from PE (Italy)"><br><sub><b>Esonero educazione fisica: excuse a pupil from PE (Italy)</b></sub><br><sub><code>it-esonero-educazione-fisica</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-accesso-fondo-vicino.svg" width="44" height="44" alt="Accesso al fondo del vicino: ask access for repairs (Italy)"><br><sub><b>Accesso al fondo del vicino: ask access for repairs (Italy)</b></sub><br><sub><code>it-accesso-fondo-vicino</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-variazione-rischio-polizza.svg" width="44" height="44" alt="Comunicazione variazione: report a change to the insurer (Italy)"><br><sub><b>Comunicazione variazione: report a change to the insurer (Italy)</b></sub><br><sub><code>it-variazione-rischio-polizza</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/it-certificato-storico-residenza.svg" width="44" height="44" alt="Certificato storico di residenza: ask the Comune for it (Italy)"><br><sub><b>Certificato storico di residenza: ask the Comune for it (Italy)</b></sub><br><sub><code>it-certificato-storico-residenza</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-comunicazione-nuovo-iban.svg" width="44" height="44" alt="Comunicazione nuovo IBAN: give your employer a new salary account (Italy)"><br><sub><b>Comunicazione nuovo IBAN: give your employer a new salary account (Italy)</b></sub><br><sub><code>it-comunicazione-nuovo-iban</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-rimborso-biglietto-evento.svg" width="44" height="44" alt="Rimborso biglietto: ask for a refund for a cancelled event (Italy)"><br><sub><b>Rimborso biglietto: ask for a refund for a cancelled event (Italy)</b></sub><br><sub><code>it-rimborso-biglietto-evento</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-richiesta-colloquio-docente.svg" width="44" height="44" alt="Richiesta di colloquio: ask a teacher for a meeting (Italy)"><br><sub><b>Richiesta di colloquio: ask a teacher for a meeting (Italy)</b></sub><br><sub><code>it-richiesta-colloquio-docente</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-richiesta-permesso-ztl.svg" width="44" height="44" alt="Permesso ZTL: ask the Comune for a limited-traffic zone permit (Italy)"><br><sub><b>Permesso ZTL: ask the Comune for a limited-traffic zone permit (Italy)</b></sub><br><sub><code>it-richiesta-permesso-ztl</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-richiesta-copia-polizza.svg" width="44" height="44" alt="Richiesta copia polizza: ask your insurer for a copy of the policy (Italy)"><br><sub><b>Richiesta copia polizza: ask your insurer for a copy of the policy (Italy)</b></sub><br><sub><code>it-richiesta-copia-polizza</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/it-richiesta-certificazione-unica.svg" width="44" height="44" alt="Certificazione Unica: ask your employer for your CU (Italy)"><br><sub><b>Certificazione Unica: ask your employer for your CU (Italy)</b></sub><br><sub><code>it-richiesta-certificazione-unica</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-comunicazione-decesso-banca.svg" width="44" height="44" alt="Comunicazione di decesso: tell a bank an account holder has died (Italy)"><br><sub><b>Comunicazione di decesso: tell a bank an account holder has died (Italy)</b></sub><br><sub><code>it-comunicazione-decesso-banca</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-copia-verbale-assemblea.svg" width="44" height="44" alt="Verbale di assemblea: ask the administrator for a copy of the minutes (Italy)"><br><sub><b>Verbale di assemblea: ask the administrator for a copy of the minutes (Italy)</b></sub><br><sub><code>it-copia-verbale-assemblea</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-cessazione-fornitura.svg" width="44" height="44" alt="Cessazione fornitura: close a power or gas supply when you move out (Italy)"><br><sub><b>Cessazione fornitura: close a power or gas supply when you move out (Italy)</b></sub><br><sub><code>it-cessazione-fornitura</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-permessi-diritto-studio.svg" width="44" height="44" alt="Permessi per diritto allo studio: ask for paid study hours (Italy)"><br><sub><b>Permessi per diritto allo studio: ask for paid study hours (Italy)</b></sub><br><sub><code>it-permessi-diritto-studio</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/it-riduzione-retta-mensa.svg" width="44" height="44" alt="Riduzione retta mensa: ask the comune for a lower school meal fee (Italy)"><br><sub><b>Riduzione retta mensa: ask the comune for a lower school meal fee (Italy)</b></sub><br><sub><code>it-riduzione-retta-mensa</code></sub></td>
 </tr>
 </table>
 

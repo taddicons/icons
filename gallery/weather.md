@@ -1,6 +1,6 @@
 # Weather & seasons
 
-<sub>Taddicons 0.3.0 · World & nature · 98 icons</sub>
+<sub>Taddicons 0.3.1 · World & nature · 98 icons</sub>
 
 Sun, clouds, rain, wind, temperature and seasons.
 

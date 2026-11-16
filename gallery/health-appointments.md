@@ -1,6 +1,6 @@
 # Health appointments and care
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Letters and messages to doctors, dentists, hospitals and clinics: booking, results, records, bills, access needs, thanks and complaints.
 
@@ -88,6 +88,42 @@ Letters and messages to doctors, dentists, hospitals and clinics: booking, resul
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/ask-for-a-blood-test-appointment.svg" width="44" height="44" alt="Ask for a blood test appointment"><br><sub><b>Ask for a blood test appointment</b></sub><br><sub><code>ask-for-a-blood-test-appointment</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-to-bring-a-support-person.svg" width="44" height="44" alt="Ask to bring a support person to your appointment"><br><sub><b>Ask to bring a support person to your appointment</b></sub><br><sub><code>ask-to-bring-a-support-person</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/patient-transport-request.svg" width="44" height="44" alt="Ask for patient transport to a hospital appointment"><br><sub><b>Ask for patient transport to a hospital appointment</b></sub><br><sub><code>patient-transport-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-double-appointment.svg" width="44" height="44" alt="Ask for a longer appointment to talk about several things"><br><sub><b>Ask for a longer appointment to talk about several things</b></sub><br><sub><code>ask-for-a-double-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-blood-pressure-check.svg" width="44" height="44" alt="Book a blood pressure check at your clinic"><br><sub><b>Book a blood pressure check at your clinic</b></sub><br><sub><code>ask-for-a-blood-pressure-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-contraception-review.svg" width="44" height="44" alt="Book a contraception review appointment"><br><sub><b>Book a contraception review appointment</b></sub><br><sub><code>ask-for-a-contraception-review</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-flu-jab-appointment.svg" width="44" height="44" alt="Book a flu vaccine appointment"><br><sub><b>Book a flu vaccine appointment</b></sub><br><sub><code>ask-for-a-flu-jab-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-hospital-about-parking-costs-for-regular-visits.svg" width="44" height="44" alt="Ask a hospital about parking costs for regular visits"><br><sub><b>Ask a hospital about parking costs for regular visits</b></sub><br><sub><code>ask-hospital-about-parking-costs-for-regular-visits</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-letter-to-carry-medicine-abroad.svg" width="44" height="44" alt="Ask your doctor for a letter to carry medicine abroad"><br><sub><b>Ask your doctor for a letter to carry medicine abroad</b></sub><br><sub><code>ask-for-a-letter-to-carry-medicine-abroad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-weight-management-referral.svg" width="44" height="44" alt="Ask your doctor about a weight management referral"><br><sub><b>Ask your doctor about a weight management referral</b></sub><br><sub><code>ask-for-a-weight-management-referral</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinic-aftercare-advice-in-writing.svg" width="44" height="44" alt="Ask the clinic to send aftercare advice in writing"><br><sub><b>Ask the clinic to send aftercare advice in writing</b></sub><br><sub><code>clinic-aftercare-advice-in-writing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinic-who-looked-at-records.svg" width="44" height="44" alt="Ask a clinic who has looked at my health records"><br><sub><b>Ask a clinic who has looked at my health records</b></sub><br><sub><code>clinic-who-looked-at-records</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/clinic-treatment-cost-before-booking.svg" width="44" height="44" alt="Ask a clinic for the cost of a treatment before you book"><br><sub><b>Ask a clinic for the cost of a treatment before you book</b></sub><br><sub><code>clinic-treatment-cost-before-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinic-quiet-place-to-wait.svg" width="44" height="44" alt="Ask a clinic for a quiet place to wait"><br><sub><b>Ask a clinic for a quiet place to wait</b></sub><br><sub><code>clinic-quiet-place-to-wait</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-screening-appointment.svg" width="44" height="44" alt="Ask your clinic for a health screening appointment"><br><sub><b>Ask your clinic for a health screening appointment</b></sub><br><sub><code>ask-for-a-screening-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-copy-of-my-discharge-summary.svg" width="44" height="44" alt="Ask a hospital for a copy of your discharge summary"><br><sub><b>Ask a hospital for a copy of your discharge summary</b></sub><br><sub><code>ask-for-a-copy-of-my-discharge-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-an-asthma-review.svg" width="44" height="44" alt="Ask your clinic for an asthma review"><br><sub><b>Ask your clinic for an asthma review</b></sub><br><sub><code>ask-for-an-asthma-review</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-follow-up-after-a-hospital-stay.svg" width="44" height="44" alt="Ask your doctor for a check-up after a hospital stay"><br><sub><b>Ask your doctor for a check-up after a hospital stay</b></sub><br><sub><code>ask-for-a-follow-up-after-a-hospital-stay</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-face-to-face-appointment.svg" width="44" height="44" alt="Ask to see a clinician in person instead of by phone"><br><sub><b>Ask to see a clinician in person instead of by phone</b></sub><br><sub><code>ask-for-a-face-to-face-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/health-school-club-form.svg" width="44" height="44" alt="Ask the clinic to fill in a health form for school or a club"><br><sub><b>Ask the clinic to fill in a health form for school or a club</b></sub><br><sub><code>health-school-club-form</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/health-explain-letter-words.svg" width="44" height="44" alt="Ask your doctor to explain words in a clinic letter"><br><sub><b>Ask your doctor to explain words in a clinic letter</b></sub><br><sub><code>health-explain-letter-words</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/health-family-back-to-back.svg" width="44" height="44" alt="Book back-to-back appointments for two family members"><br><sub><b>Book back-to-back appointments for two family members</b></sub><br><sub><code>health-family-back-to-back</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/health-travel-vaccines.svg" width="44" height="44" alt="Ask about vaccines before you travel"><br><sub><b>Ask about vaccines before you travel</b></sub><br><sub><code>health-travel-vaccines</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/health-stop-repeat-prescription.svg" width="44" height="44" alt="Ask the clinic to stop a repeat prescription you no longer need"><br><sub><b>Ask the clinic to stop a repeat prescription you no longer need</b></sub><br><sub><code>health-stop-repeat-prescription</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-diabetes-review.svg" width="44" height="44" alt="Ask your clinic for a diabetes review appointment"><br><sub><b>Ask your clinic for a diabetes review appointment</b></sub><br><sub><code>ask-for-a-diabetes-review</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-menopause-appointment.svg" width="44" height="44" alt="Ask your clinic for an appointment to talk about menopause"><br><sub><b>Ask your clinic for an appointment to talk about menopause</b></sub><br><sub><code>ask-for-a-menopause-appointment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-cholesterol-check.svg" width="44" height="44" alt="Ask your clinic for a cholesterol check"><br><sub><b>Ask your clinic for a cholesterol check</b></sub><br><sub><code>ask-for-a-cholesterol-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-carers-health-check.svg" width="44" height="44" alt="Ask your clinic for a health check as an unpaid carer"><br><sub><b>Ask your clinic for a health check as an unpaid carer</b></sub><br><sub><code>ask-for-a-carers-health-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-pre-operation-assessment-date.svg" width="44" height="44" alt="Ask the hospital when your pre-operation check will be"><br><sub><b>Ask the hospital when your pre-operation check will be</b></sub><br><sub><code>ask-for-a-pre-operation-assessment-date</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-clinic-to-confirm-appointment-in-writing.svg" width="44" height="44" alt="Ask the clinic to confirm your appointment in writing"><br><sub><b>Ask the clinic to confirm your appointment in writing</b></sub><br><sub><code>ask-clinic-to-confirm-appointment-in-writing</code></sub></td>
 </tr>
 </table>
 

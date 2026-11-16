@@ -1,6 +1,6 @@
 # Hiring and recruiting
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes for both sides of a hire: job ads, outreach, interviews, offers, references, starting a job and moving inside a company.
 
@@ -88,6 +88,42 @@ Notes for both sides of a hire: job ads, outreach, interviews, offers, reference
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/interviewer-feedback-chaser.svg" width="44" height="44" alt="Remind interviewers to send their candidate feedback"><br><sub><b>Remind interviewers to send their candidate feedback</b></sub><br><sub><code>interviewer-feedback-chaser</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/candidate-data-deletion-request.svg" width="44" height="44" alt="Ask an employer to delete your job application data"><br><sub><b>Ask an employer to delete your job application data</b></sub><br><sub><code>candidate-data-deletion-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/assessment-centre-invitation.svg" width="44" height="44" alt="Invite a candidate to an assessment day"><br><sub><b>Invite a candidate to an assessment day</b></sub><br><sub><code>assessment-centre-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/candidate-no-show-follow-up.svg" width="44" height="44" alt="Follow up when a candidate missed their interview"><br><sub><b>Follow up when a candidate missed their interview</b></sub><br><sub><code>candidate-no-show-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-candidate-for-portfolio.svg" width="44" height="44" alt="Ask a candidate to send work samples"><br><sub><b>Ask a candidate to send work samples</b></sub><br><sub><code>ask-candidate-for-portfolio</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hiring-shortlist-summary.svg" width="44" height="44" alt="Summary of the shortlisted candidates for the hiring team"><br><sub><b>Summary of the shortlisted candidates for the hiring team</b></sub><br><sub><code>hiring-shortlist-summary</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/job-details-changed-notice-to-applicants.svg" width="44" height="44" alt="Tell applicants that the job details have changed"><br><sub><b>Tell applicants that the job details have changed</b></sub><br><sub><code>job-details-changed-notice-to-applicants</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/interview-travel-costs-claim.svg" width="44" height="44" alt="Ask an employer to repay your interview travel costs"><br><sub><b>Ask an employer to repay your interview travel costs</b></sub><br><sub><code>interview-travel-costs-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/second-interview-invitation.svg" width="44" height="44" alt="Invite a candidate to a second interview"><br><sub><b>Invite a candidate to a second interview</b></sub><br><sub><code>second-interview-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hiring-manager-intake-questions.svg" width="44" height="44" alt="Questions to ask a hiring manager before a search opens"><br><sub><b>Questions to ask a hiring manager before a search opens</b></sub><br><sub><code>hiring-manager-intake-questions</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/candidate-notice-period-start-date.svg" width="44" height="44" alt="Ask a candidate for their notice period and start date"><br><sub><b>Ask a candidate for their notice period and start date</b></sub><br><sub><code>candidate-notice-period-start-date</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/candidate-interview-panel-changed.svg" width="44" height="44" alt="Tell a candidate the interview panel has changed"><br><sub><b>Tell a candidate the interview panel has changed</b></sub><br><sub><code>candidate-interview-panel-changed</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/candidate-right-to-work-documents.svg" width="44" height="44" alt="Ask a candidate to show their right to work documents"><br><sub><b>Ask a candidate to show their right to work documents</b></sub><br><sub><code>candidate-right-to-work-documents</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/candidate-hiring-decision-delayed.svg" width="44" height="44" alt="Tell a candidate the hiring decision is delayed"><br><sub><b>Tell a candidate the hiring decision is delayed</b></sub><br><sub><code>candidate-hiring-decision-delayed</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/confirm-interview-attendance.svg" width="44" height="44" alt="Confirm you will attend a job interview"><br><sub><b>Confirm you will attend a job interview</b></sub><br><sub><code>confirm-interview-attendance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-about-flexible-working-before-applying.svg" width="44" height="44" alt="Ask an employer about flexible working before you apply"><br><sub><b>Ask an employer about flexible working before you apply</b></sub><br><sub><code>ask-about-flexible-working-before-applying</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/background-check-consent-request.svg" width="44" height="44" alt="Ask a candidate for consent to run a background check"><br><sub><b>Ask a candidate for consent to run a background check</b></sub><br><sub><code>background-check-consent-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-what-to-expect-at-interview.svg" width="44" height="44" alt="Ask the employer what the interview will involve"><br><sub><b>Ask the employer what the interview will involve</b></sub><br><sub><code>ask-what-to-expect-at-interview</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/invite-candidate-to-meet-the-team.svg" width="44" height="44" alt="Invite a candidate to an informal meet-the-team chat"><br><sub><b>Invite a candidate to an informal meet-the-team chat</b></sub><br><sub><code>invite-candidate-to-meet-the-team</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hire-internal-vacancy-notice.svg" width="44" height="44" alt="Tell staff about a job open to inside applicants"><br><sub><b>Tell staff about a job open to inside applicants</b></sub><br><sub><code>hire-internal-vacancy-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hire-agency-stop-sending.svg" width="44" height="44" alt="Ask a recruitment agency to stop sending candidates"><br><sub><b>Ask a recruitment agency to stop sending candidates</b></sub><br><sub><code>hire-agency-stop-sending</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hire-application-received.svg" width="44" height="44" alt="Confirm you received a job application"><br><sub><b>Confirm you received a job application</b></sub><br><sub><code>hire-application-received</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hire-pay-expectations-ask.svg" width="44" height="44" alt="Ask a candidate about their pay expectations"><br><sub><b>Ask a candidate about their pay expectations</b></sub><br><sub><code>hire-pay-expectations-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hire-reference-check-notice.svg" width="44" height="44" alt="Tell a candidate you are now checking their references"><br><sub><b>Tell a candidate you are now checking their references</b></sub><br><sub><code>hire-reference-check-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-new-hire-how-they-want-their-name-shown.svg" width="44" height="44" alt="Ask a new hire how they want their name shown at work"><br><sub><b>Ask a new hire how they want their name shown at work</b></sub><br><sub><code>ask-new-hire-how-they-want-their-name-shown</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/verbal-offer-follow-up-note.svg" width="44" height="44" alt="Follow up a phone job offer with a short written note"><br><sub><b>Follow up a phone job offer with a short written note</b></sub><br><sub><code>verbal-offer-follow-up-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-attendees-after-recruiting-event.svg" width="44" height="44" alt="Thank people who came to your recruiting event"><br><sub><b>Thank people who came to your recruiting event</b></sub><br><sub><code>thank-attendees-after-recruiting-event</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/job-offer-conditions-reminder.svg" width="44" height="44" alt="Remind a new hire which offer conditions are still open"><br><sub><b>Remind a new hire which offer conditions are still open</b></sub><br><sub><code>job-offer-conditions-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/candidate-share-updated-cv-with-recruiter.svg" width="44" height="44" alt="Send a recruiter your updated CV"><br><sub><b>Send a recruiter your updated CV</b></sub><br><sub><code>candidate-share-updated-cv-with-recruiter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-recruiter-after-hire.svg" width="44" height="44" alt="Thank a recruiter after you got the job"><br><sub><b>Thank a recruiter after you got the job</b></sub><br><sub><code>thank-recruiter-after-hire</code></sub></td>
 </tr>
 </table>
 

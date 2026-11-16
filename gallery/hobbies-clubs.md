@@ -1,6 +1,6 @@
 # Hobbies and clubs
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes, posts and papers for book clubs, choirs, running groups, meetups, swaps, workshops and competitions.
 
@@ -88,6 +88,42 @@ Notes, posts and papers for book clubs, choirs, running groups, meetups, swaps, 
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/club-incident-report-note.svg" width="44" height="44" alt="Write up an accident or incident at a club session"><br><sub><b>Write up an accident or incident at a club session</b></sub><br><sub><code>club-incident-report-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/club-guest-visitor-policy-note.svg" width="44" height="44" alt="Explain the club's rules for bringing guests"><br><sub><b>Explain the club's rules for bringing guests</b></sub><br><sub><code>club-guest-visitor-policy-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-committee-handover-note.svg" width="44" height="44" alt="Hand over a club committee role to the next person"><br><sub><b>Hand over a club committee role to the next person</b></sub><br><sub><code>club-committee-handover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-fixture-list-share.svg" width="44" height="44" alt="Share the season's fixture list with members"><br><sub><b>Share the season's fixture list with members</b></sub><br><sub><code>club-fixture-list-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-equipment-purchase-vote.svg" width="44" height="44" alt="Ask members to vote on buying new club equipment"><br><sub><b>Ask members to vote on buying new club equipment</b></sub><br><sub><code>club-equipment-purchase-vote</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-annual-report-to-members.svg" width="44" height="44" alt="Club annual report to members"><br><sub><b>Club annual report to members</b></sub><br><sub><code>club-annual-report-to-members</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/club-member-complaint-reply.svg" width="44" height="44" alt="Reply to a member's complaint about the club"><br><sub><b>Reply to a member's complaint about the club</b></sub><br><sub><code>club-member-complaint-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-trip-cancelled-refund-notice.svg" width="44" height="44" alt="Tell members a club trip is cancelled and explain refunds"><br><sub><b>Tell members a club trip is cancelled and explain refunds</b></sub><br><sub><code>club-trip-cancelled-refund-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-join-request-reply.svg" width="44" height="44" alt="Reply to someone who wants to join the club"><br><sub><b>Reply to someone who wants to join the club</b></sub><br><sub><code>club-join-request-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-borrowed-kit-damaged-note.svg" width="44" height="44" alt="Tell a member that borrowed club kit came back damaged"><br><sub><b>Tell a member that borrowed club kit came back damaged</b></sub><br><sub><code>club-borrowed-kit-damaged-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/members-help-clear-up-event.svg" width="44" height="44" alt="Ask members to help clear up after a club event"><br><sub><b>Ask members to help clear up after a club event</b></sub><br><sub><code>members-help-clear-up-event</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-session-easier-to-join-disability.svg" width="44" height="44" alt="Ask a club to make a session easier to join with a disability"><br><sub><b>Ask a club to make a session easier to join with a disability</b></sub><br><sub><code>club-session-easier-to-join-disability</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/check-in-club-member-not-seen.svg" width="44" height="44" alt="Check in on a club member you have not seen for a while"><br><sub><b>Check in on a club member you have not seen for a while</b></sub><br><sub><code>check-in-club-member-not-seen</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/members-club-new-venue.svg" width="44" height="44" alt="Tell members the club is moving to a new venue"><br><sub><b>Tell members the club is moving to a new venue</b></sub><br><sub><code>members-club-new-venue</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-session-moved-online-notice.svg" width="44" height="44" alt="Tell members a club session is moving online"><br><sub><b>Tell members a club session is moving online</b></sub><br><sub><code>club-session-moved-online-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-taster-session-for-kids-invite.svg" width="44" height="44" alt="Invite children to a free taster session at the club"><br><sub><b>Invite children to a free taster session at the club</b></sub><br><sub><code>club-taster-session-for-kids-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-member-to-lead-a-club-session.svg" width="44" height="44" alt="Ask a club member to lead a session"><br><sub><b>Ask a club member to lead a session</b></sub><br><sub><code>ask-member-to-lead-a-club-session</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-subs-move-to-online-payment-notice.svg" width="44" height="44" alt="Tell members that club fees are moving to online payment"><br><sub><b>Tell members that club fees are moving to online payment</b></sub><br><sub><code>club-subs-move-to-online-payment-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/club-members-directory-opt-in-request.svg" width="44" height="44" alt="Ask club members if they want to be listed in a members directory"><br><sub><b>Ask club members if they want to be listed in a members directory</b></sub><br><sub><code>club-members-directory-opt-in-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-waiting-list-place-offer.svg" width="44" height="44" alt="Offer a club place to someone on the waiting list"><br><sub><b>Offer a club place to someone on the waiting list</b></sub><br><sub><code>club-waiting-list-place-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-anniversary-dinner-invitation.svg" width="44" height="44" alt="Invite members to the club's anniversary dinner"><br><sub><b>Invite members to the club's anniversary dinner</b></sub><br><sub><code>club-anniversary-dinner-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-survey-results-to-members.svg" width="44" height="44" alt="Share member survey results and next steps"><br><sub><b>Share member survey results and next steps</b></sub><br><sub><code>club-survey-results-to-members</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-equipment-loan-overdue-reminder.svg" width="44" height="44" alt="Remind a member to return borrowed club equipment"><br><sub><b>Remind a member to return borrowed club equipment</b></sub><br><sub><code>club-equipment-loan-overdue-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-trophy-return-reminder.svg" width="44" height="44" alt="Ask last season's winners to return club trophies"><br><sub><b>Ask last season's winners to return club trophies</b></sub><br><sub><code>club-trophy-return-reminder</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/club-car-share-for-away-day.svg" width="44" height="44" alt="Organise car shares for a club away day"><br><sub><b>Organise car shares for a club away day</b></sub><br><sub><code>club-car-share-for-away-day</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-new-member-buddy-offer.svg" width="44" height="44" alt="Offer a new club member a buddy for their first few sessions"><br><sub><b>Offer a new club member a buddy for their first few sessions</b></sub><br><sub><code>club-new-member-buddy-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-summer-break-notice.svg" width="44" height="44" alt="Tell members the club is taking a break for the season"><br><sub><b>Tell members the club is taking a break for the season</b></sub><br><sub><code>club-summer-break-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-shared-storage-clear-out-notice.svg" width="44" height="44" alt="Tell club members the shared storage is being cleared out"><br><sub><b>Tell club members the shared storage is being cleared out</b></sub><br><sub><code>club-shared-storage-clear-out-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-equipment-cleaning-rota-note.svg" width="44" height="44" alt="Share a rota for cleaning the club's equipment"><br><sub><b>Share a rota for cleaning the club's equipment</b></sub><br><sub><code>club-equipment-cleaning-rota-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-group-chat-move-notice.svg" width="44" height="44" alt="Tell members the club group chat is moving to a new app"><br><sub><b>Tell members the club group chat is moving to a new app</b></sub><br><sub><code>club-group-chat-move-notice</code></sub></td>
 </tr>
 </table>
 

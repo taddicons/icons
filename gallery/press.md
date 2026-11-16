@@ -1,6 +1,6 @@
 # Press and public voice
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Talking to journalists, editors and the public: pitches, corrections, statements and letters to the editor.
 
@@ -88,6 +88,42 @@ Talking to journalists, editors and the public: pitches, corrections, statements
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/guest-column-pitch-newsletter.svg" width="44" height="44" alt="Pitch a guest column to a newsletter or community magazine"><br><sub><b>Pitch a guest column to a newsletter or community magazine</b></sub><br><sub><code>guest-column-pitch-newsletter</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/reporter-deadline-check.svg" width="44" height="44" alt="Check a reporter's deadline before you answer their questions"><br><sub><b>Check a reporter's deadline before you answer their questions</b></sub><br><sub><code>reporter-deadline-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-accreditation-request.svg" width="44" height="44" alt="Ask organisers for press accreditation at an event"><br><sub><b>Ask organisers for press accreditation at an event</b></sub><br><sub><code>press-accreditation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-conference-invitation.svg" width="44" height="44" alt="Invite journalists to a press conference"><br><sub><b>Invite journalists to a press conference</b></sub><br><sub><code>press-conference-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/story-pitch-follow-up.svg" width="44" height="44" alt="Follow up on a story pitch to a journalist"><br><sub><b>Follow up on a story pitch to a journalist</b></sub><br><sub><code>story-pitch-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/public-thank-you-notice-for-paper.svg" width="44" height="44" alt="Place a public thank-you notice in a local paper"><br><sub><b>Place a public thank-you notice in a local paper</b></sub><br><sub><code>public-thank-you-notice-for-paper</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/press-interview-recording-copy-request.svg" width="44" height="44" alt="Ask a reporter for a copy of your interview recording"><br><sub><b>Ask a reporter for a copy of your interview recording</b></sub><br><sub><code>press-interview-recording-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-business-milestone-release.svg" width="44" height="44" alt="Write a short news release about a local business milestone"><br><sub><b>Write a short news release about a local business milestone</b></sub><br><sub><code>press-business-milestone-release</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-volunteers-wanted-notice.svg" width="44" height="44" alt="Send a volunteers-wanted notice to a local paper or radio"><br><sub><b>Send a volunteers-wanted notice to a local paper or radio</b></sub><br><sub><code>press-volunteers-wanted-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-photo-opportunity-invite.svg" width="44" height="44" alt="Invite a press photographer to a photo opportunity"><br><sub><b>Invite a press photographer to a photo opportunity</b></sub><br><sub><code>press-photo-opportunity-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reporter-interview-time-change.svg" width="44" height="44" alt="Ask a reporter to move an interview time"><br><sub><b>Ask a reporter to move an interview time</b></sub><br><sub><code>reporter-interview-time-change</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-media-briefing-follow-up.svg" width="44" height="44" alt="Send notes and materials after a media briefing"><br><sub><b>Send notes and materials after a media briefing</b></sub><br><sub><code>press-media-briefing-follow-up</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/press-event-day-before-reminder.svg" width="44" height="44" alt="Remind journalists about your event tomorrow"><br><sub><b>Remind journalists about your event tomorrow</b></sub><br><sub><code>press-event-day-before-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-list-removal-request.svg" width="44" height="44" alt="Ask to be taken off a press mailing list"><br><sub><b>Ask to be taken off a press mailing list</b></sub><br><sub><code>press-list-removal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-photo-shoot-scheduling.svg" width="44" height="44" alt="Book a time for a newspaper photo shoot"><br><sub><b>Book a time for a newspaper photo shoot</b></sub><br><sub><code>press-photo-shoot-scheduling</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-statement-update.svg" width="44" height="44" alt="Update a statement you gave the press earlier"><br><sub><b>Update a statement you gave the press earlier</b></sub><br><sub><code>press-statement-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/local-tv-segment-pitch.svg" width="44" height="44" alt="Pitch a story to a local TV news desk"><br><sub><b>Pitch a story to a local TV news desk</b></sub><br><sub><code>local-tv-segment-pitch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/survey-results-news-release.svg" width="44" height="44" alt="Share survey results in a news release"><br><sub><b>Share survey results in a news release</b></sub><br><sub><code>survey-results-news-release</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/partnership-announcement-release.svg" width="44" height="44" alt="Announce a new partnership to the press"><br><sub><b>Announce a new partnership to the press</b></sub><br><sub><code>partnership-announcement-release</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-event-recap-release.svg" width="44" height="44" alt="News release after your event took place"><br><sub><b>News release after your event took place</b></sub><br><sub><code>press-event-recap-release</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-fact-sheet.svg" width="44" height="44" alt="Fact sheet about your group for reporters"><br><sub><b>Fact sheet about your group for reporters</b></sub><br><sub><code>press-fact-sheet</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-quote-for-reporter.svg" width="44" height="44" alt="Send a short quote for a reporter's story"><br><sub><b>Send a short quote for a reporter's story</b></sub><br><sub><code>press-quote-for-reporter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-local-person-feature-tip.svg" width="44" height="44" alt="Suggest a local person for a feature story"><br><sub><b>Suggest a local person for a feature story</b></sub><br><sub><code>press-local-person-feature-tip</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-filming-on-site-rules.svg" width="44" height="44" alt="Rules for media filming at your site or event"><br><sub><b>Rules for media filming at your site or event</b></sub><br><sub><code>press-filming-on-site-rules</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/press-embargo-break-note.svg" width="44" height="44" alt="Tell a publication it ran a story before the agreed embargo"><br><sub><b>Tell a publication it ran a story before the agreed embargo</b></sub><br><sub><code>press-embargo-break-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-student-reporter-interview-reply.svg" width="44" height="44" alt="Reply to a student journalist who asks for an interview"><br><sub><b>Reply to a student journalist who asks for an interview</b></sub><br><sub><code>press-student-reporter-interview-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-product-sample-offer-to-reviewer.svg" width="44" height="44" alt="Offer a product sample to a reviewer or trade magazine"><br><sub><b>Offer a product sample to a reviewer or trade magazine</b></sub><br><sub><code>press-product-sample-offer-to-reviewer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-event-cancelled-media-note.svg" width="44" height="44" alt="Tell reporters an event they planned to cover is cancelled"><br><sub><b>Tell reporters an event they planned to cover is cancelled</b></sub><br><sub><code>press-event-cancelled-media-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-anniversary-feature-pitch.svg" width="44" height="44" alt="Pitch a story about your group's anniversary to a local paper"><br><sub><b>Pitch a story about your group's anniversary to a local paper</b></sub><br><sub><code>press-anniversary-feature-pitch</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/press-community-award-nomination.svg" width="44" height="44" alt="Nominate someone for a local newspaper's community award"><br><sub><b>Nominate someone for a local newspaper's community award</b></sub><br><sub><code>press-community-award-nomination</code></sub></td>
 </tr>
 </table>
 

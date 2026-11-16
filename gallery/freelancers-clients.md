@@ -1,6 +1,6 @@
 # Freelancers and clients
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Everything a freelancer writes to clients, from first enquiry and kickoff to scope, money, boundaries, handover and referrals.
 
@@ -88,6 +88,42 @@ Everything a freelancer writes to clients, from first enquiry and kickoff to sco
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/freelance-ask-client-to-share-access-safely.svg" width="44" height="44" alt="Ask a client to give you account access safely"><br><sub><b>Ask a client to give you account access safely</b></sub><br><sub><code>freelance-ask-client-to-share-access-safely</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/freelance-price-list-for-new-enquiry.svg" width="44" height="44" alt="Send your price list to a new enquiry"><br><sub><b>Send your price list to a new enquiry</b></sub><br><sub><code>freelance-price-list-for-new-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-late-payment-interest-notice.svg" width="44" height="44" alt="Tell a client that late payment interest now applies to an invoice"><br><sub><b>Tell a client that late payment interest now applies to an invoice</b></sub><br><sub><code>freelance-late-payment-interest-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-confirm-call-agreement-in-writing.svg" width="44" height="44" alt="Confirm in writing what you and a client agreed on a call"><br><sub><b>Confirm in writing what you and a client agreed on a call</b></sub><br><sub><code>freelance-confirm-call-agreement-in-writing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-new-client-contact-intro.svg" width="44" height="44" alt="Introduce yourself to a client's new point of contact"><br><sub><b>Introduce yourself to a client's new point of contact</b></sub><br><sub><code>freelance-new-client-contact-intro</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-payment-method-and-currency-note.svg" width="44" height="44" alt="Tell an overseas client how and in what currency to pay you"><br><sub><b>Tell an overseas client how and in what currency to pay you</b></sub><br><sub><code>freelance-payment-method-and-currency-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/freelance-ask-for-purchase-order-number.svg" width="44" height="44" alt="Ask a client for a PO number before you invoice"><br><sub><b>Ask a client for a PO number before you invoice</b></sub><br><sub><code>freelance-ask-for-purchase-order-number</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-corrected-invoice-note.svg" width="44" height="44" alt="Send a client a corrected invoice"><br><sub><b>Send a client a corrected invoice</b></sub><br><sub><code>freelance-corrected-invoice-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-return-client-equipment.svg" width="44" height="44" alt="Arrange to return a client's equipment at the end of a project"><br><sub><b>Arrange to return a client's equipment at the end of a project</b></sub><br><sub><code>freelance-return-client-equipment</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-post-handover-issue-reply.svg" width="44" height="44" alt="Reply when a client reports a problem after handover"><br><sub><b>Reply when a client reports a problem after handover</b></sub><br><sub><code>freelance-post-handover-issue-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-decline-unpaid-spec-work.svg" width="44" height="44" alt="Decline a request to do unpaid sample work for a pitch"><br><sub><b>Decline a request to do unpaid sample work for a pitch</b></sub><br><sub><code>freelance-decline-unpaid-spec-work</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-ask-for-single-point-of-contact.svg" width="44" height="44" alt="Ask a client to name one person who gives feedback and approval"><br><sub><b>Ask a client to name one person who gives feedback and approval</b></sub><br><sub><code>freelance-ask-for-single-point-of-contact</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/freelance-ask-to-change-payment-terms.svg" width="44" height="44" alt="Ask a client to change payment terms for future work"><br><sub><b>Ask a client to change payment terms for future work</b></sub><br><sub><code>freelance-ask-to-change-payment-terms</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-close-project-after-no-reply.svg" width="44" height="44" alt="Close a project after a client has stopped replying"><br><sub><b>Close a project after a client has stopped replying</b></sub><br><sub><code>freelance-close-project-after-no-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-full-time-offer-reply.svg" width="44" height="44" alt="Reply when a client offers you a full-time job"><br><sub><b>Reply when a client offers you a full-time job</b></sub><br><sub><code>freelance-full-time-offer-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-sick-day-notice.svg" width="44" height="44" alt="Tell a client you are ill and work will be delayed"><br><sub><b>Tell a client you are ill and work will be delayed</b></sub><br><sub><code>freelance-sick-day-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-paid-consultation-offer.svg" width="44" height="44" alt="Offer a paid consultation when someone asks to pick your brain"><br><sub><b>Offer a paid consultation when someone asks to pick your brain</b></sub><br><sub><code>freelance-paid-consultation-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-client-data-handling-question.svg" width="44" height="44" alt="Ask a client how they want their customer data handled"><br><sub><b>Ask a client how they want their customer data handled</b></sub><br><sub><code>freelance-client-data-handling-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/freelance-timesheet-approval-request.svg" width="44" height="44" alt="Ask a client to approve your hours before you invoice"><br><sub><b>Ask a client to approve your hours before you invoice</b></sub><br><sub><code>freelance-timesheet-approval-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-own-mistake-notice.svg" width="44" height="44" alt="Tell a client about a mistake in work you delivered"><br><sub><b>Tell a client about a mistake in work you delivered</b></sub><br><sub><code>freelance-own-mistake-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-bank-details-change.svg" width="44" height="44" alt="Tell clients your bank details for payment have changed"><br><sub><b>Tell clients your bank details for payment have changed</b></sub><br><sub><code>freelance-bank-details-change</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-image-rights-confirm.svg" width="44" height="44" alt="Ask a client to confirm they own the images they sent you"><br><sub><b>Ask a client to confirm they own the images they sent you</b></sub><br><sub><code>freelance-image-rights-confirm</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-year-summary.svg" width="44" height="44" alt="Send a client a summary of the year's work together"><br><sub><b>Send a client a summary of the year's work together</b></sub><br><sub><code>freelance-year-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-access-removed-notice.svg" width="44" height="44" alt="Tell a client you have removed your access to their accounts"><br><sub><b>Tell a client you have removed your access to their accounts</b></sub><br><sub><code>freelance-access-removed-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/freelance-tools-and-ai-use-note.svg" width="44" height="44" alt="Tell a client which tools and AI you use on their work"><br><sub><b>Tell a client which tools and AI you use on their work</b></sub><br><sub><code>freelance-tools-and-ai-use-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-credit-request.svg" width="44" height="44" alt="Ask a client to name you as the creator of the work"><br><sub><b>Ask a client to name you as the creator of the work</b></sub><br><sub><code>freelance-credit-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-move-requests-to-one-channel.svg" width="44" height="44" alt="Ask a client to send all requests through one channel"><br><sub><b>Ask a client to send all requests through one channel</b></sub><br><sub><code>freelance-move-requests-to-one-channel</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-overpayment-refund-note.svg" width="44" height="44" alt="Tell a client they paid you twice and offer a refund"><br><sub><b>Tell a client they paid you twice and offer a refund</b></sub><br><sub><code>freelance-overpayment-refund-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-reply-when-client-ends-work.svg" width="44" height="44" alt="Reply calmly when a client ends your freelance work"><br><sub><b>Reply calmly when a client ends your freelance work</b></sub><br><sub><code>freelance-reply-when-client-ends-work</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/freelance-business-name-change-notice.svg" width="44" height="44" alt="Tell clients your freelance business has a new name or legal form"><br><sub><b>Tell clients your freelance business has a new name or legal form</b></sub><br><sub><code>freelance-business-name-change-notice</code></sub></td>
 </tr>
 </table>
 

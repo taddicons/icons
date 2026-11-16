@@ -1,6 +1,6 @@
 # Accounts and tech
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Getting back into accounts, fixing devices and asking a company what it holds about you.
 
@@ -88,6 +88,42 @@ Getting back into accounts, fixing devices and asking a company what it holds ab
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/people-search-removal-request.svg" width="44" height="44" alt="Ask a people-search website to remove your personal details"><br><sub><b>Ask a people-search website to remove your personal details</b></sub><br><sub><code>people-search-removal-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/age-verification-error-appeal.svg" width="44" height="44" alt="Appeal when a platform wrongly blocks you after an age check"><br><sub><b>Appeal when a platform wrongly blocks you after an age check</b></sub><br><sub><code>age-verification-error-appeal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/personal-data-correction-request.svg" width="44" height="44" alt="Ask a company to correct your personal data"><br><sub><b>Ask a company to correct your personal data</b></sub><br><sub><code>personal-data-correction-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/data-sale-opt-out-request.svg" width="44" height="44" alt="Ask a company not to sell or share your personal data"><br><sub><b>Ask a company not to sell or share your personal data</b></sub><br><sub><code>data-sale-opt-out-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/old-email-account-reactivation-request.svg" width="44" height="44" alt="Ask to reopen an old email account"><br><sub><b>Ask to reopen an old email account</b></sub><br><sub><code>old-email-account-reactivation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shared-family-account-split-request.svg" width="44" height="44" alt="Ask to move your data out of a shared family account"><br><sub><b>Ask to move your data out of a shared family account</b></sub><br><sub><code>shared-family-account-split-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/app-account-merge-request.svg" width="44" height="44" alt="Ask an app to merge two accounts you made by mistake"><br><sub><b>Ask an app to merge two accounts you made by mistake</b></sub><br><sub><code>app-account-merge-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tracking-consent-withdrawal-request.svg" width="44" height="44" alt="Withdraw your consent to tracking and targeted ads"><br><sub><b>Withdraw your consent to tracking and targeted ads</b></sub><br><sub><code>tracking-consent-withdrawal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/inactive-account-warning-reply.svg" width="44" height="44" alt="Reply to a warning that your inactive account will be deleted"><br><sub><b>Reply to a warning that your inactive account will be deleted</b></sub><br><sub><code>inactive-account-warning-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/password-manager-setup-offer.svg" width="44" height="44" alt="Offer to help a relative set up a password manager"><br><sub><b>Offer to help a relative set up a password manager</b></sub><br><sub><code>password-manager-setup-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/household-wifi-password-change-notice.svg" width="44" height="44" alt="Tell your household the wifi password has changed"><br><sub><b>Tell your household the wifi password has changed</b></sub><br><sub><code>household-wifi-password-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/data-retention-period-question.svg" width="44" height="44" alt="Ask a company how long it keeps your personal data"><br><sub><b>Ask a company how long it keeps your personal data</b></sub><br><sub><code>data-retention-period-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/device-wipe-before-selling-help-ask.svg" width="44" height="44" alt="Ask for help wiping an old device before you sell it"><br><sub><b>Ask for help wiping an old device before you sell it</b></sub><br><sub><code>device-wipe-before-selling-help-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/app-language-setting-help.svg" width="44" height="44" alt="Explain to a relative how to change an app's language"><br><sub><b>Explain to a relative how to change an app's language</b></sub><br><sub><code>app-language-setting-help</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/app-sync-problem-report.svg" width="44" height="44" alt="Report that an app is not syncing between your devices"><br><sub><b>Report that an app is not syncing between your devices</b></sub><br><sub><code>app-sync-problem-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/location-sharing-end-message.svg" width="44" height="44" alt="Tell someone you are turning off location sharing with them"><br><sub><b>Tell someone you are turning off location sharing with them</b></sub><br><sub><code>location-sharing-end-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/workspace-admin-rights-transfer-request.svg" width="44" height="44" alt="Ask for admin rights to a work account to be moved to you"><br><sub><b>Ask for admin rights to a work account to be moved to you</b></sub><br><sub><code>workspace-admin-rights-transfer-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/legacy-contact-invitation.svg" width="44" height="44" alt="Ask someone to be the legacy contact for your online accounts"><br><sub><b>Ask someone to be the legacy contact for your online accounts</b></sub><br><sub><code>legacy-contact-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/team-seat-removal-request.svg" width="44" height="44" alt="Ask a software provider to remove a user seat from your plan"><br><sub><b>Ask a software provider to remove a user seat from your plan</b></sub><br><sub><code>team-seat-removal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/app-accessibility-problem-report.svg" width="44" height="44" alt="Report an accessibility problem in an app or website"><br><sub><b>Report an accessibility problem in an app or website</b></sub><br><sub><code>app-accessibility-problem-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/deleted-data-restore-request.svg" width="44" height="44" alt="Ask a service to restore data you deleted by mistake"><br><sub><b>Ask a service to restore data you deleted by mistake</b></sub><br><sub><code>deleted-data-restore-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/beta-programme-signup-request.svg" width="44" height="44" alt="Ask to join an app's beta testing programme"><br><sub><b>Ask to join an app's beta testing programme</b></sub><br><sub><code>beta-programme-signup-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/app-receipt-history-request.svg" width="44" height="44" alt="Ask an app for a full history of your receipts"><br><sub><b>Ask an app for a full history of your receipts</b></sub><br><sub><code>app-receipt-history-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/verification-email-not-arriving-report.svg" width="44" height="44" alt="Tell a service its sign-in code emails are not arriving"><br><sub><b>Tell a service its sign-in code emails are not arriving</b></sub><br><sub><code>verification-email-not-arriving-report</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/unrecognised-login-alert-query.svg" width="44" height="44" alt="Ask a service about a sign-in alert you do not recognise"><br><sub><b>Ask a service about a sign-in alert you do not recognise</b></sub><br><sub><code>unrecognised-login-alert-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/recovery-phone-number-update-request.svg" width="44" height="44" alt="Ask to update the recovery phone number on your account"><br><sub><b>Ask to update the recovery phone number on your account</b></sub><br><sub><code>recovery-phone-number-update-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/purchase-on-wrong-account-transfer-request.svg" width="44" height="44" alt="Ask to move a purchase made on the wrong account"><br><sub><b>Ask to move a purchase made on the wrong account</b></sub><br><sub><code>purchase-on-wrong-account-transfer-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/account-email-typo-fix-request.svg" width="44" height="44" alt="Ask support to fix a typo in your account email address"><br><sub><b>Ask support to fix a typo in your account email address</b></sub><br><sub><code>account-email-typo-fix-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/login-without-smartphone-request.svg" width="44" height="44" alt="Ask a service for a way to log in without a smartphone"><br><sub><b>Ask a service for a way to log in without a smartphone</b></sub><br><sub><code>login-without-smartphone-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/leaked-api-key-revoke-request.svg" width="44" height="44" alt="Report a leaked API key and ask the provider to revoke it"><br><sub><b>Report a leaked API key and ask the provider to revoke it</b></sub><br><sub><code>leaked-api-key-revoke-request</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Events and tickets
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Organising, selling and attending events: tickets, venues, vendors, speakers and refunds.
 
@@ -88,6 +88,42 @@ Organising, selling and attending events: tickets, venues, vendors, speakers and
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/event-booking-fee-refund-request.svg" width="44" height="44" alt="Ask for the booking fee back after a cancelled event"><br><sub><b>Ask for the booking fee back after a cancelled event</b></sub><br><sub><code>event-booking-fee-refund-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/event-blocked-view-complaint.svg" width="44" height="44" alt="Complain that your view of the stage was blocked"><br><sub><b>Complain that your view of the stage was blocked</b></sub><br><sub><code>event-blocked-view-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-what-to-bring-reminder.svg" width="44" height="44" alt="Remind ticket holders what to bring on the day"><br><sub><b>Remind ticket holders what to bring on the day</b></sub><br><sub><code>event-what-to-bring-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-season-pass-renewal-reminder.svg" width="44" height="44" alt="Remind season pass holders that renewal is coming up"><br><sub><b>Remind season pass holders that renewal is coming up</b></sub><br><sub><code>event-season-pass-renewal-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-box-office-collection-info.svg" width="44" height="44" alt="Tell buyers how to collect their tickets at the box office"><br><sub><b>Tell buyers how to collect their tickets at the box office</b></sub><br><sub><code>event-box-office-collection-info</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-re-entry-policy-notice.svg" width="44" height="44" alt="Explain the re-entry rules for an event"><br><sub><b>Explain the re-entry rules for an event</b></sub><br><sub><code>event-re-entry-policy-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/event-dress-code-notice.svg" width="44" height="44" alt="Tell ticket holders the dress code for an event"><br><sub><b>Tell ticket holders the dress code for an event</b></sub><br><sub><code>event-dress-code-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-ticket-name-change-request.svg" width="44" height="44" alt="Ask an organiser to change the name on your ticket"><br><sub><b>Ask an organiser to change the name on your ticket</b></sub><br><sub><code>event-ticket-name-change-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-cloakroom-info-notice.svg" width="44" height="44" alt="Tell guests about the cloakroom and bag storage"><br><sub><b>Tell guests about the cloakroom and bag storage</b></sub><br><sub><code>event-cloakroom-info-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-late-arrival-policy-notice.svg" width="44" height="44" alt="Explain what happens if guests arrive late to a show"><br><sub><b>Explain what happens if guests arrive late to a show</b></sub><br><sub><code>event-late-arrival-policy-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friends-to-pay-back-for-tickets.svg" width="44" height="44" alt="Ask friends to pay you back for event tickets you bought"><br><sub><b>Ask friends to pay you back for event tickets you bought</b></sub><br><sub><code>ask-friends-to-pay-back-for-tickets</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-cancelled-travel-costs-question.svg" width="44" height="44" alt="Ask an organiser about travel costs after an event was cancelled"><br><sub><b>Ask an organiser about travel costs after an event was cancelled</b></sub><br><sub><code>event-cancelled-travel-costs-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/event-presale-code-not-working.svg" width="44" height="44" alt="Tell a ticket seller your presale code is not working"><br><sub><b>Tell a ticket seller your presale code is not working</b></sub><br><sub><code>event-presale-code-not-working</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-under-18-parent-consent-note.svg" width="44" height="44" alt="Write a parent consent note for a teenager attending an event"><br><sub><b>Write a parent consent note for a teenager attending an event</b></sub><br><sub><code>event-under-18-parent-consent-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-ticket-scam-warning-post.svg" width="44" height="44" alt="Warn fans about fake tickets and ticket scams"><br><sub><b>Warn fans about fake tickets and ticket scams</b></sub><br><sub><code>event-ticket-scam-warning-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-seats-together-request.svg" width="44" height="44" alt="Ask a venue to seat your group together at an event"><br><sub><b>Ask a venue to seat your group together at an event</b></sub><br><sub><code>event-seats-together-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-set-times-post.svg" width="44" height="44" alt="Share the set times for a gig or festival stage"><br><sub><b>Share the set times for a gig or festival stage</b></sub><br><sub><code>event-set-times-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-food-and-drink-policy-notice.svg" width="44" height="44" alt="Tell guests what food and drink they can bring to an event"><br><sub><b>Tell guests what food and drink they can bring to an event</b></sub><br><sub><code>event-food-and-drink-policy-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/event-overcrowding-complaint.svg" width="44" height="44" alt="Complain to an event organiser about overcrowding"><br><sub><b>Complain to an event organiser about overcrowding</b></sub><br><sub><code>event-overcrowding-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-free-ticket-release-reminder.svg" width="44" height="44" alt="Ask free ticket holders to release tickets they will not use"><br><sub><b>Ask free ticket holders to release tickets they will not use</b></sub><br><sub><code>event-free-ticket-release-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-wristband-exchange-info.svg" width="44" height="44" alt="Tell ticket holders where and when to swap tickets for wristbands"><br><sub><b>Tell ticket holders where and when to swap tickets for wristbands</b></sub><br><sub><code>event-wristband-exchange-info</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-ticket-id-match-reminder.svg" width="44" height="44" alt="Remind ticket holders to bring ID that matches their ticket"><br><sub><b>Remind ticket holders to bring ID that matches their ticket</b></sub><br><sub><code>event-ticket-id-match-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-shortened-show-refund-request.svg" width="44" height="44" alt="Ask for a partial refund after a show was cut short"><br><sub><b>Ask for a partial refund after a show was cut short</b></sub><br><sub><code>event-shortened-show-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-phone-free-show-notice.svg" width="44" height="44" alt="Tell ticket holders the show is phone-free"><br><sub><b>Tell ticket holders the show is phone-free</b></sub><br><sub><code>event-phone-free-show-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/event-merch-order-not-received.svg" width="44" height="44" alt="Chase event merchandise you paid for but never got"><br><sub><b>Chase event merchandise you paid for but never got</b></sub><br><sub><code>event-merch-order-not-received</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-staff-conduct-complaint.svg" width="44" height="44" alt="Complain about how event staff treated you"><br><sub><b>Complain about how event staff treated you</b></sub><br><sub><code>event-staff-conduct-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-medical-items-entry-request.svg" width="44" height="44" alt="Ask an event to let you bring in medical items"><br><sub><b>Ask an event to let you bring in medical items</b></sub><br><sub><code>event-medical-items-entry-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-hearing-protection-notice.svg" width="44" height="44" alt="Tell ticket holders to bring ear protection for a loud show"><br><sub><b>Tell ticket holders to bring ear protection for a loud show</b></sub><br><sub><code>event-hearing-protection-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-refund-not-paid-follow-up.svg" width="44" height="44" alt="Follow up when a promised ticket refund has not been paid"><br><sub><b>Follow up when a promised ticket refund has not been paid</b></sub><br><sub><code>event-refund-not-paid-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/event-meeting-point-message-to-group.svg" width="44" height="44" alt="Tell your group where to meet before an event"><br><sub><b>Tell your group where to meet before an event</b></sub><br><sub><code>event-meeting-point-message-to-group</code></sub></td>
 </tr>
 </table>
 

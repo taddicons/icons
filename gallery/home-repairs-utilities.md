@@ -1,6 +1,6 @@
 # Home repairs and utilities
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Utility accounts, outages, bills, contractors, warranty and planning matters for the home.
 
@@ -88,6 +88,42 @@ Utility accounts, outages, bills, contractors, warranty and planning matters for
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/credit-balance-refund-request.svg" width="44" height="44" alt="Ask an energy or water supplier to refund your credit balance"><br><sub><b>Ask an energy or water supplier to refund your credit balance</b></sub><br><sub><code>credit-balance-refund-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/wasp-nest-removal-booking.svg" width="44" height="44" alt="Book someone to remove a wasp nest at your home"><br><sub><b>Book someone to remove a wasp nest at your home</b></sub><br><sub><code>wasp-nest-removal-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/solar-panel-fault-report.svg" width="44" height="44" alt="Report a fault with your solar panels"><br><sub><b>Report a fault with your solar panels</b></sub><br><sub><code>solar-panel-fault-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/heat-pump-service-booking.svg" width="44" height="44" alt="Book a yearly heat pump service"><br><sub><b>Book a yearly heat pump service</b></sub><br><sub><code>heat-pump-service-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/water-meter-install-request.svg" width="44" height="44" alt="Ask your water company to fit a water meter"><br><sub><b>Ask your water company to fit a water meter</b></sub><br><sub><code>water-meter-install-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/septic-tank-emptying-booking.svg" width="44" height="44" alt="Book a septic tank emptying"><br><sub><b>Book a septic tank emptying</b></sub><br><sub><code>septic-tank-emptying-booking</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/water-leak-allowance-request.svg" width="44" height="44" alt="Ask the water company for a leak allowance on your bill"><br><sub><b>Ask the water company for a leak allowance on your bill</b></sub><br><sub><code>water-leak-allowance-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/broadband-speed-below-promise-complaint.svg" width="44" height="44" alt="Complain that your internet speed is below what was sold"><br><sub><b>Complain that your internet speed is below what was sold</b></sub><br><sub><code>broadband-speed-below-promise-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tradesperson-thank-you-note.svg" width="44" height="44" alt="Thank a tradesperson after a repair or build job"><br><sub><b>Thank a tradesperson after a repair or build job</b></sub><br><sub><code>tradesperson-thank-you-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/garage-door-repair-request.svg" width="44" height="44" alt="Ask for a repair to a stuck or broken garage door"><br><sub><b>Ask for a repair to a stuck or broken garage door</b></sub><br><sub><code>garage-door-repair-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/contractor-clear-up-after-job.svg" width="44" height="44" alt="Ask a contractor to clear up after the job"><br><sub><b>Ask a contractor to clear up after the job</b></sub><br><sub><code>contractor-clear-up-after-job</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-change-name-on-account.svg" width="44" height="44" alt="Tell your supplier about a change of name on the account"><br><sub><b>Tell your supplier about a change of name on the account</b></sub><br><sub><code>supplier-change-name-on-account</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/book-bulky-waste-collection.svg" width="44" height="44" alt="Book a bulky waste collection"><br><sub><b>Book a bulky waste collection</b></sub><br><sub><code>book-bulky-waste-collection</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/water-company-planned-supply-cut.svg" width="44" height="44" alt="Ask your water company about a planned water cut"><br><sub><b>Ask your water company about a planned water cut</b></sub><br><sub><code>water-company-planned-supply-cut</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/annual-energy-statement-request.svg" width="44" height="44" alt="Ask your energy supplier for a yearly statement of use and costs"><br><sub><b>Ask your energy supplier for a yearly statement of use and costs</b></sub><br><sub><code>annual-energy-statement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/blocked-toilet-plumber-request.svg" width="44" height="44" alt="Ask a plumber to fix a blocked toilet"><br><sub><b>Ask a plumber to fix a blocked toilet</b></sub><br><sub><code>blocked-toilet-plumber-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/outside-tap-install-request.svg" width="44" height="44" alt="Ask a plumber for a quote to fit an outside tap"><br><sub><b>Ask a plumber for a quote to fit an outside tap</b></sub><br><sub><code>outside-tap-install-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/decorator-quote-request.svg" width="44" height="44" alt="Ask a painter and decorator for a quote"><br><sub><b>Ask a painter and decorator for a quote</b></sub><br><sub><code>decorator-quote-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/storm-damage-repair-quote-request.svg" width="44" height="44" alt="Ask a builder to quote for storm damage repairs"><br><sub><b>Ask a builder to quote for storm damage repairs</b></sub><br><sub><code>storm-damage-repair-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ev-charger-install-quote-request.svg" width="44" height="44" alt="Ask an electrician for a home EV charger installation quote"><br><sub><b>Ask an electrician for a home EV charger installation quote</b></sub><br><sub><code>ev-charger-install-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dripping-tap-repair-request.svg" width="44" height="44" alt="Book a plumber to fix a dripping tap"><br><sub><b>Book a plumber to fix a dripping tap</b></sub><br><sub><code>dripping-tap-repair-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/boiler-repair-parts-delay-chase.svg" width="44" height="44" alt="Chase a boiler repair that is waiting on parts"><br><sub><b>Chase a boiler repair that is waiting on parts</b></sub><br><sub><code>boiler-repair-parts-delay-chase</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pest-control-follow-up-visit-request.svg" width="44" height="44" alt="Ask pest control for a follow-up visit after treatment"><br><sub><b>Ask pest control for a follow-up visit after treatment</b></sub><br><sub><code>pest-control-follow-up-visit-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bathroom-reseal-quote-request.svg" width="44" height="44" alt="Ask for a quote to reseal a bath or shower"><br><sub><b>Ask for a quote to reseal a bath or shower</b></sub><br><sub><code>bathroom-reseal-quote-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/meter-relocation-request.svg" width="44" height="44" alt="Ask your energy supplier to move your meter"><br><sub><b>Ask your energy supplier to move your meter</b></sub><br><sub><code>meter-relocation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/merge-duplicate-utility-accounts-request.svg" width="44" height="44" alt="Ask a supplier to merge two accounts opened for the same home"><br><sub><b>Ask a supplier to merge two accounts opened for the same home</b></sub><br><sub><code>merge-duplicate-utility-accounts-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/discoloured-tap-water-report.svg" width="44" height="44" alt="Report brown or cloudy tap water to your water company"><br><sub><b>Report brown or cloudy tap water to your water company</b></sub><br><sub><code>discoloured-tap-water-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shower-pump-repair-request.svg" width="44" height="44" alt="Ask a plumber to repair a shower pump"><br><sub><b>Ask a plumber to repair a shower pump</b></sub><br><sub><code>shower-pump-repair-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tv-aerial-repair-booking.svg" width="44" height="44" alt="Book a repair for a TV aerial or satellite dish"><br><sub><b>Book a repair for a TV aerial or satellite dish</b></sub><br><sub><code>tv-aerial-repair-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/loft-ladder-install-quote-request.svg" width="44" height="44" alt="Ask for a quote to fit a loft ladder"><br><sub><b>Ask for a quote to fit a loft ladder</b></sub><br><sub><code>loft-ladder-install-quote-request</code></sub></td>
 </tr>
 </table>
 

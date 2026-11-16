@@ -1,6 +1,6 @@
 # Creators and makers
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Pitches, collaboration asks, sponsor replies and fan messages for people who make things and share them.
 
@@ -88,6 +88,42 @@ Pitches, collaboration asks, sponsor replies and fan messages for people who mak
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/fan-boundaries-post.svg" width="44" height="44" alt="Post a kind reminder to fans about your privacy and boundaries"><br><sub><b>Post a kind reminder to fans about your privacy and boundaries</b></sub><br><sub><code>fan-boundaries-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/charity-stream-thank-you.svg" width="44" height="44" alt="Thank your viewers after a charity stream and share the total"><br><sub><b>Thank your viewers after a charity stream and share the total</b></sub><br><sub><code>charity-stream-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/collaboration-ending-post.svg" width="44" height="44" alt="Tell your followers a collaboration is ending"><br><sub><b>Tell your followers a collaboration is ending</b></sub><br><sub><code>collaboration-ending-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/creator-fan-meetup-announcement.svg" width="44" height="44" alt="Announce a fan meetup"><br><sub><b>Announce a fan meetup</b></sub><br><sub><code>creator-fan-meetup-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/paid-community-closing-notice.svg" width="44" height="44" alt="Tell members a paid community is closing"><br><sub><b>Tell members a paid community is closing</b></sub><br><sub><code>paid-community-closing-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/brand-extra-usage-fee-note.svg" width="44" height="44" alt="Ask a brand to pay for extra use of your content"><br><sub><b>Ask a brand to pay for extra use of your content</b></sub><br><sub><code>brand-extra-usage-fee-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/creator-collab-schedule-proposal.svg" width="44" height="44" alt="Propose a filming and posting plan to a collab partner"><br><sub><b>Propose a filming and posting plan to a collab partner</b></sub><br><sub><code>creator-collab-schedule-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/photo-use-permission-request-for-video.svg" width="44" height="44" alt="Ask a photographer if you can use their photo in your video"><br><sub><b>Ask a photographer if you can use their photo in your video</b></sub><br><sub><code>photo-use-permission-request-for-video</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sponsor-campaign-results-report.svg" width="44" height="44" alt="Send a sponsor the results of their campaign"><br><sub><b>Send a sponsor the results of their campaign</b></sub><br><sub><code>sponsor-campaign-results-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supporter-reward-delay-notice.svg" width="44" height="44" alt="Tell paying supporters their reward will be late"><br><sub><b>Tell paying supporters their reward will be late</b></sub><br><sub><code>supporter-reward-delay-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ugc-content-delivery-note.svg" width="44" height="44" alt="Deliver finished user-generated content to a brand"><br><sub><b>Deliver finished user-generated content to a brand</b></sub><br><sub><code>ugc-content-delivery-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/editor-trial-task-offer.svg" width="44" height="44" alt="Offer a video editor a paid trial task"><br><sub><b>Offer a video editor a paid trial task</b></sub><br><sub><code>editor-trial-task-offer</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/thumbnail-designer-brief.svg" width="44" height="44" alt="Brief a designer on a video thumbnail"><br><sub><b>Brief a designer on a video thumbnail</b></sub><br><sub><code>thumbnail-designer-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sponsor-brief-clarification-question.svg" width="44" height="44" alt="Ask a sponsor to clarify their campaign brief"><br><sub><b>Ask a sponsor to clarify their campaign brief</b></sub><br><sub><code>sponsor-brief-clarification-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/on-camera-guest-consent-note.svg" width="44" height="44" alt="Ask a guest to agree to appear in your video"><br><sub><b>Ask a guest to agree to appear in your video</b></sub><br><sub><code>on-camera-guest-consent-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sponsor-exclusivity-question.svg" width="44" height="44" alt="Ask a sponsor what their exclusivity clause covers"><br><sub><b>Ask a sponsor what their exclusivity clause covers</b></sub><br><sub><code>sponsor-exclusivity-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/voice-over-artist-brief.svg" width="44" height="44" alt="Brief a voice-over artist for your video or podcast"><br><sub><b>Brief a voice-over artist for your video or podcast</b></sub><br><sub><code>voice-over-artist-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/affiliate-programme-application.svg" width="44" height="44" alt="Apply to join a brand's affiliate programme"><br><sub><b>Apply to join a brand's affiliate programme</b></sub><br><sub><code>affiliate-programme-application</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/editor-handover-files-request.svg" width="44" height="44" alt="Ask a former video editor to hand over your project files"><br><sub><b>Ask a former video editor to hand over your project files</b></sub><br><sub><code>editor-handover-files-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/podcast-guest-prep-note.svg" width="44" height="44" alt="Prep note to a podcast guest before recording"><br><sub><b>Prep note to a podcast guest before recording</b></sub><br><sub><code>podcast-guest-prep-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/brand-ambassador-application.svg" width="44" height="44" alt="Apply to be a brand ambassador"><br><sub><b>Apply to be a brand ambassador</b></sub><br><sub><code>brand-ambassador-application</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fan-mail-address-notice.svg" width="44" height="44" alt="Post your new fan mail address"><br><sub><b>Post your new fan mail address</b></sub><br><sub><code>fan-mail-address-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/livestream-co-host-ask.svg" width="44" height="44" alt="Ask another creator to co-host a livestream"><br><sub><b>Ask another creator to co-host a livestream</b></sub><br><sub><code>livestream-co-host-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/collab-cross-post-plan.svg" width="44" height="44" alt="Agree how to cross-post a collab with another creator"><br><sub><b>Agree how to cross-post a collab with another creator</b></sub><br><sub><code>collab-cross-post-plan</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sponsor-content-delay-notice.svg" width="44" height="44" alt="Tell a sponsor that your sponsored content will be late"><br><sub><b>Tell a sponsor that your sponsored content will be late</b></sub><br><sub><code>sponsor-content-delay-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/livestream-schedule-change-post.svg" width="44" height="44" alt="Post to tell viewers your livestream schedule is changing"><br><sub><b>Post to tell viewers your livestream schedule is changing</b></sub><br><sub><code>livestream-schedule-change-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/paid-newsletter-launch-post.svg" width="44" height="44" alt="Announce the launch of your paid newsletter"><br><sub><b>Announce the launch of your paid newsletter</b></sub><br><sub><code>paid-newsletter-launch-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sponsor-invoice-cover-note.svg" width="44" height="44" alt="Send your invoice to a sponsor after a campaign"><br><sub><b>Send your invoice to a sponsor after a campaign</b></sub><br><sub><code>sponsor-invoice-cover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/reviewed-product-return-question.svg" width="44" height="44" alt="Ask a brand whether to return a product you reviewed"><br><sub><b>Ask a brand whether to return a product you reviewed</b></sub><br><sub><code>reviewed-product-return-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/podcast-guest-cut-request-reply.svg" width="44" height="44" alt="Reply to a podcast guest who asks you to cut part of an episode"><br><sub><b>Reply to a podcast guest who asks you to cut part of an episode</b></sub><br><sub><code>podcast-guest-cut-request-reply</code></sub></td>
 </tr>
 </table>
 

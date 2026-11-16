@@ -1,6 +1,6 @@
 # Parenting and teenagers
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes to and about teens: house rules, school, driving, jobs, hard talks, apologies, trust and consequences.
 
@@ -88,6 +88,42 @@ Notes to and about teens: house rules, school, driving, jobs, hard talks, apolog
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/teen-shared-bathroom-rota.svg" width="44" height="44" alt="Set a morning bathroom rota for teens who share"><br><sub><b>Set a morning bathroom rota for teens who share</b></sub><br><sub><code>teen-shared-bathroom-rota</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/teen-moving-out-for-university-letter.svg" width="44" height="44" alt="A letter to your teen as they leave for university"><br><sub><b>A letter to your teen as they leave for university</b></sub><br><sub><code>teen-moving-out-for-university-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/suggest-volunteering-to-teen.svg" width="44" height="44" alt="Suggest a volunteering idea to your teenager"><br><sub><b>Suggest a volunteering idea to your teenager</b></sub><br><sub><code>suggest-volunteering-to-teen</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-asks-parent-for-revision-help.svg" width="44" height="44" alt="A teenager asks a parent for help with revision"><br><sub><b>A teenager asks a parent for help with revision</b></sub><br><sub><code>teen-asks-parent-for-revision-help</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/talk-to-teen-about-online-strangers.svg" width="44" height="44" alt="Open a talk with your teenager about strangers online"><br><sub><b>Open a talk with your teenager about strangers online</b></sub><br><sub><code>talk-to-teen-about-online-strangers</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-cooks-family-dinner-night-plan.svg" width="44" height="44" alt="Plan a night when your teenager cooks the family dinner"><br><sub><b>Plan a night when your teenager cooks the family dinner</b></sub><br><sub><code>teen-cooks-family-dinner-night-plan</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/vaping-talk-opener.svg" width="44" height="44" alt="Start a calm talk with your teen about vaping"><br><sub><b>Start a calm talk with your teen about vaping</b></sub><br><sub><code>vaping-talk-opener</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-revision-timetable.svg" width="44" height="44" alt="Build an exam revision timetable with your teen"><br><sub><b>Build an exam revision timetable with your teen</b></sub><br><sub><code>teen-revision-timetable</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-gathering-note-to-parents.svg" width="44" height="44" alt="Tell other parents about a get-together you are hosting for teens"><br><sub><b>Tell other parents about a get-together you are hosting for teens</b></sub><br><sub><code>teen-gathering-note-to-parents</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-trip-with-friends-plan.svg" width="44" height="44" alt="Agree a plan for your teen's first trip away with friends"><br><sub><b>Agree a plan for your teen's first trip away with friends</b></sub><br><sub><code>teen-trip-with-friends-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-pet-care-agreement.svg" width="44" height="44" alt="Agree a pet care deal with your teen"><br><sub><b>Agree a pet care deal with your teen</b></sub><br><sub><code>teen-pet-care-agreement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-friend-parent-intro.svg" width="44" height="44" alt="Introduce yourself to the parent of your teen's friend"><br><sub><b>Introduce yourself to the parent of your teen's friend</b></sub><br><sub><code>teen-friend-parent-intro</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/teen-online-shopping-rules.svg" width="44" height="44" alt="Online shopping rules for your teen"><br><sub><b>Online shopping rules for your teen</b></sub><br><sub><code>teen-online-shopping-rules</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-tutor-enquiry-by-parent.svg" width="44" height="44" alt="Ask a private tutor to help your teen"><br><sub><b>Ask a private tutor to help your teen</b></sub><br><sub><code>teen-tutor-enquiry-by-parent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-work-experience-placement-ask.svg" width="44" height="44" alt="Ask a local business to give your teen work experience"><br><sub><b>Ask a local business to give your teen work experience</b></sub><br><sub><code>teen-work-experience-placement-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-low-mood-gentle-note.svg" width="44" height="44" alt="Leave a gentle note when your teen seems low"><br><sub><b>Leave a gentle note when your teen seems low</b></sub><br><sub><code>teen-low-mood-gentle-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-sibling-fairness-talk.svg" width="44" height="44" alt="Talk with your teen about fairness between siblings"><br><sub><b>Talk with your teen about fairness between siblings</b></sub><br><sub><code>teen-sibling-fairness-talk</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-weekend-plans-check.svg" width="44" height="44" alt="Ask your teen about their weekend plans"><br><sub><b>Ask your teen about their weekend plans</b></sub><br><sub><code>teen-weekend-plans-check</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/teen-hobby-cost-agreement.svg" width="44" height="44" alt="Agree who pays for your teen's hobby"><br><sub><b>Agree who pays for your teen's hobby</b></sub><br><sub><code>teen-hobby-cost-agreement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-bank-account-talk.svg" width="44" height="44" alt="Talk with your teen about their first bank account"><br><sub><b>Talk with your teen about their first bank account</b></sub><br><sub><code>teen-bank-account-talk</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-job-hours-agreement.svg" width="44" height="44" alt="Agree how many hours your teen works during school term"><br><sub><b>Agree how many hours your teen works during school term</b></sub><br><sub><code>teen-job-hours-agreement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-prom-night-plan.svg" width="44" height="44" alt="Plan for your teen's prom or school dance night"><br><sub><b>Plan for your teen's prom or school dance night</b></sub><br><sub><code>teen-prom-night-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-birthday-letter.svg" width="44" height="44" alt="Birthday letter to your teenager"><br><sub><b>Birthday letter to your teenager</b></sub><br><sub><code>teen-birthday-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-driving-test-congrats.svg" width="44" height="44" alt="Congratulate your teen on passing their driving test"><br><sub><b>Congratulate your teen on passing their driving test</b></sub><br><sub><code>teen-driving-test-congrats</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/teen-asks-for-a-piercing.svg" width="44" height="44" alt="Teen asks a parent for permission to get a piercing"><br><sub><b>Teen asks a parent for permission to get a piercing</b></sub><br><sub><code>teen-asks-for-a-piercing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/note-to-teen-after-a-breakup.svg" width="44" height="44" alt="Kind note from a parent to a teen going through a breakup"><br><sub><b>Kind note from a parent to a teen going through a breakup</b></sub><br><sub><code>note-to-teen-after-a-breakup</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-results-day-plan.svg" width="44" height="44" alt="Plan exam results day together with your teen"><br><sub><b>Plan exam results day together with your teen</b></sub><br><sub><code>teen-results-day-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-asks-to-quit-an-activity.svg" width="44" height="44" alt="Teen asks a parent if they can stop a club or activity"><br><sub><b>Teen asks a parent if they can stop a club or activity</b></sub><br><sub><code>teen-asks-to-quit-an-activity</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-solo-bus-trip-plan.svg" width="44" height="44" alt="Agree a plan for your teen's first solo bus or train trip"><br><sub><b>Agree a plan for your teen's first solo bus or train trip</b></sub><br><sub><code>teen-solo-bus-trip-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teen-first-payslip-explainer.svg" width="44" height="44" alt="Explain your teen's first payslip to them"><br><sub><b>Explain your teen's first payslip to them</b></sub><br><sub><code>teen-first-payslip-explainer</code></sub></td>
 </tr>
 </table>
 

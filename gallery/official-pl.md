@@ -1,6 +1,6 @@
 # Official letters, Poland
 
-<sub>Taddicons 0.3.0 · Documents & messages · 72 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Poland most often need: tenancy, work, tax and banks, insurance and ZUS, consumer rights, authorities and data rights, school and family, neighbours, written in correct Polish.
 
@@ -100,6 +100,30 @@ The official letters people in Poland most often need: tenancy, work, tax and ba
 <td align="center" width="16%"><img src="../svg/mark/pl-zwolnienie-z-wf.svg" width="44" height="44" alt="Wniosek o zwolnienie z WF: ask to excuse a pupil from PE (Poland)"><br><sub><b>Wniosek o zwolnienie z WF: ask to excuse a pupil from PE (Poland)</b></sub><br><sub><code>pl-zwolnienie-z-wf</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/pl-przyciecie-galezi-sasiad.svg" width="44" height="44" alt="Prośba o przycięcie gałęzi: ask a neighbour to cut back trees (Poland)"><br><sub><b>Prośba o przycięcie gałęzi: ask a neighbour to cut back trees (Poland)</b></sub><br><sub><code>pl-przyciecie-galezi-sasiad</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/pl-zalanie-przez-sasiada.svg" width="44" height="44" alt="Zgłoszenie zalania: tell a neighbour their flat is leaking into yours (Poland)"><br><sub><b>Zgłoszenie zalania: tell a neighbour their flat is leaking into yours (Poland)</b></sub><br><sub><code>pl-zalanie-przez-sasiada</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pl-wniosek-urlop-okolicznosciowy.svg" width="44" height="44" alt="Wniosek o urlop okolicznościowy: ask for special leave (Poland)"><br><sub><b>Wniosek o urlop okolicznościowy: ask for special leave (Poland)</b></sub><br><sub><code>pl-wniosek-urlop-okolicznosciowy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-zgoda-na-zwierze.svg" width="44" height="44" alt="Prośba o zgodę na zwierzę: ask the landlord to keep a pet (Poland)"><br><sub><b>Prośba o zgodę na zwierzę: ask the landlord to keep a pet (Poland)</b></sub><br><sub><code>pl-zgoda-na-zwierze</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-wniosek-historia-rachunku.svg" width="44" height="44" alt="Wniosek o historię rachunku: ask the bank for statements (Poland)"><br><sub><b>Wniosek o historię rachunku: ask the bank for statements (Poland)</b></sub><br><sub><code>pl-wniosek-historia-rachunku</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-rezygnacja-z-religii.svg" width="44" height="44" alt="Rezygnacja z lekcji religii: withdraw a pupil from RE (Poland)"><br><sub><b>Rezygnacja z lekcji religii: withdraw a pupil from RE (Poland)</b></sub><br><sub><code>pl-rezygnacja-z-religii</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-wejscie-na-grunt-sasiada.svg" width="44" height="44" alt="Prośba o dostęp do działki: ask a neighbour access for repairs (Poland)"><br><sub><b>Prośba o dostęp do działki: ask a neighbour access for repairs (Poland)</b></sub><br><sub><code>pl-wejscie-na-grunt-sasiada</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-wniosek-duplikat-polisy.svg" width="44" height="44" alt="Wniosek o duplikat polisy: ask the insurer for a policy copy (Poland)"><br><sub><b>Wniosek o duplikat polisy: ask the insurer for a policy copy (Poland)</b></sub><br><sub><code>pl-wniosek-duplikat-polisy</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pl-wniosek-odpis-aktu-usc.svg" width="44" height="44" alt="Wniosek o odpis aktu: ask the civil registry for a certificate (Poland)"><br><sub><b>Wniosek o odpis aktu: ask the civil registry for a certificate (Poland)</b></sub><br><sub><code>pl-wniosek-odpis-aktu-usc</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-zmiana-rachunku-wynagrodzenie.svg" width="44" height="44" alt="Zmiana rachunku: give your employer a new salary account (Poland)"><br><sub><b>Zmiana rachunku: give your employer a new salary account (Poland)</b></sub><br><sub><code>pl-zmiana-rachunku-wynagrodzenie</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-zwrot-biletu-wydarzenie.svg" width="44" height="44" alt="Zwrot za bilet: ask for a refund for a cancelled event (Poland)"><br><sub><b>Zwrot za bilet: ask for a refund for a cancelled event (Poland)</b></sub><br><sub><code>pl-zwrot-biletu-wydarzenie</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-prosba-spotkanie-wychowawca.svg" width="44" height="44" alt="Prośba o spotkanie: ask the class teacher for a meeting (Poland)"><br><sub><b>Prośba o spotkanie: ask the class teacher for a meeting (Poland)</b></sub><br><sub><code>pl-prosba-spotkanie-wychowawca</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-protokol-zdawczo-odbiorczy.svg" width="44" height="44" alt="Protokół zdawczo-odbiorczy: set the flat handover at move-out (Poland)"><br><sub><b>Protokół zdawczo-odbiorczy: set the flat handover at move-out (Poland)</b></sub><br><sub><code>pl-protokol-zdawczo-odbiorczy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-zaswiadczenie-o-szkodowosci.svg" width="44" height="44" alt="Zaświadczenie o szkodowości: ask an insurer for your claims history (Poland)"><br><sub><b>Zaświadczenie o szkodowości: ask an insurer for your claims history (Poland)</b></sub><br><sub><code>pl-zaswiadczenie-o-szkodowosci</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pl-duplikat-pit-11.svg" width="44" height="44" alt="Duplikat PIT-11: ask your employer for a copy of your tax form (Poland)"><br><sub><b>Duplikat PIT-11: ask your employer for a copy of your tax form (Poland)</b></sub><br><sub><code>pl-duplikat-pit-11</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-zawiadomienie-smierc-bank.svg" width="44" height="44" alt="Zawiadomienie o śmierci: tell a bank an account holder has died (Poland)"><br><sub><b>Zawiadomienie o śmierci: tell a bank an account holder has died (Poland)</b></sub><br><sub><code>pl-zawiadomienie-smierc-bank</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-kopia-uchwal-wspolnoty.svg" width="44" height="44" alt="Kopia uchwał: ask the housing community for resolutions and minutes (Poland)"><br><sub><b>Kopia uchwał: ask the housing community for resolutions and minutes (Poland)</b></sub><br><sub><code>pl-kopia-uchwal-wspolnoty</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-odszkodowanie-opoznienie-pociagu.svg" width="44" height="44" alt="Reklamacja opóźnienia pociągu: claim compensation for a late train (Poland)"><br><sub><b>Reklamacja opóźnienia pociągu: claim compensation for a late train (Poland)</b></sub><br><sub><code>pl-odszkodowanie-opoznienie-pociagu</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-zwolnienie-sila-wyzsza.svg" width="44" height="44" alt="Zwolnienie z powodu siły wyższej: take urgent family leave (Poland)"><br><sub><b>Zwolnienie z powodu siły wyższej: take urgent family leave (Poland)</b></sub><br><sub><code>pl-zwolnienie-sila-wyzsza</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pl-abonament-parkingowy-mieszkanca.svg" width="44" height="44" alt="Abonament mieszkańca: apply for a resident parking permit (Poland)"><br><sub><b>Abonament mieszkańca: apply for a resident parking permit (Poland)</b></sub><br><sub><code>pl-abonament-parkingowy-mieszkanca</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Social media
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Posts, replies, threads and captions for the networks, written for regular people, not influencers.
 
@@ -83,6 +83,47 @@ Posts, replies, threads and captions for the networks, written for regular peopl
 <td align="center" width="16%"><img src="../svg/mark/community-challenge-post.svg" width="44" height="44" alt="Start a 30-day challenge with your followers"><br><sub><b>Start a 30-day challenge with your followers</b></sub><br><sub><code>community-challenge-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/fan-art-feature-post.svg" width="44" height="44" alt="Share and credit a follower's fan art"><br><sub><b>Share and credit a follower's fan art</b></sub><br><sub><code>fan-art-feature-post</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/follower-question-roundup-post.svg" width="44" height="44" alt="Answer the top questions your followers asked"><br><sub><b>Answer the top questions your followers asked</b></sub><br><sub><code>follower-question-roundup-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/brand-deal-invoice-chaser.svg" width="44" height="44" alt="Chase a brand for payment after a paid post"><br><sub><b>Chase a brand for payment after a paid post</b></sub><br><sub><code>brand-deal-invoice-chaser</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sponsored-draft-approval-request.svg" width="44" height="44" alt="Send a brand your sponsored post draft for approval"><br><sub><b>Send a brand your sponsored post draft for approval</b></sub><br><sub><code>sponsored-draft-approval-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/creator-collab-terms-recap.svg" width="44" height="44" alt="Recap the agreed terms of a creator collaboration in writing"><br><sub><b>Recap the agreed terms of a creator collaboration in writing</b></sub><br><sub><code>creator-collab-terms-recap</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/account-security-tips-post.svg" width="44" height="44" alt="Share account safety tips with your followers"><br><sub><b>Share account safety tips with your followers</b></sub><br><sub><code>account-security-tips-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/affiliate-link-disclosure-text.svg" width="44" height="44" alt="Tell followers you earn money from a link you share"><br><sub><b>Tell followers you earn money from a link you share</b></sub><br><sub><code>affiliate-link-disclosure-text</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dm-auto-reply-text.svg" width="44" height="44" alt="Write an auto-reply for your direct messages"><br><sub><b>Write an auto-reply for your direct messages</b></sub><br><sub><code>dm-auto-reply-text</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/post-credit-correction-request.svg" width="44" height="44" alt="Ask someone to credit your work in their post"><br><sub><b>Ask someone to credit your work in their post</b></sub><br><sub><code>post-credit-correction-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/account-helper-access-removal.svg" width="44" height="44" alt="Tell a helper you are removing their access to your account"><br><sub><b>Tell a helper you are removing their access to your account</b></sub><br><sub><code>account-helper-access-removal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/impersonator-warning-post.svg" width="44" height="44" alt="Warn followers about an account pretending to be you"><br><sub><b>Warn followers about an account pretending to be you</b></sub><br><sub><code>impersonator-warning-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/account-going-private-notice-post.svg" width="44" height="44" alt="Tell followers your account is going private"><br><sub><b>Tell followers your account is going private</b></sub><br><sub><code>account-going-private-notice-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/location-tag-removal-request.svg" width="44" height="44" alt="Ask someone to remove a location tag of your home"><br><sub><b>Ask someone to remove a location tag of your home</b></sub><br><sub><code>location-tag-removal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/platform-data-copy-request.svg" width="44" height="44" alt="Ask a social platform for a copy of your data"><br><sub><b>Ask a social platform for a copy of your data</b></sub><br><sub><code>platform-data-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/brand-content-delay-note.svg" width="44" height="44" alt="Tell a brand your sponsored post will be late"><br><sub><b>Tell a brand your sponsored post will be late</b></sub><br><sub><code>brand-content-delay-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/content-usage-rights-question.svg" width="44" height="44" alt="Ask a brand how long and where they will use your content"><br><sub><b>Ask a brand how long and where they will use your content</b></sub><br><sub><code>content-usage-rights-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fundraiser-progress-post.svg" width="44" height="44" alt="Share how far your fundraiser has got"><br><sub><b>Share how far your fundraiser has got</b></sub><br><sub><code>fundraiser-progress-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/child-photo-boundaries-post.svg" width="44" height="44" alt="Tell followers why you do not show your children's faces"><br><sub><b>Tell followers why you do not show your children's faces</b></sub><br><sub><code>child-photo-boundaries-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/old-posts-archive-notice.svg" width="44" height="44" alt="Tell followers you are hiding your old posts"><br><sub><b>Tell followers you are hiding your old posts</b></sub><br><sub><code>old-posts-archive-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/comment-filter-notice-post.svg" width="44" height="44" alt="Tell followers which comments you hide or remove"><br><sub><b>Tell followers which comments you hide or remove</b></sub><br><sub><code>comment-filter-notice-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/other-platforms-find-me-post.svg" width="44" height="44" alt="Tell followers where else to find you"><br><sub><b>Tell followers where else to find you</b></sub><br><sub><code>other-platforms-find-me-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ai-made-image-label-post.svg" width="44" height="44" alt="Tell followers a picture was made with AI"><br><sub><b>Tell followers a picture was made with AI</b></sub><br><sub><code>ai-made-image-label-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/brand-deal-cancellation-note.svg" width="44" height="44" alt="Tell a brand you need to cancel a sponsored post"><br><sub><b>Tell a brand you need to cancel a sponsored post</b></sub><br><sub><code>brand-deal-cancellation-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/comment-spam-warning-post.svg" width="44" height="44" alt="Warn followers about spam comments posing as you"><br><sub><b>Warn followers about spam comments posing as you</b></sub><br><sub><code>comment-spam-warning-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/channel-trailer-script.svg" width="44" height="44" alt="Write a short trailer script for your channel"><br><sub><b>Write a short trailer script for your channel</b></sub><br><sub><code>channel-trailer-script</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/live-stream-replay-post.svg" width="44" height="44" alt="Share the replay of your live stream"><br><sub><b>Share the replay of your live stream</b></sub><br><sub><code>live-stream-replay-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/video-series-ending-post.svg" width="44" height="44" alt="Announce that your video series is ending"><br><sub><b>Announce that your video series is ending</b></sub><br><sub><code>video-series-ending-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sm-myth-vs-fact-post.svg" width="44" height="44" alt="Post that clears up a common myth about your topic"><br><sub><b>Post that clears up a common myth about your topic</b></sub><br><sub><code>sm-myth-vs-fact-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sm-shared-account-posting-guide.svg" width="44" height="44" alt="Guide for a team sharing one social media account"><br><sub><b>Guide for a team sharing one social media account</b></sub><br><sub><code>sm-shared-account-posting-guide</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sm-content-warning-post.svg" width="44" height="44" alt="Add a content warning before a post on a hard topic"><br><sub><b>Add a content warning before a post on a hard topic</b></sub><br><sub><code>sm-content-warning-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sm-posting-schedule-change-post.svg" width="44" height="44" alt="Tell followers your posting schedule is changing"><br><sub><b>Tell followers your posting schedule is changing</b></sub><br><sub><code>sm-posting-schedule-change-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sm-paid-partnership-ended-post.svg" width="44" height="44" alt="Tell followers a paid partnership has ended"><br><sub><b>Tell followers a paid partnership has ended</b></sub><br><sub><code>sm-paid-partnership-ended-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sm-members-only-content-launch-post.svg" width="44" height="44" alt="Announce members-only content for your supporters"><br><sub><b>Announce members-only content for your supporters</b></sub><br><sub><code>sm-members-only-content-launch-post</code></sub></td>
 </tr>
 </table>
 

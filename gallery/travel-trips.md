@@ -1,6 +1,6 @@
 # Travel and trips
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Planning trips with others, writing to hosts and hotels, sorting out problems on the road, travelling with extra needs, and sharing the trip afterwards.
 
@@ -83,6 +83,47 @@ Planning trips with others, writing to hosts and hotels, sorting out problems on
 <td align="center" width="16%"><img src="../svg/mark/museum-group-ticket-enquiry.svg" width="44" height="44" alt="Ask a museum or attraction about group tickets"><br><sub><b>Ask a museum or attraction about group tickets</b></sub><br><sub><code>museum-group-ticket-enquiry</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/trip-weather-plan-b-message.svg" width="44" height="44" alt="Tell the group about a backup plan for bad weather"><br><sub><b>Tell the group about a backup plan for bad weather</b></sub><br><sub><code>trip-weather-plan-b-message</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/boat-trip-booking-enquiry.svg" width="44" height="44" alt="Ask about booking a boat trip"><br><sub><b>Ask about booking a boat trip</b></sub><br><sub><code>boat-trip-booking-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-early-return-message.svg" width="44" height="44" alt="Tell your travel group you are heading home early"><br><sub><b>Tell your travel group you are heading home early</b></sub><br><sub><code>trip-early-return-message</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/car-hire-extra-driver-request.svg" width="44" height="44" alt="Ask a car hire company to add another driver"><br><sub><b>Ask a car hire company to add another driver</b></sub><br><sub><code>car-hire-extra-driver-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/group-flight-booking-enquiry.svg" width="44" height="44" alt="Ask an airline or agent about booking flights for a group"><br><sub><b>Ask an airline or agent about booking flights for a group</b></sub><br><sub><code>group-flight-booking-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/operator-cancelled-tour-refund.svg" width="44" height="44" alt="Ask a tour operator to refund a tour they cancelled"><br><sub><b>Ask a tour operator to refund a tour they cancelled</b></sub><br><sub><code>operator-cancelled-tour-refund</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/travel-medicine-doctor-letter-request.svg" width="44" height="44" alt="Ask your doctor for a letter about the medicine you travel with"><br><sub><b>Ask your doctor for a letter about the medicine you travel with</b></sub><br><sub><code>travel-medicine-doctor-letter-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/group-trip-needs-poll.svg" width="44" height="44" alt="Ask your travel group about food, access and other needs"><br><sub><b>Ask your travel group about food, access and other needs</b></sub><br><sub><code>group-trip-needs-poll</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-quiet-day-message.svg" width="44" height="44" alt="Tell your travel group you need a quiet day"><br><sub><b>Tell your travel group you need a quiet day</b></sub><br><sub><code>trip-quiet-day-message</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tour-itinerary-change-reply.svg" width="44" height="44" alt="Reply when a tour operator changes your trip plans"><br><sub><b>Reply when a tour operator changes your trip plans</b></sub><br><sub><code>tour-itinerary-change-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/left-item-at-hotel-request.svg" width="44" height="44" alt="Ask a hotel to look for something you left behind"><br><sub><b>Ask a hotel to look for something you left behind</b></sub><br><sub><code>left-item-at-hotel-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/travel-allergy-card-for-restaurants.svg" width="44" height="44" alt="Allergy card to show restaurant staff when travelling"><br><sub><b>Allergy card to show restaurant staff when travelling</b></sub><br><sub><code>travel-allergy-card-for-restaurants</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-separation-meeting-plan.svg" width="44" height="44" alt="Plan for what to do if someone gets separated on a trip"><br><sub><b>Plan for what to do if someone gets separated on a trip</b></sub><br><sub><code>trip-separation-meeting-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-souvenir-shipping-enquiry.svg" width="44" height="44" alt="Ask a shop abroad to ship something home for you"><br><sub><b>Ask a shop abroad to ship something home for you</b></sub><br><sub><code>trip-souvenir-shipping-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/group-rail-booking-enquiry.svg" width="44" height="44" alt="Ask a rail company about booking train tickets for a group"><br><sub><b>Ask a rail company about booking train tickets for a group</b></sub><br><sub><code>group-rail-booking-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/luggage-transfer-walking-holiday-enquiry.svg" width="44" height="44" alt="Ask about luggage transfer between stops on a walking holiday"><br><sub><b>Ask about luggage transfer between stops on a walking holiday</b></sub><br><sub><code>luggage-transfer-walking-holiday-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sleeper-train-cabin-enquiry.svg" width="44" height="44" alt="Ask about cabins and berths on an overnight sleeper train"><br><sub><b>Ask about cabins and berths on an overnight sleeper train</b></sub><br><sub><code>sleeper-train-cabin-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-rental-cleaning-fee-query.svg" width="44" height="44" alt="Question an unexpected cleaning fee on a holiday rental"><br><sub><b>Question an unexpected cleaning fee on a holiday rental</b></sub><br><sub><code>holiday-rental-cleaning-fee-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/interrail-route-plan-share.svg" width="44" height="44" alt="Share a rail-pass route plan with your travel group"><br><sub><b>Share a rail-pass route plan with your travel group</b></sub><br><sub><code>interrail-route-plan-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/beach-hut-hire-enquiry.svg" width="44" height="44" alt="Ask about hiring a beach hut for a day or week"><br><sub><b>Ask about hiring a beach hut for a day or week</b></sub><br><sub><code>beach-hut-hire-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/caravan-hire-enquiry.svg" width="44" height="44" alt="Ask about hiring a caravan or motorhome for a trip"><br><sub><b>Ask about hiring a caravan or motorhome for a trip</b></sub><br><sub><code>caravan-hire-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/multi-generation-trip-pace-plan.svg" width="44" height="44" alt="Plan a gentle pace for a family trip with grandparents and children"><br><sub><b>Plan a gentle pace for a family trip with grandparents and children</b></sub><br><sub><code>multi-generation-trip-pace-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/guided-walk-booking-enquiry.svg" width="44" height="44" alt="Ask a walking guide about booking a guided walk"><br><sub><b>Ask a walking guide about booking a guided walk</b></sub><br><sub><code>guided-walk-booking-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-pre-departure-checklist-share.svg" width="44" height="44" alt="Share a before-we-leave checklist with your travel group"><br><sub><b>Share a before-we-leave checklist with your travel group</b></sub><br><sub><code>trip-pre-departure-checklist-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-stay-shortlist-share.svg" width="44" height="44" alt="Share a shortlist of places to stay with your group"><br><sub><b>Share a shortlist of places to stay with your group</b></sub><br><sub><code>trip-stay-shortlist-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-local-transport-tips-share.svg" width="44" height="44" alt="Share tips on getting around at your trip destination"><br><sub><b>Share tips on getting around at your trip destination</b></sub><br><sub><code>trip-local-transport-tips-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/holiday-kids-club-enquiry.svg" width="44" height="44" alt="Ask a resort or hotel about its kids club"><br><sub><b>Ask a resort or hotel about its kids club</b></sub><br><sub><code>holiday-kids-club-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/trip-passport-validity-reminder.svg" width="44" height="44" alt="Passport and entry papers reminder for a group trip"><br><sub><b>Passport and entry papers reminder for a group trip</b></sub><br><sub><code>trip-passport-validity-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-safe-home-message.svg" width="44" height="44" alt="We are home safe message after a trip"><br><sub><b>We are home safe message after a trip</b></sub><br><sub><code>trip-safe-home-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-gear-sizes-collection-message.svg" width="44" height="44" alt="Collect gear sizes for a group trip"><br><sub><b>Collect gear sizes for a group trip</b></sub><br><sub><code>trip-gear-sizes-collection-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airport-carpool-plan-message.svg" width="44" height="44" alt="Plan a shared lift to the airport for your group"><br><sub><b>Plan a shared lift to the airport for your group</b></sub><br><sub><code>airport-carpool-plan-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-organiser-thank-you.svg" width="44" height="44" alt="Thank the friend who organised your trip"><br><sub><b>Thank the friend who organised your trip</b></sub><br><sub><code>trip-organiser-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trip-money-and-cards-plan.svg" width="44" height="44" alt="Share a plan for cash and cards on a group trip"><br><sub><b>Share a plan for cash and cards on a group trip</b></sub><br><sub><code>trip-money-and-cards-plan</code></sub></td>
 </tr>
 </table>
 

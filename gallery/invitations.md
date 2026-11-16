@@ -1,6 +1,6 @@
 # Invitations and events
 
-<sub>Taddicons 0.3.0 · Documents & messages · 65 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Designed invitations with their own RSVP page, plus every message around an event.
 
@@ -91,6 +91,39 @@ Designed invitations with their own RSVP page, plus every message around an even
 <td align="center" width="16%"><img src="../svg/mark/wine-tasting-invitation.svg" width="44" height="44" alt="Invite friends to a wine or cheese tasting evening"><br><sub><b>Invite friends to a wine or cheese tasting evening</b></sub><br><sub><code>wine-tasting-invitation</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/fireworks-night-invitation.svg" width="44" height="44" alt="Invite friends to a fireworks or bonfire night"><br><sub><b>Invite friends to a fireworks or bonfire night</b></sub><br><sub><code>fireworks-night-invitation</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/first-communion-invitation.svg" width="44" height="44" alt="Invite guests to a child's first holy communion"><br><sub><b>Invite guests to a child's first holy communion</b></sub><br><sub><code>first-communion-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/charity-run-team-invitation.svg" width="44" height="44" alt="Invite friends to join your team for a charity run"><br><sub><b>Invite friends to join your team for a charity run</b></sub><br><sub><code>charity-run-team-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/camping-trip-invitation.svg" width="44" height="44" alt="Invite friends or family on a camping trip"><br><sub><b>Invite friends or family on a camping trip</b></sub><br><sub><code>camping-trip-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gender-reveal-party-invitation.svg" width="44" height="44" alt="Invite guests to a baby gender reveal party"><br><sub><b>Invite guests to a baby gender reveal party</b></sub><br><sub><code>gender-reveal-party-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/stargazing-night-invitation.svg" width="44" height="44" alt="Invite friends to a stargazing night"><br><sub><b>Invite friends to a stargazing night</b></sub><br><sub><code>stargazing-night-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cookery-class-invitation.svg" width="44" height="44" alt="Invite friends to a cookery class"><br><sub><b>Invite friends to a cookery class</b></sub><br><sub><code>cookery-class-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/kite-flying-day-invitation.svg" width="44" height="44" alt="Invite people to a kite flying day"><br><sub><b>Invite people to a kite flying day</b></sub><br><sub><code>kite-flying-day-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clothes-swap-party-invitation.svg" width="44" height="44" alt="Invite friends to a clothes swap party"><br><sub><b>Invite friends to a clothes swap party</b></sub><br><sub><code>clothes-swap-party-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/dog-walk-meetup-invitation.svg" width="44" height="44" alt="Invite dog owners to a group dog walk"><br><sub><b>Invite dog owners to a group dog walk</b></sub><br><sub><code>dog-walk-meetup-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/eid-celebration-invitation.svg" width="44" height="44" alt="Eid celebration invitation: invite family and friends to share Eid"><br><sub><b>Eid celebration invitation: invite family and friends to share Eid</b></sub><br><sub><code>eid-celebration-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pumpkin-carving-invitation.svg" width="44" height="44" alt="Pumpkin carving invitation: invite friends to carve pumpkins together"><br><sub><b>Pumpkin carving invitation: invite friends to carve pumpkins together</b></sub><br><sub><code>pumpkin-carving-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/carol-singing-invitation.svg" width="44" height="44" alt="Carol singing invitation: invite people to sing carols together"><br><sub><b>Carol singing invitation: invite people to sing carols together</b></sub><br><sub><code>carol-singing-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bowling-party-invitation.svg" width="44" height="44" alt="Bowling party invitation: invite friends to a night or party at the lanes"><br><sub><b>Bowling party invitation: invite friends to a night or party at the lanes</b></sub><br><sub><code>bowling-party-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ice-skating-outing-invitation.svg" width="44" height="44" alt="Ice skating invitation: invite friends or family to go skating"><br><sub><b>Ice skating invitation: invite friends or family to go skating</b></sub><br><sub><code>ice-skating-outing-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pottery-painting-invitation.svg" width="44" height="44" alt="Pottery painting invitation: invite people to paint ceramics together"><br><sub><b>Pottery painting invitation: invite people to paint ceramics together</b></sub><br><sub><code>pottery-painting-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lunar-new-year-dinner-invitation.svg" width="44" height="44" alt="Invite friends and family to a Lunar New Year dinner"><br><sub><b>Invite friends and family to a Lunar New Year dinner</b></sub><br><sub><code>lunar-new-year-dinner-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hanukkah-party-invitation.svg" width="44" height="44" alt="Invite guests to a Hanukkah candle lighting and party"><br><sub><b>Invite guests to a Hanukkah candle lighting and party</b></sub><br><sub><code>hanukkah-party-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-years-eve-party-invitation.svg" width="44" height="44" alt="Invite friends to a New Year's Eve party"><br><sub><b>Invite friends to a New Year's Eve party</b></sub><br><sub><code>new-years-eve-party-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/beach-day-invitation.svg" width="44" height="44" alt="Invite friends or family to a day at the beach"><br><sub><b>Invite friends or family to a day at the beach</b></sub><br><sub><code>beach-day-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/nowruz-gathering-invitation.svg" width="44" height="44" alt="Invite guests to a Nowruz gathering"><br><sub><b>Invite guests to a Nowruz gathering</b></sub><br><sub><code>nowruz-gathering-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/bake-off-party-invitation.svg" width="44" height="44" alt="Invite friends to a home bake-off party"><br><sub><b>Invite friends to a home bake-off party</b></sub><br><sub><code>bake-off-party-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/chili-cook-off-invitation.svg" width="44" height="44" alt="Invite people to a chili cook-off"><br><sub><b>Invite people to a chili cook-off</b></sub><br><sub><code>chili-cook-off-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/vinyl-listening-night-invitation.svg" width="44" height="44" alt="Invite friends to a record listening night"><br><sub><b>Invite friends to a record listening night</b></sub><br><sub><code>vinyl-listening-night-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lantern-walk-invitation.svg" width="44" height="44" alt="Invite friends and neighbours to a lantern walk"><br><sub><b>Invite friends and neighbours to a lantern walk</b></sub><br><sub><code>lantern-walk-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/allotment-open-day-invitation.svg" width="44" height="44" alt="Invite people to an allotment or community garden open day"><br><sub><b>Invite people to an allotment or community garden open day</b></sub><br><sub><code>allotment-open-day-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/storytelling-evening-invitation.svg" width="44" height="44" alt="Invite guests to a storytelling evening"><br><sub><b>Invite guests to a storytelling evening</b></sub><br><sub><code>storytelling-evening-invitation</code></sub></td>
 </tr>
 </table>
 

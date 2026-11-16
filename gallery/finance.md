@@ -1,6 +1,6 @@
 # Money & finance
 
-<sub>Taddicons 0.3.0 · Business & money · 106 icons</sub>
+<sub>Taddicons 0.3.1 · Business & money · 106 icons</sub>
 
 Coins, cards, banks, currencies, savings and taxes.
 

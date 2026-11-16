@@ -1,6 +1,6 @@
 # Coaches and sports organisers
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Team lists, parent letters, travel and tournament plans, injuries, money, praise and hard talks for people who run a team or club.
 
@@ -88,6 +88,42 @@ Team lists, parent letters, travel and tournament plans, injuries, money, praise
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/trials-place-offer-note.svg" width="44" height="44" alt="Offer a player a place on the team after trials"><br><sub><b>Offer a player a place on the team after trials</b></sub><br><sub><code>trials-place-offer-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/first-aid-volunteer-ask.svg" width="44" height="44" alt="Ask parents to volunteer as the team's first aider"><br><sub><b>Ask parents to volunteer as the team's first aider</b></sub><br><sub><code>first-aid-volunteer-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/coach-stepping-down-letter.svg" width="44" height="44" alt="Tell families you are stepping down as coach"><br><sub><b>Tell families you are stepping down as coach</b></sub><br><sub><code>coach-stepping-down-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welfare-officer-introduction.svg" width="44" height="44" alt="Introduce the club welfare officer to families"><br><sub><b>Introduce the club welfare officer to families</b></sub><br><sub><code>welfare-officer-introduction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pitch-damage-report-to-venue.svg" width="44" height="44" alt="Report damage to a pitch or sports hall"><br><sub><b>Report damage to a pitch or sports hall</b></sub><br><sub><code>pitch-damage-report-to-venue</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/season-feedback-survey-to-parents.svg" width="44" height="44" alt="Ask parents for feedback on the season"><br><sub><b>Ask parents for feedback on the season</b></sub><br><sub><code>season-feedback-survey-to-parents</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/first-aid-course-invite-for-coaches.svg" width="44" height="44" alt="Invite club coaches to a first aid course"><br><sub><b>Invite club coaches to a first aid course</b></sub><br><sub><code>first-aid-course-invite-for-coaches</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/player-review-meeting-invite.svg" width="44" height="44" alt="Invite a player and parent to an end-of-season review chat"><br><sub><b>Invite a player and parent to an end-of-season review chat</b></sub><br><sub><code>player-review-meeting-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-rest-week-notice.svg" width="44" height="44" alt="Tell families there is no training during a rest week"><br><sub><b>Tell families there is no training during a rest week</b></sub><br><sub><code>team-rest-week-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-social-outing-invite.svg" width="44" height="44" alt="Invite the team and families to a social outing"><br><sub><b>Invite the team and families to a social outing</b></sub><br><sub><code>team-social-outing-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/player-medical-info-update-request.svg" width="44" height="44" alt="Ask parents to update players' medical and emergency details"><br><sub><b>Ask parents to update players' medical and emergency details</b></sub><br><sub><code>player-medical-info-update-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-awards-nomination-call.svg" width="44" height="44" alt="Ask the team to nominate players for end-of-season awards"><br><sub><b>Ask the team to nominate players for end-of-season awards</b></sub><br><sub><code>team-awards-nomination-call</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tournament-hotel-block-booking-enquiry.svg" width="44" height="44" alt="Ask a hotel about a block of rooms for a team tournament"><br><sub><b>Ask a hotel about a block of rooms for a team tournament</b></sub><br><sub><code>tournament-hotel-block-booking-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/coach-end-of-season-gift-collection.svg" width="44" height="44" alt="Collect money from parents for a coach's end-of-season gift"><br><sub><b>Collect money from parents for a coach's end-of-season gift</b></sub><br><sub><code>coach-end-of-season-gift-collection</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/personal-training-progress-check-in.svg" width="44" height="44" alt="Check in with a personal training client on their progress"><br><sub><b>Check in with a personal training client on their progress</b></sub><br><sub><code>personal-training-progress-check-in</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fitness-class-timetable-change-notice.svg" width="44" height="44" alt="Tell your class members the fitness class timetable is changing"><br><sub><b>Tell your class members the fitness class timetable is changing</b></sub><br><sub><code>fitness-class-timetable-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-assistant-coach-introduction.svg" width="44" height="44" alt="Introduce a new assistant coach to players and parents"><br><sub><b>Introduce a new assistant coach to players and parents</b></sub><br><sub><code>new-assistant-coach-introduction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/club-kit-supplier-quote-request.svg" width="44" height="44" alt="Ask a kit supplier for a quote for your club's kit"><br><sub><b>Ask a kit supplier for a quote for your club's kit</b></sub><br><sub><code>club-kit-supplier-quote-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/swimming-lesson-level-up-note.svg" width="44" height="44" alt="Tell a parent their child is moving up a swimming level"><br><sub><b>Tell a parent their child is moving up a swimming level</b></sub><br><sub><code>swimming-lesson-level-up-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/season-awards-night-speech.svg" width="44" height="44" alt="Coach's speech at the end-of-season awards night"><br><sub><b>Coach's speech at the end-of-season awards night</b></sub><br><sub><code>season-awards-night-speech</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/opposing-team-thank-you.svg" width="44" height="44" alt="Thank the opposing team after a match"><br><sub><b>Thank the opposing team after a match</b></sub><br><sub><code>opposing-team-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/position-rotation-note.svg" width="44" height="44" alt="Tell parents players will rotate positions"><br><sub><b>Tell parents players will rotate positions</b></sub><br><sub><code>position-rotation-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/half-time-snack-rota.svg" width="44" height="44" alt="Half-time snack rota for team parents"><br><sub><b>Half-time snack rota for team parents</b></sub><br><sub><code>half-time-snack-rota</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pre-match-team-talk.svg" width="44" height="44" alt="Short coach's talk to the team before a match"><br><sub><b>Short coach's talk to the team before a match</b></sub><br><sub><code>pre-match-team-talk</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/training-venue-change-notice.svg" width="44" height="44" alt="Tell players and parents that training is moving to a new venue"><br><sub><b>Tell players and parents that training is moving to a new venue</b></sub><br><sub><code>training-venue-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-lift-share-rota-message.svg" width="44" height="44" alt="Set up a lift share rota for away games"><br><sub><b>Set up a lift share rota for away games</b></sub><br><sub><code>team-lift-share-rota-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-training-session-what-to-bring.svg" width="44" height="44" alt="Tell a new player what to bring to their first training session"><br><sub><b>Tell a new player what to bring to their first training session</b></sub><br><sub><code>first-training-session-what-to-bring</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/proof-of-age-request-for-league.svg" width="44" height="44" alt="Ask families for proof of age for league registration"><br><sub><b>Ask families for proof of age for league registration</b></sub><br><sub><code>proof-of-age-request-for-league</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/referee-shortage-volunteer-call.svg" width="44" height="44" alt="Ask parents to train as volunteer referees"><br><sub><b>Ask parents to train as volunteer referees</b></sub><br><sub><code>referee-shortage-volunteer-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/squad-split-explanation-note.svg" width="44" height="44" alt="Explain to families why the squad is being split into two teams"><br><sub><b>Explain to families why the squad is being split into two teams</b></sub><br><sub><code>squad-split-explanation-note</code></sub></td>
 </tr>
 </table>
 

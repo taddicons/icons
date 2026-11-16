@@ -1,6 +1,6 @@
 # Buying and selling a home
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Offers, viewings, agents, surveys, mortgages, moving dates, closing day and the welcome to the next owner.
 
@@ -88,6 +88,42 @@ Offers, viewings, agents, surveys, mortgages, moving dates, closing day and the 
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/ask-agent-for-recent-sold-prices.svg" width="44" height="44" alt="Ask an estate agent for recent sold prices nearby"><br><sub><b>Ask an estate agent for recent sold prices nearby</b></sub><br><sub><code>ask-agent-for-recent-sold-prices</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/exchange-date-confirmation-request.svg" width="44" height="44" alt="Ask your conveyancer to confirm the exchange and moving dates"><br><sub><b>Ask your conveyancer to confirm the exchange and moving dates</b></sub><br><sub><code>exchange-date-confirmation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-seller-for-warranty-and-certificates.svg" width="44" height="44" alt="Ask the seller for warranties and certificates for the home"><br><sub><b>Ask the seller for warranties and certificates for the home</b></sub><br><sub><code>ask-seller-for-warranty-and-certificates</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/buyer-thank-you-to-seller.svg" width="44" height="44" alt="Thank the seller after you move into their old home"><br><sub><b>Thank the seller after you move into their old home</b></sub><br><sub><code>buyer-thank-you-to-seller</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/proof-of-funds-cover-note.svg" width="44" height="44" alt="Send proof of funds to the estate agent"><br><sub><b>Send proof of funds to the estate agent</b></sub><br><sub><code>proof-of-funds-cover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-agent-for-viewer-feedback.svg" width="44" height="44" alt="Ask your estate agent for feedback from viewings"><br><sub><b>Ask your estate agent for feedback from viewings</b></sub><br><sub><code>ask-agent-for-viewer-feedback</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/confirm-offer-in-writing-request.svg" width="44" height="44" alt="Ask the estate agent to confirm your offer in writing"><br><sub><b>Ask the estate agent to confirm your offer in writing</b></sub><br><sub><code>confirm-offer-in-writing-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-build-reservation-questions.svg" width="44" height="44" alt="Questions for a builder before you reserve a new-build home"><br><sub><b>Questions for a builder before you reserve a new-build home</b></sub><br><sub><code>new-build-reservation-questions</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-agent-to-pause-viewings.svg" width="44" height="44" alt="Ask your estate agent to pause viewings for a while"><br><sub><b>Ask your estate agent to pause viewings for a while</b></sub><br><sub><code>ask-agent-to-pause-viewings</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/listing-room-sizes-check.svg" width="44" height="44" alt="Ask the agent to check the room sizes on a listing"><br><sub><b>Ask the agent to check the room sizes on a listing</b></sub><br><sub><code>listing-room-sizes-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conveyancer-explain-fee-quote.svg" width="44" height="44" alt="Ask your conveyancer to explain the fees in their quote"><br><sub><b>Ask your conveyancer to explain the fees in their quote</b></sub><br><sub><code>conveyancer-explain-fee-quote</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seller-clear-things-left-after-move.svg" width="44" height="44" alt="Ask the seller to clear things left in the home after you move in"><br><sub><b>Ask the seller to clear things left in the home after you move in</b></sub><br><sub><code>seller-clear-things-left-after-move</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/agent-take-home-off-market.svg" width="44" height="44" alt="Tell your estate agent you are taking your home off the market"><br><sub><b>Tell your estate agent you are taking your home off the market</b></sub><br><sub><code>agent-take-home-off-market</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/surveyor-explain-report.svg" width="44" height="44" alt="Ask a surveyor to explain their report"><br><sub><b>Ask a surveyor to explain their report</b></sub><br><sub><code>surveyor-explain-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-a-second-viewing.svg" width="44" height="44" alt="Ask the estate agent for a second viewing"><br><sub><b>Ask the estate agent for a second viewing</b></sub><br><sub><code>ask-for-a-second-viewing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-agent-you-are-now-chain-free.svg" width="44" height="44" alt="Tell the estate agent you are now chain-free"><br><sub><b>Tell the estate agent you are now chain-free</b></sub><br><sub><code>tell-agent-you-are-now-chain-free</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-previous-owner-to-redirect-post.svg" width="44" height="44" alt="Ask the previous owner to redirect their post"><br><sub><b>Ask the previous owner to redirect their post</b></sub><br><sub><code>ask-previous-owner-to-redirect-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-measure-up-before-moving-in.svg" width="44" height="44" alt="Ask the seller if you can visit to measure up before moving in"><br><sub><b>Ask the seller if you can visit to measure up before moving in</b></sub><br><sub><code>ask-to-measure-up-before-moving-in</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-agent-why-you-will-not-make-an-offer.svg" width="44" height="44" alt="Tell the estate agent you will not make an offer, and why"><br><sub><b>Tell the estate agent you will not make an offer, and why</b></sub><br><sub><code>tell-agent-why-you-will-not-make-an-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/seller-thank-you-to-buyer.svg" width="44" height="44" alt="Thank the buyers of your home and wish them well"><br><sub><b>Thank the buyers of your home and wish them well</b></sub><br><sub><code>seller-thank-you-to-buyer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-agent-about-buyer-position.svg" width="44" height="44" alt="Ask your estate agent about a buyer's position before accepting"><br><sub><b>Ask your estate agent about a buyer's position before accepting</b></sub><br><sub><code>ask-agent-about-buyer-position</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/co-buyer-deposit-split-note.svg" width="44" height="44" alt="Write down how you and a co-buyer are splitting the deposit"><br><sub><b>Write down how you and a co-buyer are splitting the deposit</b></sub><br><sub><code>co-buyer-deposit-split-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-to-delay-exchange-date.svg" width="44" height="44" alt="Ask to move the exchange of contracts to a later date"><br><sub><b>Ask to move the exchange of contracts to a later date</b></sub><br><sub><code>ask-to-delay-exchange-date</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-agent-to-fix-listing-details.svg" width="44" height="44" alt="Ask your estate agent to correct details in your listing"><br><sub><b>Ask your estate agent to correct details in your listing</b></sub><br><sub><code>ask-agent-to-fix-listing-details</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/seller-new-damage-before-completion-notice.svg" width="44" height="44" alt="Tell the buyer about new damage to the home before completion"><br><sub><b>Tell the buyer about new damage to the home before completion</b></sub><br><sub><code>seller-new-damage-before-completion-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-conveyancer-for-completion-statement.svg" width="44" height="44" alt="Ask your conveyancer for the completion statement and final figures"><br><sub><b>Ask your conveyancer for the completion statement and final figures</b></sub><br><sub><code>ask-conveyancer-for-completion-statement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-agent-for-accompanied-viewings-only.svg" width="44" height="44" alt="Ask your estate agent to run accompanied viewings only"><br><sub><b>Ask your estate agent to run accompanied viewings only</b></sub><br><sub><code>ask-agent-for-accompanied-viewings-only</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-agent-for-parking-details.svg" width="44" height="44" alt="Ask the estate agent about parking at a home for sale"><br><sub><b>Ask the estate agent about parking at a home for sale</b></sub><br><sub><code>ask-agent-for-parking-details</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-agent-about-change-in-buying-budget.svg" width="44" height="44" alt="Tell an estate agent your buying budget has changed"><br><sub><b>Tell an estate agent your buying budget has changed</b></sub><br><sub><code>tell-agent-about-change-in-buying-budget</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-agent-for-broadband-speed-details.svg" width="44" height="44" alt="Ask the estate agent about internet and phone signal at a home"><br><sub><b>Ask the estate agent about internet and phone signal at a home</b></sub><br><sub><code>ask-agent-for-broadband-speed-details</code></sub></td>
 </tr>
 </table>
 

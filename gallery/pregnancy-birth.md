@@ -1,6 +1,6 @@
 # Pregnancy and birth
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Announcements, midwife and hospital notes, birth plans, leave, showers, thank-yous, visitors, sensitive loss and fertility notes, and adoption and surrogacy logistics.
 
@@ -88,6 +88,42 @@ Announcements, midwife and hospital notes, birth plans, leave, showers, thank-yo
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/ask-friends-for-pram-advice.svg" width="44" height="44" alt="Ask friends which pram or buggy they would recommend"><br><sub><b>Ask friends which pram or buggy they would recommend</b></sub><br><sub><code>ask-friends-for-pram-advice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/antenatal-class-group-thanks.svg" width="44" height="44" alt="Thank your antenatal class group and keep in touch"><br><sub><b>Thank your antenatal class group and keep in touch</b></sub><br><sub><code>antenatal-class-group-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/birth-registration-appointment-booking.svg" width="44" height="44" alt="Book an appointment to register a baby's birth"><br><sub><b>Book an appointment to register a baby's birth</b></sub><br><sub><code>birth-registration-appointment-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/birth-debrief-appointment-request.svg" width="44" height="44" alt="Ask the hospital or midwife for a birth debrief meeting"><br><sub><b>Ask the hospital or midwife for a birth debrief meeting</b></sub><br><sub><code>birth-debrief-appointment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pregnancy-travel-insurance-question.svg" width="44" height="44" alt="Ask an insurer whether travel cover applies in pregnancy"><br><sub><b>Ask an insurer whether travel cover applies in pregnancy</b></sub><br><sub><code>pregnancy-travel-insurance-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/baby-sleeping-door-note.svg" width="44" height="44" alt="Write a door note asking callers not to knock while the baby sleeps"><br><sub><b>Write a door note asking callers not to knock while the baby sleeps</b></sub><br><sub><code>baby-sleeping-door-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/maternity-pay-question-to-employer.svg" width="44" height="44" alt="Ask your employer how your maternity pay will be worked out"><br><sub><b>Ask your employer how your maternity pay will be worked out</b></sub><br><sub><code>maternity-pay-question-to-employer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/maternity-notes-copy-request.svg" width="44" height="44" alt="Ask for a copy of your maternity and birth records"><br><sub><b>Ask for a copy of your maternity and birth records</b></sub><br><sub><code>maternity-notes-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/overdue-baby-update-to-family.svg" width="44" height="44" alt="Update family and friends that the baby is past the due date"><br><sub><b>Update family and friends that the baby is past the due date</b></sub><br><sub><code>overdue-baby-update-to-family</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-scan-photo-share-message.svg" width="44" height="44" alt="Share your baby scan photo with someone close"><br><sub><b>Share your baby scan photo with someone close</b></sub><br><sub><code>preg-scan-photo-share-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/baby-home-first-week-update.svg" width="44" height="44" alt="Update family after your first week home with baby"><br><sub><b>Update family after your first week home with baby</b></sub><br><sub><code>baby-home-first-week-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/donor-milk-bank-enquiry.svg" width="44" height="44" alt="Ask a milk bank about giving or getting donor breast milk"><br><sub><b>Ask a milk bank about giving or getting donor breast milk</b></sub><br><sub><code>donor-milk-bank-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/cord-blood-banking-question.svg" width="44" height="44" alt="Ask questions before you sign up for cord blood banking"><br><sub><b>Ask questions before you sign up for cord blood banking</b></sub><br><sub><code>cord-blood-banking-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/car-seat-fitting-booking.svg" width="44" height="44" alt="Book a baby car seat fitting check"><br><sub><b>Book a baby car seat fitting check</b></sub><br><sub><code>car-seat-fitting-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/maternity-cover-handover-note.svg" width="44" height="44" alt="Hand over your work before maternity or parental leave"><br><sub><b>Hand over your work before maternity or parental leave</b></sub><br><sub><code>maternity-cover-handover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pregnancy-priority-seat-badge-request.svg" width="44" height="44" alt="Ask for a priority seat badge for travel while pregnant"><br><sub><b>Ask for a priority seat badge for travel while pregnant</b></sub><br><sub><code>pregnancy-priority-seat-badge-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/baby-shower-decline-note.svg" width="44" height="44" alt="Say no to having a baby shower, kindly"><br><sub><b>Say no to having a baby shower, kindly</b></sub><br><sub><code>baby-shower-decline-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/health-visitor-first-contact.svg" width="44" height="44" alt="Get in touch with your health visitor for the first time"><br><sub><b>Get in touch with your health visitor for the first time</b></sub><br><sub><code>health-visitor-first-contact</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pregnancy-vaccine-appointment-request.svg" width="44" height="44" alt="Book a vaccine appointment during pregnancy"><br><sub><b>Book a vaccine appointment during pregnancy</b></sub><br><sub><code>pregnancy-vaccine-appointment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-pregnancy-yoga-enquiry.svg" width="44" height="44" alt="Ask about joining a pregnancy yoga class"><br><sub><b>Ask about joining a pregnancy yoga class</b></sub><br><sub><code>preg-pregnancy-yoga-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-ward-visiting-rules-question.svg" width="44" height="44" alt="Ask the maternity ward about visiting and partner stays"><br><sub><b>Ask the maternity ward about visiting and partner stays</b></sub><br><sub><code>preg-ward-visiting-rules-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-breast-pump-hire-enquiry.svg" width="44" height="44" alt="Ask about hiring a breast pump"><br><sub><b>Ask about hiring a breast pump</b></sub><br><sub><code>preg-breast-pump-hire-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-baby-name-ideas-ask.svg" width="44" height="44" alt="Ask family and friends for baby name ideas"><br><sub><b>Ask family and friends for baby name ideas</b></sub><br><sub><code>preg-baby-name-ideas-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-maternity-clothes-swap-post.svg" width="44" height="44" alt="Post offering a maternity clothes swap"><br><sub><b>Post offering a maternity clothes swap</b></sub><br><sub><code>preg-maternity-clothes-swap-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/preg-maternity-photo-shoot-booking.svg" width="44" height="44" alt="Book a maternity photo shoot with a photographer"><br><sub><b>Book a maternity photo shoot with a photographer</b></sub><br><sub><code>preg-maternity-photo-shoot-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-home-birth-enquiry.svg" width="44" height="44" alt="Ask the midwife team about planning a home birth"><br><sub><b>Ask the midwife team about planning a home birth</b></sub><br><sub><code>preg-home-birth-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-sling-library-enquiry.svg" width="44" height="44" alt="Ask a sling library to borrow or try a baby carrier"><br><sub><b>Ask a sling library to borrow or try a baby carrier</b></sub><br><sub><code>preg-sling-library-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-leave-start-date-change.svg" width="44" height="44" alt="Ask to change the start date of your maternity leave"><br><sub><b>Ask to change the start date of your maternity leave</b></sub><br><sub><code>preg-leave-start-date-change</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-newborn-check-rebooking.svg" width="44" height="44" alt="Rebook your baby's newborn check"><br><sub><b>Rebook your baby's newborn check</b></sub><br><sub><code>preg-newborn-check-rebooking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/preg-sleep-consultant-enquiry.svg" width="44" height="44" alt="Ask a baby sleep consultant how they can help"><br><sub><b>Ask a baby sleep consultant how they can help</b></sub><br><sub><code>preg-sleep-consultant-enquiry</code></sub></td>
 </tr>
 </table>
 

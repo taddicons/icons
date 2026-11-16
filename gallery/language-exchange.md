@@ -1,6 +1,6 @@
 # Languages and cultural exchange
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes for language partners, tutors, penpals, host families, study abroad, translators, cultural events and learning groups.
 
@@ -88,6 +88,42 @@ Notes for language partners, tutors, penpals, host families, study abroad, trans
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/pronunciation-feedback-ask.svg" width="44" height="44" alt="Ask a native speaker to check your pronunciation"><br><sub><b>Ask a native speaker to check your pronunciation</b></sub><br><sub><code>pronunciation-feedback-ask</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/exam-study-group-invite.svg" width="44" height="44" alt="Invite other learners to a study group for a language exam"><br><sub><b>Invite other learners to a study group for a language exam</b></sub><br><sub><code>exam-study-group-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-exchange-profile-bio.svg" width="44" height="44" alt="Write your profile for a language exchange app"><br><sub><b>Write your profile for a language exchange app</b></sub><br><sub><code>language-exchange-profile-bio</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-family-outing-invite.svg" width="44" height="44" alt="Invite your host student on a family day out"><br><sub><b>Invite your host student on a family day out</b></sub><br><sub><code>host-family-outing-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conversation-club-volunteer-thanks.svg" width="44" height="44" alt="Thank the volunteers who run your language conversation club"><br><sub><b>Thank the volunteers who run your language conversation club</b></sub><br><sub><code>conversation-club-volunteer-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conversation-club-topic-list.svg" width="44" height="44" alt="Topic list for a language conversation club"><br><sub><b>Topic list for a language conversation club</b></sub><br><sub><code>conversation-club-topic-list</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/language-buddy-introduction.svg" width="44" height="44" alt="Introduce two language learners who could practise together"><br><sub><b>Introduce two language learners who could practise together</b></sub><br><sub><code>language-buddy-introduction</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-challenge-invite.svg" width="44" height="44" alt="Invite your group to a 30-day language practice challenge"><br><sub><b>Invite your group to a 30-day language practice challenge</b></sub><br><sub><code>language-challenge-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-meetup-icebreaker-sheet.svg" width="44" height="44" alt="Icebreaker questions sheet for a language meetup"><br><sub><b>Icebreaker questions sheet for a language meetup</b></sub><br><sub><code>language-meetup-icebreaker-sheet</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/first-in-person-language-meetup-plan.svg" width="44" height="44" alt="Plan a first in-person meeting with a language partner"><br><sub><b>Plan a first in-person meeting with a language partner</b></sub><br><sub><code>first-in-person-language-meetup-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/partner-switch-languages-halfway.svg" width="44" height="44" alt="Ask your language partner to switch languages halfway"><br><sub><b>Ask your language partner to switch languages halfway</b></sub><br><sub><code>partner-switch-languages-halfway</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/partner-recommend-film-or-show.svg" width="44" height="44" alt="Recommend a film or show to your language partner"><br><sub><b>Recommend a film or show to your language partner</b></sub><br><sub><code>partner-recommend-film-or-show</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/language-school-attendance-certificate.svg" width="44" height="44" alt="Ask a language school for a certificate of attendance"><br><sub><b>Ask a language school for a certificate of attendance</b></sub><br><sub><code>language-school-attendance-certificate</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-language-group-leaving.svg" width="44" height="44" alt="Tell your language group you are leaving"><br><sub><b>Tell your language group you are leaving</b></sub><br><sub><code>tell-language-group-leaving</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-voice-note-practice-ask.svg" width="44" height="44" alt="Ask your language partner to swap voice notes for practice"><br><sub><b>Ask your language partner to swap voice notes for practice</b></sub><br><sub><code>language-voice-note-practice-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-recipe-swap.svg" width="44" height="44" alt="Share a family recipe with your language partner"><br><sub><b>Share a family recipe with your language partner</b></sub><br><sub><code>language-partner-recipe-swap</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-session-late-cancel-apology.svg" width="44" height="44" alt="Say sorry for cancelling a language session at short notice"><br><sub><b>Say sorry for cancelling a language session at short notice</b></sub><br><sub><code>language-session-late-cancel-apology</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-exam-result-news.svg" width="44" height="44" alt="Tell your language partner how your exam went"><br><sub><b>Tell your language partner how your exam went</b></sub><br><sub><code>language-partner-exam-result-news</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tutor-lesson-receipt-request.svg" width="44" height="44" alt="Ask your language tutor for receipts for your lessons"><br><sub><b>Ask your language tutor for receipts for your lessons</b></sub><br><sub><code>tutor-lesson-receipt-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-time-zone-change-note.svg" width="44" height="44" alt="Tell your language partner your time zone has changed"><br><sub><b>Tell your language partner your time zone has changed</b></sub><br><sub><code>language-partner-time-zone-change-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-meetup-host-handover-note.svg" width="44" height="44" alt="Hand over hosting of a language meetup to someone new"><br><sub><b>Hand over hosting of a language meetup to someone new</b></sub><br><sub><code>language-meetup-host-handover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-book-swap-invite.svg" width="44" height="44" alt="Invite your language partner to read a book together"><br><sub><b>Invite your language partner to read a book together</b></sub><br><sub><code>language-partner-book-swap-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/host-family-early-departure-note.svg" width="44" height="44" alt="Tell your host family you need to leave early"><br><sub><b>Tell your host family you need to leave early</b></sub><br><sub><code>host-family-early-departure-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-safety-boundary-note.svg" width="44" height="44" alt="Set safe limits with a language partner you met online"><br><sub><b>Set safe limits with a language partner you met online</b></sub><br><sub><code>language-partner-safety-boundary-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-visit-invite.svg" width="44" height="44" alt="Invite your language partner to visit your city"><br><sub><b>Invite your language partner to visit your city</b></sub><br><sub><code>language-partner-visit-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-partner-to-check-a-formal-letter.svg" width="44" height="44" alt="Ask your language partner to check a formal letter you wrote"><br><sub><b>Ask your language partner to check a formal letter you wrote</b></sub><br><sub><code>ask-partner-to-check-a-formal-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-meetup-recap-post.svg" width="44" height="44" alt="Post a recap after a language meetup"><br><sub><b>Post a recap after a language meetup</b></sub><br><sub><code>language-meetup-recap-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-birthday-message.svg" width="44" height="44" alt="Wish your language partner a happy birthday"><br><sub><b>Wish your language partner a happy birthday</b></sub><br><sub><code>language-partner-birthday-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conversation-club-new-time-poll.svg" width="44" height="44" alt="Ask conversation club members to vote on a new meeting time"><br><sub><b>Ask conversation club members to vote on a new meeting time</b></sub><br><sub><code>conversation-club-new-time-poll</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/language-partner-mistake-log-share.svg" width="44" height="44" alt="Share a list of your common mistakes with your language partner"><br><sub><b>Share a list of your common mistakes with your language partner</b></sub><br><sub><code>language-partner-mistake-log-share</code></sub></td>
 </tr>
 </table>
 

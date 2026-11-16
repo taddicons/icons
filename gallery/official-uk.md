@@ -1,6 +1,6 @@
 # Official letters, United Kingdom
 
-<sub>Taddicons 0.3.0 · Documents & messages · 71 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in the United Kingdom most often need: tenancy, work, money and tax, insurance and health, consumer rights, authorities and benefits, school and neighbours, written in British English.
 
@@ -99,6 +99,31 @@ The official letters people in the United Kingdom most often need: tenancy, work
 <td align="center" width="16%"><img src="../svg/mark/uk-childcare-place-notice.svg" width="44" height="44" alt="Childcare notice: end a nursery or childminder place (UK)"><br><sub><b>Childcare notice: end a nursery or childminder place (UK)</b></sub><br><sub><code>uk-childcare-place-notice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/uk-neighbour-parking-letter.svg" width="44" height="44" alt="Parking: ask a neighbour not to block your driveway (UK)"><br><sub><b>Parking: ask a neighbour not to block your driveway (UK)</b></sub><br><sub><code>uk-neighbour-parking-letter</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/uk-neighbour-works-notice.svg" width="44" height="44" alt="Building works: tell neighbours about upcoming works (UK)"><br><sub><b>Building works: tell neighbours about upcoming works (UK)</b></sub><br><sub><code>uk-neighbour-works-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-landlord-identity-request.svg" width="44" height="44" alt="Landlord details request: ask an agent for your landlord's name and address (UK)"><br><sub><b>Landlord details request: ask an agent for your landlord's name and address (UK)</b></sub><br><sub><code>uk-landlord-identity-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/uk-council-tax-arrears-plan.svg" width="44" height="44" alt="Council Tax arrears: ask the council for a payment arrangement (UK)"><br><sub><b>Council Tax arrears: ask the council for a payment arrangement (UK)</b></sub><br><sub><code>uk-council-tax-arrears-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-paternity-leave-notice.svg" width="44" height="44" alt="Paternity leave notice: tell your employer you plan to take it (UK)"><br><sub><b>Paternity leave notice: tell your employer you plan to take it (UK)</b></sub><br><sub><code>uk-paternity-leave-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-app-scam-reimbursement.svg" width="44" height="44" alt="Scam reimbursement claim: ask your bank to refund a push payment scam (UK)"><br><sub><b>Scam reimbursement claim: ask your bank to refund a push payment scam (UK)</b></sub><br><sub><code>uk-app-scam-reimbursement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-marketing-opt-out.svg" width="44" height="44" alt="Marketing opt-out: tell a business to stop calls, texts and emails (UK)"><br><sub><b>Marketing opt-out: tell a business to stop calls, texts and emails (UK)</b></sub><br><sub><code>uk-marketing-opt-out</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-travel-insurance-claim.svg" width="44" height="44" alt="Travel insurance claim: claim for cancellation, medical or lost luggage (UK)"><br><sub><b>Travel insurance claim: claim for cancellation, medical or lost luggage (UK)</b></sub><br><sub><code>uk-travel-insurance-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-care-home-complaint.svg" width="44" height="44" alt="Care home complaint: raise concerns about a relative's care (UK)"><br><sub><b>Care home complaint: raise concerns about a relative's care (UK)</b></sub><br><sub><code>uk-care-home-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/uk-neighbour-bonfire-smoke.svg" width="44" height="44" alt="Neighbour letter: ask a neighbour about bonfire or wood-burner smoke (UK)"><br><sub><b>Neighbour letter: ask a neighbour about bonfire or wood-burner smoke (UK)</b></sub><br><sub><code>uk-neighbour-bonfire-smoke</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-sublet-consent-request.svg" width="44" height="44" alt="Subletting: ask your landlord for consent to sublet (UK)"><br><sub><b>Subletting: ask your landlord for consent to sublet (UK)</b></sub><br><sub><code>uk-sublet-consent-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-pay-rise-request.svg" width="44" height="44" alt="Pay rise: ask your employer for a salary review (UK)"><br><sub><b>Pay rise: ask your employer for a salary review (UK)</b></sub><br><sub><code>uk-pay-rise-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-jury-service-deferral.svg" width="44" height="44" alt="Jury service: ask to defer or be excused from jury service (UK)"><br><sub><b>Jury service: ask to defer or be excused from jury service (UK)</b></sub><br><sub><code>uk-jury-service-deferral</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-tv-licence-not-needed.svg" width="44" height="44" alt="TV Licence: tell TV Licensing you do not need a licence (UK)"><br><sub><b>TV Licence: tell TV Licensing you do not need a licence (UK)</b></sub><br><sub><code>uk-tv-licence-not-needed</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-child-travel-consent.svg" width="44" height="44" alt="Travel consent: allow your child to travel abroad (UK)"><br><sub><b>Travel consent: allow your child to travel abroad (UK)</b></sub><br><sub><code>uk-child-travel-consent</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/uk-parental-leave-notice.svg" width="44" height="44" alt="Unpaid parental leave: give notice to your employer (UK)"><br><sub><b>Unpaid parental leave: give notice to your employer (UK)</b></sub><br><sub><code>uk-parental-leave-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-bank-charges-refund.svg" width="44" height="44" alt="Bank charges refund: ask your bank to refund fees (UK)"><br><sub><b>Bank charges refund: ask your bank to refund fees (UK)</b></sub><br><sub><code>uk-bank-charges-refund</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-housing-transfer-request.svg" width="44" height="44" alt="Housing transfer: ask your social landlord to move you (UK)"><br><sub><b>Housing transfer: ask your social landlord to move you (UK)</b></sub><br><sub><code>uk-housing-transfer-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-mortgage-arrears-proposal.svg" width="44" height="44" alt="Mortgage arrears proposal: offer your lender a payment plan (UK)"><br><sub><b>Mortgage arrears proposal: offer your lender a payment plan (UK)</b></sub><br><sub><code>uk-mortgage-arrears-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-redundancy-pay-query.svg" width="44" height="44" alt="Redundancy pay query: ask your employer how your pay was worked out (UK)"><br><sub><b>Redundancy pay query: ask your employer how your pay was worked out (UK)</b></sub><br><sub><code>uk-redundancy-pay-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/uk-school-transfer-request.svg" width="44" height="44" alt="In-year transfer: apply to move your child to a new school (UK)"><br><sub><b>In-year transfer: apply to move your child to a new school (UK)</b></sub><br><sub><code>uk-school-transfer-request</code></sub></td>
 </tr>
 </table>
 

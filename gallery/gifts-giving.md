@@ -1,6 +1,6 @@
 # Gifts and giving
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes to go with gifts, thank-yous, kind ways to say no or return a gift, group collections, work gifts and gifts to charity.
 
@@ -88,6 +88,42 @@ Notes to go with gifts, thank-yous, kind ways to say no or return a gift, group 
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/engagement-gift-note.svg" width="44" height="44" alt="Write a note to go with an engagement gift"><br><sub><b>Write a note to go with an engagement gift</b></sub><br><sub><code>engagement-gift-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/experience-gift-note.svg" width="44" height="44" alt="Write a note to go with an experience gift"><br><sub><b>Write a note to go with an experience gift</b></sub><br><sub><code>experience-gift-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-of-time-coupon-note.svg" width="44" height="44" alt="Give the gift of your time with a promise note"><br><sub><b>Give the gift of your time with a promise note</b></sub><br><sub><code>gift-of-time-coupon-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-size-check-message.svg" width="44" height="44" alt="Quietly check someone's size before buying a gift"><br><sub><b>Quietly check someone's size before buying a gift</b></sub><br><sub><code>gift-size-check-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-with-care-instructions-note.svg" width="44" height="44" alt="Add care instructions to a plant or living gift"><br><sub><b>Add care instructions to a plant or living gift</b></sub><br><sub><code>gift-with-care-instructions-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-contributors-to-group-gift.svg" width="44" height="44" alt="Thank everyone who chipped in for a group gift"><br><sub><b>Thank everyone who chipped in for a group gift</b></sub><br><sub><code>thank-contributors-to-group-gift</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/shop-gift-exchange-no-receipt-request.svg" width="44" height="44" alt="Ask a shop to exchange a gift you have no receipt for"><br><sub><b>Ask a shop to exchange a gift you have no receipt for</b></sub><br><sub><code>shop-gift-exchange-no-receipt-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-for-address-to-send-gift.svg" width="44" height="44" alt="Ask someone for their address so you can send a gift"><br><sub><b>Ask someone for their address so you can send a gift</b></sub><br><sub><code>ask-for-address-to-send-gift</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/suggest-one-shared-gift-for-child-party.svg" width="44" height="44" alt="Suggest one shared gift for a child's birthday party"><br><sub><b>Suggest one shared gift for a child's birthday party</b></sub><br><sub><code>suggest-one-shared-gift-for-child-party</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-colleagues-for-leaving-gift.svg" width="44" height="44" alt="Thank your colleagues for a leaving gift"><br><sub><b>Thank your colleagues for a leaving gift</b></sub><br><sub><code>thank-colleagues-for-leaving-gift</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-you-for-gift-of-money.svg" width="44" height="44" alt="Say thank you for a gift of money"><br><sub><b>Say thank you for a gift of money</b></sub><br><sub><code>thank-you-for-gift-of-money</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/handmade-gift-note.svg" width="44" height="44" alt="Write a note to go with a handmade gift"><br><sub><b>Write a note to go with a handmade gift</b></sub><br><sub><code>handmade-gift-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/milestone-birthday-gift-note.svg" width="44" height="44" alt="Write a note to go with a milestone birthday gift"><br><sub><b>Write a note to go with a milestone birthday gift</b></sub><br><sub><code>milestone-birthday-gift-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-someone-to-be-home-for-a-surprise-delivery.svg" width="44" height="44" alt="Ask someone to be home for a delivery without spoiling the surprise"><br><sub><b>Ask someone to be home for a delivery without spoiling the surprise</b></sub><br><sub><code>ask-someone-to-be-home-for-a-surprise-delivery</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-note-from-grandparent.svg" width="44" height="44" alt="Gift note from a grandparent to a grandchild"><br><sub><b>Gift note from a grandparent to a grandchild</b></sub><br><sub><code>gift-note-from-grandparent</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/personalised-gift-proof-check.svg" width="44" height="44" alt="Check the proof for a personalised gift with the maker"><br><sub><b>Check the proof for a personalised gift with the maker</b></sub><br><sub><code>personalised-gift-proof-check</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-for-new-pet-owner-note.svg" width="44" height="44" alt="Gift note for someone who just got a new pet"><br><sub><b>Gift note for someone who just got a new pet</b></sub><br><sub><code>gift-for-new-pet-owner-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-wrap-and-message-request-to-shop.svg" width="44" height="44" alt="Ask a shop to gift wrap an order and add a message"><br><sub><b>Ask a shop to gift wrap an order and add a message</b></sub><br><sub><code>gift-wrap-and-message-request-to-shop</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-about-allergies-before-food-gift.svg" width="44" height="44" alt="Check allergies before you give food as a gift"><br><sub><b>Check allergies before you give food as a gift</b></sub><br><sub><code>ask-about-allergies-before-food-gift</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-note-helpful-neighbour.svg" width="44" height="44" alt="Note with a thank-you gift for a helpful neighbour"><br><sub><b>Note with a thank-you gift for a helpful neighbour</b></sub><br><sub><code>gift-note-helpful-neighbour</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-note-anniversary.svg" width="44" height="44" alt="Note to go with an anniversary gift"><br><sub><b>Note to go with an anniversary gift</b></sub><br><sub><code>gift-note-anniversary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-ask-parent-child-idea.svg" width="44" height="44" alt="Ask a parent what their child would like as a gift"><br><sub><b>Ask a parent what their child would like as a gift</b></sub><br><sub><code>gift-ask-parent-child-idea</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-homemade-this-year.svg" width="44" height="44" alt="Tell family you are giving homemade gifts this year"><br><sub><b>Tell family you are giving homemade gifts this year</b></sub><br><sub><code>gift-homemade-this-year</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-note-pet-sitter.svg" width="44" height="44" alt="Note with a thank-you gift for a pet sitter"><br><sub><b>Note with a thank-you gift for a pet sitter</b></sub><br><sub><code>gift-note-pet-sitter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/farewell-gift-note-for-friend-moving-away.svg" width="44" height="44" alt="Write a gift note for a friend who is moving away"><br><sub><b>Write a gift note for a friend who is moving away</b></sub><br><sub><code>farewell-gift-note-for-friend-moving-away</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-note-for-a-sports-coach.svg" width="44" height="44" alt="Write a thank-you gift note for a sports coach"><br><sub><b>Write a thank-you gift note for a sports coach</b></sub><br><sub><code>gift-note-for-a-sports-coach</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-which-of-two-gifts-they-prefer.svg" width="44" height="44" alt="Ask someone which of two gifts they would prefer"><br><sub><b>Ask someone which of two gifts they would prefer</b></sub><br><sub><code>ask-which-of-two-gifts-they-prefer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-note-for-a-delivery-driver.svg" width="44" height="44" alt="Gift note to thank your regular delivery driver"><br><sub><b>Gift note to thank your regular delivery driver</b></sub><br><sub><code>gift-note-for-a-delivery-driver</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-card-expired-balance-question.svg" width="44" height="44" alt="Ask a shop about the balance on an expired gift card"><br><sub><b>Ask a shop about the balance on an expired gift card</b></sub><br><sub><code>gift-card-expired-balance-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/gift-note-for-a-babysitter.svg" width="44" height="44" alt="Gift note to thank your babysitter"><br><sub><b>Gift note to thank your babysitter</b></sub><br><sub><code>gift-note-for-a-babysitter</code></sub></td>
 </tr>
 </table>
 

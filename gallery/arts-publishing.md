@@ -1,6 +1,6 @@
 # Arts and publishing
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Writers, artists and musicians: submissions, queries, commissions, bios and thank-yous.
 
@@ -88,6 +88,42 @@ Writers, artists and musicians: submissions, queries, commissions, bios and than
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/play-script-submission.svg" width="44" height="44" alt="Send your play script to a theatre for consideration"><br><sub><b>Send your play script to a theatre for consideration</b></sub><br><sub><code>play-script-submission</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/review-copy-request.svg" width="44" height="44" alt="Ask a publisher for a review copy of a new book"><br><sub><b>Ask a publisher for a review copy of a new book</b></sub><br><sub><code>review-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/illustration-invoice-payment-chaser.svg" width="44" height="44" alt="Chase payment for a finished illustration job"><br><sub><b>Chase payment for a finished illustration job</b></sub><br><sub><code>illustration-invoice-payment-chaser</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/author-visit-offer-to-book-club.svg" width="44" height="44" alt="Offer to visit a book club as the author"><br><sub><b>Offer to visit a book club as the author</b></sub><br><sub><code>author-visit-offer-to-book-club</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/exhibition-opening-guest-thanks.svg" width="44" height="44" alt="Thank guests after an exhibition opening"><br><sub><b>Thank guests after an exhibition opening</b></sub><br><sub><code>exhibition-opening-guest-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rejection-feedback-request.svg" width="44" height="44" alt="Ask an agent or editor for brief feedback on a rejection"><br><sub><b>Ask an agent or editor for brief feedback on a rejection</b></sub><br><sub><code>rejection-feedback-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/mural-proposal-to-business.svg" width="44" height="44" alt="Propose painting a mural to a local business owner"><br><sub><b>Propose painting a mural to a local business owner</b></sub><br><sub><code>mural-proposal-to-business</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/portfolio-review-request.svg" width="44" height="44" alt="Ask an established artist to review your portfolio"><br><sub><b>Ask an established artist to review your portfolio</b></sub><br><sub><code>portfolio-review-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/editorial-correction-request.svg" width="44" height="44" alt="Ask a publication to correct a mistake about your work"><br><sub><b>Ask a publication to correct a mistake about your work</b></sub><br><sub><code>editorial-correction-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/commission-progress-update.svg" width="44" height="44" alt="Update a client on how their commissioned artwork is going"><br><sub><b>Update a client on how their commissioned artwork is going</b></sub><br><sub><code>commission-progress-update</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/catalogue-essay-invitation.svg" width="44" height="44" alt="Invite a writer to write an exhibition catalogue essay"><br><sub><b>Invite a writer to write an exhibition catalogue essay</b></sub><br><sub><code>catalogue-essay-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/art-fair-stand-enquiry.svg" width="44" height="44" alt="Ask an art fair about booking a stand"><br><sub><b>Ask an art fair about booking a stand</b></sub><br><sub><code>art-fair-stand-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/life-drawing-model-booking.svg" width="44" height="44" alt="Book a model for a life drawing session"><br><sub><b>Book a model for a life drawing session</b></sub><br><sub><code>life-drawing-model-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/framing-quote-request.svg" width="44" height="44" alt="Ask a framer for a quote to frame artwork"><br><sub><b>Ask a framer for a quote to frame artwork</b></sub><br><sub><code>framing-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/festival-reading-acceptance-reply.svg" width="44" height="44" alt="Accept an invitation to read at a literary festival"><br><sub><b>Accept an invitation to read at a literary festival</b></sub><br><sub><code>festival-reading-acceptance-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bookshop-local-author-stock-ask.svg" width="44" height="44" alt="Ask a local bookshop to stock your book"><br><sub><b>Ask a local bookshop to stock your book</b></sub><br><sub><code>bookshop-local-author-stock-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pop-up-exhibition-space-request.svg" width="44" height="44" alt="Ask to use an empty shop for a pop-up art show"><br><sub><b>Ask to use an empty shop for a pop-up art show</b></sub><br><sub><code>pop-up-exhibition-space-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/rehearsal-space-hire-enquiry.svg" width="44" height="44" alt="Ask about hiring a rehearsal room for your band or group"><br><sub><b>Ask about hiring a rehearsal room for your band or group</b></sub><br><sub><code>rehearsal-space-hire-enquiry</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/artwork-shipping-quote-request.svg" width="44" height="44" alt="Ask a shipper for a quote to send artwork safely"><br><sub><b>Ask a shipper for a quote to send artwork safely</b></sub><br><sub><code>artwork-shipping-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/venue-tech-rider-request.svg" width="44" height="44" alt="Ask a venue for its technical details before a show"><br><sub><b>Ask a venue for its technical details before a show</b></sub><br><sub><code>venue-tech-rider-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/bookshop-unsold-stock-return-request.svg" width="44" height="44" alt="Ask a bookshop to return or pay for your unsold books"><br><sub><b>Ask a bookshop to return or pay for your unsold books</b></sub><br><sub><code>bookshop-unsold-stock-return-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/art-class-booking-enquiry.svg" width="44" height="44" alt="Ask about booking a place on an art class"><br><sub><b>Ask about booking a place on an art class</b></sub><br><sub><code>art-class-booking-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cover-designer-thank-you.svg" width="44" height="44" alt="Thank a designer for your book cover"><br><sub><b>Thank a designer for your book cover</b></sub><br><sub><code>cover-designer-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-publisher-for-author-copies.svg" width="44" height="44" alt="Ask your publisher when your author copies will arrive"><br><sub><b>Ask your publisher when your author copies will arrive</b></sub><br><sub><code>ask-publisher-for-author-copies</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/manuscript-submission-withdrawal.svg" width="44" height="44" alt="Withdraw a manuscript you sent to an agent or publisher"><br><sub><b>Withdraw a manuscript you sent to an agent or publisher</b></sub><br><sub><code>manuscript-submission-withdrawal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/print-proof-correction-list.svg" width="44" height="44" alt="Send a list of corrections on a print proof"><br><sub><b>Send a list of corrections on a print proof</b></sub><br><sub><code>print-proof-correction-list</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/author-bio-update-request.svg" width="44" height="44" alt="Ask a publisher or website to update your author bio"><br><sub><b>Ask a publisher or website to update your author bio</b></sub><br><sub><code>author-bio-update-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/open-call-entry-fee-question.svg" width="44" height="44" alt="Ask an open call about its entry fee and selection terms"><br><sub><b>Ask an open call about its entry fee and selection terms</b></sub><br><sub><code>open-call-entry-fee-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/anthology-contributor-acceptance-reply.svg" width="44" height="44" alt="Accept an invitation to appear in an anthology"><br><sub><b>Accept an invitation to appear in an anthology</b></sub><br><sub><code>anthology-contributor-acceptance-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/festival-appearance-fee-query.svg" width="44" height="44" alt="Ask a festival about the fee and travel costs for your appearance"><br><sub><b>Ask a festival about the fee and travel costs for your appearance</b></sub><br><sub><code>festival-appearance-fee-query</code></sub></td>
 </tr>
 </table>
 

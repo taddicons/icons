@@ -1,6 +1,6 @@
 # Agreements and legal
 
-<sub>Taddicons 0.3.0 · Documents & messages · 71 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Simple agreements, consents and formal notices; complex matters go to a lawyer.
 
@@ -99,6 +99,31 @@ Simple agreements, consents and formal notices; complex matters go to a lawyer.
 <td align="center" width="16%"><img src="../svg/mark/consent-withdrawal-letter.svg" width="44" height="44" alt="Withdraw consent you gave earlier for your data or image"><br><sub><b>Withdraw consent you gave earlier for your data or image</b></sub><br><sub><code>consent-withdrawal-letter</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/home-cleaner-agreement.svg" width="44" height="44" alt="Simple agreement with a home cleaner"><br><sub><b>Simple agreement with a home cleaner</b></sub><br><sub><code>home-cleaner-agreement</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/loan-forgiveness-letter.svg" width="44" height="44" alt="Tell someone you are writing off money they owe you"><br><sub><b>Tell someone you are writing off money they owe you</b></sub><br><sub><code>loan-forgiveness-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/signed-document-receipt-confirmation.svg" width="44" height="44" alt="Confirm you received a signed agreement"><br><sub><b>Confirm you received a signed agreement</b></sub><br><sub><code>signed-document-receipt-confirmation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/original-document-safekeeping-request.svg" width="44" height="44" alt="Ask someone to keep an original document safe for you"><br><sub><b>Ask someone to keep an original document safe for you</b></sub><br><sub><code>original-document-safekeeping-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/agreement-end-notice-acknowledgement.svg" width="44" height="44" alt="Confirm you received notice that an agreement is ending"><br><sub><b>Confirm you received notice that an agreement is ending</b></sub><br><sub><code>agreement-end-notice-acknowledgement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/contract-change-decline-letter.svg" width="44" height="44" alt="Say no to a proposed change to your agreement"><br><sub><b>Say no to a proposed change to your agreement</b></sub><br><sub><code>contract-change-decline-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/meeting-recording-consent-request.svg" width="44" height="44" alt="Ask permission to record a meeting or call"><br><sub><b>Ask permission to record a meeting or call</b></sub><br><sub><code>meeting-recording-consent-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/co-owner-sale-consent-request.svg" width="44" height="44" alt="Ask a co-owner to agree to sell something you own together"><br><sub><b>Ask a co-owner to agree to sell something you own together</b></sub><br><sub><code>co-owner-sale-consent-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/unsigned-agreement-dispute-letter.svg" width="44" height="44" alt="Tell a company you never signed the agreement they hold"><br><sub><b>Tell a company you never signed the agreement they hold</b></sub><br><sub><code>unsigned-agreement-dispute-letter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/agreement-signing-arrangement.svg" width="44" height="44" alt="Arrange a time for both sides to sign an agreement"><br><sub><b>Arrange a time for both sides to sign an agreement</b></sub><br><sub><code>agreement-signing-arrangement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lawyer-first-meeting-request.svg" width="44" height="44" alt="Ask a lawyer for a first meeting about your matter"><br><sub><b>Ask a lawyer for a first meeting about your matter</b></sub><br><sub><code>lawyer-first-meeting-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lawyer-case-update-request.svg" width="44" height="44" alt="Ask your lawyer for an update on your case"><br><sub><b>Ask your lawyer for an update on your case</b></sub><br><sub><code>lawyer-case-update-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/solicitor-fee-estimate-request.svg" width="44" height="44" alt="Ask a law firm for a written estimate of their fees"><br><sub><b>Ask a law firm for a written estimate of their fees</b></sub><br><sub><code>solicitor-fee-estimate-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/document-signing-witness-request.svg" width="44" height="44" alt="Ask someone to witness you signing a document"><br><sub><b>Ask someone to witness you signing a document</b></sub><br><sub><code>document-signing-witness-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lawyer-bill-breakdown-request.svg" width="44" height="44" alt="Ask your lawyer for a full breakdown of a bill"><br><sub><b>Ask your lawyer for a full breakdown of a bill</b></sub><br><sub><code>lawyer-bill-breakdown-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/item-gift-confirmation-letter.svg" width="44" height="44" alt="Confirm in writing that an item was a gift, not a loan"><br><sub><b>Confirm in writing that an item was a gift, not a loan</b></sub><br><sub><code>item-gift-confirmation-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/witness-availability-dates-letter.svg" width="44" height="44" alt="Tell a lawyer or court office the dates a witness can attend"><br><sub><b>Tell a lawyer or court office the dates a witness can attend</b></sub><br><sub><code>witness-availability-dates-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/documents-sent-to-lawyer-cover-note.svg" width="44" height="44" alt="Cover note listing the documents you are sending to your lawyer"><br><sub><b>Cover note listing the documents you are sending to your lawyer</b></sub><br><sub><code>documents-sent-to-lawyer-cover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-letter-receipt-acknowledgement.svg" width="44" height="44" alt="Confirm you received a letter about a claim and ask for time to reply"><br><sub><b>Confirm you received a letter about a claim and ask for time to reply</b></sub><br><sub><code>claim-letter-receipt-acknowledgement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/data-access-request-chaser.svg" width="44" height="44" alt="Chase a request for your personal data that has had no reply"><br><sub><b>Chase a request for your personal data that has had no reply</b></sub><br><sub><code>data-access-request-chaser</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/company-legal-details-request.svg" width="44" height="44" alt="Ask a business for its full legal name and address for letters"><br><sub><b>Ask a business for its full legal name and address for letters</b></sub><br><sub><code>company-legal-details-request</code></sub></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 # Letters to companies
 
-<sub>Taddicons 0.3.0 · Documents & messages · 65 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Complaints, refunds, cancellations and your consumer rights, done properly.
 
@@ -91,6 +91,39 @@ Complaints, refunds, cancellations and your consumer rights, done properly.
 <td align="center" width="16%"><img src="../svg/mark/unrequested-goods-query.svg" width="44" height="44" alt="Tell a company you were sent goods you did not order"><br><sub><b>Tell a company you were sent goods you did not order</b></sub><br><sub><code>unrequested-goods-query</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/customer-service-callback-request.svg" width="44" height="44" alt="Ask a company to call you back about an open issue"><br><sub><b>Ask a company to call you back about an open issue</b></sub><br><sub><code>customer-service-callback-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/furniture-delivery-delay-complaint.svg" width="44" height="44" alt="Complain about a late furniture delivery"><br><sub><b>Complain about a late furniture delivery</b></sub><br><sub><code>furniture-delivery-delay-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/installer-no-show-complaint.svg" width="44" height="44" alt="Complain that an installer did not turn up on the booked day"><br><sub><b>Complain that an installer did not turn up on the booked day</b></sub><br><sub><code>installer-no-show-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/course-booking-refund-request.svg" width="44" height="44" alt="Ask for a refund when a paid course is cancelled or changed"><br><sub><b>Ask for a refund when a paid course is cancelled or changed</b></sub><br><sub><code>course-booking-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tradesperson-deposit-return-request.svg" width="44" height="44" alt="Ask a tradesperson to return a deposit for work not started"><br><sub><b>Ask a tradesperson to return a deposit for work not started</b></sub><br><sub><code>tradesperson-deposit-return-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/repeat-fault-after-repair-complaint.svg" width="44" height="44" alt="Complain that the same fault came back after a repair"><br><sub><b>Complain that the same fault came back after a repair</b></sub><br><sub><code>repeat-fault-after-repair-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/misdescribed-second-hand-item-complaint.svg" width="44" height="44" alt="Complain that a second-hand item was not as described"><br><sub><b>Complain that a second-hand item was not as described</b></sub><br><sub><code>misdescribed-second-hand-item-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/cancelled-event-ticket-refund-request.svg" width="44" height="44" alt="Ask for a refund when an event you booked is cancelled"><br><sub><b>Ask for a refund when an event you booked is cancelled</b></sub><br><sub><code>cancelled-event-ticket-refund-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/parcel-left-unsafe-claim.svg" width="44" height="44" alt="Complain that a parcel was left in an unsafe place"><br><sub><b>Complain that a parcel was left in an unsafe place</b></sub><br><sub><code>parcel-left-unsafe-claim</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/meter-reading-correction-request.svg" width="44" height="44" alt="Ask a supplier to correct a wrong meter reading on your bill"><br><sub><b>Ask a supplier to correct a wrong meter reading on your bill</b></sub><br><sub><code>meter-reading-correction-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/personalised-item-error-complaint.svg" width="44" height="44" alt="Personalised item error: complain about a misspelt or wrong custom order"><br><sub><b>Personalised item error: complain about a misspelt or wrong custom order</b></sub><br><sub><code>personalised-item-error-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/furniture-assembly-service-complaint.svg" width="44" height="44" alt="Furniture assembly complaint: report poor work by an assembly service"><br><sub><b>Furniture assembly complaint: report poor work by an assembly service</b></sub><br><sub><code>furniture-assembly-service-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tailor-alteration-complaint.svg" width="44" height="44" alt="Clothing alteration complaint: raise a problem with a tailor's work"><br><sub><b>Clothing alteration complaint: raise a problem with a tailor's work</b></sub><br><sub><code>tailor-alteration-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/mattress-trial-return-request.svg" width="44" height="44" alt="Mattress trial return: send back a mattress within the sleep trial"><br><sub><b>Mattress trial return: send back a mattress within the sleep trial</b></sub><br><sub><code>mattress-trial-return-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/flower-delivery-complaint.svg" width="44" height="44" alt="Flower delivery complaint: flowers arrived late, wilted or wrong"><br><sub><b>Flower delivery complaint: flowers arrived late, wilted or wrong</b></sub><br><sub><code>flower-delivery-complaint</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/locksmith-overcharge-complaint.svg" width="44" height="44" alt="Locksmith overcharge complaint: query a bill far above the quote"><br><sub><b>Locksmith overcharge complaint: query a bill far above the quote</b></sub><br><sub><code>locksmith-overcharge-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/purchase-receipt-copy-request.svg" width="44" height="44" alt="Ask a shop for a copy of your purchase receipt"><br><sub><b>Ask a shop for a copy of your purchase receipt</b></sub><br><sub><code>purchase-receipt-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/loyalty-account-closure-request.svg" width="44" height="44" alt="Close a loyalty card account and remove your details"><br><sub><b>Close a loyalty card account and remove your details</b></sub><br><sub><code>loyalty-account-closure-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/noisy-appliance-complaint.svg" width="44" height="44" alt="Complain about a new appliance that is too noisy"><br><sub><b>Complain about a new appliance that is too noisy</b></sub><br><sub><code>noisy-appliance-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/subscription-box-skip-request.svg" width="44" height="44" alt="Skip a delivery from a subscription box"><br><sub><b>Skip a delivery from a subscription box</b></sub><br><sub><code>subscription-box-skip-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/no-show-fee-dispute.svg" width="44" height="44" alt="Dispute a missed-appointment fee"><br><sub><b>Dispute a missed-appointment fee</b></sub><br><sub><code>no-show-fee-dispute</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/parcel-delivered-wrong-address-report.svg" width="44" height="44" alt="Report a parcel marked delivered to the wrong address"><br><sub><b>Report a parcel marked delivered to the wrong address</b></sub><br><sub><code>parcel-delivered-wrong-address-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/own-review-taken-down-query.svg" width="44" height="44" alt="Ask a website why your honest product review was removed"><br><sub><b>Ask a website why your honest product review was removed</b></sub><br><sub><code>own-review-taken-down-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/item-sold-as-new-but-used-complaint.svg" width="44" height="44" alt="Complain that an item sold as new looks used"><br><sub><b>Complain that an item sold as new looks used</b></sub><br><sub><code>item-sold-as-new-but-used-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/product-skin-reaction-report.svg" width="44" height="44" alt="Report a skin reaction to a beauty or skincare product"><br><sub><b>Report a skin reaction to a beauty or skincare product</b></sub><br><sub><code>product-skin-reaction-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/long-phone-queue-complaint.svg" width="44" height="44" alt="Complain about long phone queues when you try to reach a company"><br><sub><b>Complain about long phone queues when you try to reach a company</b></sub><br><sub><code>long-phone-queue-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/door-to-door-sales-stop-request.svg" width="44" height="44" alt="Ask a company to stop sending sales staff to your door"><br><sub><b>Ask a company to stop sending sales staff to your door</b></sub><br><sub><code>door-to-door-sales-stop-request</code></sub></td>
 </tr>
 </table>
 

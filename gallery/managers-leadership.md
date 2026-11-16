@@ -1,6 +1,6 @@
 # Managers and leaders
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Feedback, warnings, hiring decisions, team news, one-to-ones and speeches for people who lead a team.
 
@@ -88,6 +88,42 @@ Feedback, warnings, hiring decisions, team news, one-to-ones and speeches for pe
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/workload-rebalance-message.svg" width="44" height="44" alt="Tell a team member you are moving some of their work"><br><sub><b>Tell a team member you are moving some of their work</b></sub><br><sub><code>workload-rebalance-message</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/absence-reporting-rules-reminder.svg" width="44" height="44" alt="Remind your team how to report sickness and absence"><br><sub><b>Remind your team how to report sickness and absence</b></sub><br><sub><code>absence-reporting-rules-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/return-to-office-plan-note.svg" width="44" height="44" alt="Share the team's plan for coming back to the office"><br><sub><b>Share the team's plan for coming back to the office</b></sub><br><sub><code>return-to-office-plan-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-manager-90-day-plan-share.svg" width="44" height="44" alt="Share your first 90-day plan as a new manager"><br><sub><b>Share your first 90-day plan as a new manager</b></sub><br><sub><code>new-manager-90-day-plan-share</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-recognition-nominations-call.svg" width="44" height="44" alt="Ask the team to nominate colleagues for recognition"><br><sub><b>Ask the team to nominate colleagues for recognition</b></sub><br><sub><code>team-recognition-nominations-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-on-call-rota-note.svg" width="44" height="44" alt="Share the on-call rota with your team"><br><sub><b>Share the on-call rota with your team</b></sub><br><sub><code>team-on-call-rota-note</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/manager-leaving-team-announcement.svg" width="44" height="44" alt="Tell your team you are leaving your manager role"><br><sub><b>Tell your team you are leaving your manager role</b></sub><br><sub><code>manager-leaving-team-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/extra-headcount-request.svg" width="44" height="44" alt="Ask senior leaders to approve a new hire for your team"><br><sub><b>Ask senior leaders to approve a new hire for your team</b></sub><br><sub><code>extra-headcount-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/career-growth-conversation-invite.svg" width="44" height="44" alt="Invite a team member to talk about their career growth"><br><sub><b>Invite a team member to talk about their career growth</b></sub><br><sub><code>career-growth-conversation-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-working-agreement-draft.svg" width="44" height="44" alt="Draft a team working agreement for comment"><br><sub><b>Draft a team working agreement for comment</b></sub><br><sub><code>team-working-agreement-draft</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-take-remaining-leave.svg" width="44" height="44" alt="Ask your team to take their remaining annual leave"><br><sub><b>Ask your team to take their remaining annual leave</b></sub><br><sub><code>team-take-remaining-leave</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-finish-required-training.svg" width="44" height="44" alt="Remind your team to finish required training"><br><sub><b>Remind your team to finish required training</b></sub><br><sub><code>team-finish-required-training</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/team-fill-in-skills-list.svg" width="44" height="44" alt="Ask your team to fill in a skills list"><br><sub><b>Ask your team to fill in a skills list</b></sub><br><sub><code>team-fill-in-skills-list</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/farewell-leaving-team-member.svg" width="44" height="44" alt="Farewell message to a team member who is leaving"><br><sub><b>Farewell message to a team member who is leaving</b></sub><br><sub><code>farewell-leaving-team-member</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-hire-team-heads-up.svg" width="44" height="44" alt="Let your team know a new person is joining next week"><br><sub><b>Let your team know a new person is joining next week</b></sub><br><sub><code>new-hire-team-heads-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/deadline-status-check-team.svg" width="44" height="44" alt="Ask your team for a quick status update before a deadline"><br><sub><b>Ask your team for a quick status update before a deadline</b></sub><br><sub><code>deadline-status-check-team</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/incident-response-team-thanks.svg" width="44" height="44" alt="Thank your team after they handled an urgent problem"><br><sub><b>Thank your team after they handled an urgent problem</b></sub><br><sub><code>incident-response-team-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-hackathon-invite.svg" width="44" height="44" alt="Invite your team to an internal hack day"><br><sub><b>Invite your team to an internal hack day</b></sub><br><sub><code>team-hackathon-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/expense-policy-reminder-team.svg" width="44" height="44" alt="Remind your team how to claim work expenses"><br><sub><b>Remind your team how to claim work expenses</b></sub><br><sub><code>expense-policy-reminder-team</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/stay-interview-invite.svg" width="44" height="44" alt="Invite a team member to a stay conversation about their job"><br><sub><b>Invite a team member to a stay conversation about their job</b></sub><br><sub><code>stay-interview-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/acting-manager-cover-announcement.svg" width="44" height="44" alt="Tell the team who leads while you are away"><br><sub><b>Tell the team who leads while you are away</b></sub><br><sub><code>acting-manager-cover-announcement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/conference-attendance-approval-note.svg" width="44" height="44" alt="Approve a team member's trip to a conference"><br><sub><b>Approve a team member's trip to a conference</b></sub><br><sub><code>conference-attendance-approval-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/review-cycle-peer-feedback-request.svg" width="44" height="44" alt="Ask colleagues for feedback on a team member's year"><br><sub><b>Ask colleagues for feedback on a team member's year</b></sub><br><sub><code>review-cycle-peer-feedback-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/team-knowledge-share-session-invite.svg" width="44" height="44" alt="Invite the team to a short knowledge-share session"><br><sub><b>Invite the team to a short knowledge-share session</b></sub><br><sub><code>team-knowledge-share-session-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/idea-not-taken-forward-reply.svg" width="44" height="44" alt="Tell a team member their idea will not go ahead, and why"><br><sub><b>Tell a team member their idea will not go ahead, and why</b></sub><br><sub><code>idea-not-taken-forward-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-to-present-to-leadership.svg" width="44" height="44" alt="Invite a team member to present their work to senior leaders"><br><sub><b>Invite a team member to present their work to senior leaders</b></sub><br><sub><code>invite-to-present-to-leadership</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-tool-pilot-volunteers-call.svg" width="44" height="44" alt="Ask your team for volunteers to try out a new tool first"><br><sub><b>Ask your team for volunteers to try out a new tool first</b></sub><br><sub><code>new-tool-pilot-volunteers-call</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-team-member-to-join-interview-panel.svg" width="44" height="44" alt="Ask a team member to sit on an interview panel"><br><sub><b>Ask a team member to sit on an interview panel</b></sub><br><sub><code>ask-team-member-to-join-interview-panel</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-team-to-review-a-draft-plan.svg" width="44" height="44" alt="Ask your team to review a draft plan before it is final"><br><sub><b>Ask your team to review a draft plan before it is final</b></sub><br><sub><code>ask-team-to-review-a-draft-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-a-manager-their-report-did-great-work.svg" width="44" height="44" alt="Tell another manager that someone on their team did great work"><br><sub><b>Tell another manager that someone on their team did great work</b></sub><br><sub><code>tell-a-manager-their-report-did-great-work</code></sub></td>
 </tr>
 </table>
 

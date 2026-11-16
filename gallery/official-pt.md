@@ -1,6 +1,6 @@
 # Official letters, Portugal
 
-<sub>Taddicons 0.3.0 · Documents & messages · 72 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Portugal most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities, school and neighbours, written in correct European Portuguese.
 
@@ -100,6 +100,30 @@ The official letters people in Portugal most often need: tenancy, work, tax and 
 <td align="center" width="16%"><img src="../svg/mark/pt-reuniao-diretor-turma.svg" width="44" height="44" alt="Pedido de reunião com o diretor de turma: meet the class teacher (Portugal)"><br><sub><b>Pedido de reunião com o diretor de turma: meet the class teacher (Portugal)</b></sub><br><sub><code>pt-reuniao-diretor-turma</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/pt-reavaliacao-escalao-ase.svg" width="44" height="44" alt="Reavaliação do escalão da ASE: reassess school support (Portugal)"><br><sub><b>Reavaliação do escalão da ASE: reassess school support (Portugal)</b></sub><br><sub><code>pt-reavaliacao-escalao-ase</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/pt-autorizacao-saida-escola.svg" width="44" height="44" alt="Autorização de saída da escola: let your child leave school (Portugal)"><br><sub><b>Autorização de saída da escola: let your child leave school (Portugal)</b></sub><br><sub><code>pt-autorizacao-saida-escola</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pt-licenca-sem-vencimento.svg" width="44" height="44" alt="Licença sem retribuição: ask for unpaid leave (Portugal)"><br><sub><b>Licença sem retribuição: ask for unpaid leave (Portugal)</b></sub><br><sub><code>pt-licenca-sem-vencimento</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-pedido-animal-domestico.svg" width="44" height="44" alt="Pedido de animal de companhia: ask the landlord to keep a pet (Portugal)"><br><sub><b>Pedido de animal de companhia: ask the landlord to keep a pet (Portugal)</b></sub><br><sub><code>pt-pedido-animal-domestico</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-pedido-extrato-bancario.svg" width="44" height="44" alt="Pedido de extratos: ask the bank for account statements (Portugal)"><br><sub><b>Pedido de extratos: ask the bank for account statements (Portugal)</b></sub><br><sub><code>pt-pedido-extrato-bancario</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-dispensa-educacao-fisica.svg" width="44" height="44" alt="Dispensa de Educação Física: excuse a pupil from PE (Portugal)"><br><sub><b>Dispensa de Educação Física: excuse a pupil from PE (Portugal)</b></sub><br><sub><code>pt-dispensa-educacao-fisica</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-acesso-predio-vizinho.svg" width="44" height="44" alt="Pedido de acesso: ask a neighbour access for repairs (Portugal)"><br><sub><b>Pedido de acesso: ask a neighbour access for repairs (Portugal)</b></sub><br><sub><code>pt-acesso-predio-vizinho</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-pedido-copia-apolice.svg" width="44" height="44" alt="Pedido de cópia da apólice: ask the insurer for a copy (Portugal)"><br><sub><b>Pedido de cópia da apólice: ask the insurer for a copy (Portugal)</b></sub><br><sub><code>pt-pedido-copia-apolice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pt-pedido-certidao-registo-civil.svg" width="44" height="44" alt="Pedido de certidão: ask the civil registry for a certificate (Portugal)"><br><sub><b>Pedido de certidão: ask the civil registry for a certificate (Portugal)</b></sub><br><sub><code>pt-pedido-certidao-registo-civil</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-alteracao-iban-vencimento.svg" width="44" height="44" alt="Alteração de IBAN: give your employer a new salary account (Portugal)"><br><sub><b>Alteração de IBAN: give your employer a new salary account (Portugal)</b></sub><br><sub><code>pt-alteracao-iban-vencimento</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-reembolso-atraso-comboio.svg" width="44" height="44" alt="Reembolso por atraso: ask a rail operator for delay compensation (Portugal)"><br><sub><b>Reembolso por atraso: ask a rail operator for delay compensation (Portugal)</b></sub><br><sub><code>pt-reembolso-atraso-comboio</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-reembolso-premio-seguro.svg" width="44" height="44" alt="Estorno de prémio: ask an insurer to refund the unused premium (Portugal)"><br><sub><b>Estorno de prémio: ask an insurer to refund the unused premium (Portugal)</b></sub><br><sub><code>pt-reembolso-premio-seguro</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-pedido-vistoria-saida.svg" width="44" height="44" alt="Vistoria de saída: set the move-out inspection with the landlord (Portugal)"><br><sub><b>Vistoria de saída: set the move-out inspection with the landlord (Portugal)</b></sub><br><sub><code>pt-pedido-vistoria-saida</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-acesso-documentos-lada.svg" width="44" height="44" alt="Acesso a documentos: ask a public body for administrative records (Portugal)"><br><sub><b>Acesso a documentos: ask a public body for administrative records (Portugal)</b></sub><br><sub><code>pt-acesso-documentos-lada</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pt-declaracao-rendimentos-empregador.svg" width="44" height="44" alt="Declaração de rendimentos: get your yearly pay and tax statement (Portugal)"><br><sub><b>Declaração de rendimentos: get your yearly pay and tax statement (Portugal)</b></sub><br><sub><code>pt-declaracao-rendimentos-empregador</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-comunicacao-obito-banco.svg" width="44" height="44" alt="Comunicação de óbito: tell a bank an account holder has died (Portugal)"><br><sub><b>Comunicação de óbito: tell a bank an account holder has died (Portugal)</b></sub><br><sub><code>pt-comunicacao-obito-banco</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-pedido-copia-ata-condominio.svg" width="44" height="44" alt="Ata do condomínio: ask the administrator for a copy of the minutes (Portugal)"><br><sub><b>Ata do condomínio: ask the administrator for a copy of the minutes (Portugal)</b></sub><br><sub><code>pt-pedido-copia-ata-condominio</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-dispensa-amamentacao.svg" width="44" height="44" alt="Dispensa para amamentação: ask for breastfeeding time at work (Portugal)"><br><sub><b>Dispensa para amamentação: ask for breastfeeding time at work (Portugal)</b></sub><br><sub><code>pt-dispensa-amamentacao</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-cessacao-contrato-energia.svg" width="44" height="44" alt="Cessação de contrato: end a power, gas or water supply on moving out (Portugal)"><br><sub><b>Cessação de contrato: end a power, gas or water supply on moving out (Portugal)</b></sub><br><sub><code>pt-cessacao-contrato-energia</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pt-cancelamento-cartao-credito.svg" width="44" height="44" alt="Cancelamento de cartão de crédito: cancel a credit card (Portugal)"><br><sub><b>Cancelamento de cartão de crédito: cancel a credit card (Portugal)</b></sub><br><sub><code>pt-cancelamento-cartao-credito</code></sub></td>
 </tr>
 </table>
 

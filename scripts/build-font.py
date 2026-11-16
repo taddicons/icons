@@ -132,7 +132,11 @@ def main():
     def seq(name: str) -> str:
         return " ".join("hyphen" if ch == "-" else letter_names[ch] for ch in name)
 
-    rules = "\n".join(f"  sub {seq(i['name'])} by {glyph_name(i['name'])};" for i in sorted(icons, key=lambda x: -len(x["name"])))
+    # Longest names first, so "birthday-card-thanks" wins over "birthday-card". With 15,000+ names one ligature subtable
+    # passes the 64 KB offset limit and fontTools spends hours resolving the overflow, so the rules are split into
+    # subtables of 1,000; a shaper tries them in order, so the longest-first order still holds.
+    ordered = [f"  sub {seq(i['name'])} by {glyph_name(i['name'])};" for i in sorted(icons, key=lambda x: -len(x["name"]))]
+    rules = "\n".join(r + ("\n  subtable;" if (k + 1) % 1000 == 0 and k + 1 < len(ordered) else "") for k, r in enumerate(ordered))
     addOpenTypeFeaturesFromString(fb.font, f"languagesystem DFLT dflt;\nlanguagesystem latn dflt;\nfeature liga {{\n{rules}\n}} liga;\n")
 
     out = ROOT / "font"

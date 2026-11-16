@@ -1,6 +1,6 @@
 # Teachers and educators
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes to parents, newsletters, praise and concern notes, report comments, trip letters and the everyday writing of a classroom.
 
@@ -83,6 +83,47 @@ Notes to parents, newsletters, praise and concern notes, report comments, trip l
 <td align="center" width="16%"><img src="../svg/mark/spelling-list-note-home.svg" width="44" height="44" alt="Send this week's spelling words home"><br><sub><b>Send this week's spelling words home</b></sub><br><sub><code>spelling-list-note-home</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/field-trip-helper-briefing.svg" width="44" height="44" alt="Brief parent helpers before a school trip"><br><sub><b>Brief parent helpers before a school trip</b></sub><br><sub><code>field-trip-helper-briefing</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/pupil-achievement-certificate.svg" width="44" height="44" alt="Write a certificate for a pupil's achievement"><br><sub><b>Write a certificate for a pupil's achievement</b></sub><br><sub><code>pupil-achievement-certificate</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teacher-goodbye-letter-families.svg" width="44" height="44" alt="Say goodbye to your class families when you leave the school"><br><sub><b>Say goodbye to your class families when you leave the school</b></sub><br><sub><code>teacher-goodbye-letter-families</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/homework-platform-login-note.svg" width="44" height="44" alt="Tell families how to log in to the online homework site"><br><sub><b>Tell families how to log in to the online homework site</b></sub><br><sub><code>homework-platform-login-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-blog-launch-note.svg" width="44" height="44" alt="Tell families about your new class blog and photo rules"><br><sub><b>Tell families about your new class blog and photo rules</b></sub><br><sub><code>class-blog-launch-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/after-school-club-closing-notice.svg" width="44" height="44" alt="Tell families an after-school club is ending"><br><sub><b>Tell families an after-school club is ending</b></sub><br><sub><code>after-school-club-closing-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-topic-letter-home.svg" width="44" height="44" alt="Tell families about the new topic their class is starting"><br><sub><b>Tell families about the new topic their class is starting</b></sub><br><sub><code>new-topic-letter-home</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-family-feedback-survey.svg" width="44" height="44" alt="Ask families to fill in a short class survey"><br><sub><b>Ask families to fill in a short class survey</b></sub><br><sub><code>class-family-feedback-survey</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/peer-observation-request.svg" width="44" height="44" alt="Ask a colleague to watch one of your lessons"><br><sub><b>Ask a colleague to watch one of your lessons</b></sub><br><sub><code>peer-observation-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/class-reward-system-note.svg" width="44" height="44" alt="Explain the class reward system to families"><br><sub><b>Explain the class reward system to families</b></sub><br><sub><code>class-reward-system-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lost-property-note-home.svg" width="44" height="44" alt="Note home asking families to check for lost class items"><br><sub><b>Note home asking families to check for lost class items</b></sub><br><sub><code>lost-property-note-home</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/homework-extension-reply.svg" width="44" height="44" alt="Reply to a family asking for more time on homework"><br><sub><b>Reply to a family asking for more time on homework</b></sub><br><sub><code>homework-extension-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-video-consent-request.svg" width="44" height="44" alt="Ask families for consent before filming a class activity"><br><sub><b>Ask families for consent before filming a class activity</b></sub><br><sub><code>class-video-consent-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-visitor-speaker-invite.svg" width="44" height="44" alt="Invite a parent to talk to the class about their job"><br><sub><b>Invite a parent to talk to the class about their job</b></sub><br><sub><code>class-visitor-speaker-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/next-year-class-teacher-intro.svg" width="44" height="44" alt="Tell families who will teach their child next year"><br><sub><b>Tell families who will teach their child next year</b></sub><br><sub><code>next-year-class-teacher-intro</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/teacher-job-cover-letter.svg" width="44" height="44" alt="Cover letter for a teaching job"><br><sub><b>Cover letter for a teaching job</b></sub><br><sub><code>teacher-job-cover-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/attendance-concern-letter-home.svg" width="44" height="44" alt="Raise a concern about a pupil's attendance with the family"><br><sub><b>Raise a concern about a pupil's attendance with the family</b></sub><br><sub><code>attendance-concern-letter-home</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/exam-access-arrangements-note.svg" width="44" height="44" alt="Tell families about exam access arrangements such as extra time"><br><sub><b>Tell families about exam access arrangements such as extra time</b></sub><br><sub><code>exam-access-arrangements-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-fundraiser-results-note.svg" width="44" height="44" alt="Tell families how much the class fundraiser raised"><br><sub><b>Tell families how much the class fundraiser raised</b></sub><br><sub><code>class-fundraiser-results-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lesson-cover-request-colleague.svg" width="44" height="44" alt="Ask a colleague to cover your lesson"><br><sub><b>Ask a colleague to cover your lesson</b></sub><br><sub><code>lesson-cover-request-colleague</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/family-learning-workshop-invite.svg" width="44" height="44" alt="Invite families to a reading or maths workshop"><br><sub><b>Invite families to a reading or maths workshop</b></sub><br><sub><code>family-learning-workshop-invite</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/pupil-leaving-goodbye-card.svg" width="44" height="44" alt="Write a goodbye card for a pupil leaving the class"><br><sub><b>Write a goodbye card for a pupil leaving the class</b></sub><br><sub><code>pupil-leaving-goodbye-card</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trainee-teacher-welcome-note.svg" width="44" height="44" alt="Welcome a trainee teacher to your class"><br><sub><b>Welcome a trainee teacher to your class</b></sub><br><sub><code>trainee-teacher-welcome-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-trip-host-thanks.svg" width="44" height="44" alt="Thank the place that hosted your school trip"><br><sub><b>Thank the place that hosted your school trip</b></sub><br><sub><code>school-trip-host-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teacher-leave-request-to-head.svg" width="44" height="44" alt="Ask the head teacher for a day of leave"><br><sub><b>Ask the head teacher for a day of leave</b></sub><br><sub><code>teacher-leave-request-to-head</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-recipe-book-request.svg" width="44" height="44" alt="Ask families for recipes for a class recipe book"><br><sub><b>Ask families for recipes for a class recipe book</b></sub><br><sub><code>class-recipe-book-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-charity-project-letter.svg" width="44" height="44" alt="Tell families about a class charity project"><br><sub><b>Tell families about a class charity project</b></sub><br><sub><code>class-charity-project-letter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/marking-moderation-request.svg" width="44" height="44" alt="Ask a colleague to moderate marking"><br><sub><b>Ask a colleague to moderate marking</b></sub><br><sub><code>marking-moderation-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/class-allergy-aware-letter-home.svg" width="44" height="44" alt="Allergy-aware classroom letter home"><br><sub><b>Allergy-aware classroom letter home</b></sub><br><sub><code>class-allergy-aware-letter-home</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/pupil-transition-meeting-request.svg" width="44" height="44" alt="Transition meeting request with a previous setting"><br><sub><b>Transition meeting request with a previous setting</b></sub><br><sub><code>pupil-transition-meeting-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/break-duty-swap-request.svg" width="44" height="44" alt="Ask a colleague to swap a break duty"><br><sub><b>Ask a colleague to swap a break duty</b></sub><br><sub><code>break-duty-swap-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/teacher-marking-deadline-extension-request.svg" width="44" height="44" alt="Ask your head of department for more time to mark"><br><sub><b>Ask your head of department for more time to mark</b></sub><br><sub><code>teacher-marking-deadline-extension-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/forest-school-kit-letter-home.svg" width="44" height="44" alt="Tell families what to send for forest school"><br><sub><b>Tell families what to send for forest school</b></sub><br><sub><code>forest-school-kit-letter-home</code></sub></td>
 </tr>
 </table>
 

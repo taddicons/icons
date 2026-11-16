@@ -1,6 +1,6 @@
 # Healthcare professionals
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes from clinicians and care staff: reminders, referrals, handovers, results, rotas, student placements, thanks and replies to complaints.
 
@@ -88,6 +88,42 @@ Notes from clinicians and care staff: reminders, referrals, handovers, results, 
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/tell-patients-a-new-clinician-has-joined.svg" width="44" height="44" alt="Tell patients a new clinician has joined"><br><sub><b>Tell patients a new clinician has joined</b></sub><br><sub><code>tell-patients-a-new-clinician-has-joined</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/remind-team-about-patient-privacy.svg" width="44" height="44" alt="Remind the team about patient privacy"><br><sub><b>Remind the team about patient privacy</b></sub><br><sub><code>remind-team-about-patient-privacy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-patient-consent-to-share-with-family.svg" width="44" height="44" alt="Ask a patient whether you may share updates with their family"><br><sub><b>Ask a patient whether you may share updates with their family</b></sub><br><sub><code>ask-patient-consent-to-share-with-family</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinic-moving-notice-for-patients.svg" width="44" height="44" alt="Tell patients the clinic is moving to a new address"><br><sub><b>Tell patients the clinic is moving to a new address</b></sub><br><sub><code>clinic-moving-notice-for-patients</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/prescription-ready-to-collect-message.svg" width="44" height="44" alt="Tell a patient their prescription is ready to collect"><br><sub><b>Tell a patient their prescription is ready to collect</b></sub><br><sub><code>prescription-ready-to-collect-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-colleague-to-review-a-case.svg" width="44" height="44" alt="Ask a colleague for a second look at a patient's case"><br><sub><b>Ask a colleague for a second look at a patient's case</b></sub><br><sub><code>ask-colleague-to-review-a-case</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/request-records-from-previous-practice.svg" width="44" height="44" alt="Ask a patient's previous practice to send their records"><br><sub><b>Ask a patient's previous practice to send their records</b></sub><br><sub><code>request-records-from-previous-practice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinical-photo-consent-request.svg" width="44" height="44" alt="Ask a patient for consent to take clinical photos"><br><sub><b>Ask a patient for consent to take clinical photos</b></sub><br><sub><code>clinical-photo-consent-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinic-equipment-fault-report.svg" width="44" height="44" alt="Report broken clinic equipment to facilities"><br><sub><b>Report broken clinic equipment to facilities</b></sub><br><sub><code>clinic-equipment-fault-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/prescription-query-to-pharmacy.svg" width="44" height="44" alt="Ask a pharmacy to check a prescription query"><br><sub><b>Ask a pharmacy to check a prescription query</b></sub><br><sub><code>prescription-query-to-pharmacy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/patient-bring-medicines-to-visit.svg" width="44" height="44" alt="Ask a patient to bring their medicines to the visit"><br><sub><b>Ask a patient to bring their medicines to the visit</b></sub><br><sub><code>patient-bring-medicines-to-visit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-colleagues-case-review.svg" width="44" height="44" alt="Invite colleagues to a case review meeting"><br><sub><b>Invite colleagues to a case review meeting</b></sub><br><sub><code>invite-colleagues-case-review</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/patients-new-repeat-prescription-ordering.svg" width="44" height="44" alt="Tell patients about a new way to order repeat prescriptions"><br><sub><b>Tell patients about a new way to order repeat prescriptions</b></sub><br><sub><code>patients-new-repeat-prescription-ordering</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-colleague-covered-shift.svg" width="44" height="44" alt="Thank a colleague who covered your shift"><br><sub><b>Thank a colleague who covered your shift</b></sub><br><sub><code>thank-colleague-covered-shift</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/clinic-phone-line-down-notice.svg" width="44" height="44" alt="Tell patients the clinic phone line is down"><br><sub><b>Tell patients the clinic phone line is down</b></sub><br><sub><code>clinic-phone-line-down-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/discharge-from-service-letter.svg" width="44" height="44" alt="Letter telling a patient their care with the service has ended"><br><sub><b>Letter telling a patient their care with the service has ended</b></sub><br><sub><code>discharge-from-service-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remind-patients-to-cancel-unwanted-appointments.svg" width="44" height="44" alt="Ask patients to cancel appointments they no longer need"><br><sub><b>Ask patients to cancel appointments they no longer need</b></sub><br><sub><code>remind-patients-to-cancel-unwanted-appointments</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-patient-to-complete-a-health-questionnaire.svg" width="44" height="44" alt="Ask a patient to fill in a health questionnaire before a visit"><br><sub><b>Ask a patient to fill in a health questionnaire before a visit</b></sub><br><sub><code>ask-patient-to-complete-a-health-questionnaire</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/chaperone-offer-notice-for-patients.svg" width="44" height="44" alt="Let patients know they can ask for a chaperone"><br><sub><b>Let patients know they can ask for a chaperone</b></sub><br><sub><code>chaperone-offer-notice-for-patients</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hcp-screening-invite.svg" width="44" height="44" alt="Invite a patient to book a screening test"><br><sub><b>Invite a patient to book a screening test</b></sub><br><sub><code>hcp-screening-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hcp-video-visit-notice.svg" width="44" height="44" alt="Tell a patient their visit will be by video call"><br><sub><b>Tell a patient their visit will be by video call</b></sub><br><sub><code>hcp-video-visit-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hcp-urgent-supplies-order.svg" width="44" height="44" alt="Ask a supplier for an urgent restock of clinic supplies"><br><sub><b>Ask a supplier for an urgent restock of clinic supplies</b></sub><br><sub><code>hcp-urgent-supplies-order</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hcp-repeat-test-notice.svg" width="44" height="44" alt="Tell a patient a test needs to be repeated"><br><sub><b>Tell a patient a test needs to be repeated</b></sub><br><sub><code>hcp-repeat-test-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hcp-team-ideas-waiting-times.svg" width="44" height="44" alt="Ask the team for ideas to cut patient waiting times"><br><sub><b>Ask the team for ideas to cut patient waiting times</b></sub><br><sub><code>hcp-team-ideas-waiting-times</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-patient-to-return-a-sample-kit.svg" width="44" height="44" alt="Remind a patient to return their test sample kit"><br><sub><b>Remind a patient to return their test sample kit</b></sub><br><sub><code>ask-patient-to-return-a-sample-kit</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remind-team-about-mandatory-training-deadline.svg" width="44" height="44" alt="Remind the care team about a mandatory training deadline"><br><sub><b>Remind the care team about a mandatory training deadline</b></sub><br><sub><code>remind-team-about-mandatory-training-deadline</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-patients-to-join-a-patient-group.svg" width="44" height="44" alt="Invite patients to join the clinic's patient group"><br><sub><b>Invite patients to join the clinic's patient group</b></sub><br><sub><code>invite-patients-to-join-a-patient-group</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-patient-their-appointment-has-moved-to-another-site.svg" width="44" height="44" alt="Tell a patient their appointment has moved to another site"><br><sub><b>Tell a patient their appointment has moved to another site</b></sub><br><sub><code>tell-patient-their-appointment-has-moved-to-another-site</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-patient-if-they-still-need-their-waiting-list-place.svg" width="44" height="44" alt="Ask a patient whether they still need their waiting list place"><br><sub><b>Ask a patient whether they still need their waiting list place</b></sub><br><sub><code>ask-patient-if-they-still-need-their-waiting-list-place</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-carer-to-a-care-planning-meeting.svg" width="44" height="44" alt="Invite a family carer to a care planning meeting"><br><sub><b>Invite a family carer to a care planning meeting</b></sub><br><sub><code>invite-carer-to-a-care-planning-meeting</code></sub></td>
 </tr>
 </table>
 

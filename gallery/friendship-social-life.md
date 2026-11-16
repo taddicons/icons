@@ -1,6 +1,6 @@
 # Friendship and social life
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Making and changing plans, saying sorry, staying close from far away, hosting, and looking after friendships.
 
@@ -88,6 +88,42 @@ Making and changing plans, saying sorry, staying close from far away, hosting, a
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/suggest-cheaper-plans-with-friends.svg" width="44" height="44" alt="Suggest cheaper plans with friends"><br><sub><b>Suggest cheaper plans with friends</b></sub><br><sub><code>suggest-cheaper-plans-with-friends</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-friend-to-be-walking-buddy.svg" width="44" height="44" alt="Ask a friend to be your walking or running buddy"><br><sub><b>Ask a friend to be your walking or running buddy</b></sub><br><sub><code>ask-friend-to-be-walking-buddy</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-drop-a-joke.svg" width="44" height="44" alt="Ask a friend to stop making a joke that hurts you"><br><sub><b>Ask a friend to stop making a joke that hurts you</b></sub><br><sub><code>ask-friend-to-drop-a-joke</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-thanks-for-birthday-wishes.svg" width="44" height="44" alt="Thank friends for their birthday wishes"><br><sub><b>Thank friends for their birthday wishes</b></sub><br><sub><code>friend-thanks-for-birthday-wishes</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-put-phone-away.svg" width="44" height="44" alt="Ask a friend to put their phone away when you meet"><br><sub><b>Ask a friend to put their phone away when you meet</b></sub><br><sub><code>ask-friend-to-put-phone-away</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-for-honest-feedback.svg" width="44" height="44" alt="Ask a friend for honest feedback on something you made"><br><sub><b>Ask a friend for honest feedback on something you made</b></sub><br><sub><code>ask-friend-for-honest-feedback</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-be-emergency-contact.svg" width="44" height="44" alt="Ask a friend to be your emergency contact"><br><sub><b>Ask a friend to be your emergency contact</b></sub><br><sub><code>ask-friend-to-be-emergency-contact</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-home-from-hospital-message.svg" width="44" height="44" alt="Welcome a friend home from hospital"><br><sub><b>Welcome a friend home from hospital</b></sub><br><sub><code>friend-home-from-hospital-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-friend-to-take-a-class.svg" width="44" height="44" alt="Invite a friend to take a class with you"><br><sub><b>Invite a friend to take a class with you</b></sub><br><sub><code>invite-friend-to-take-a-class</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-friend-for-honest-talk.svg" width="44" height="44" alt="Thank a friend for a hard, honest talk"><br><sub><b>Thank a friend for a hard, honest talk</b></sub><br><sub><code>thank-friend-for-honest-talk</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-friends-to-a-monthly-dinner-club.svg" width="44" height="44" alt="Invite friends to start a monthly dinner club"><br><sub><b>Invite friends to start a monthly dinner club</b></sub><br><sub><code>invite-friends-to-a-monthly-dinner-club</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-travel-together.svg" width="44" height="44" alt="Ask a friend if they would like to travel together"><br><sub><b>Ask a friend if they would like to travel together</b></sub><br><sub><code>ask-friend-to-travel-together</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/invite-friend-to-volunteer-together.svg" width="44" height="44" alt="Invite a friend to volunteer with you"><br><sub><b>Invite a friend to volunteer with you</b></sub><br><sub><code>invite-friend-to-volunteer-together</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invite-colleague-to-meet-outside-work.svg" width="44" height="44" alt="Invite a colleague to meet up outside work as friends"><br><sub><b>Invite a colleague to meet up outside work as friends</b></sub><br><sub><code>invite-colleague-to-meet-outside-work</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/forgot-friend-birthday-apology.svg" width="44" height="44" alt="Say sorry to a friend for forgetting their birthday"><br><sub><b>Say sorry to a friend for forgetting their birthday</b></sub><br><sub><code>forgot-friend-birthday-apology</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friends-dietary-needs-before-dinner.svg" width="44" height="44" alt="Ask friends about food needs before you host dinner"><br><sub><b>Ask friends about food needs before you host dinner</b></sub><br><sub><code>ask-friends-dietary-needs-before-dinner</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-help-you-stick-to-a-goal.svg" width="44" height="44" alt="Ask a friend to help you stick to a goal"><br><sub><b>Ask a friend to help you stick to a goal</b></sub><br><sub><code>ask-friend-to-help-you-stick-to-a-goal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-for-an-introduction-to-a-contact.svg" width="44" height="44" alt="Ask a friend to introduce you to someone they know"><br><sub><b>Ask a friend to introduce you to someone they know</b></sub><br><sub><code>ask-friend-for-an-introduction-to-a-contact</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-swap-childcare-afternoons.svg" width="44" height="44" alt="Suggest a childcare swap with a friend"><br><sub><b>Suggest a childcare swap with a friend</b></sub><br><sub><code>ask-friend-to-swap-childcare-afternoons</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-big-news-first.svg" width="44" height="44" alt="Tell a close friend your big news first"><br><sub><b>Tell a close friend your big news first</b></sub><br><sub><code>friend-big-news-first</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-wedding-guest-ask.svg" width="44" height="44" alt="Ask a friend to come with you as your guest to a wedding"><br><sub><b>Ask a friend to come with you as your guest to a wedding</b></sub><br><sub><code>friend-wedding-guest-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-interview-practice.svg" width="44" height="44" alt="Ask a friend to help you practise for an interview"><br><sub><b>Ask a friend to help you practise for an interview</b></sub><br><sub><code>friend-interview-practice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-see-more-often.svg" width="44" height="44" alt="Tell a friend you would like to see them more often"><br><sub><b>Tell a friend you would like to see them more often</b></sub><br><sub><code>friend-see-more-often</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/friend-outfit-shopping-help.svg" width="44" height="44" alt="Ask a friend to help you shop for an outfit"><br><sub><b>Ask a friend to help you shop for an outfit</b></sub><br><sub><code>friend-outfit-shopping-help</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-come-to-an-appointment-with-you.svg" width="44" height="44" alt="Ask a friend to come with you to an appointment"><br><sub><b>Ask a friend to come with you to an appointment</b></sub><br><sub><code>ask-friend-to-come-to-an-appointment-with-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/thank-friend-for-remembering-a-hard-date.svg" width="44" height="44" alt="Thank a friend for remembering a hard day for you"><br><sub><b>Thank a friend for remembering a hard day for you</b></sub><br><sub><code>thank-friend-for-remembering-a-hard-date</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-friend-you-are-moving-to-their-city.svg" width="44" height="44" alt="Tell a friend you are moving to their city"><br><sub><b>Tell a friend you are moving to their city</b></sub><br><sub><code>tell-friend-you-are-moving-to-their-city</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/offer-friend-a-spare-ticket.svg" width="44" height="44" alt="Offer a friend your spare ticket to a show or game"><br><sub><b>Offer a friend your spare ticket to a show or game</b></sub><br><sub><code>offer-friend-a-spare-ticket</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/welcome-friend-back-from-long-trip.svg" width="44" height="44" alt="Welcome a friend home after a long trip"><br><sub><b>Welcome a friend home after a long trip</b></sub><br><sub><code>welcome-friend-back-from-long-trip</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-friend-to-help-you-practise-driving.svg" width="44" height="44" alt="Ask a friend to help you practise driving"><br><sub><b>Ask a friend to help you practise driving</b></sub><br><sub><code>ask-friend-to-help-you-practise-driving</code></sub></td>
 </tr>
 </table>
 

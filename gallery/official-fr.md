@@ -1,6 +1,6 @@
 # Official letters, France
 
-<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in France most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities and data rights, family and neighbours, written in correct French.
 
@@ -104,6 +104,26 @@ The official letters people in France most often need: tenancy, work, tax and ba
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/fr-voisin-degat-des-eaux.svg" width="44" height="44" alt="Dégât des eaux: tell a neighbour about a leak (France)"><br><sub><b>Dégât des eaux: tell a neighbour about a leak (France)</b></sub><br><sub><code>fr-voisin-degat-des-eaux</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/fr-voisin-cloture-mitoyenne.svg" width="44" height="44" alt="Clôture mitoyenne: propose shared fence works to a neighbour (France)"><br><sub><b>Clôture mitoyenne: propose shared fence works to a neighbour (France)</b></sub><br><sub><code>fr-voisin-cloture-mitoyenne</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-autorisation-soins-mineur.svg" width="44" height="44" alt="Autorisation de soins: let someone get medical care for your child (France)"><br><sub><b>Autorisation de soins: let someone get medical care for your child (France)</b></sub><br><sub><code>fr-autorisation-soins-mineur</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-demande-mutation-logement-social.svg" width="44" height="44" alt="Demande de mutation: ask your social landlord for another home (France)"><br><sub><b>Demande de mutation: ask your social landlord for another home (France)</b></sub><br><sub><code>fr-demande-mutation-logement-social</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-demande-acompte-salaire.svg" width="44" height="44" alt="Demande d'acompte: ask your employer for a pay advance (France)"><br><sub><b>Demande d'acompte: ask your employer for a pay advance (France)</b></sub><br><sub><code>fr-demande-acompte-salaire</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-plafond-carte-bancaire.svg" width="44" height="44" alt="Plafond de carte: ask your bank to raise your card limit (France)"><br><sub><b>Plafond de carte: ask your bank to raise your card limit (France)</b></sub><br><sub><code>fr-plafond-carte-bancaire</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/fr-ajout-conducteur-assurance.svg" width="44" height="44" alt="Ajout de conducteur: add a driver to your car insurance (France)"><br><sub><b>Ajout de conducteur: add a driver to your car insurance (France)</b></sub><br><sub><code>fr-ajout-conducteur-assurance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-releves-compte-demande.svg" width="44" height="44" alt="Relevés de compte: ask your bank for statement copies (France)"><br><sub><b>Relevés de compte: ask your bank for statement copies (France)</b></sub><br><sub><code>fr-releves-compte-demande</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-bulletins-salaire-demande.svg" width="44" height="44" alt="Duplicata de bulletins de paie: ask your employer for copies (France)"><br><sub><b>Duplicata de bulletins de paie: ask your employer for copies (France)</b></sub><br><sub><code>fr-bulletins-salaire-demande</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-ecole-rendez-vous-enseignant.svg" width="44" height="44" alt="Demande de rendez-vous: ask a teacher for a meeting (France)"><br><sub><b>Demande de rendez-vous: ask a teacher for a meeting (France)</b></sub><br><sub><code>fr-ecole-rendez-vous-enseignant</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-voisin-stationnement-genant.svg" width="44" height="44" alt="Stationnement gênant: ask a neighbour to keep your entrance free (France)"><br><sub><b>Stationnement gênant: ask a neighbour to keep your entrance free (France)</b></sub><br><sub><code>fr-voisin-stationnement-genant</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-resiliation-location-parking.svg" width="44" height="44" alt="Résiliation de parking: end the lease of a parking space (France)"><br><sub><b>Résiliation de parking: end the lease of a parking space (France)</b></sub><br><sub><code>fr-resiliation-location-parking</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/fr-deces-information-banque.svg" width="44" height="44" alt="Décès d'un titulaire: tell a bank that an account holder has died (France)"><br><sub><b>Décès d'un titulaire: tell a bank that an account holder has died (France)</b></sub><br><sub><code>fr-deces-information-banque</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-copie-proces-verbal-ag.svg" width="44" height="44" alt="Procès-verbal d'AG: ask the syndic for meeting minutes (France)"><br><sub><b>Procès-verbal d'AG: ask the syndic for meeting minutes (France)</b></sub><br><sub><code>fr-copie-proces-verbal-ag</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-demande-formation-employeur.svg" width="44" height="44" alt="Demande de formation: ask your employer for a training course (France)"><br><sub><b>Demande de formation: ask your employer for a training course (France)</b></sub><br><sub><code>fr-demande-formation-employeur</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-prise-en-charge-transport.svg" width="44" height="44" alt="Prise en charge transport: ask your employer to share commuting costs (France)"><br><sub><b>Prise en charge transport: ask your employer to share commuting costs (France)</b></sub><br><sub><code>fr-prise-en-charge-transport</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-opposition-prospection.svg" width="44" height="44" alt="Opposition à la prospection: stop a company sending you advertising (France)"><br><sub><b>Opposition à la prospection: stop a company sending you advertising (France)</b></sub><br><sub><code>fr-opposition-prospection</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/fr-cantine-repas-alternatif.svg" width="44" height="44" alt="Repas de substitution: ask the school canteen for another meal option (France)"><br><sub><b>Repas de substitution: ask the school canteen for another meal option (France)</b></sub><br><sub><code>fr-cantine-repas-alternatif</code></sub></td>
 </tr>
 </table>
 

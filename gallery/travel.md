@@ -1,6 +1,6 @@
 # Travel
 
-<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Bookings, hosts, plans and postcards.
 
@@ -104,6 +104,26 @@ Bookings, hosts, plans and postcards.
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/language-school-enrolment-question.svg" width="44" height="44" alt="Ask a language school abroad about a course"><br><sub><b>Ask a language school abroad about a course</b></sub><br><sub><code>language-school-enrolment-question</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-host-to-book-a-taxi.svg" width="44" height="44" alt="Ask your host to book a taxi for you"><br><sub><b>Ask your host to book a taxi for you</b></sub><br><sub><code>ask-host-to-book-a-taxi</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ferry-vehicle-booking-question.svg" width="44" height="44" alt="Ask a ferry company about taking your vehicle on board"><br><sub><b>Ask a ferry company about taking your vehicle on board</b></sub><br><sub><code>ferry-vehicle-booking-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/attraction-accessibility-question.svg" width="44" height="44" alt="Ask an attraction about access before your visit"><br><sub><b>Ask an attraction about access before your visit</b></sub><br><sub><code>attraction-accessibility-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/night-train-cabin-question.svg" width="44" height="44" alt="Ask a rail company about cabins on a night train"><br><sub><b>Ask a rail company about cabins on a night train</b></sub><br><sub><code>night-train-cabin-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/coach-luggage-allowance-question.svg" width="44" height="44" alt="Ask a coach company about luggage and bulky items"><br><sub><b>Ask a coach company about luggage and bulky items</b></sub><br><sub><code>coach-luggage-allowance-question</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ask-hotel-to-hold-room-after-late-flight.svg" width="44" height="44" alt="Ask a hotel to hold your room when your flight lands late"><br><sub><b>Ask a hotel to hold your room when your flight lands late</b></sub><br><sub><code>ask-hotel-to-hold-room-after-late-flight</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-airline-for-extra-legroom-seat.svg" width="44" height="44" alt="Ask an airline for a seat with extra legroom"><br><sub><b>Ask an airline for a seat with extra legroom</b></sub><br><sub><code>ask-airline-for-extra-legroom-seat</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-hotel-for-early-breakfast-before-departure.svg" width="44" height="44" alt="Ask a hotel for an early breakfast before you leave"><br><sub><b>Ask a hotel for an early breakfast before you leave</b></sub><br><sub><code>ask-hotel-for-early-breakfast-before-departure</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-host-about-key-collection.svg" width="44" height="44" alt="Ask a holiday host how to collect the keys"><br><sub><b>Ask a holiday host how to collect the keys</b></sub><br><sub><code>ask-host-about-key-collection</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-airline-about-moving-to-an-earlier-flight.svg" width="44" height="44" alt="Ask an airline about moving to an earlier flight"><br><sub><b>Ask an airline about moving to an earlier flight</b></sub><br><sub><code>ask-airline-about-moving-to-an-earlier-flight</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tell-travel-group-you-are-leaving-early.svg" width="44" height="44" alt="Tell your travel group you are leaving the trip early"><br><sub><b>Tell your travel group you are leaving the trip early</b></sub><br><sub><code>tell-travel-group-you-are-leaving-early</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/airline-sports-equipment-question.svg" width="44" height="44" alt="Ask an airline about flying with sports equipment"><br><sub><b>Ask an airline about flying with sports equipment</b></sub><br><sub><code>airline-sports-equipment-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/airline-medical-device-question.svg" width="44" height="44" alt="Ask an airline about taking a medical device on board"><br><sub><b>Ask an airline about taking a medical device on board</b></sub><br><sub><code>airline-medical-device-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-a-hotel-about-connecting-rooms.svg" width="44" height="44" alt="Ask a hotel about connecting rooms"><br><sub><b>Ask a hotel about connecting rooms</b></sub><br><sub><code>ask-a-hotel-about-connecting-rooms</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-a-tour-operator-about-the-single-supplement.svg" width="44" height="44" alt="Ask a tour company about the solo traveller fee"><br><sub><b>Ask a tour company about the solo traveller fee</b></sub><br><sub><code>ask-a-tour-operator-about-the-single-supplement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-a-rail-company-about-a-tight-connection.svg" width="44" height="44" alt="Ask a rail company what happens if you miss a tight connection"><br><sub><b>Ask a rail company what happens if you miss a tight connection</b></sub><br><sub><code>ask-a-rail-company-about-a-tight-connection</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-a-host-about-laundry.svg" width="44" height="44" alt="Ask your host about washing clothes during your stay"><br><sub><b>Ask your host about washing clothes during your stay</b></sub><br><sub><code>ask-a-host-about-laundry</code></sub></td>
 </tr>
 </table>
 

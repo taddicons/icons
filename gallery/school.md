@@ -1,6 +1,6 @@
 # School and learning
 
-<sub>Taddicons 0.3.0 · Documents & messages · 74 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 For students, parents and teachers.
 
@@ -104,6 +104,26 @@ For students, parents and teachers.
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/prefect-application-letter.svg" width="44" height="44" alt="Apply to be a prefect or school leader"><br><sub><b>Apply to be a prefect or school leader</b></sub><br><sub><code>prefect-application-letter</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/after-school-club-session-cancelled.svg" width="44" height="44" alt="Tell parents an after-school club is cancelled"><br><sub><b>Tell parents an after-school club is cancelled</b></sub><br><sub><code>after-school-club-session-cancelled</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-child-fasting-note.svg" width="44" height="44" alt="Tell the school your child will be fasting this month"><br><sub><b>Tell the school your child will be fasting this month</b></sub><br><sub><code>school-child-fasting-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/home-learning-ideas-ask.svg" width="44" height="44" alt="Ask the teacher for ideas to support learning at home"><br><sub><b>Ask the teacher for ideas to support learning at home</b></sub><br><sub><code>home-learning-ideas-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-instrument-lessons-question.svg" width="44" height="44" alt="Ask the school about music lessons for your child"><br><sub><b>Ask the school about music lessons for your child</b></sub><br><sub><code>school-instrument-lessons-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-class-change-request.svg" width="44" height="44" alt="Ask the school to move your child to another class"><br><sub><b>Ask the school to move your child to another class</b></sub><br><sub><code>school-class-change-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/school-reading-level-question.svg" width="44" height="44" alt="Ask the teacher about your child's reading level"><br><sub><b>Ask the teacher about your child's reading level</b></sub><br><sub><code>school-reading-level-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-broken-locker-report.svg" width="44" height="44" alt="Report a broken school locker and ask for a fix"><br><sub><b>Report a broken school locker and ask for a fix</b></sub><br><sub><code>school-broken-locker-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-results-collection-by-someone-else.svg" width="44" height="44" alt="Give permission for someone else to collect your exam results"><br><sub><b>Give permission for someone else to collect your exam results</b></sub><br><sub><code>school-results-collection-by-someone-else</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-canteen-menu-feedback-note.svg" width="44" height="44" alt="Give the school kitchen feedback and ideas on the lunch menu"><br><sub><b>Give the school kitchen feedback and ideas on the lunch menu</b></sub><br><sub><code>school-canteen-menu-feedback-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-assembly-announcement-script.svg" width="44" height="44" alt="Read a short announcement in school assembly"><br><sub><b>Read a short announcement in school assembly</b></sub><br><sub><code>school-assembly-announcement-script</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-charity-week-proposal.svg" width="44" height="44" alt="Propose a charity week to your head teacher"><br><sub><b>Propose a charity week to your head teacher</b></sub><br><sub><code>school-charity-week-proposal</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/school-group-project-roles-plan.svg" width="44" height="44" alt="Suggest who does what at the start of a group project"><br><sub><b>Suggest who does what at the start of a group project</b></sub><br><sub><code>school-group-project-roles-plan</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-exam-certificate-replacement-request.svg" width="44" height="44" alt="Ask your school for a replacement copy of an exam certificate"><br><sub><b>Ask your school for a replacement copy of an exam certificate</b></sub><br><sub><code>school-exam-certificate-replacement-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-work-shadowing-request.svg" width="44" height="44" alt="Ask a professional if you can shadow them for a day"><br><sub><b>Ask a professional if you can shadow them for a day</b></sub><br><sub><code>school-work-shadowing-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-peer-mentor-application.svg" width="44" height="44" alt="Apply to be a peer mentor for younger students"><br><sub><b>Apply to be a peer mentor for younger students</b></sub><br><sub><code>school-peer-mentor-application</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-calculator-loan-request.svg" width="44" height="44" alt="Ask to borrow a calculator for an exam"><br><sub><b>Ask to borrow a calculator for an exam</b></sub><br><sub><code>school-calculator-loan-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/school-newspaper-article-pitch.svg" width="44" height="44" alt="Pitch an article idea to the school newspaper"><br><sub><b>Pitch an article idea to the school newspaper</b></sub><br><sub><code>school-newspaper-article-pitch</code></sub></td>
 </tr>
 </table>
 

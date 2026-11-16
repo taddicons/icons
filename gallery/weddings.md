@@ -1,6 +1,6 @@
 # Weddings
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 From the engagement to the thank-you: invitations around the day, vendors, speeches and guest messages.
 
@@ -83,6 +83,47 @@ From the engagement to the thank-you: invitations around the day, vendors, speec
 <td align="center" width="16%"><img src="../svg/mark/wedding-shuttle-schedule-notice.svg" width="44" height="44" alt="Share the shuttle bus times with your wedding guests"><br><sub><b>Share the shuttle bus times with your wedding guests</b></sub><br><sub><code>wedding-shuttle-schedule-notice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/wedding-ceremony-readers-brief.svg" width="44" height="44" alt="Brief your ceremony readers on what to expect"><br><sub><b>Brief your ceremony readers on what to expect</b></sub><br><sub><code>wedding-ceremony-readers-brief</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/wedding-gift-list-closing-note.svg" width="44" height="44" alt="Let guests know the gift list is closing"><br><sub><b>Let guests know the gift list is closing</b></sub><br><sub><code>wedding-gift-list-closing-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-vendor-review-post.svg" width="44" height="44" alt="Write a public review of a wedding supplier"><br><sub><b>Write a public review of a wedding supplier</b></sub><br><sub><code>wedding-vendor-review-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-florist-brief.svg" width="44" height="44" alt="Send your florist a brief for your wedding flowers"><br><sub><b>Send your florist a brief for your wedding flowers</b></sub><br><sub><code>wedding-florist-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-hair-makeup-trial-booking.svg" width="44" height="44" alt="Book a hair and makeup trial for your wedding"><br><sub><b>Book a hair and makeup trial for your wedding</b></sub><br><sub><code>wedding-hair-makeup-trial-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-insurance-quote-request.svg" width="44" height="44" alt="Ask an insurer for a wedding insurance quote"><br><sub><b>Ask an insurer for a wedding insurance quote</b></sub><br><sub><code>wedding-insurance-quote-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-vendor-contract-question.svg" width="44" height="44" alt="Ask a wedding vendor about their terms before you sign"><br><sub><b>Ask a wedding vendor about their terms before you sign</b></sub><br><sub><code>wedding-vendor-contract-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/after-wedding-name-change-list.svg" width="44" height="44" alt="Plan who to tell after you change your name"><br><sub><b>Plan who to tell after you change your name</b></sub><br><sub><code>after-wedding-name-change-list</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-day-emergency-kit-list.svg" width="44" height="44" alt="Make a small emergency kit list for the wedding day"><br><sub><b>Make a small emergency kit list for the wedding day</b></sub><br><sub><code>wedding-day-emergency-kit-list</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-children-activity-note.svg" width="44" height="44" alt="Tell guests what is planned for children at the wedding"><br><sub><b>Tell guests what is planned for children at the wedding</b></sub><br><sub><code>wedding-children-activity-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-musician-brief.svg" width="44" height="44" alt="Brief your wedding musicians on music and timings"><br><sub><b>Brief your wedding musicians on music and timings</b></sub><br><sub><code>wedding-musician-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-officiant-thank-you.svg" width="44" height="44" alt="Thank the person who led your wedding ceremony"><br><sub><b>Thank the person who led your wedding ceremony</b></sub><br><sub><code>wedding-officiant-thank-you</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-ring-resize-request.svg" width="44" height="44" alt="Ask a jeweller to resize a wedding ring"><br><sub><b>Ask a jeweller to resize a wedding ring</b></sub><br><sub><code>wedding-ring-resize-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-day-quiet-room-note.svg" width="44" height="44" alt="Let guests know there is a quiet room at the wedding"><br><sub><b>Let guests know there is a quiet room at the wedding</b></sub><br><sub><code>wedding-day-quiet-room-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/marriage-notice-appointment-request.svg" width="44" height="44" alt="Ask the register office for an appointment to give notice of marriage"><br><sub><b>Ask the register office for an appointment to give notice of marriage</b></sub><br><sub><code>marriage-notice-appointment-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-cake-order-brief.svg" width="44" height="44" alt="Brief a baker on your wedding cake order"><br><sub><b>Brief a baker on your wedding cake order</b></sub><br><sub><code>wedding-cake-order-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-car-hire-enquiry.svg" width="44" height="44" alt="Ask a company about hiring a wedding car"><br><sub><b>Ask a company about hiring a wedding car</b></sub><br><sub><code>wedding-car-hire-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/couple-wedding-thank-you-speech.svg" width="44" height="44" alt="The couple's thank-you speech at the wedding reception"><br><sub><b>The couple's thank-you speech at the wedding reception</b></sub><br><sub><code>couple-wedding-thank-you-speech</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-hashtag-sharing-note.svg" width="44" height="44" alt="Tell guests your wedding hashtag and how to share photos"><br><sub><b>Tell guests your wedding hashtag and how to share photos</b></sub><br><sub><code>wedding-hashtag-sharing-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-hotel-room-block-request.svg" width="44" height="44" alt="Ask a hotel to hold a block of rooms for your wedding guests"><br><sub><b>Ask a hotel to hold a block of rooms for your wedding guests</b></sub><br><sub><code>wedding-hotel-room-block-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-venue-viewing-request.svg" width="44" height="44" alt="Ask a venue to book a viewing for your wedding"><br><sub><b>Ask a venue to book a viewing for your wedding</b></sub><br><sub><code>wedding-venue-viewing-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-marquee-hire-enquiry.svg" width="44" height="44" alt="Ask a supplier about hiring a marquee for your wedding"><br><sub><b>Ask a supplier about hiring a marquee for your wedding</b></sub><br><sub><code>wedding-marquee-hire-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-photographer-brief.svg" width="44" height="44" alt="Brief your wedding photographer on the shots you want"><br><sub><b>Brief your wedding photographer on the shots you want</b></sub><br><sub><code>wedding-photographer-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-toastmaster-brief.svg" width="44" height="44" alt="Brief your toastmaster or host for the reception"><br><sub><b>Brief your toastmaster or host for the reception</b></sub><br><sub><code>wedding-toastmaster-brief</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-thanks-for-travelling-note.svg" width="44" height="44" alt="Thank guests who travelled far for your wedding"><br><sub><b>Thank guests who travelled far for your wedding</b></sub><br><sub><code>wedding-thanks-for-travelling-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-neighbours-notice.svg" width="44" height="44" alt="Let neighbours know about your wedding at home"><br><sub><b>Let neighbours know about your wedding at home</b></sub><br><sub><code>wedding-neighbours-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-witness-ask.svg" width="44" height="44" alt="Ask someone to be a witness at your wedding"><br><sub><b>Ask someone to be a witness at your wedding</b></sub><br><sub><code>wedding-witness-ask</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/wedding-thanks-to-absent-guest.svg" width="44" height="44" alt="Thank-you note to a guest who could not attend"><br><sub><b>Thank-you note to a guest who could not attend</b></sub><br><sub><code>wedding-thanks-to-absent-guest</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-stationery-proof-approval.svg" width="44" height="44" alt="Approve or correct wedding stationery proofs"><br><sub><b>Approve or correct wedding stationery proofs</b></sub><br><sub><code>wedding-stationery-proof-approval</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-dress-alteration-booking.svg" width="44" height="44" alt="Book wedding outfit alterations"><br><sub><b>Book wedding outfit alterations</b></sub><br><sub><code>wedding-dress-alteration-booking</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-photos-delivery-chaser.svg" width="44" height="44" alt="Chase your photographer for late wedding photos"><br><sub><b>Chase your photographer for late wedding photos</b></sub><br><sub><code>wedding-photos-delivery-chaser</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-venue-music-cut-off-question.svg" width="44" height="44" alt="Ask your venue about music and noise end times"><br><sub><b>Ask your venue about music and noise end times</b></sub><br><sub><code>wedding-venue-music-cut-off-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-party-duties-brief.svg" width="44" height="44" alt="Send your wedding party a list of who does what"><br><sub><b>Send your wedding party a list of who does what</b></sub><br><sub><code>wedding-party-duties-brief</code></sub></td>
 </tr>
 </table>
 

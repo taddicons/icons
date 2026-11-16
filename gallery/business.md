@@ -1,6 +1,6 @@
 # Small business and side hustle
 
-<sub>Taddicons 0.3.0 · Documents & messages · 72 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Everything a small shop, freelancer or club treasurer sends to customers.
 
@@ -100,6 +100,30 @@ Everything a small shop, freelancer or club treasurer sends to customers.
 <td align="center" width="16%"><img src="../svg/mark/customer-credit-note-notice.svg" width="44" height="44" alt="Tell a customer you have issued a credit note"><br><sub><b>Tell a customer you have issued a credit note</b></sub><br><sub><code>customer-credit-note-notice</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/subcontractor-job-offer.svg" width="44" height="44" alt="Offer a job to a subcontractor"><br><sub><b>Offer a job to a subcontractor</b></sub><br><sub><code>subcontractor-job-offer</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ask-shop-to-stock-your-product.svg" width="44" height="44" alt="Ask a shop to stock your product"><br><sub><b>Ask a shop to stock your product</b></sub><br><sub><code>ask-shop-to-stock-your-product</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/business-premises-move-notice.svg" width="44" height="44" alt="Let customers know your shop or office is moving"><br><sub><b>Let customers know your shop or office is moving</b></sub><br><sub><code>business-premises-move-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-customer-to-use-their-photo.svg" width="44" height="44" alt="Ask a customer if you can share their photo or review"><br><sub><b>Ask a customer if you can share their photo or review</b></sub><br><sub><code>ask-customer-to-use-their-photo</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-card-payments-accepted-notice.svg" width="44" height="44" alt="Tell customers you now take card payments"><br><sub><b>Tell customers you now take card payments</b></sub><br><sub><code>new-card-payments-accepted-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/booking-system-change-notice.svg" width="44" height="44" alt="Tell customers about your new booking system"><br><sub><b>Tell customers about your new booking system</b></sub><br><sub><code>booking-system-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-left-item-behind-message.svg" width="44" height="44" alt="Tell a customer they left something at your business"><br><sub><b>Tell a customer they left something at your business</b></sub><br><sub><code>customer-left-item-behind-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-supplier-to-hold-a-price.svg" width="44" height="44" alt="Ask a supplier to hold a price for a set time"><br><sub><b>Ask a supplier to hold a price for a set time</b></sub><br><sub><code>ask-supplier-to-hold-a-price</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/tell-customers-they-can-order-online.svg" width="44" height="44" alt="Tell customers they can now order from you online"><br><sub><b>Tell customers they can now order from you online</b></sub><br><sub><code>tell-customers-they-can-order-online</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-late-delivery-query.svg" width="44" height="44" alt="Ask a supplier why your order has not arrived"><br><sub><b>Ask a supplier why your order has not arrived</b></sub><br><sub><code>supplier-late-delivery-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/customer-billing-address-update-request.svg" width="44" height="44" alt="Ask a customer to confirm their billing address"><br><sub><b>Ask a customer to confirm their billing address</b></sub><br><sub><code>customer-billing-address-update-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/trade-show-visitor-follow-up.svg" width="44" height="44" alt="Follow up with someone you met at a trade show"><br><sub><b>Follow up with someone you met at a trade show</b></sub><br><sub><code>trade-show-visitor-follow-up</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/new-staff-member-introduction-to-customers.svg" width="44" height="44" alt="Introduce a new team member to your customers"><br><sub><b>Introduce a new team member to your customers</b></sub><br><sub><code>new-staff-member-introduction-to-customers</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/service-area-change-notice.svg" width="44" height="44" alt="Tell customers you are changing the area you serve"><br><sub><b>Tell customers you are changing the area you serve</b></sub><br><sub><code>service-area-change-notice</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/client-contact-person-change-notice.svg" width="44" height="44" alt="Tell a client their main contact at your company is changing"><br><sub><b>Tell a client their main contact at your company is changing</b></sub><br><sub><code>client-contact-person-change-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-onboarding-form-request.svg" width="44" height="44" alt="Ask a new supplier to complete your onboarding details"><br><sub><b>Ask a new supplier to complete your onboarding details</b></sub><br><sub><code>supplier-onboarding-form-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/invoice-dispute-reply-to-client.svg" width="44" height="44" alt="Reply to a client who disputes part of an invoice"><br><sub><b>Reply to a client who disputes part of an invoice</b></sub><br><sub><code>invoice-dispute-reply-to-client</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/key-contact-away-cover-notice.svg" width="44" height="44" alt="Tell clients who covers for you while you are away"><br><sub><b>Tell clients who covers for you while you are away</b></sub><br><sub><code>key-contact-away-cover-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/supplier-product-sample-request.svg" width="44" height="44" alt="Ask a supplier for product samples before you place an order"><br><sub><b>Ask a supplier for product samples before you place an order</b></sub><br><sub><code>supplier-product-sample-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/client-files-return-note.svg" width="44" height="44" alt="Return a client's files and documents when a job ends"><br><sub><b>Return a client's files and documents when a job ends</b></sub><br><sub><code>client-files-return-note</code></sub></td>
 </tr>
 </table>
 

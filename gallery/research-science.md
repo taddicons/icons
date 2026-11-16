@@ -1,6 +1,6 @@
 # Research and science collaboration
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes between researchers: sharing data and code, answering reviewers, grants, abstracts, ethics questions, credit and field work.
 
@@ -88,6 +88,42 @@ Notes between researchers: sharing data and code, answering reviewers, grants, a
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/student-lab-placement-offer.svg" width="44" height="44" alt="Offer a student a placement in your lab"><br><sub><b>Offer a student a placement in your lab</b></sub><br><sub><code>student-lab-placement-offer</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/sample-shipment-notice-to-partner-lab.svg" width="44" height="44" alt="Tell a partner lab that samples are on their way"><br><sub><b>Tell a partner lab that samples are on their way</b></sub><br><sub><code>sample-shipment-notice-to-partner-lab</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/open-access-fee-waiver-request.svg" width="44" height="44" alt="Ask a journal to waive or reduce an open access fee"><br><sub><b>Ask a journal to waive or reduce an open access fee</b></sub><br><sub><code>open-access-fee-waiver-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/participant-withdrawal-confirmation.svg" width="44" height="44" alt="Confirm to a research participant that they have withdrawn"><br><sub><b>Confirm to a research participant that they have withdrawn</b></sub><br><sub><code>participant-withdrawal-confirmation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ask-supplier-for-lab-equipment-quote.svg" width="44" height="44" alt="Ask a supplier for a quote for lab equipment"><br><sub><b>Ask a supplier for a quote for lab equipment</b></sub><br><sub><code>ask-supplier-for-lab-equipment-quote</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/research-poster-feedback-request.svg" width="44" height="44" alt="Ask colleagues for feedback on a conference poster"><br><sub><b>Ask colleagues for feedback on a conference poster</b></sub><br><sub><code>research-poster-feedback-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sci-peer-review-extension-request.svg" width="44" height="44" alt="Ask a journal editor for more time on a peer review"><br><sub><b>Ask a journal editor for more time on a peer review</b></sub><br><sub><code>sci-peer-review-extension-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-session-chair-acceptance.svg" width="44" height="44" alt="Accept an invitation to chair a conference session"><br><sub><b>Accept an invitation to chair a conference session</b></sub><br><sub><code>sci-session-chair-acceptance</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-lab-move-notice.svg" width="44" height="44" alt="Tell collaborators and suppliers that your lab is moving"><br><sub><b>Tell collaborators and suppliers that your lab is moving</b></sub><br><sub><code>sci-lab-move-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-citizen-science-volunteer-thanks.svg" width="44" height="44" alt="Thank citizen science volunteers for their help"><br><sub><b>Thank citizen science volunteers for their help</b></sub><br><sub><code>sci-citizen-science-volunteer-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-reagent-order-request.svg" width="44" height="44" alt="Ask the lab manager to order reagents or supplies"><br><sub><b>Ask the lab manager to order reagents or supplies</b></sub><br><sub><code>sci-reagent-order-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-workshop-call-for-papers.svg" width="44" height="44" alt="Call for papers for a research workshop"><br><sub><b>Call for papers for a research workshop</b></sub><br><sub><code>sci-workshop-call-for-papers</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sci-seminar-speaker-thanks.svg" width="44" height="44" alt="Thank a guest speaker after a research seminar"><br><sub><b>Thank a guest speaker after a research seminar</b></sub><br><sub><code>sci-seminar-speaker-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-coauthor-draft-deadline-reminder.svg" width="44" height="44" alt="Remind co-authors to send comments on a paper draft"><br><sub><b>Remind co-authors to send comments on a paper draft</b></sub><br><sub><code>sci-coauthor-draft-deadline-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-shared-freezer-clear-out-notice.svg" width="44" height="44" alt="Notice to clear out a shared lab freezer"><br><sub><b>Notice to clear out a shared lab freezer</b></sub><br><sub><code>sci-shared-freezer-clear-out-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-journal-club-invitation.svg" width="44" height="44" alt="Invite people to a journal club meeting"><br><sub><b>Invite people to a journal club meeting</b></sub><br><sub><code>sci-journal-club-invitation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-host-lab-visit-thanks.svg" width="44" height="44" alt="Thank a host lab after a research visit"><br><sub><b>Thank a host lab after a research visit</b></sub><br><sub><code>sci-host-lab-visit-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-preprint-announcement-post.svg" width="44" height="44" alt="Post announcing a new preprint"><br><sub><b>Post announcing a new preprint</b></sub><br><sub><code>sci-preprint-announcement-post</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sci-lab-notebook-handover-note.svg" width="44" height="44" alt="Hand over lab notebooks and samples when you leave a lab"><br><sub><b>Hand over lab notebooks and samples when you leave a lab</b></sub><br><sub><code>sci-lab-notebook-handover-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-co-supervisor-request.svg" width="44" height="44" alt="Ask a colleague to co-supervise a research student"><br><sub><b>Ask a colleague to co-supervise a research student</b></sub><br><sub><code>sci-co-supervisor-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-collaborator-data-delay-notice.svg" width="44" height="44" alt="Tell collaborators that your data or results will be late"><br><sub><b>Tell collaborators that your data or results will be late</b></sub><br><sub><code>sci-collaborator-data-delay-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-software-bug-notice-to-users.svg" width="44" height="44" alt="Tell users of your research software about a bug that may affect results"><br><sub><b>Tell users of your research software about a bug that may affect results</b></sub><br><sub><code>sci-software-bug-notice-to-users</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-review-article-coauthor-invite.svg" width="44" height="44" alt="Invite a colleague to co-write a review article"><br><sub><b>Invite a colleague to co-write a review article</b></sub><br><sub><code>sci-review-article-coauthor-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-lab-open-day-invitation.svg" width="44" height="44" alt="Invite students or the public to a lab open day"><br><sub><b>Invite students or the public to a lab open day</b></sub><br><sub><code>sci-lab-open-day-invitation</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/sci-visiting-researcher-welcome.svg" width="44" height="44" alt="Welcome a visiting researcher before they arrive at your lab"><br><sub><b>Welcome a visiting researcher before they arrive at your lab</b></sub><br><sub><code>sci-visiting-researcher-welcome</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-field-team-daily-check-in.svg" width="44" height="44" alt="Daily check-in message from a field research team"><br><sub><b>Daily check-in message from a field research team</b></sub><br><sub><code>sci-field-team-daily-check-in</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-conference-session-proposal.svg" width="44" height="44" alt="Propose a themed session to a conference programme committee"><br><sub><b>Propose a themed session to a conference programme committee</b></sub><br><sub><code>sci-conference-session-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-null-result-share-note.svg" width="44" height="44" alt="Share a result that did not work out with your collaborators"><br><sub><b>Share a result that did not work out with your collaborators</b></sub><br><sub><code>sci-null-result-share-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-instrument-booking-clash.svg" width="44" height="44" alt="Sort out a clash over a shared instrument booking"><br><sub><b>Sort out a clash over a shared instrument booking</b></sub><br><sub><code>sci-instrument-booking-clash</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/sci-retirement-symposium-invite.svg" width="44" height="44" alt="Invite colleagues to a symposium for a retiring colleague"><br><sub><b>Invite colleagues to a symposium for a retiring colleague</b></sub><br><sub><code>sci-retirement-symposium-invite</code></sub></td>
 </tr>
 </table>
 

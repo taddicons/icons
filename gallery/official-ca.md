@@ -1,6 +1,6 @@
 # Official letters, Canada
 
-<sub>Taddicons 0.3.0 · Documents & messages · 71 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Canada most often need: tenancy, work, tax and banks, benefits and privacy, consumer rights, insurance, school and neighbours, written in Canadian English and noting where provinces differ.
 
@@ -99,6 +99,31 @@ The official letters people in Canada most often need: tenancy, work, tax and ba
 <td align="center" width="16%"><img src="../svg/mark/ca-school-transfer-request.svg" width="44" height="44" alt="School transfer: ask to register your child at a new school (Canada)"><br><sub><b>School transfer: ask to register your child at a new school (Canada)</b></sub><br><sub><code>ca-school-transfer-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ca-tree-overhang-request.svg" width="44" height="44" alt="Overhanging tree: ask a neighbour to trim a tree (Canada)"><br><sub><b>Overhanging tree: ask a neighbour to trim a tree (Canada)</b></sub><br><sub><code>ca-tree-overhang-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/ca-fence-cost-sharing.svg" width="44" height="44" alt="Fence costs: propose sharing the cost of a boundary fence (Canada)"><br><sub><b>Fence costs: propose sharing the cost of a boundary fence (Canada)</b></sub><br><sub><code>ca-fence-cost-sharing</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-pet-permission-request.svg" width="44" height="44" alt="Pet request: ask your landlord for permission to keep a pet (Canada)"><br><sub><b>Pet request: ask your landlord for permission to keep a pet (Canada)</b></sub><br><sub><code>ca-pet-permission-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ca-oas-reconsideration.svg" width="44" height="44" alt="OAS reconsideration: ask for a review of an Old Age Security decision (Canada)"><br><sub><b>OAS reconsideration: ask for a review of an Old Age Security decision (Canada)</b></sub><br><sub><code>ca-oas-reconsideration</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-sick-leave-notice.svg" width="44" height="44" alt="Sick leave notice: tell your employer you are off sick (Canada)"><br><sub><b>Sick leave notice: tell your employer you are off sick (Canada)</b></sub><br><sub><code>ca-sick-leave-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-etransfer-fraud-claim.svg" width="44" height="44" alt="E-Transfer fraud claim: ask your bank to investigate a scam payment (Canada)"><br><sub><b>E-Transfer fraud claim: ask your bank to investigate a scam payment (Canada)</b></sub><br><sub><code>ca-etransfer-fraud-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-marketing-opt-out.svg" width="44" height="44" alt="Marketing opt-out: tell a business to stop calls, texts and emails (Canada)"><br><sub><b>Marketing opt-out: tell a business to stop calls, texts and emails (Canada)</b></sub><br><sub><code>ca-marketing-opt-out</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-letter-of-experience-request.svg" width="44" height="44" alt="Letter of experience: ask your insurer for your driving history (Canada)"><br><sub><b>Letter of experience: ask your insurer for your driving history (Canada)</b></sub><br><sub><code>ca-letter-of-experience-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-teacher-meeting-request.svg" width="44" height="44" alt="Meeting request: ask your child's teacher or principal for a meeting (Canada)"><br><sub><b>Meeting request: ask your child's teacher or principal for a meeting (Canada)</b></sub><br><sub><code>ca-teacher-meeting-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ca-neighbour-smoke-complaint.svg" width="44" height="44" alt="Neighbour letter: ask a neighbour about smoke drifting into your home (Canada)"><br><sub><b>Neighbour letter: ask a neighbour about smoke drifting into your home (Canada)</b></sub><br><sub><code>ca-neighbour-smoke-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-move-in-inspection-request.svg" width="44" height="44" alt="Move-in inspection: ask your landlord for a condition report (Canada)"><br><sub><b>Move-in inspection: ask your landlord for a condition report (Canada)</b></sub><br><sub><code>ca-move-in-inspection-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-overtime-pay-request.svg" width="44" height="44" alt="Overtime pay: ask your employer to pay overtime owed (Canada)"><br><sub><b>Overtime pay: ask your employer to pay overtime owed (Canada)</b></sub><br><sub><code>ca-overtime-pay-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-pad-cancellation.svg" width="44" height="44" alt="Pre-authorized debit: cancel a PAD with the payee (Canada)"><br><sub><b>Pre-authorized debit: cancel a PAD with the payee (Canada)</b></sub><br><sub><code>ca-pad-cancellation</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-claim-file-request.svg" width="44" height="44" alt="Claim file: ask your insurer for a copy of your claim file (Canada)"><br><sub><b>Claim file: ask your insurer for a copy of your claim file (Canada)</b></sub><br><sub><code>ca-claim-file-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-child-travel-consent.svg" width="44" height="44" alt="Consent letter: allow your child to travel abroad (Canada)"><br><sub><b>Consent letter: allow your child to travel abroad (Canada)</b></sub><br><sub><code>ca-child-travel-consent</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/ca-pay-raise-request.svg" width="44" height="44" alt="Pay raise request: ask your employer for a salary review (Canada)"><br><sub><b>Pay raise request: ask your employer for a salary review (Canada)</b></sub><br><sub><code>ca-pay-raise-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-lease-renewal-request.svg" width="44" height="44" alt="Lease renewal: ask your landlord to renew a fixed-term lease (Canada)"><br><sub><b>Lease renewal: ask your landlord to renew a fixed-term lease (Canada)</b></sub><br><sub><code>ca-lease-renewal-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-mortgage-payout-statement.svg" width="44" height="44" alt="Payout statement: ask your lender for a mortgage payout statement (Canada)"><br><sub><b>Payout statement: ask your lender for a mortgage payout statement (Canada)</b></sub><br><sub><code>ca-mortgage-payout-statement</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-flexible-work-request.svg" width="44" height="44" alt="Flexible work request: ask to change your hours or place of work (Canada)"><br><sub><b>Flexible work request: ask to change your hours or place of work (Canada)</b></sub><br><sub><code>ca-flexible-work-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-neighbour-parking-complaint.svg" width="44" height="44" alt="Parking letter: ask a neighbour to stop blocking your driveway (Canada)"><br><sub><b>Parking letter: ask a neighbour to stop blocking your driveway (Canada)</b></sub><br><sub><code>ca-neighbour-parking-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/ca-school-bullying-complaint.svg" width="44" height="44" alt="Bullying complaint: ask a school to act on bullying of your child (Canada)"><br><sub><b>Bullying complaint: ask a school to act on bullying of your child (Canada)</b></sub><br><sub><code>ca-school-bullying-complaint</code></sub></td>
 </tr>
 </table>
 

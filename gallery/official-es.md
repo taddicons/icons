@@ -1,6 +1,6 @@
 # Official letters, Spain
 
-<sub>Taddicons 0.3.0 · Documents & messages · 73 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 The official letters people in Spain most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities, family and neighbours, written in correct Castilian Spanish.
 
@@ -103,6 +103,27 @@ The official letters people in Spain most often need: tenancy, work, tax and ban
 </tr>
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/es-anticipo-nomina.svg" width="44" height="44" alt="Solicitud de anticipo de nómina: ask for a salary advance (Spain)"><br><sub><b>Solicitud de anticipo de nómina: ask for a salary advance (Spain)</b></sub><br><sub><code>es-anticipo-nomina</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-cambio-domicilio-banco.svg" width="44" height="44" alt="Cambio de domicilio: tell your bank your new address (Spain)"><br><sub><b>Cambio de domicilio: tell your bank your new address (Spain)</b></sub><br><sub><code>es-cambio-domicilio-banco</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-tarjeta-aparcamiento-residente.svg" width="44" height="44" alt="Tarjeta de residente: apply for a resident parking permit (Spain)"><br><sub><b>Tarjeta de residente: apply for a resident parking permit (Spain)</b></sub><br><sub><code>es-tarjeta-aparcamiento-residente</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-permiso-mascota-arrendador.svg" width="44" height="44" alt="Permiso para mascota: ask your landlord to allow a pet (Spain)"><br><sub><b>Permiso para mascota: ask your landlord to allow a pet (Spain)</b></sub><br><sub><code>es-permiso-mascota-arrendador</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-copia-nominas.svg" width="44" height="44" alt="Copia de nóminas: ask your employer for copies of payslips (Spain)"><br><sub><b>Copia de nóminas: ask your employer for copies of payslips (Spain)</b></sub><br><sub><code>es-copia-nominas</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-beneficiarios-seguro-vida.svg" width="44" height="44" alt="Designación de beneficiarios: change who gets your life insurance (Spain)"><br><sub><b>Designación de beneficiarios: change who gets your life insurance (Spain)</b></sub><br><sub><code>es-beneficiarios-seguro-vida</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/es-autorizacion-medica-menor.svg" width="44" height="44" alt="Autorización médica: let someone take your child to the doctor (Spain)"><br><sub><b>Autorización médica: let someone take your child to the doctor (Spain)</b></sub><br><sub><code>es-autorizacion-medica-menor</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-cambio-cuenta-nomina.svg" width="44" height="44" alt="Cambio de cuenta: give your employer a new salary account (Spain)"><br><sub><b>Cambio de cuenta: give your employer a new salary account (Spain)</b></sub><br><sub><code>es-cambio-cuenta-nomina</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-reembolso-entrada-evento.svg" width="44" height="44" alt="Reembolso de entrada: ask for a refund for a cancelled event (Spain)"><br><sub><b>Reembolso de entrada: ask for a refund for a cancelled event (Spain)</b></sub><br><sub><code>es-reembolso-entrada-evento</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-certificado-siniestralidad.svg" width="44" height="44" alt="Certificado de siniestralidad: ask an insurer for your claims history (Spain)"><br><sub><b>Certificado de siniestralidad: ask an insurer for your claims history (Spain)</b></sub><br><sub><code>es-certificado-siniestralidad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-permiso-subarriendo.svg" width="44" height="44" alt="Permiso de subarriendo: ask the landlord's consent to sublet (Spain)"><br><sub><b>Permiso de subarriendo: ask the landlord's consent to sublet (Spain)</b></sub><br><sub><code>es-permiso-subarriendo</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-autorizacion-excursion.svg" width="44" height="44" alt="Autorización de excursión: let your child go on a school trip (Spain)"><br><sub><b>Autorización de excursión: let your child go on a school trip (Spain)</b></sub><br><sub><code>es-autorizacion-excursion</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/es-certificado-retenciones.svg" width="44" height="44" alt="Certificado de retenciones: ask for your IRPF withholding note (Spain)"><br><sub><b>Certificado de retenciones: ask for your IRPF withholding note (Spain)</b></sub><br><sub><code>es-certificado-retenciones</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-certificado-fiscal-banco.svg" width="44" height="44" alt="Certificado fiscal del banco: get your annual tax statement (Spain)"><br><sub><b>Certificado fiscal del banco: get your annual tax statement (Spain)</b></sub><br><sub><code>es-certificado-fiscal-banco</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-copia-actas-comunidad.svg" width="44" height="44" alt="Copia de actas: ask the owners' association for meeting minutes (Spain)"><br><sub><b>Copia de actas: ask the owners' association for meeting minutes (Spain)</b></sub><br><sub><code>es-copia-actas-comunidad</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-permiso-lactancia.svg" width="44" height="44" alt="Permiso de lactancia: ask for infant care time at work (Spain)"><br><sub><b>Permiso de lactancia: ask for infant care time at work (Spain)</b></sub><br><sub><code>es-permiso-lactancia</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-cancelacion-tarjeta-credito.svg" width="44" height="44" alt="Cancelación de tarjeta de crédito: cancel a credit card (Spain)"><br><sub><b>Cancelación de tarjeta de crédito: cancel a credit card (Spain)</b></sub><br><sub><code>es-cancelacion-tarjeta-credito</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/es-solicitud-vado.svg" width="44" height="44" alt="Vado permanente: ask the council for a garage entrance permit (Spain)"><br><sub><b>Vado permanente: ask the council for a garage entrance permit (Spain)</b></sub><br><sub><code>es-solicitud-vado</code></sub></td>
 </tr>
 </table>
 

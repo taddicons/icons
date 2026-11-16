@@ -1,6 +1,6 @@
 # Small claims and everyday legal
 
-<sub>Taddicons 0.3.0 · Documents & messages · 59 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Plain letters and notes for everyday disputes: getting ready for small claims, settling, mediation, contracts and talking to a lawyer, with no legal advice.
 
@@ -83,6 +83,47 @@ Plain letters and notes for everyday disputes: getting ready for small claims, s
 <td align="center" width="16%"><img src="../svg/mark/court-fee-help-cover-note.svg" width="44" height="44" alt="Cover note for a request for help with court fees"><br><sub><b>Cover note for a request for help with court fees</b></sub><br><sub><code>court-fee-help-cover-note</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/independent-report-request.svg" width="44" height="44" alt="Ask an expert for a written report on a damaged item or job"><br><sub><b>Ask an expert for a written report on a damaged item or job</b></sub><br><sub><code>independent-report-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/court-order-copy-request.svg" width="44" height="44" alt="Ask the court for a copy of an order or judgment"><br><sub><b>Ask the court for a copy of an order or judgment</b></sub><br><sub><code>court-order-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hearing-bundle-cover-letter.svg" width="44" height="44" alt="Send your hearing bundle to the court and the other side"><br><sub><b>Send your hearing bundle to the court and the other side</b></sub><br><sub><code>hearing-bundle-cover-letter</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/missed-instalment-reminder.svg" width="44" height="44" alt="Remind someone they missed a payment under your agreed plan"><br><sub><b>Remind someone they missed a payment under your agreed plan</b></sub><br><sub><code>missed-instalment-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/settlement-call-request.svg" width="44" height="44" alt="Ask the other side for a call to try to settle"><br><sub><b>Ask the other side for a call to try to settle</b></sub><br><sub><code>settlement-call-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/remote-hearing-attendance-request.svg" width="44" height="44" alt="Ask the court if you can attend your hearing by video or phone"><br><sub><b>Ask the court if you can attend your hearing by video or phone</b></sub><br><sub><code>remote-hearing-attendance-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-deadline-diary.svg" width="44" height="44" alt="Keep a list of the dates and deadlines in your claim"><br><sub><b>Keep a list of the dates and deadlines in your claim</b></sub><br><sub><code>claim-deadline-diary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lawyer-acting-notice-to-other-side.svg" width="44" height="44" alt="Tell the other side to contact your lawyer from now on"><br><sub><b>Tell the other side to contact your lawyer from now on</b></sub><br><sub><code>lawyer-acting-notice-to-other-side</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hearing-outcome-notes.svg" width="44" height="44" alt="Write down what was decided at your hearing"><br><sub><b>Write down what was decided at your hearing</b></sub><br><sub><code>hearing-outcome-notes</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/disputed-goods-return-offer.svg" width="44" height="44" alt="Offer to return goods while a dispute is open"><br><sub><b>Offer to return goods while a dispute is open</b></sub><br><sub><code>disputed-goods-return-offer</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/missed-hearing-explanation-letter.svg" width="44" height="44" alt="Explain to the court why you missed a hearing"><br><sub><b>Explain to the court why you missed a hearing</b></sub><br><sub><code>missed-hearing-explanation-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/late-evidence-permission-request.svg" width="44" height="44" alt="Ask the court for permission to send late evidence"><br><sub><b>Ask the court for permission to send late evidence</b></sub><br><sub><code>late-evidence-permission-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-paid-in-full-court-notice.svg" width="44" height="44" alt="Tell the court a claim has now been paid in full"><br><sub><b>Tell the court a claim has now been paid in full</b></sub><br><sub><code>claim-paid-in-full-court-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/photo-evidence-log.svg" width="44" height="44" alt="List of photos you plan to use as claim evidence"><br><sub><b>List of photos you plan to use as claim evidence</b></sub><br><sub><code>photo-evidence-log</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/witness-hearing-dates-check.svg" width="44" height="44" alt="Ask your witness which hearing dates they can make"><br><sub><b>Ask your witness which hearing dates they can make</b></sub><br><sub><code>witness-hearing-dates-check</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/digital-evidence-format-question.svg" width="44" height="44" alt="Ask the court how to send video or audio evidence"><br><sub><b>Ask the court how to send video or audio evidence</b></sub><br><sub><code>digital-evidence-format-question</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-pause-for-talks-proposal.svg" width="44" height="44" alt="Suggest pausing a claim while you try to settle"><br><sub><b>Suggest pausing a claim while you try to settle</b></sub><br><sub><code>claim-pause-for-talks-proposal</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/damaged-item-inspection-invite.svg" width="44" height="44" alt="Invite the other side to look at the damaged item"><br><sub><b>Invite the other side to look at the damaged item</b></sub><br><sub><code>damaged-item-inspection-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hearing-supporter-request.svg" width="44" height="44" alt="Ask the court if a friend can sit with you at the hearing"><br><sub><b>Ask the court if a friend can sit with you at the hearing</b></sub><br><sub><code>hearing-supporter-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/dispute-scheme-referral-notice.svg" width="44" height="44" alt="Tell a trader you are taking the dispute to a dispute scheme"><br><sub><b>Tell a trader you are taking the dispute to a dispute scheme</b></sub><br><sub><code>dispute-scheme-referral-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-name-correction-request.svg" width="44" height="44" alt="Ask the court to correct a name on your claim"><br><sub><b>Ask the court to correct a name on your claim</b></sub><br><sub><code>claim-name-correction-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/expert-report-questions.svg" width="44" height="44" alt="Send written questions to an expert about their report"><br><sub><b>Send written questions to an expert about their report</b></sub><br><sub><code>expert-report-questions</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/personal-loan-repayment-request.svg" width="44" height="44" alt="Ask a friend or relative to repay money you lent"><br><sub><b>Ask a friend or relative to repay money you lent</b></sub><br><sub><code>personal-loan-repayment-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/hearing-recording-copy-request.svg" width="44" height="44" alt="Ask the court for a copy of the hearing recording"><br><sub><b>Ask the court for a copy of the hearing recording</b></sub><br><sub><code>hearing-recording-copy-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/wedding-supplier-no-show-claim-letter.svg" width="44" height="44" alt="Ask for a refund from a wedding supplier who did not turn up"><br><sub><b>Ask for a refund from a wedding supplier who did not turn up</b></sub><br><sub><code>wedding-supplier-no-show-claim-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/marketplace-seller-claim-letter.svg" width="44" height="44" alt="Ask an online marketplace seller for a refund before a claim"><br><sub><b>Ask an online marketplace seller for a refund before a claim</b></sub><br><sub><code>marketplace-seller-claim-letter</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/witness-travel-costs-offer.svg" width="44" height="44" alt="Offer to cover a witness's travel costs for a hearing"><br><sub><b>Offer to cover a witness's travel costs for a hearing</b></sub><br><sub><code>witness-travel-costs-offer</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/claim-part-payment-received-note.svg" width="44" height="44" alt="Confirm you received a part payment and say what is still owed"><br><sub><b>Confirm you received a part payment and say what is still owed</b></sub><br><sub><code>claim-part-payment-received-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-correspondence-log.svg" width="44" height="44" alt="Keep a log of letters and emails sent and received in a dispute"><br><sub><b>Keep a log of letters and emails sent and received in a dispute</b></sub><br><sub><code>claim-correspondence-log</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-letter-proofread-request.svg" width="44" height="44" alt="Ask a friend to check your claim letter is clear before you send it"><br><sub><b>Ask a friend to check your claim letter is clear before you send it</b></sub><br><sub><code>claim-letter-proofread-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-original-documents-return-request.svg" width="44" height="44" alt="Ask for your original documents back after a dispute"><br><sub><b>Ask for your original documents back after a dispute</b></sub><br><sub><code>claim-original-documents-return-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-business-legal-name-request.svg" width="44" height="44" alt="Ask a business for its full legal name and address"><br><sub><b>Ask a business for its full legal name and address</b></sub><br><sub><code>claim-business-legal-name-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/claim-payment-method-note.svg" width="44" height="44" alt="Tell the other side how to pay an agreed amount"><br><sub><b>Tell the other side how to pay an agreed amount</b></sub><br><sub><code>claim-payment-method-note</code></sub></td>
 </tr>
 </table>
 

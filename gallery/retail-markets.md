@@ -1,6 +1,6 @@
 # Shops and market stalls
 
-<sub>Taddicons 0.3.0 · Documents & messages · 62 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Notes for shop owners and stallholders: sales, loyalty, apologies, suppliers, returns, fair applications and shop-local campaigns.
 
@@ -88,6 +88,42 @@ Notes for shop owners and stallholders: sales, loyalty, apologies, suppliers, re
 <tr>
 <td align="center" width="16%"><img src="../svg/mark/stall-booking-cancellation-to-organiser.svg" width="44" height="44" alt="Cancel your market stall booking with the organiser"><br><sub><b>Cancel your market stall booking with the organiser</b></sub><br><sub><code>stall-booking-cancellation-to-organiser</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/item-on-hold-for-customer-reply.svg" width="44" height="44" alt="Tell a customer an item is on hold for them"><br><sub><b>Tell a customer an item is on hold for them</b></sub><br><sub><code>item-on-hold-for-customer-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/price-label-error-reply.svg" width="44" height="44" alt="Reply to a customer about a wrong price on a label"><br><sub><b>Reply to a customer about a wrong price on a label</b></sub><br><sub><code>price-label-error-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/collection-order-delay-message.svg" width="44" height="44" alt="Tell a customer their collection order is delayed"><br><sub><b>Tell a customer their collection order is delayed</b></sub><br><sub><code>collection-order-delay-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/card-payments-only-sign.svg" width="44" height="44" alt="Sign telling customers you take card payments only"><br><sub><b>Sign telling customers you take card payments only</b></sub><br><sub><code>card-payments-only-sign</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/age-restricted-sale-sign.svg" width="44" height="44" alt="Sign telling customers you check age for restricted items"><br><sub><b>Sign telling customers you check age for restricted items</b></sub><br><sub><code>age-restricted-sale-sign</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/retail-shop-cancelled-order-notice.svg" width="44" height="44" alt="Tell a customer the shop has had to cancel their order"><br><sub><b>Tell a customer the shop has had to cancel their order</b></sub><br><sub><code>retail-shop-cancelled-order-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-out-of-hours-delivery-supplier-request.svg" width="44" height="44" alt="Ask a supplier to deliver before your shop opens"><br><sub><b>Ask a supplier to deliver before your shop opens</b></sub><br><sub><code>retail-out-of-hours-delivery-supplier-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-stock-request-reply.svg" width="44" height="44" alt="Reply to a customer who asks you to stock a product"><br><sub><b>Reply to a customer who asks you to stock a product</b></sub><br><sub><code>retail-stock-request-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-stall-neighbour-thanks.svg" width="44" height="44" alt="Thank a neighbouring stallholder for their help on market day"><br><sub><b>Thank a neighbouring stallholder for their help on market day</b></sub><br><sub><code>retail-stall-neighbour-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shop-customer-toilet-sign.svg" width="44" height="44" alt="Sign about customer toilet use in your shop"><br><sub><b>Sign about customer toilet use in your shop</b></sub><br><sub><code>shop-customer-toilet-sign</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shop-dogs-welcome-sign.svg" width="44" height="44" alt="Dogs welcome sign for a shop or stall"><br><sub><b>Dogs welcome sign for a shop or stall</b></sub><br><sub><code>shop-dogs-welcome-sign</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/market-stall-electricity-hookup-request.svg" width="44" height="44" alt="Ask a market organiser for a power supply at your stall"><br><sub><b>Ask a market organiser for a power supply at your stall</b></sub><br><sub><code>market-stall-electricity-hookup-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shop-refit-closure-notice.svg" width="44" height="44" alt="Notice that your shop will close for a refit"><br><sub><b>Notice that your shop will close for a refit</b></sub><br><sub><code>shop-refit-closure-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-customer-survey-ask.svg" width="44" height="44" alt="Ask shop customers to fill in a short survey"><br><sub><b>Ask shop customers to fill in a short survey</b></sub><br><sub><code>retail-customer-survey-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/shop-step-free-access-sign.svg" width="44" height="44" alt="Sign explaining step-free access to your shop"><br><sub><b>Sign explaining step-free access to your shop</b></sub><br><sub><code>shop-step-free-access-sign</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-supplier-new-range-enquiry.svg" width="44" height="44" alt="Ask a supplier about their new product range"><br><sub><b>Ask a supplier about their new product range</b></sub><br><sub><code>retail-supplier-new-range-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-closing-up-checklist.svg" width="44" height="44" alt="End-of-day closing checklist for shop staff"><br><sub><b>End-of-day closing checklist for shop staff</b></sub><br><sub><code>retail-closing-up-checklist</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/market-traders-meeting-notice.svg" width="44" height="44" alt="Notice of a meeting for market traders"><br><sub><b>Notice of a meeting for market traders</b></sub><br><sub><code>market-traders-meeting-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-quiet-shopping-hour-post.svg" width="44" height="44" alt="Announce a quiet shopping hour for customers who prefer a calm shop"><br><sub><b>Announce a quiet shopping hour for customers who prefer a calm shop</b></sub><br><sub><code>retail-quiet-shopping-hour-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-shared-stall-cost-split.svg" width="44" height="44" alt="Agree with another trader how to share a market stall and its costs"><br><sub><b>Agree with another trader how to share a market stall and its costs</b></sub><br><sub><code>retail-shared-stall-cost-split</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-local-maker-stock-approach.svg" width="44" height="44" alt="Ask a local maker if your shop can sell their products"><br><sub><b>Ask a local maker if your shop can sell their products</b></sub><br><sub><code>retail-local-maker-stock-approach</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-mystery-bundle-post.svg" width="44" height="44" alt="Post about a mystery bundle or lucky bag your shop is selling"><br><sub><b>Post about a mystery bundle or lucky bag your shop is selling</b></sub><br><sub><code>retail-mystery-bundle-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-market-traders-litter-reminder.svg" width="44" height="44" alt="Remind market traders to clear their pitch and rubbish at close"><br><sub><b>Remind market traders to clear their pitch and rubbish at close</b></sub><br><sub><code>retail-market-traders-litter-reminder</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/retail-mystery-shopper-feedback-reply.svg" width="44" height="44" alt="Reply to mystery shopper feedback on your shop or stall"><br><sub><b>Reply to mystery shopper feedback on your shop or stall</b></sub><br><sub><code>retail-mystery-shopper-feedback-reply</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-trade-in-offer-post.svg" width="44" height="44" alt="Post about a trade-in offer at your shop"><br><sub><b>Post about a trade-in offer at your shop</b></sub><br><sub><code>retail-trade-in-offer-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-repair-service-launch-post.svg" width="44" height="44" alt="Announce a new repair service at your shop"><br><sub><b>Announce a new repair service at your shop</b></sub><br><sub><code>retail-repair-service-launch-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-loyalty-scheme-ending-notice.svg" width="44" height="44" alt="Tell customers your loyalty scheme is ending"><br><sub><b>Tell customers your loyalty scheme is ending</b></sub><br><sub><code>retail-loyalty-scheme-ending-notice</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-tasting-samples-sign.svg" width="44" height="44" alt="Sign for free food tasting samples at a stall or counter"><br><sub><b>Sign for free food tasting samples at a stall or counter</b></sub><br><sub><code>retail-tasting-samples-sign</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/retail-per-customer-limit-sign.svg" width="44" height="44" alt="Sign limiting how many of an item each customer can buy"><br><sub><b>Sign limiting how many of an item each customer can buy</b></sub><br><sub><code>retail-per-customer-limit-sign</code></sub></td>
 </tr>
 </table>
 

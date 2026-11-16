@@ -1,6 +1,6 @@
 # Student life
 
-<sub>Taddicons 0.3.0 · Documents & messages · 58 icons</sub>
+<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
 
 Everyday letters and messages for students: exams, grades, housing, roommates, internships, money, thesis work and clubs.
 
@@ -82,6 +82,48 @@ Everyday letters and messages for students: exams, grades, housing, roommates, i
 <td align="center" width="16%"><img src="../svg/mark/late-submission-penalty-review.svg" width="44" height="44" alt="Ask for a late work penalty to be looked at again"><br><sub><b>Ask for a late work penalty to be looked at again</b></sub><br><sub><code>late-submission-penalty-review</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/halls-contract-release-request.svg" width="44" height="44" alt="Ask to be released from a student housing contract"><br><sub><b>Ask to be released from a student housing contract</b></sub><br><sub><code>halls-contract-release-request</code></sub></td>
 <td align="center" width="16%"><img src="../svg/mark/lab-equipment-breakage-report.svg" width="44" height="44" alt="Report broken lab or studio equipment"><br><sub><b>Report broken lab or studio equipment</b></sub><br><sub><code>lab-equipment-breakage-report</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/timetable-early-release-request.svg" width="44" height="44" alt="Ask your course office for next term's timetable early"><br><sub><b>Ask your course office for next term's timetable early</b></sub><br><sub><code>timetable-early-release-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/course-reading-list-early-request.svg" width="44" height="44" alt="Ask a lecturer for the reading list before the course starts"><br><sub><b>Ask a lecturer for the reading list before the course starts</b></sub><br><sub><code>course-reading-list-early-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/halls-overnight-guest-request.svg" width="44" height="44" alt="Ask your halls if a guest can stay overnight"><br><sub><b>Ask your halls if a guest can stay overnight</b></sub><br><sub><code>halls-overnight-guest-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-council-tax-exemption-request.svg" width="44" height="44" alt="Ask the council for a student council tax exemption"><br><sub><b>Ask the council for a student council tax exemption</b></sub><br><sub><code>student-council-tax-exemption-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/placement-year-request.svg" width="44" height="44" alt="Ask to add a placement year to your degree"><br><sub><b>Ask to add a placement year to your degree</b></sub><br><sub><code>placement-year-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-deposit-return-request.svg" width="44" height="44" alt="Ask for your student housing deposit back"><br><sub><b>Ask for your student housing deposit back</b></sub><br><sub><code>student-deposit-return-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/study-support-plan-request.svg" width="44" height="44" alt="Ask your university for study support for a disability or condition"><br><sub><b>Ask your university for study support for a disability or condition</b></sub><br><sub><code>study-support-plan-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/tutor-reference-thanks.svg" width="44" height="44" alt="Thank a tutor after they wrote you a reference"><br><sub><b>Thank a tutor after they wrote you a reference</b></sub><br><sub><code>tutor-reference-thanks</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/student-textbook-swap-post.svg" width="44" height="44" alt="Post an offer to swap or sell used course textbooks"><br><sub><b>Post an offer to swap or sell used course textbooks</b></sub><br><sub><code>student-textbook-swap-post</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-peer-mentor-thanks.svg" width="44" height="44" alt="Thank a student peer mentor at the end of the year"><br><sub><b>Thank a student peer mentor at the end of the year</b></sub><br><sub><code>student-peer-mentor-thanks</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-society-fees-reminder.svg" width="44" height="44" alt="Remind society members that membership fees are due"><br><sub><b>Remind society members that membership fees are due</b></sub><br><sub><code>student-society-fees-reminder</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-graduation-day-family-invite.svg" width="44" height="44" alt="Invite family to your graduation day with the plan"><br><sub><b>Invite family to your graduation day with the plan</b></sub><br><sub><code>student-graduation-day-family-invite</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-halls-noise-complaint.svg" width="44" height="44" alt="Complain to halls staff about late-night noise"><br><sub><b>Complain to halls staff about late-night noise</b></sub><br><sub><code>student-halls-noise-complaint</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-printing-credit-request.svg" width="44" height="44" alt="Ask for extra printing credit for coursework"><br><sub><b>Ask for extra printing credit for coursework</b></sub><br><sub><code>student-printing-credit-request</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/student-graduation-gown-hire-query.svg" width="44" height="44" alt="Ask about hiring a gown for your graduation"><br><sub><b>Ask about hiring a gown for your graduation</b></sub><br><sub><code>student-graduation-gown-hire-query</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-society-room-booking-request.svg" width="44" height="44" alt="Book a campus room for a student society event"><br><sub><b>Book a campus room for a student society event</b></sub><br><sub><code>student-society-room-booking-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-alumni-mentor-ask.svg" width="44" height="44" alt="Ask a graduate of your course for career advice"><br><sub><b>Ask a graduate of your course for career advice</b></sub><br><sub><code>student-alumni-mentor-ask</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-sports-team-trial-message.svg" width="44" height="44" alt="Ask to join trials for a university sports team"><br><sub><b>Ask to join trials for a university sports team</b></sub><br><sub><code>student-sports-team-trial-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-volunteer-tutor-application.svg" width="44" height="44" alt="Apply to be a volunteer tutor for younger pupils"><br><sub><b>Apply to be a volunteer tutor for younger pupils</b></sub><br><sub><code>student-volunteer-tutor-application</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-placement-host-thanks.svg" width="44" height="44" alt="Thank the host after a work placement"><br><sub><b>Thank the host after a work placement</b></sub><br><sub><code>student-placement-host-thanks</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/student-course-rep-feedback-summary.svg" width="44" height="44" alt="Course rep summary of student feedback for staff"><br><sub><b>Course rep summary of student feedback for staff</b></sub><br><sub><code>student-course-rep-feedback-summary</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/graduation-thanks-to-family.svg" width="44" height="44" alt="Thank your family for their support when you graduate"><br><sub><b>Thank your family for their support when you graduate</b></sub><br><sub><code>graduation-thanks-to-family</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-flat-viewing-request.svg" width="44" height="44" alt="Ask to view a student flat before you rent it"><br><sub><b>Ask to view a student flat before you rent it</b></sub><br><sub><code>student-flat-viewing-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/lab-out-of-hours-access-request.svg" width="44" height="44" alt="Ask for lab access outside normal hours"><br><sub><b>Ask for lab access outside normal hours</b></sub><br><sub><code>lab-out-of-hours-access-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-laptop-loan-request.svg" width="44" height="44" alt="Ask the university to lend you a laptop"><br><sub><b>Ask the university to lend you a laptop</b></sub><br><sub><code>student-laptop-loan-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/travel-bursary-application.svg" width="44" height="44" alt="Apply for a student travel bursary"><br><sub><b>Apply for a student travel bursary</b></sub><br><sub><code>travel-bursary-application</code></sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><img src="../svg/mark/commuter-student-locker-request.svg" width="44" height="44" alt="Commuter student locker request"><br><sub><b>Commuter student locker request</b></sub><br><sub><code>commuter-student-locker-request</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/graduation-name-pronunciation-note.svg" width="44" height="44" alt="Graduation name pronunciation note"><br><sub><b>Graduation name pronunciation note</b></sub><br><sub><code>graduation-name-pronunciation-note</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-placement-travel-costs-claim.svg" width="44" height="44" alt="Placement travel costs claim"><br><sub><b>Placement travel costs claim</b></sub><br><sub><code>student-placement-travel-costs-claim</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/group-presentation-roles-message.svg" width="44" height="44" alt="Share out roles for a group presentation"><br><sub><b>Share out roles for a group presentation</b></sub><br><sub><code>group-presentation-roles-message</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-results-delay-enquiry.svg" width="44" height="44" alt="Ask why your exam results are late"><br><sub><b>Ask why your exam results are late</b></sub><br><sub><code>student-results-delay-enquiry</code></sub></td>
+<td align="center" width="16%"><img src="../svg/mark/student-sports-kit-loan-request.svg" width="44" height="44" alt="Ask to borrow kit from a university sports club"><br><sub><b>Ask to borrow kit from a university sports club</b></sub><br><sub><code>student-sports-kit-loan-request</code></sub></td>
 </tr>
 </table>
 
