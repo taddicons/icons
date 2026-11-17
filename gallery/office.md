@@ -1,6 +1,6 @@
 # Office & business
 
-<sub>Taddicons 0.3.1 · Business & money · 101 icons</sub>
+<sub>Taddicons 0.3.2 · Business & money · 101 icons</sub>
 
 Work, meetings, desks, goals, hiring and support.
 

@@ -1,6 +1,6 @@
 # Grief and memorial
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Words for loss and remembering: telling people, asking for help, and honouring someone.
 

@@ -1,6 +1,6 @@
 # Faith and ceremonies
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Messages for religious and cultural ceremonies of every tradition, written with respect and without assuming one.
 

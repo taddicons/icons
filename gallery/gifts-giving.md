@@ -1,6 +1,6 @@
 # Gifts and giving
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Notes to go with gifts, thank-yous, kind ways to say no or return a gift, group collections, work gifts and gifts to charity.
 

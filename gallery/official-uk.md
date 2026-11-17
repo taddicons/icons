@@ -1,6 +1,6 @@
 # Official letters, United Kingdom
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 The official letters people in the United Kingdom most often need: tenancy, work, money and tax, insurance and health, consumer rights, authorities and benefits, school and neighbours, written in British English.
 

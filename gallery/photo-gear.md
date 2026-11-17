@@ -1,6 +1,6 @@
 # Photo & studio gear
 
-<sub>Taddicons 0.3.1 · Science, sport & play · 24 icons</sub>
+<sub>Taddicons 0.3.2 · Science, sport & play · 24 icons</sub>
 
 Cameras, lenses, lights and studio kit.
 

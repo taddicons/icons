@@ -1,6 +1,6 @@
 # Tech help for family and seniors
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Notes for asking for tech help, warning relatives about scams, explaining steps simply, reassuring nervous beginners and thanking the people who help.
 

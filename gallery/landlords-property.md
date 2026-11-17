@@ -1,6 +1,6 @@
 # Being a landlord or property manager
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Letters and messages for landlords and property managers, from applicants and rent to repairs, notices, renewals and goodbyes.
 

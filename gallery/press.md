@@ -1,6 +1,6 @@
 # Press and public voice
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Talking to journalists, editors and the public: pitches, corrections, statements and letters to the editor.
 

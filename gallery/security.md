@@ -1,6 +1,6 @@
 # Security & privacy
 
-<sub>Taddicons 0.3.1 · Interface · 94 icons</sub>
+<sub>Taddicons 0.3.2 · Interface · 94 icons</sub>
 
 Shields, locks, keys, identity and protection.
 

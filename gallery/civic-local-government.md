@@ -1,6 +1,6 @@
 # Civic and local government
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Letters, speeches and requests to councillors, councils, libraries, school boards and election helpers, so ordinary people can be heard where they live.
 

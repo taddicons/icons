@@ -1,6 +1,6 @@
 # Workplace for employees
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Time off, pay problems, concerns and complaints, redundancy, and everyday notes to your boss and your colleagues.
 

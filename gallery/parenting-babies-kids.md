@@ -1,6 +1,6 @@
 # Parenting babies and kids
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Notes for sitters, nurseries, teachers, doctors and other parents about the small children in your care, plus house rules and handover logistics.
 

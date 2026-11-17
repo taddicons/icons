@@ -3,6 +3,12 @@
 All notable changes to Taddicons. The project follows [Semantic Versioning](https://semver.org); icon names and
 webfont code points stay the same from one release to the next.
 
+## 0.3.2 (2026-11-17)
+
+Second quality review: 266 icons redrawn. Icons that shared one outline (boxes, houses, phones, calendars) now each have
+their own picture, coins drawn as a ringed circle became coin stacks or banknotes, and icons that looked like another icon
+in the set got a picture of their own. Names and webfont code points are unchanged; still 15,887 icons.
+
 ## 0.3.1 (2026-11-16)
 
 Quality pass and 2,885 new icons: 15,887 outline icons in 177 categories.

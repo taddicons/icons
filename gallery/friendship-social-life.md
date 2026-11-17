@@ -1,6 +1,6 @@
 # Friendship and social life
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Making and changing plans, saying sorry, staying close from far away, hosting, and looking after friendships.
 

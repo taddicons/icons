@@ -1,6 +1,6 @@
 # Buy and sell
 
-<sub>Taddicons 0.3.1 · Documents & messages · 92 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 92 icons</sub>
 
 Listings and messages for selling and buying things online.
 

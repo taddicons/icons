@@ -1,6 +1,6 @@
 # Real estate agents and brokers
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Messages an agent sends to owners, buyers and tenants, from first contact and viewings to offers, hard news and closing day.
 

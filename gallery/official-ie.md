@@ -1,6 +1,6 @@
 # Official letters, Ireland
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 The official letters people in Ireland most often need: tenancy and the RTB, work and the WRC, tax and banks, insurance and health, consumer rights, FOI and data requests, school, family and neighbours, written in Irish English.
 

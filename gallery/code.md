@@ -1,6 +1,6 @@
 # Code & development
 
-<sub>Taddicons 0.3.1 · Interface · 104 icons</sub>
+<sub>Taddicons 0.3.2 · Interface · 104 icons</sub>
 
 Code, terminals, version control, builds and bots.
 

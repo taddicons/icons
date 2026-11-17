@@ -1,6 +1,6 @@
 # Weddings
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 From the engagement to the thank-you: invitations around the day, vendors, speeches and guest messages.
 

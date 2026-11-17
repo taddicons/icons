@@ -1,6 +1,6 @@
 # Event planning professionals
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Messages an event planner sends to clients, venues and vendors, from the first proposal to the post-event report.
 

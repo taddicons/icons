@@ -1,6 +1,6 @@
 # Farming & agriculture
 
-<sub>Taddicons 0.3.1 · World & nature · 53 icons</sub>
+<sub>Taddicons 0.3.2 · World & nature · 53 icons</sub>
 
 Fields, machines, livestock and harvest.
 

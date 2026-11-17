@@ -1,6 +1,6 @@
 # Hobbies and clubs
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Notes, posts and papers for book clubs, choirs, running groups, meetups, swaps, workshops and competitions.
 

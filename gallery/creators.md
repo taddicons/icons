@@ -1,6 +1,6 @@
 # Creators and makers
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Pitches, collaboration asks, sponsor replies and fan messages for people who make things and share them.
 

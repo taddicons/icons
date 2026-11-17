@@ -1,6 +1,6 @@
 # Official letters, Canada
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 The official letters people in Canada most often need: tenancy, work, tax and banks, benefits and privacy, consumer rights, insurance, school and neighbours, written in Canadian English and noting where provinces differ.
 

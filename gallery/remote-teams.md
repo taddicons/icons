@@ -1,6 +1,6 @@
 # Remote work and team coordination
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Clear updates, handoffs, meeting notes and team habits for people who work apart from each other.
 

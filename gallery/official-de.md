@@ -1,6 +1,6 @@
 # Official letters, Germany
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 The official letters people in Germany most often need: tenancy, work, tax and banks, insurance, consumer rights, authorities, family and neighbours, written in correct German.
 

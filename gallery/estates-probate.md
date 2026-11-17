@@ -1,6 +1,6 @@
 # Estates, wills and executors
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Notes and letters for the practical, legal and family tasks that follow a death, from telling providers to clearing a house.
 

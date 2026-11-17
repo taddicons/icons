@@ -1,6 +1,6 @@
 # Family and home
 
-<sub>Taddicons 0.3.1 · Documents & messages · 92 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 92 icons</sub>
 
 Notes, plans and instructions that keep a household running.
 

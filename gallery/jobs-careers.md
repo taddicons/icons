@@ -1,6 +1,6 @@
 # Jobs and careers
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Everything between looking for work and leaving it: outreach, follow-ups, negotiation, references and moves.
 

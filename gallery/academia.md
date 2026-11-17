@@ -1,6 +1,6 @@
 # Academia and research
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Students, supervisors and researchers: requests, extensions, appeals, applications and thanks.
 

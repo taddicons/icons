@@ -1,6 +1,6 @@
 # Official letters, Sweden
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 The official letters people in Sweden most often need: tenancy, work, tax and debts, insurance and health, consumer rights, authorities, school and neighbours, written in correct Swedish.
 

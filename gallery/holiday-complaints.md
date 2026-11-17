@@ -1,6 +1,6 @@
 # Airlines, hotels and holiday complaints
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Letters and messages to put right flight, hotel, package holiday, rental car and cruise problems, and to thank staff who helped.
 

@@ -1,6 +1,6 @@
 # Phone, internet and subscriptions
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 Plans, roaming, bills, outages, number porting, streaming and gym memberships, free trials, price rises, data privacy and moving home services.
 

@@ -1,6 +1,6 @@
 # Official letters, India
 
-<sub>Taddicons 0.3.1 · Documents & messages · 90 icons</sub>
+<sub>Taddicons 0.3.2 · Documents & messages · 90 icons</sub>
 
 The official letters people in India most often need: tenancy, work and provident fund, tax and banks, insurance, consumer complaints, RTI and government records, school and family, and neighbours, in correct Indian English.
 
